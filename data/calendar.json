@@ -1,0 +1,6462 @@
+[
+  {
+    "match_id": "2026_G01_UDI_COM",
+    "giornata": 1,
+    "date_str": "Sat Aug 22 2026 18:30",
+    "home_team": "Udinese",
+    "home_team_code": "UDI",
+    "away_team": "Como",
+    "away_team_code": "COM",
+    "home_score": 1,
+    "away_score": 1,
+    "status": "FINISHED",
+    "difficolta_portieri": {
+      "Udinese": 1,
+      "Como": 1
+    },
+    "season": "2026/2027"
+  },
+  {
+    "match_id": "2026_G01_INT_MON",
+    "giornata": 1,
+    "date_str": "Sat Aug 22 2026 15:00",
+    "home_team": "Inter",
+    "home_team_code": "INT",
+    "away_team": "Monza",
+    "away_team_code": "MON",
+    "home_score": 4,
+    "away_score": 1,
+    "status": "FINISHED",
+    "difficolta_portieri": {
+      "Inter": 1,
+      "Monza": 3
+    },
+    "season": "2026/2027"
+  },
+  {
+    "match_id": "2026_G01_GEN_NAP",
+    "giornata": 1,
+    "date_str": "Sat Aug 22 2026 20:45",
+    "home_team": "Genoa",
+    "home_team_code": "GEN",
+    "away_team": "Napoli",
+    "away_team_code": "NAP",
+    "home_score": 0,
+    "away_score": 2,
+    "status": "FINISHED",
+    "difficolta_portieri": {
+      "Genoa": 3,
+      "Napoli": 1
+    },
+    "season": "2026/2027"
+  },
+  {
+    "match_id": "2026_G01_PAR_CAG",
+    "giornata": 1,
+    "date_str": "Sat Aug 22 2026 15:00",
+    "home_team": "Parma",
+    "home_team_code": "PAR",
+    "away_team": "Cagliari",
+    "away_team_code": "CAG",
+    "home_score": 0,
+    "away_score": 1,
+    "status": "FINISHED",
+    "difficolta_portieri": {
+      "Parma": 1,
+      "Cagliari": 1
+    },
+    "season": "2026/2027"
+  },
+  {
+    "match_id": "2026_G01_EMP_JUV",
+    "giornata": 1,
+    "date_str": "Sun Aug 23 18:30",
+    "home_team": "Empoli",
+    "home_team_code": "EMP",
+    "away_team": "Juventus",
+    "away_team_code": "JUV",
+    "home_score": 0,
+    "away_score": 1,
+    "status": "FINISHED",
+    "difficolta_portieri": {
+      "Empoli": 3,
+      "Juventus": 1
+    },
+    "season": "2026/2027"
+  },
+  {
+    "match_id": "2026_G01_VEN_LEC",
+    "giornata": 1,
+    "date_str": "Sun Aug 23 15:00",
+    "home_team": "Venezia",
+    "home_team_code": "VEN",
+    "away_team": "Lecce",
+    "away_team_code": "LEC",
+    "home_score": 0,
+    "away_score": 2,
+    "status": "FINISHED",
+    "difficolta_portieri": {
+      "Venezia": 1,
+      "Lecce": 1
+    },
+    "season": "2026/2027"
+  },
+  {
+    "match_id": "2026_G01_ATA_VER",
+    "giornata": 1,
+    "date_str": "Sun Aug 23 20:45",
+    "home_team": "Atalanta",
+    "home_team_code": "ATA",
+    "away_team": "Verona",
+    "away_team_code": "VER",
+    "home_score": 2,
+    "away_score": 1,
+    "status": "FINISHED",
+    "difficolta_portieri": {
+      "Atalanta": 1,
+      "Verona": 3
+    },
+    "season": "2026/2027"
+  },
+  {
+    "match_id": "2026_G01_TOR_MIL",
+    "giornata": 1,
+    "date_str": "Sun Aug 23 15:00",
+    "home_team": "Torino",
+    "home_team_code": "TOR",
+    "away_team": "Milan",
+    "away_team_code": "MIL",
+    "home_score": 1,
+    "away_score": 2,
+    "status": "FINISHED",
+    "difficolta_portieri": {
+      "Torino": 3,
+      "Milan": 2
+    },
+    "season": "2026/2027"
+  },
+  {
+    "match_id": "2026_G01_BOL_LAZ",
+    "giornata": 1,
+    "date_str": "Mon Aug 24 18:30",
+    "home_team": "Bologna",
+    "home_team_code": "BOL",
+    "away_team": "Lazio",
+    "away_team_code": "LAZ",
+    "home_score": 0,
+    "away_score": 1,
+    "status": "FINISHED",
+    "difficolta_portieri": {
+      "Bologna": 2,
+      "Lazio": 2
+    },
+    "season": "2026/2027"
+  },
+  {
+    "match_id": "2026_G01_ROM_FIO",
+    "giornata": 1,
+    "date_str": "Mon Aug 24 20:45",
+    "home_team": "Roma",
+    "home_team_code": "ROM",
+    "away_team": "Fiorentina",
+    "away_team_code": "FIO",
+    "home_score": 4,
+    "away_score": 0,
+    "status": "FINISHED",
+    "difficolta_portieri": {
+      "Roma": 2,
+      "Fiorentina": 2
+    },
+    "season": "2026/2027"
+  },
+  {
+    "match_id": "2026_G02_MIL_VEN",
+    "giornata": 2,
+    "date_str": "Fri Aug 28 20:45",
+    "home_team": "Milan",
+    "home_team_code": "MIL",
+    "away_team": "Venezia",
+    "away_team_code": "VEN",
+    "home_score": 2,
+    "away_score": 0,
+    "status": "FINISHED",
+    "difficolta_portieri": {
+      "Milan": 1,
+      "Venezia": 3
+    },
+    "season": "2026/2027"
+  },
+  {
+    "match_id": "2026_G02_VER_TOR",
+    "giornata": 2,
+    "date_str": "Sat Aug 29 18:30",
+    "home_team": "Verona",
+    "home_team_code": "VER",
+    "away_team": "Torino",
+    "away_team_code": "TOR",
+    "home_score": 2,
+    "away_score": 1,
+    "status": "FINISHED",
+    "difficolta_portieri": {
+      "Verona": 2,
+      "Torino": 1
+    },
+    "season": "2026/2027"
+  },
+  {
+    "match_id": "2026_G02_MON_UDI",
+    "giornata": 2,
+    "date_str": "Sat Aug 29 15:00",
+    "home_team": "Monza",
+    "home_team_code": "MON",
+    "away_team": "Udinese",
+    "away_team_code": "UDI",
+    "home_score": 2,
+    "away_score": 3,
+    "status": "FINISHED",
+    "difficolta_portieri": {
+      "Monza": 1,
+      "Udinese": 1
+    },
+    "season": "2026/2027"
+  },
+  {
+    "match_id": "2026_G02_FIO_EMP",
+    "giornata": 2,
+    "date_str": "Sat Aug 29 15:00",
+    "home_team": "Fiorentina",
+    "home_team_code": "FIO",
+    "away_team": "Empoli",
+    "away_team_code": "EMP",
+    "home_score": 0,
+    "away_score": 3,
+    "status": "FINISHED",
+    "difficolta_portieri": {
+      "Fiorentina": 1,
+      "Empoli": 2
+    },
+    "season": "2026/2027"
+  },
+  {
+    "match_id": "2026_G02_JUV_PAR",
+    "giornata": 2,
+    "date_str": "Sat Aug 29 20:45",
+    "home_team": "Juventus",
+    "home_team_code": "JUV",
+    "away_team": "Parma",
+    "away_team_code": "PAR",
+    "home_score": 2,
+    "away_score": 0,
+    "status": "FINISHED",
+    "difficolta_portieri": {
+      "Juventus": 1,
+      "Parma": 3
+    },
+    "season": "2026/2027"
+  },
+  {
+    "match_id": "2026_G02_NAP_COM",
+    "giornata": 2,
+    "date_str": "Sun Aug 30 18:30",
+    "home_team": "Napoli",
+    "home_team_code": "NAP",
+    "away_team": "Como",
+    "away_team_code": "COM",
+    "home_score": 1,
+    "away_score": 2,
+    "status": "FINISHED",
+    "difficolta_portieri": {
+      "Napoli": 1,
+      "Como": 3
+    },
+    "season": "2026/2027"
+  },
+  {
+    "match_id": "2026_G02_LAZ_GEN",
+    "giornata": 2,
+    "date_str": "Sun Aug 30 20:45",
+    "home_team": "Lazio",
+    "home_team_code": "LAZ",
+    "away_team": "Genoa",
+    "away_team_code": "GEN",
+    "home_score": 1,
+    "away_score": 0,
+    "status": "FINISHED",
+    "difficolta_portieri": {
+      "Lazio": 1,
+      "Genoa": 2
+    },
+    "season": "2026/2027"
+  },
+  {
+    "match_id": "2026_G02_CAG_INT",
+    "giornata": 2,
+    "date_str": "Sun Aug 30 15:00",
+    "home_team": "Cagliari",
+    "home_team_code": "CAG",
+    "away_team": "Inter",
+    "away_team_code": "INT",
+    "home_score": 0,
+    "away_score": 1,
+    "status": "FINISHED",
+    "difficolta_portieri": {
+      "Cagliari": 3,
+      "Inter": 1
+    },
+    "season": "2026/2027"
+  },
+  {
+    "match_id": "2026_G02_LEC_ROM",
+    "giornata": 2,
+    "date_str": "Mon Aug 31 18:30",
+    "home_team": "Lecce",
+    "home_team_code": "LEC",
+    "away_team": "Roma",
+    "away_team_code": "ROM",
+    "home_score": 0,
+    "away_score": 4,
+    "status": "FINISHED",
+    "difficolta_portieri": {
+      "Lecce": 2,
+      "Roma": 1
+    },
+    "season": "2026/2027"
+  },
+  {
+    "match_id": "2026_G02_ATA_BOL",
+    "giornata": 2,
+    "date_str": "Mon Aug 31 20:45",
+    "home_team": "Atalanta",
+    "home_team_code": "ATA",
+    "away_team": "Bologna",
+    "away_team_code": "BOL",
+    "home_score": 1,
+    "away_score": 0,
+    "status": "FINISHED",
+    "difficolta_portieri": {
+      "Atalanta": 2,
+      "Bologna": 3
+    },
+    "season": "2026/2027"
+  },
+  {
+    "match_id": "2026_G03_GEN_COM",
+    "giornata": 3,
+    "date_str": "Fri Sep 4 20:45",
+    "home_team": "Genoa",
+    "home_team_code": "GEN",
+    "away_team": "Como",
+    "away_team_code": "COM",
+    "home_score": null,
+    "away_score": null,
+    "status": "SCHEDULED",
+    "difficolta_portieri": {
+      "Genoa": 1,
+      "Como": 1
+    },
+    "season": "2026/2027"
+  },
+  {
+    "match_id": "2026_G03_FIO_TOR",
+    "giornata": 3,
+    "date_str": "Sat Sep 5 15:00",
+    "home_team": "Fiorentina",
+    "home_team_code": "FIO",
+    "away_team": "Torino",
+    "away_team_code": "TOR",
+    "home_score": null,
+    "away_score": null,
+    "status": "SCHEDULED",
+    "difficolta_portieri": {
+      "Fiorentina": 2,
+      "Torino": 2
+    },
+    "season": "2026/2027"
+  },
+  {
+    "match_id": "2026_G03_INT_NAP",
+    "giornata": 3,
+    "date_str": "Sat Sep 5 18:00",
+    "home_team": "Inter",
+    "home_team_code": "INT",
+    "away_team": "Napoli",
+    "away_team_code": "NAP",
+    "home_score": null,
+    "away_score": null,
+    "status": "SCHEDULED",
+    "difficolta_portieri": {
+      "Inter": 3,
+      "Napoli": 3
+    },
+    "season": "2026/2027"
+  },
+  {
+    "match_id": "2026_G03_ROM_ATA",
+    "giornata": 3,
+    "date_str": "Sat Sep 5 20:45",
+    "home_team": "Roma",
+    "home_team_code": "ROM",
+    "away_team": "Atalanta",
+    "away_team_code": "ATA",
+    "home_score": null,
+    "away_score": null,
+    "status": "SCHEDULED",
+    "difficolta_portieri": {
+      "Roma": 3,
+      "Atalanta": 2
+    },
+    "season": "2026/2027"
+  },
+  {
+    "match_id": "2026_G03_PAR_MON",
+    "giornata": 3,
+    "date_str": "Sun Sep 6 15:00",
+    "home_team": "Parma",
+    "home_team_code": "PAR",
+    "away_team": "Monza",
+    "away_team_code": "MON",
+    "home_score": null,
+    "away_score": null,
+    "status": "SCHEDULED",
+    "difficolta_portieri": {
+      "Parma": 1,
+      "Monza": 1
+    },
+    "season": "2026/2027"
+  },
+  {
+    "match_id": "2026_G03_EMP_VEN",
+    "giornata": 3,
+    "date_str": "Sun Sep 6 15:00",
+    "home_team": "Empoli",
+    "home_team_code": "EMP",
+    "away_team": "Venezia",
+    "away_team_code": "VEN",
+    "home_score": null,
+    "away_score": null,
+    "status": "SCHEDULED",
+    "difficolta_portieri": {
+      "Empoli": 1,
+      "Venezia": 1
+    },
+    "season": "2026/2027"
+  },
+  {
+    "match_id": "2026_G03_BOL_VER",
+    "giornata": 3,
+    "date_str": "Sun Sep 6 18:00",
+    "home_team": "Bologna",
+    "home_team_code": "BOL",
+    "away_team": "Verona",
+    "away_team_code": "VER",
+    "home_score": null,
+    "away_score": null,
+    "status": "SCHEDULED",
+    "difficolta_portieri": {
+      "Bologna": 1,
+      "Verona": 2
+    },
+    "season": "2026/2027"
+  },
+  {
+    "match_id": "2026_G03_JUV_MIL",
+    "giornata": 3,
+    "date_str": "Sun Sep 6 20:45",
+    "home_team": "Juventus",
+    "home_team_code": "JUV",
+    "away_team": "Milan",
+    "away_team_code": "MIL",
+    "home_score": null,
+    "away_score": null,
+    "status": "SCHEDULED",
+    "difficolta_portieri": {
+      "Juventus": 3,
+      "Milan": 3
+    },
+    "season": "2026/2027"
+  },
+  {
+    "match_id": "2026_G03_CAG_LEC",
+    "giornata": 3,
+    "date_str": "Mon Sep 7 18:30",
+    "home_team": "Cagliari",
+    "home_team_code": "CAG",
+    "away_team": "Lecce",
+    "away_team_code": "LEC",
+    "home_score": null,
+    "away_score": null,
+    "status": "SCHEDULED",
+    "difficolta_portieri": {
+      "Cagliari": 1,
+      "Lecce": 1
+    },
+    "season": "2026/2027"
+  },
+  {
+    "match_id": "2026_G03_UDI_LAZ",
+    "giornata": 3,
+    "date_str": "Mon Sep 7 20:45",
+    "home_team": "Udinese",
+    "home_team_code": "UDI",
+    "away_team": "Lazio",
+    "away_team_code": "LAZ",
+    "home_score": null,
+    "away_score": null,
+    "status": "SCHEDULED",
+    "difficolta_portieri": {
+      "Udinese": 2,
+      "Lazio": 1
+    },
+    "season": "2026/2027"
+  },
+  {
+    "match_id": "2026_G04_VEN_FIO",
+    "giornata": 4,
+    "date_str": "Fri Sep 11 20:45",
+    "home_team": "Venezia",
+    "home_team_code": "VEN",
+    "away_team": "Fiorentina",
+    "away_team_code": "FIO",
+    "home_score": null,
+    "away_score": null,
+    "status": "SCHEDULED",
+    "difficolta_portieri": {
+      "Venezia": 2,
+      "Fiorentina": 1
+    },
+    "season": "2026/2027"
+  },
+  {
+    "match_id": "2026_G04_GEN_EMP",
+    "giornata": 4,
+    "date_str": "Sat Sep 12 15:00",
+    "home_team": "Genoa",
+    "home_team_code": "GEN",
+    "away_team": "Empoli",
+    "away_team_code": "EMP",
+    "home_score": null,
+    "away_score": null,
+    "status": "SCHEDULED",
+    "difficolta_portieri": {
+      "Genoa": 1,
+      "Empoli": 1
+    },
+    "season": "2026/2027"
+  },
+  {
+    "match_id": "2026_G04_LAZ_MIL",
+    "giornata": 4,
+    "date_str": "Sat Sep 12 18:00",
+    "home_team": "Lazio",
+    "home_team_code": "LAZ",
+    "away_team": "Milan",
+    "away_team_code": "MIL",
+    "home_score": null,
+    "away_score": null,
+    "status": "SCHEDULED",
+    "difficolta_portieri": {
+      "Lazio": 3,
+      "Milan": 2
+    },
+    "season": "2026/2027"
+  },
+  {
+    "match_id": "2026_G04_ATA_CAG",
+    "giornata": 4,
+    "date_str": "Sat Sep 12 20:45",
+    "home_team": "Atalanta",
+    "home_team_code": "ATA",
+    "away_team": "Cagliari",
+    "away_team_code": "CAG",
+    "home_score": null,
+    "away_score": null,
+    "status": "SCHEDULED",
+    "difficolta_portieri": {
+      "Atalanta": 1,
+      "Cagliari": 3
+    },
+    "season": "2026/2027"
+  },
+  {
+    "match_id": "2026_G04_LEC_MON",
+    "giornata": 4,
+    "date_str": "Sun Sep 13 15:00",
+    "home_team": "Lecce",
+    "home_team_code": "LEC",
+    "away_team": "Monza",
+    "away_team_code": "MON",
+    "home_score": null,
+    "away_score": null,
+    "status": "SCHEDULED",
+    "difficolta_portieri": {
+      "Lecce": 1,
+      "Monza": 1
+    },
+    "season": "2026/2027"
+  },
+  {
+    "match_id": "2026_G04_NAP_BOL",
+    "giornata": 4,
+    "date_str": "Sun Sep 13 18:00",
+    "home_team": "Napoli",
+    "home_team_code": "NAP",
+    "away_team": "Bologna",
+    "away_team_code": "BOL",
+    "home_score": null,
+    "away_score": null,
+    "status": "SCHEDULED",
+    "difficolta_portieri": {
+      "Napoli": 2,
+      "Bologna": 3
+    },
+    "season": "2026/2027"
+  },
+  {
+    "match_id": "2026_G04_VER_JUV",
+    "giornata": 4,
+    "date_str": "Sun Sep 13 20:45",
+    "home_team": "Verona",
+    "home_team_code": "VER",
+    "away_team": "Juventus",
+    "away_team_code": "JUV",
+    "home_score": null,
+    "away_score": null,
+    "status": "SCHEDULED",
+    "difficolta_portieri": {
+      "Verona": 3,
+      "Juventus": 1
+    },
+    "season": "2026/2027"
+  },
+  {
+    "match_id": "2026_G04_COM_PAR",
+    "giornata": 4,
+    "date_str": "Mon Sep 14 18:30",
+    "home_team": "Como",
+    "home_team_code": "COM",
+    "away_team": "Parma",
+    "away_team_code": "PAR",
+    "home_score": null,
+    "away_score": null,
+    "status": "SCHEDULED",
+    "difficolta_portieri": {
+      "Como": 1,
+      "Parma": 1
+    },
+    "season": "2026/2027"
+  },
+  {
+    "match_id": "2026_G04_TOR_ROM",
+    "giornata": 4,
+    "date_str": "Mon Sep 14 15:00",
+    "home_team": "Torino",
+    "home_team_code": "TOR",
+    "away_team": "Roma",
+    "away_team_code": "ROM",
+    "home_score": null,
+    "away_score": null,
+    "status": "SCHEDULED",
+    "difficolta_portieri": {
+      "Torino": 2,
+      "Roma": 2
+    },
+    "season": "2026/2027"
+  },
+  {
+    "match_id": "2026_G04_INT_UDI",
+    "giornata": 4,
+    "date_str": "Mon Sep 14 20:45",
+    "home_team": "Inter",
+    "home_team_code": "INT",
+    "away_team": "Udinese",
+    "away_team_code": "UDI",
+    "home_score": null,
+    "away_score": null,
+    "status": "SCHEDULED",
+    "difficolta_portieri": {
+      "Inter": 1,
+      "Udinese": 3
+    },
+    "season": "2026/2027"
+  },
+  {
+    "match_id": "2026_G05_MON_VER",
+    "giornata": 5,
+    "date_str": "Fri Sep 18 20:45",
+    "home_team": "Monza",
+    "home_team_code": "MON",
+    "away_team": "Verona",
+    "away_team_code": "VER",
+    "home_score": null,
+    "away_score": null,
+    "status": "SCHEDULED",
+    "difficolta_portieri": {
+      "Monza": 1,
+      "Verona": 1
+    },
+    "season": "2026/2027"
+  },
+  {
+    "match_id": "2026_G05_BOL_TOR",
+    "giornata": 5,
+    "date_str": "Sat Sep 19 15:00",
+    "home_team": "Bologna",
+    "home_team_code": "BOL",
+    "away_team": "Torino",
+    "away_team_code": "TOR",
+    "home_score": null,
+    "away_score": null,
+    "status": "SCHEDULED",
+    "difficolta_portieri": {
+      "Bologna": 2,
+      "Torino": 2
+    },
+    "season": "2026/2027"
+  },
+  {
+    "match_id": "2026_G05_UDI_CAG",
+    "giornata": 5,
+    "date_str": "Sat Sep 19 15:00",
+    "home_team": "Udinese",
+    "home_team_code": "UDI",
+    "away_team": "Cagliari",
+    "away_team_code": "CAG",
+    "home_score": null,
+    "away_score": null,
+    "status": "SCHEDULED",
+    "difficolta_portieri": {
+      "Udinese": 1,
+      "Cagliari": 1
+    },
+    "season": "2026/2027"
+  },
+  {
+    "match_id": "2026_G05_ROM_INT",
+    "giornata": 5,
+    "date_str": "Sat Sep 19 18:00",
+    "home_team": "Roma",
+    "home_team_code": "ROM",
+    "away_team": "Inter",
+    "away_team_code": "INT",
+    "home_score": null,
+    "away_score": null,
+    "status": "SCHEDULED",
+    "difficolta_portieri": {
+      "Roma": 3,
+      "Inter": 2
+    },
+    "season": "2026/2027"
+  },
+  {
+    "match_id": "2026_G05_VEN_LAZ",
+    "giornata": 5,
+    "date_str": "Sat Sep 19 20:45",
+    "home_team": "Venezia",
+    "home_team_code": "VEN",
+    "away_team": "Lazio",
+    "away_team_code": "LAZ",
+    "home_score": null,
+    "away_score": null,
+    "status": "SCHEDULED",
+    "difficolta_portieri": {
+      "Venezia": 2,
+      "Lazio": 1
+    },
+    "season": "2026/2027"
+  },
+  {
+    "match_id": "2026_G05_FIO_NAP",
+    "giornata": 5,
+    "date_str": "Sun Sep 20 12:30",
+    "home_team": "Fiorentina",
+    "home_team_code": "FIO",
+    "away_team": "Napoli",
+    "away_team_code": "NAP",
+    "home_score": null,
+    "away_score": null,
+    "status": "SCHEDULED",
+    "difficolta_portieri": {
+      "Fiorentina": 3,
+      "Napoli": 2
+    },
+    "season": "2026/2027"
+  },
+  {
+    "match_id": "2026_G05_EMP_COM",
+    "giornata": 5,
+    "date_str": "Sun Sep 20 15:00",
+    "home_team": "Empoli",
+    "home_team_code": "EMP",
+    "away_team": "Como",
+    "away_team_code": "COM",
+    "home_score": null,
+    "away_score": null,
+    "status": "SCHEDULED",
+    "difficolta_portieri": {
+      "Empoli": 1,
+      "Como": 1
+    },
+    "season": "2026/2027"
+  },
+  {
+    "match_id": "2026_G05_PAR_GEN",
+    "giornata": 5,
+    "date_str": "Sun Sep 20 15:00",
+    "home_team": "Parma",
+    "home_team_code": "PAR",
+    "away_team": "Genoa",
+    "away_team_code": "GEN",
+    "home_score": null,
+    "away_score": null,
+    "status": "SCHEDULED",
+    "difficolta_portieri": {
+      "Parma": 1,
+      "Genoa": 1
+    },
+    "season": "2026/2027"
+  },
+  {
+    "match_id": "2026_G05_JUV_ATA",
+    "giornata": 5,
+    "date_str": "Sun Sep 20 18:00",
+    "home_team": "Juventus",
+    "home_team_code": "JUV",
+    "away_team": "Atalanta",
+    "away_team_code": "ATA",
+    "home_score": null,
+    "away_score": null,
+    "status": "SCHEDULED",
+    "difficolta_portieri": {
+      "Juventus": 3,
+      "Atalanta": 3
+    },
+    "season": "2026/2027"
+  },
+  {
+    "match_id": "2026_G05_MIL_LEC",
+    "giornata": 5,
+    "date_str": "Sun Sep 20 20:45",
+    "home_team": "Milan",
+    "home_team_code": "MIL",
+    "away_team": "Lecce",
+    "away_team_code": "LEC",
+    "home_score": null,
+    "away_score": null,
+    "status": "SCHEDULED",
+    "difficolta_portieri": {
+      "Milan": 1,
+      "Lecce": 3
+    },
+    "season": "2026/2027"
+  },
+  {
+    "match_id": "2026_G06_ATA_VEN",
+    "giornata": 6,
+    "date_str": "Sun Oct 11 15:00",
+    "home_team": "Atalanta",
+    "home_team_code": "ATA",
+    "away_team": "Venezia",
+    "away_team_code": "VEN",
+    "home_score": null,
+    "away_score": null,
+    "status": "SCHEDULED",
+    "difficolta_portieri": {
+      "Atalanta": 1,
+      "Venezia": 3
+    },
+    "season": "2026/2027"
+  },
+  {
+    "match_id": "2026_G06_VER_MIL",
+    "giornata": 6,
+    "date_str": "Sun Oct 11 15:00",
+    "home_team": "Verona",
+    "home_team_code": "VER",
+    "away_team": "Milan",
+    "away_team_code": "MIL",
+    "home_score": null,
+    "away_score": null,
+    "status": "SCHEDULED",
+    "difficolta_portieri": {
+      "Verona": 3,
+      "Milan": 1
+    },
+    "season": "2026/2027"
+  },
+  {
+    "match_id": "2026_G06_LEC_BOL",
+    "giornata": 6,
+    "date_str": "Sun Oct 11 15:00",
+    "home_team": "Lecce",
+    "home_team_code": "LEC",
+    "away_team": "Bologna",
+    "away_team_code": "BOL",
+    "home_score": null,
+    "away_score": null,
+    "status": "SCHEDULED",
+    "difficolta_portieri": {
+      "Lecce": 2,
+      "Bologna": 1
+    },
+    "season": "2026/2027"
+  },
+  {
+    "match_id": "2026_G06_INT_PAR",
+    "giornata": 6,
+    "date_str": "Sun Oct 11 15:00",
+    "home_team": "Inter",
+    "home_team_code": "INT",
+    "away_team": "Parma",
+    "away_team_code": "PAR",
+    "home_score": null,
+    "away_score": null,
+    "status": "SCHEDULED",
+    "difficolta_portieri": {
+      "Inter": 1,
+      "Parma": 3
+    },
+    "season": "2026/2027"
+  },
+  {
+    "match_id": "2026_G06_LAZ_MON",
+    "giornata": 6,
+    "date_str": "Sun Oct 11 15:00",
+    "home_team": "Lazio",
+    "home_team_code": "LAZ",
+    "away_team": "Monza",
+    "away_team_code": "MON",
+    "home_score": null,
+    "away_score": null,
+    "status": "SCHEDULED",
+    "difficolta_portieri": {
+      "Lazio": 1,
+      "Monza": 2
+    },
+    "season": "2026/2027"
+  },
+  {
+    "match_id": "2026_G06_CAG_JUV",
+    "giornata": 6,
+    "date_str": "Sun Oct 11 15:00",
+    "home_team": "Cagliari",
+    "home_team_code": "CAG",
+    "away_team": "Juventus",
+    "away_team_code": "JUV",
+    "home_score": null,
+    "away_score": null,
+    "status": "SCHEDULED",
+    "difficolta_portieri": {
+      "Cagliari": 3,
+      "Juventus": 1
+    },
+    "season": "2026/2027"
+  },
+  {
+    "match_id": "2026_G06_COM_ROM",
+    "giornata": 6,
+    "date_str": "Sun Oct 11 15:00",
+    "home_team": "Como",
+    "home_team_code": "COM",
+    "away_team": "Roma",
+    "away_team_code": "ROM",
+    "home_score": null,
+    "away_score": null,
+    "status": "SCHEDULED",
+    "difficolta_portieri": {
+      "Como": 2,
+      "Roma": 1
+    },
+    "season": "2026/2027"
+  },
+  {
+    "match_id": "2026_G06_NAP_EMP",
+    "giornata": 6,
+    "date_str": "Sun Oct 11 15:00",
+    "home_team": "Napoli",
+    "home_team_code": "NAP",
+    "away_team": "Empoli",
+    "away_team_code": "EMP",
+    "home_score": null,
+    "away_score": null,
+    "status": "SCHEDULED",
+    "difficolta_portieri": {
+      "Napoli": 1,
+      "Empoli": 3
+    },
+    "season": "2026/2027"
+  },
+  {
+    "match_id": "2026_G06_TOR_UDI",
+    "giornata": 6,
+    "date_str": "Sun Oct 11 15:00",
+    "home_team": "Torino",
+    "home_team_code": "TOR",
+    "away_team": "Udinese",
+    "away_team_code": "UDI",
+    "home_score": null,
+    "away_score": null,
+    "status": "SCHEDULED",
+    "difficolta_portieri": {
+      "Torino": 1,
+      "Udinese": 2
+    },
+    "season": "2026/2027"
+  },
+  {
+    "match_id": "2026_G06_GEN_FIO",
+    "giornata": 6,
+    "date_str": "Sun Oct 11 15:00",
+    "home_team": "Genoa",
+    "home_team_code": "GEN",
+    "away_team": "Fiorentina",
+    "away_team_code": "FIO",
+    "home_score": null,
+    "away_score": null,
+    "status": "SCHEDULED",
+    "difficolta_portieri": {
+      "Genoa": 2,
+      "Fiorentina": 1
+    },
+    "season": "2026/2027"
+  },
+  {
+    "match_id": "2026_G07_MIL_ATA",
+    "giornata": 7,
+    "date_str": "Sun Oct 18 15:00",
+    "home_team": "Milan",
+    "home_team_code": "MIL",
+    "away_team": "Atalanta",
+    "away_team_code": "ATA",
+    "home_score": null,
+    "away_score": null,
+    "status": "SCHEDULED",
+    "difficolta_portieri": {
+      "Milan": 3,
+      "Atalanta": 3
+    },
+    "season": "2026/2027"
+  },
+  {
+    "match_id": "2026_G07_JUV_LAZ",
+    "giornata": 7,
+    "date_str": "Sun Oct 18 15:00",
+    "home_team": "Juventus",
+    "home_team_code": "JUV",
+    "away_team": "Lazio",
+    "away_team_code": "LAZ",
+    "home_score": null,
+    "away_score": null,
+    "status": "SCHEDULED",
+    "difficolta_portieri": {
+      "Juventus": 2,
+      "Lazio": 3
+    },
+    "season": "2026/2027"
+  },
+  {
+    "match_id": "2026_G07_BOL_INT",
+    "giornata": 7,
+    "date_str": "Sun Oct 18 15:00",
+    "home_team": "Bologna",
+    "home_team_code": "BOL",
+    "away_team": "Inter",
+    "away_team_code": "INT",
+    "home_score": null,
+    "away_score": null,
+    "status": "SCHEDULED",
+    "difficolta_portieri": {
+      "Bologna": 3,
+      "Inter": 2
+    },
+    "season": "2026/2027"
+  },
+  {
+    "match_id": "2026_G07_ROM_GEN",
+    "giornata": 7,
+    "date_str": "Sun Oct 18 15:00",
+    "home_team": "Roma",
+    "home_team_code": "ROM",
+    "away_team": "Genoa",
+    "away_team_code": "GEN",
+    "home_score": null,
+    "away_score": null,
+    "status": "SCHEDULED",
+    "difficolta_portieri": {
+      "Roma": 1,
+      "Genoa": 2
+    },
+    "season": "2026/2027"
+  },
+  {
+    "match_id": "2026_G07_EMP_VER",
+    "giornata": 7,
+    "date_str": "Sun Oct 18 15:00",
+    "home_team": "Empoli",
+    "home_team_code": "EMP",
+    "away_team": "Verona",
+    "away_team_code": "VER",
+    "home_score": null,
+    "away_score": null,
+    "status": "SCHEDULED",
+    "difficolta_portieri": {
+      "Empoli": 1,
+      "Verona": 1
+    },
+    "season": "2026/2027"
+  },
+  {
+    "match_id": "2026_G07_UDI_LEC",
+    "giornata": 7,
+    "date_str": "Sun Oct 18 15:00",
+    "home_team": "Udinese",
+    "home_team_code": "UDI",
+    "away_team": "Lecce",
+    "away_team_code": "LEC",
+    "home_score": null,
+    "away_score": null,
+    "status": "SCHEDULED",
+    "difficolta_portieri": {
+      "Udinese": 1,
+      "Lecce": 1
+    },
+    "season": "2026/2027"
+  },
+  {
+    "match_id": "2026_G07_VEN_NAP",
+    "giornata": 7,
+    "date_str": "Sun Oct 18 15:00",
+    "home_team": "Venezia",
+    "home_team_code": "VEN",
+    "away_team": "Napoli",
+    "away_team_code": "NAP",
+    "home_score": null,
+    "away_score": null,
+    "status": "SCHEDULED",
+    "difficolta_portieri": {
+      "Venezia": 3,
+      "Napoli": 1
+    },
+    "season": "2026/2027"
+  },
+  {
+    "match_id": "2026_G07_MON_CAG",
+    "giornata": 7,
+    "date_str": "Sun Oct 18 15:00",
+    "home_team": "Monza",
+    "home_team_code": "MON",
+    "away_team": "Cagliari",
+    "away_team_code": "CAG",
+    "home_score": null,
+    "away_score": null,
+    "status": "SCHEDULED",
+    "difficolta_portieri": {
+      "Monza": 1,
+      "Cagliari": 1
+    },
+    "season": "2026/2027"
+  },
+  {
+    "match_id": "2026_G07_FIO_COM",
+    "giornata": 7,
+    "date_str": "Sun Oct 18 15:00",
+    "home_team": "Fiorentina",
+    "home_team_code": "FIO",
+    "away_team": "Como",
+    "away_team_code": "COM",
+    "home_score": null,
+    "away_score": null,
+    "status": "SCHEDULED",
+    "difficolta_portieri": {
+      "Fiorentina": 1,
+      "Como": 2
+    },
+    "season": "2026/2027"
+  },
+  {
+    "match_id": "2026_G07_PAR_TOR",
+    "giornata": 7,
+    "date_str": "Sun Oct 18 15:00",
+    "home_team": "Parma",
+    "home_team_code": "PAR",
+    "away_team": "Torino",
+    "away_team_code": "TOR",
+    "home_score": null,
+    "away_score": null,
+    "status": "SCHEDULED",
+    "difficolta_portieri": {
+      "Parma": 2,
+      "Torino": 1
+    },
+    "season": "2026/2027"
+  },
+  {
+    "match_id": "2026_G08_UDI_MIL",
+    "giornata": 8,
+    "date_str": "Sun Oct 25 15:00",
+    "home_team": "Udinese",
+    "home_team_code": "UDI",
+    "away_team": "Milan",
+    "away_team_code": "MIL",
+    "home_score": null,
+    "away_score": null,
+    "status": "SCHEDULED",
+    "difficolta_portieri": {
+      "Udinese": 3,
+      "Milan": 1
+    },
+    "season": "2026/2027"
+  },
+  {
+    "match_id": "2026_G08_CAG_BOL",
+    "giornata": 8,
+    "date_str": "Sun Oct 25 15:00",
+    "home_team": "Cagliari",
+    "home_team_code": "CAG",
+    "away_team": "Bologna",
+    "away_team_code": "BOL",
+    "home_score": null,
+    "away_score": null,
+    "status": "SCHEDULED",
+    "difficolta_portieri": {
+      "Cagliari": 2,
+      "Bologna": 1
+    },
+    "season": "2026/2027"
+  },
+  {
+    "match_id": "2026_G08_COM_VER",
+    "giornata": 8,
+    "date_str": "Sun Oct 25 15:00",
+    "home_team": "Como",
+    "home_team_code": "COM",
+    "away_team": "Verona",
+    "away_team_code": "VER",
+    "home_score": null,
+    "away_score": null,
+    "status": "SCHEDULED",
+    "difficolta_portieri": {
+      "Como": 1,
+      "Verona": 1
+    },
+    "season": "2026/2027"
+  },
+  {
+    "match_id": "2026_G08_ATA_EMP",
+    "giornata": 8,
+    "date_str": "Sun Oct 25 15:00",
+    "home_team": "Atalanta",
+    "home_team_code": "ATA",
+    "away_team": "Empoli",
+    "away_team_code": "EMP",
+    "home_score": null,
+    "away_score": null,
+    "status": "SCHEDULED",
+    "difficolta_portieri": {
+      "Atalanta": 1,
+      "Empoli": 3
+    },
+    "season": "2026/2027"
+  },
+  {
+    "match_id": "2026_G08_INT_FIO",
+    "giornata": 8,
+    "date_str": "Sun Oct 25 15:00",
+    "home_team": "Inter",
+    "home_team_code": "INT",
+    "away_team": "Fiorentina",
+    "away_team_code": "FIO",
+    "home_score": null,
+    "away_score": null,
+    "status": "SCHEDULED",
+    "difficolta_portieri": {
+      "Inter": 2,
+      "Fiorentina": 3
+    },
+    "season": "2026/2027"
+  },
+  {
+    "match_id": "2026_G08_NAP_ROM",
+    "giornata": 8,
+    "date_str": "Sun Oct 25 15:00",
+    "home_team": "Napoli",
+    "home_team_code": "NAP",
+    "away_team": "Roma",
+    "away_team_code": "ROM",
+    "home_score": null,
+    "away_score": null,
+    "status": "SCHEDULED",
+    "difficolta_portieri": {
+      "Napoli": 2,
+      "Roma": 3
+    },
+    "season": "2026/2027"
+  },
+  {
+    "match_id": "2026_G08_LAZ_PAR",
+    "giornata": 8,
+    "date_str": "Sun Oct 25 15:00",
+    "home_team": "Lazio",
+    "home_team_code": "LAZ",
+    "away_team": "Parma",
+    "away_team_code": "PAR",
+    "home_score": null,
+    "away_score": null,
+    "status": "SCHEDULED",
+    "difficolta_portieri": {
+      "Lazio": 1,
+      "Parma": 2
+    },
+    "season": "2026/2027"
+  },
+  {
+    "match_id": "2026_G08_LEC_JUV",
+    "giornata": 8,
+    "date_str": "Sun Oct 25 15:00",
+    "home_team": "Lecce",
+    "home_team_code": "LEC",
+    "away_team": "Juventus",
+    "away_team_code": "JUV",
+    "home_score": null,
+    "away_score": null,
+    "status": "SCHEDULED",
+    "difficolta_portieri": {
+      "Lecce": 3,
+      "Juventus": 1
+    },
+    "season": "2026/2027"
+  },
+  {
+    "match_id": "2026_G08_TOR_MON",
+    "giornata": 8,
+    "date_str": "Sun Oct 25 15:00",
+    "home_team": "Torino",
+    "home_team_code": "TOR",
+    "away_team": "Monza",
+    "away_team_code": "MON",
+    "home_score": null,
+    "away_score": null,
+    "status": "SCHEDULED",
+    "difficolta_portieri": {
+      "Torino": 1,
+      "Monza": 2
+    },
+    "season": "2026/2027"
+  },
+  {
+    "match_id": "2026_G08_GEN_VEN",
+    "giornata": 8,
+    "date_str": "Sun Oct 25 15:00",
+    "home_team": "Genoa",
+    "home_team_code": "GEN",
+    "away_team": "Venezia",
+    "away_team_code": "VEN",
+    "home_score": null,
+    "away_score": null,
+    "status": "SCHEDULED",
+    "difficolta_portieri": {
+      "Genoa": 1,
+      "Venezia": 1
+    },
+    "season": "2026/2027"
+  },
+  {
+    "match_id": "2026_G09_MIL_BOL",
+    "giornata": 9,
+    "date_str": "Wed Oct 28 15:00",
+    "home_team": "Milan",
+    "home_team_code": "MIL",
+    "away_team": "Bologna",
+    "away_team_code": "BOL",
+    "home_score": null,
+    "away_score": null,
+    "status": "SCHEDULED",
+    "difficolta_portieri": {
+      "Milan": 2,
+      "Bologna": 3
+    },
+    "season": "2026/2027"
+  },
+  {
+    "match_id": "2026_G09_VEN_INT",
+    "giornata": 9,
+    "date_str": "Wed Oct 28 15:00",
+    "home_team": "Venezia",
+    "home_team_code": "VEN",
+    "away_team": "Inter",
+    "away_team_code": "INT",
+    "home_score": null,
+    "away_score": null,
+    "status": "SCHEDULED",
+    "difficolta_portieri": {
+      "Venezia": 3,
+      "Inter": 1
+    },
+    "season": "2026/2027"
+  },
+  {
+    "match_id": "2026_G09_FIO_ATA",
+    "giornata": 9,
+    "date_str": "Wed Oct 28 15:00",
+    "home_team": "Fiorentina",
+    "home_team_code": "FIO",
+    "away_team": "Atalanta",
+    "away_team_code": "ATA",
+    "home_score": null,
+    "away_score": null,
+    "status": "SCHEDULED",
+    "difficolta_portieri": {
+      "Fiorentina": 3,
+      "Atalanta": 2
+    },
+    "season": "2026/2027"
+  },
+  {
+    "match_id": "2026_G09_GEN_JUV",
+    "giornata": 9,
+    "date_str": "Wed Oct 28 15:00",
+    "home_team": "Genoa",
+    "home_team_code": "GEN",
+    "away_team": "Juventus",
+    "away_team_code": "JUV",
+    "home_score": null,
+    "away_score": null,
+    "status": "SCHEDULED",
+    "difficolta_portieri": {
+      "Genoa": 3,
+      "Juventus": 1
+    },
+    "season": "2026/2027"
+  },
+  {
+    "match_id": "2026_G09_PAR_UDI",
+    "giornata": 9,
+    "date_str": "Wed Oct 28 15:00",
+    "home_team": "Parma",
+    "home_team_code": "PAR",
+    "away_team": "Udinese",
+    "away_team_code": "UDI",
+    "home_score": null,
+    "away_score": null,
+    "status": "SCHEDULED",
+    "difficolta_portieri": {
+      "Parma": 1,
+      "Udinese": 1
+    },
+    "season": "2026/2027"
+  },
+  {
+    "match_id": "2026_G09_MON_NAP",
+    "giornata": 9,
+    "date_str": "Wed Oct 28 15:00",
+    "home_team": "Monza",
+    "home_team_code": "MON",
+    "away_team": "Napoli",
+    "away_team_code": "NAP",
+    "home_score": null,
+    "away_score": null,
+    "status": "SCHEDULED",
+    "difficolta_portieri": {
+      "Monza": 3,
+      "Napoli": 1
+    },
+    "season": "2026/2027"
+  },
+  {
+    "match_id": "2026_G09_ROM_CAG",
+    "giornata": 9,
+    "date_str": "Wed Oct 28 15:00",
+    "home_team": "Roma",
+    "home_team_code": "ROM",
+    "away_team": "Cagliari",
+    "away_team_code": "CAG",
+    "home_score": null,
+    "away_score": null,
+    "status": "SCHEDULED",
+    "difficolta_portieri": {
+      "Roma": 1,
+      "Cagliari": 2
+    },
+    "season": "2026/2027"
+  },
+  {
+    "match_id": "2026_G09_VER_LAZ",
+    "giornata": 9,
+    "date_str": "Wed Oct 28 15:00",
+    "home_team": "Verona",
+    "home_team_code": "VER",
+    "away_team": "Lazio",
+    "away_team_code": "LAZ",
+    "home_score": null,
+    "away_score": null,
+    "status": "SCHEDULED",
+    "difficolta_portieri": {
+      "Verona": 2,
+      "Lazio": 1
+    },
+    "season": "2026/2027"
+  },
+  {
+    "match_id": "2026_G09_TOR_COM",
+    "giornata": 9,
+    "date_str": "Wed Oct 28 15:00",
+    "home_team": "Torino",
+    "home_team_code": "TOR",
+    "away_team": "Como",
+    "away_team_code": "COM",
+    "home_score": null,
+    "away_score": null,
+    "status": "SCHEDULED",
+    "difficolta_portieri": {
+      "Torino": 1,
+      "Como": 2
+    },
+    "season": "2026/2027"
+  },
+  {
+    "match_id": "2026_G09_EMP_LEC",
+    "giornata": 9,
+    "date_str": "Wed Oct 28 15:00",
+    "home_team": "Empoli",
+    "home_team_code": "EMP",
+    "away_team": "Lecce",
+    "away_team_code": "LEC",
+    "home_score": null,
+    "away_score": null,
+    "status": "SCHEDULED",
+    "difficolta_portieri": {
+      "Empoli": 1,
+      "Lecce": 1
+    },
+    "season": "2026/2027"
+  },
+  {
+    "match_id": "2026_G10_BOL_MON",
+    "giornata": 10,
+    "date_str": "Sun Nov 1 15:00",
+    "home_team": "Bologna",
+    "home_team_code": "BOL",
+    "away_team": "Monza",
+    "away_team_code": "MON",
+    "home_score": null,
+    "away_score": null,
+    "status": "SCHEDULED",
+    "difficolta_portieri": {
+      "Bologna": 1,
+      "Monza": 2
+    },
+    "season": "2026/2027"
+  },
+  {
+    "match_id": "2026_G10_LEC_GEN",
+    "giornata": 10,
+    "date_str": "Sun Nov 1 15:00",
+    "home_team": "Lecce",
+    "home_team_code": "LEC",
+    "away_team": "Genoa",
+    "away_team_code": "GEN",
+    "home_score": null,
+    "away_score": null,
+    "status": "SCHEDULED",
+    "difficolta_portieri": {
+      "Lecce": 1,
+      "Genoa": 1
+    },
+    "season": "2026/2027"
+  },
+  {
+    "match_id": "2026_G10_VER_FIO",
+    "giornata": 10,
+    "date_str": "Sun Nov 1 15:00",
+    "home_team": "Verona",
+    "home_team_code": "VER",
+    "away_team": "Fiorentina",
+    "away_team_code": "FIO",
+    "home_score": null,
+    "away_score": null,
+    "status": "SCHEDULED",
+    "difficolta_portieri": {
+      "Verona": 2,
+      "Fiorentina": 1
+    },
+    "season": "2026/2027"
+  },
+  {
+    "match_id": "2026_G10_UDI_ROM",
+    "giornata": 10,
+    "date_str": "Sun Nov 1 15:00",
+    "home_team": "Udinese",
+    "home_team_code": "UDI",
+    "away_team": "Roma",
+    "away_team_code": "ROM",
+    "home_score": null,
+    "away_score": null,
+    "status": "SCHEDULED",
+    "difficolta_portieri": {
+      "Udinese": 2,
+      "Roma": 1
+    },
+    "season": "2026/2027"
+  },
+  {
+    "match_id": "2026_G10_COM_VEN",
+    "giornata": 10,
+    "date_str": "Sun Nov 1 15:00",
+    "home_team": "Como",
+    "home_team_code": "COM",
+    "away_team": "Venezia",
+    "away_team_code": "VEN",
+    "home_score": null,
+    "away_score": null,
+    "status": "SCHEDULED",
+    "difficolta_portieri": {
+      "Como": 1,
+      "Venezia": 1
+    },
+    "season": "2026/2027"
+  },
+  {
+    "match_id": "2026_G10_EMP_TOR",
+    "giornata": 10,
+    "date_str": "Sun Nov 1 15:00",
+    "home_team": "Empoli",
+    "home_team_code": "EMP",
+    "away_team": "Torino",
+    "away_team_code": "TOR",
+    "home_score": null,
+    "away_score": null,
+    "status": "SCHEDULED",
+    "difficolta_portieri": {
+      "Empoli": 2,
+      "Torino": 1
+    },
+    "season": "2026/2027"
+  },
+  {
+    "match_id": "2026_G10_ATA_PAR",
+    "giornata": 10,
+    "date_str": "Sun Nov 1 15:00",
+    "home_team": "Atalanta",
+    "home_team_code": "ATA",
+    "away_team": "Parma",
+    "away_team_code": "PAR",
+    "home_score": null,
+    "away_score": null,
+    "status": "SCHEDULED",
+    "difficolta_portieri": {
+      "Atalanta": 1,
+      "Parma": 3
+    },
+    "season": "2026/2027"
+  },
+  {
+    "match_id": "2026_G10_LAZ_CAG",
+    "giornata": 10,
+    "date_str": "Sun Nov 1 15:00",
+    "home_team": "Lazio",
+    "home_team_code": "LAZ",
+    "away_team": "Cagliari",
+    "away_team_code": "CAG",
+    "home_score": null,
+    "away_score": null,
+    "status": "SCHEDULED",
+    "difficolta_portieri": {
+      "Lazio": 1,
+      "Cagliari": 2
+    },
+    "season": "2026/2027"
+  },
+  {
+    "match_id": "2026_G10_JUV_NAP",
+    "giornata": 10,
+    "date_str": "Sun Nov 1 15:00",
+    "home_team": "Juventus",
+    "home_team_code": "JUV",
+    "away_team": "Napoli",
+    "away_team_code": "NAP",
+    "home_score": null,
+    "away_score": null,
+    "status": "SCHEDULED",
+    "difficolta_portieri": {
+      "Juventus": 3,
+      "Napoli": 3
+    },
+    "season": "2026/2027"
+  },
+  {
+    "match_id": "2026_G10_MIL_INT",
+    "giornata": 10,
+    "date_str": "Sun Nov 1 15:00",
+    "home_team": "Milan",
+    "home_team_code": "MIL",
+    "away_team": "Inter",
+    "away_team_code": "INT",
+    "home_score": null,
+    "away_score": null,
+    "status": "SCHEDULED",
+    "difficolta_portieri": {
+      "Milan": 3,
+      "Inter": 3
+    },
+    "season": "2026/2027"
+  },
+  {
+    "match_id": "2026_G11_FIO_JUV",
+    "giornata": 11,
+    "date_str": "Sun Nov 8 15:00",
+    "home_team": "Fiorentina",
+    "home_team_code": "FIO",
+    "away_team": "Juventus",
+    "away_team_code": "JUV",
+    "home_score": null,
+    "away_score": null,
+    "status": "SCHEDULED",
+    "difficolta_portieri": {
+      "Fiorentina": 3,
+      "Juventus": 2
+    },
+    "season": "2026/2027"
+  },
+  {
+    "match_id": "2026_G11_INT_COM",
+    "giornata": 11,
+    "date_str": "Sun Nov 8 15:00",
+    "home_team": "Inter",
+    "home_team_code": "INT",
+    "away_team": "Como",
+    "away_team_code": "COM",
+    "home_score": null,
+    "away_score": null,
+    "status": "SCHEDULED",
+    "difficolta_portieri": {
+      "Inter": 1,
+      "Como": 3
+    },
+    "season": "2026/2027"
+  },
+  {
+    "match_id": "2026_G11_ROM_VER",
+    "giornata": 11,
+    "date_str": "Sun Nov 8 15:00",
+    "home_team": "Roma",
+    "home_team_code": "ROM",
+    "away_team": "Verona",
+    "away_team_code": "VER",
+    "home_score": null,
+    "away_score": null,
+    "status": "SCHEDULED",
+    "difficolta_portieri": {
+      "Roma": 1,
+      "Verona": 2
+    },
+    "season": "2026/2027"
+  },
+  {
+    "match_id": "2026_G11_TOR_LEC",
+    "giornata": 11,
+    "date_str": "Sun Nov 8 15:00",
+    "home_team": "Torino",
+    "home_team_code": "TOR",
+    "away_team": "Lecce",
+    "away_team_code": "LEC",
+    "home_score": null,
+    "away_score": null,
+    "status": "SCHEDULED",
+    "difficolta_portieri": {
+      "Torino": 1,
+      "Lecce": 2
+    },
+    "season": "2026/2027"
+  },
+  {
+    "match_id": "2026_G11_NAP_LAZ",
+    "giornata": 11,
+    "date_str": "Sun Nov 8 15:00",
+    "home_team": "Napoli",
+    "home_team_code": "NAP",
+    "away_team": "Lazio",
+    "away_team_code": "LAZ",
+    "home_score": null,
+    "away_score": null,
+    "status": "SCHEDULED",
+    "difficolta_portieri": {
+      "Napoli": 2,
+      "Lazio": 3
+    },
+    "season": "2026/2027"
+  },
+  {
+    "match_id": "2026_G11_CAG_EMP",
+    "giornata": 11,
+    "date_str": "Sun Nov 8 15:00",
+    "home_team": "Cagliari",
+    "home_team_code": "CAG",
+    "away_team": "Empoli",
+    "away_team_code": "EMP",
+    "home_score": null,
+    "away_score": null,
+    "status": "SCHEDULED",
+    "difficolta_portieri": {
+      "Cagliari": 1,
+      "Empoli": 1
+    },
+    "season": "2026/2027"
+  },
+  {
+    "match_id": "2026_G11_PAR_BOL",
+    "giornata": 11,
+    "date_str": "Sun Nov 8 15:00",
+    "home_team": "Parma",
+    "home_team_code": "PAR",
+    "away_team": "Bologna",
+    "away_team_code": "BOL",
+    "home_score": null,
+    "away_score": null,
+    "status": "SCHEDULED",
+    "difficolta_portieri": {
+      "Parma": 2,
+      "Bologna": 1
+    },
+    "season": "2026/2027"
+  },
+  {
+    "match_id": "2026_G11_GEN_MIL",
+    "giornata": 11,
+    "date_str": "Sun Nov 8 15:00",
+    "home_team": "Genoa",
+    "home_team_code": "GEN",
+    "away_team": "Milan",
+    "away_team_code": "MIL",
+    "home_score": null,
+    "away_score": null,
+    "status": "SCHEDULED",
+    "difficolta_portieri": {
+      "Genoa": 3,
+      "Milan": 1
+    },
+    "season": "2026/2027"
+  },
+  {
+    "match_id": "2026_G11_VEN_UDI",
+    "giornata": 11,
+    "date_str": "Sun Nov 8 15:00",
+    "home_team": "Venezia",
+    "home_team_code": "VEN",
+    "away_team": "Udinese",
+    "away_team_code": "UDI",
+    "home_score": null,
+    "away_score": null,
+    "status": "SCHEDULED",
+    "difficolta_portieri": {
+      "Venezia": 1,
+      "Udinese": 1
+    },
+    "season": "2026/2027"
+  },
+  {
+    "match_id": "2026_G11_MON_ATA",
+    "giornata": 11,
+    "date_str": "Sun Nov 8 15:00",
+    "home_team": "Monza",
+    "home_team_code": "MON",
+    "away_team": "Atalanta",
+    "away_team_code": "ATA",
+    "home_score": null,
+    "away_score": null,
+    "status": "SCHEDULED",
+    "difficolta_portieri": {
+      "Monza": 3,
+      "Atalanta": 1
+    },
+    "season": "2026/2027"
+  },
+  {
+    "match_id": "2026_G12_MON_FIO",
+    "giornata": 12,
+    "date_str": "Sun Nov 22 15:00",
+    "home_team": "Monza",
+    "home_team_code": "MON",
+    "away_team": "Fiorentina",
+    "away_team_code": "FIO",
+    "home_score": null,
+    "away_score": null,
+    "status": "SCHEDULED",
+    "difficolta_portieri": {
+      "Monza": 2,
+      "Fiorentina": 1
+    },
+    "season": "2026/2027"
+  },
+  {
+    "match_id": "2026_G12_ATA_INT",
+    "giornata": 12,
+    "date_str": "Sun Nov 22 15:00",
+    "home_team": "Atalanta",
+    "home_team_code": "ATA",
+    "away_team": "Inter",
+    "away_team_code": "INT",
+    "home_score": null,
+    "away_score": null,
+    "status": "SCHEDULED",
+    "difficolta_portieri": {
+      "Atalanta": 3,
+      "Inter": 3
+    },
+    "season": "2026/2027"
+  },
+  {
+    "match_id": "2026_G12_JUV_VEN",
+    "giornata": 12,
+    "date_str": "Sun Nov 22 15:00",
+    "home_team": "Juventus",
+    "home_team_code": "JUV",
+    "away_team": "Venezia",
+    "away_team_code": "VEN",
+    "home_score": null,
+    "away_score": null,
+    "status": "SCHEDULED",
+    "difficolta_portieri": {
+      "Juventus": 1,
+      "Venezia": 3
+    },
+    "season": "2026/2027"
+  },
+  {
+    "match_id": "2026_G12_BOL_UDI",
+    "giornata": 12,
+    "date_str": "Sun Nov 22 15:00",
+    "home_team": "Bologna",
+    "home_team_code": "BOL",
+    "away_team": "Udinese",
+    "away_team_code": "UDI",
+    "home_score": null,
+    "away_score": null,
+    "status": "SCHEDULED",
+    "difficolta_portieri": {
+      "Bologna": 1,
+      "Udinese": 2
+    },
+    "season": "2026/2027"
+  },
+  {
+    "match_id": "2026_G12_MIL_EMP",
+    "giornata": 12,
+    "date_str": "Sun Nov 22 15:00",
+    "home_team": "Milan",
+    "home_team_code": "MIL",
+    "away_team": "Empoli",
+    "away_team_code": "EMP",
+    "home_score": null,
+    "away_score": null,
+    "status": "SCHEDULED",
+    "difficolta_portieri": {
+      "Milan": 1,
+      "Empoli": 3
+    },
+    "season": "2026/2027"
+  },
+  {
+    "match_id": "2026_G12_VER_GEN",
+    "giornata": 12,
+    "date_str": "Sun Nov 22 15:00",
+    "home_team": "Verona",
+    "home_team_code": "VER",
+    "away_team": "Genoa",
+    "away_team_code": "GEN",
+    "home_score": null,
+    "away_score": null,
+    "status": "SCHEDULED",
+    "difficolta_portieri": {
+      "Verona": 1,
+      "Genoa": 1
+    },
+    "season": "2026/2027"
+  },
+  {
+    "match_id": "2026_G12_COM_CAG",
+    "giornata": 12,
+    "date_str": "Sun Nov 22 15:00",
+    "home_team": "Como",
+    "home_team_code": "COM",
+    "away_team": "Cagliari",
+    "away_team_code": "CAG",
+    "home_score": null,
+    "away_score": null,
+    "status": "SCHEDULED",
+    "difficolta_portieri": {
+      "Como": 1,
+      "Cagliari": 1
+    },
+    "season": "2026/2027"
+  },
+  {
+    "match_id": "2026_G12_PAR_ROM",
+    "giornata": 12,
+    "date_str": "Sun Nov 22 15:00",
+    "home_team": "Parma",
+    "home_team_code": "PAR",
+    "away_team": "Roma",
+    "away_team_code": "ROM",
+    "home_score": null,
+    "away_score": null,
+    "status": "SCHEDULED",
+    "difficolta_portieri": {
+      "Parma": 2,
+      "Roma": 1
+    },
+    "season": "2026/2027"
+  },
+  {
+    "match_id": "2026_G12_NAP_TOR",
+    "giornata": 12,
+    "date_str": "Sun Nov 22 15:00",
+    "home_team": "Napoli",
+    "home_team_code": "NAP",
+    "away_team": "Torino",
+    "away_team_code": "TOR",
+    "home_score": null,
+    "away_score": null,
+    "status": "SCHEDULED",
+    "difficolta_portieri": {
+      "Napoli": 2,
+      "Torino": 3
+    },
+    "season": "2026/2027"
+  },
+  {
+    "match_id": "2026_G12_LAZ_LEC",
+    "giornata": 12,
+    "date_str": "Sun Nov 22 15:00",
+    "home_team": "Lazio",
+    "home_team_code": "LAZ",
+    "away_team": "Lecce",
+    "away_team_code": "LEC",
+    "home_score": null,
+    "away_score": null,
+    "status": "SCHEDULED",
+    "difficolta_portieri": {
+      "Lazio": 1,
+      "Lecce": 2
+    },
+    "season": "2026/2027"
+  },
+  {
+    "match_id": "2026_G13_VER_NAP",
+    "giornata": 13,
+    "date_str": "Sun Nov 29 15:00",
+    "home_team": "Verona",
+    "home_team_code": "VER",
+    "away_team": "Napoli",
+    "away_team_code": "NAP",
+    "home_score": null,
+    "away_score": null,
+    "status": "SCHEDULED",
+    "difficolta_portieri": {
+      "Verona": 3,
+      "Napoli": 1
+    },
+    "season": "2026/2027"
+  },
+  {
+    "match_id": "2026_G13_CAG_MIL",
+    "giornata": 13,
+    "date_str": "Sun Nov 29 15:00",
+    "home_team": "Cagliari",
+    "home_team_code": "CAG",
+    "away_team": "Milan",
+    "away_team_code": "MIL",
+    "home_score": null,
+    "away_score": null,
+    "status": "SCHEDULED",
+    "difficolta_portieri": {
+      "Cagliari": 3,
+      "Milan": 1
+    },
+    "season": "2026/2027"
+  },
+  {
+    "match_id": "2026_G13_COM_JUV",
+    "giornata": 13,
+    "date_str": "Sun Nov 29 15:00",
+    "home_team": "Como",
+    "home_team_code": "COM",
+    "away_team": "Juventus",
+    "away_team_code": "JUV",
+    "home_score": null,
+    "away_score": null,
+    "status": "SCHEDULED",
+    "difficolta_portieri": {
+      "Como": 3,
+      "Juventus": 1
+    },
+    "season": "2026/2027"
+  },
+  {
+    "match_id": "2026_G13_ROM_MON",
+    "giornata": 13,
+    "date_str": "Sun Nov 29 15:00",
+    "home_team": "Roma",
+    "home_team_code": "ROM",
+    "away_team": "Monza",
+    "away_team_code": "MON",
+    "home_score": null,
+    "away_score": null,
+    "status": "SCHEDULED",
+    "difficolta_portieri": {
+      "Roma": 1,
+      "Monza": 2
+    },
+    "season": "2026/2027"
+  },
+  {
+    "match_id": "2026_G13_EMP_PAR",
+    "giornata": 13,
+    "date_str": "Sun Nov 29 15:00",
+    "home_team": "Empoli",
+    "home_team_code": "EMP",
+    "away_team": "Parma",
+    "away_team_code": "PAR",
+    "home_score": null,
+    "away_score": null,
+    "status": "SCHEDULED",
+    "difficolta_portieri": {
+      "Empoli": 1,
+      "Parma": 1
+    },
+    "season": "2026/2027"
+  },
+  {
+    "match_id": "2026_G13_TOR_LAZ",
+    "giornata": 13,
+    "date_str": "Sun Nov 29 15:00",
+    "home_team": "Torino",
+    "home_team_code": "TOR",
+    "away_team": "Lazio",
+    "away_team_code": "LAZ",
+    "home_score": null,
+    "away_score": null,
+    "status": "SCHEDULED",
+    "difficolta_portieri": {
+      "Torino": 2,
+      "Lazio": 2
+    },
+    "season": "2026/2027"
+  },
+  {
+    "match_id": "2026_G13_VEN_BOL",
+    "giornata": 13,
+    "date_str": "Sun Nov 29 15:00",
+    "home_team": "Venezia",
+    "home_team_code": "VEN",
+    "away_team": "Bologna",
+    "away_team_code": "BOL",
+    "home_score": null,
+    "away_score": null,
+    "status": "SCHEDULED",
+    "difficolta_portieri": {
+      "Venezia": 2,
+      "Bologna": 1
+    },
+    "season": "2026/2027"
+  },
+  {
+    "match_id": "2026_G13_LEC_ATA",
+    "giornata": 13,
+    "date_str": "Sun Nov 29 15:00",
+    "home_team": "Lecce",
+    "home_team_code": "LEC",
+    "away_team": "Atalanta",
+    "away_team_code": "ATA",
+    "home_score": null,
+    "away_score": null,
+    "status": "SCHEDULED",
+    "difficolta_portieri": {
+      "Lecce": 3,
+      "Atalanta": 1
+    },
+    "season": "2026/2027"
+  },
+  {
+    "match_id": "2026_G13_UDI_FIO",
+    "giornata": 13,
+    "date_str": "Sun Nov 29 15:00",
+    "home_team": "Udinese",
+    "home_team_code": "UDI",
+    "away_team": "Fiorentina",
+    "away_team_code": "FIO",
+    "home_score": null,
+    "away_score": null,
+    "status": "SCHEDULED",
+    "difficolta_portieri": {
+      "Udinese": 2,
+      "Fiorentina": 1
+    },
+    "season": "2026/2027"
+  },
+  {
+    "match_id": "2026_G13_INT_GEN",
+    "giornata": 13,
+    "date_str": "Sun Nov 29 15:00",
+    "home_team": "Inter",
+    "home_team_code": "INT",
+    "away_team": "Genoa",
+    "away_team_code": "GEN",
+    "home_score": null,
+    "away_score": null,
+    "status": "SCHEDULED",
+    "difficolta_portieri": {
+      "Inter": 1,
+      "Genoa": 3
+    },
+    "season": "2026/2027"
+  },
+  {
+    "match_id": "2026_G14_GEN_TOR",
+    "giornata": 14,
+    "date_str": "Sun Dec 6 15:00",
+    "home_team": "Genoa",
+    "home_team_code": "GEN",
+    "away_team": "Torino",
+    "away_team_code": "TOR",
+    "home_score": null,
+    "away_score": null,
+    "status": "SCHEDULED",
+    "difficolta_portieri": {
+      "Genoa": 2,
+      "Torino": 1
+    },
+    "season": "2026/2027"
+  },
+  {
+    "match_id": "2026_G14_JUV_UDI",
+    "giornata": 14,
+    "date_str": "Sun Dec 6 15:00",
+    "home_team": "Juventus",
+    "home_team_code": "JUV",
+    "away_team": "Udinese",
+    "away_team_code": "UDI",
+    "home_score": null,
+    "away_score": null,
+    "status": "SCHEDULED",
+    "difficolta_portieri": {
+      "Juventus": 1,
+      "Udinese": 3
+    },
+    "season": "2026/2027"
+  },
+  {
+    "match_id": "2026_G14_EMP_INT",
+    "giornata": 14,
+    "date_str": "Sun Dec 6 15:00",
+    "home_team": "Empoli",
+    "home_team_code": "EMP",
+    "away_team": "Inter",
+    "away_team_code": "INT",
+    "home_score": null,
+    "away_score": null,
+    "status": "SCHEDULED",
+    "difficolta_portieri": {
+      "Empoli": 3,
+      "Inter": 1
+    },
+    "season": "2026/2027"
+  },
+  {
+    "match_id": "2026_G14_BOL_ROM",
+    "giornata": 14,
+    "date_str": "Sun Dec 6 15:00",
+    "home_team": "Bologna",
+    "home_team_code": "BOL",
+    "away_team": "Roma",
+    "away_team_code": "ROM",
+    "home_score": null,
+    "away_score": null,
+    "status": "SCHEDULED",
+    "difficolta_portieri": {
+      "Bologna": 2,
+      "Roma": 2
+    },
+    "season": "2026/2027"
+  },
+  {
+    "match_id": "2026_G14_FIO_CAG",
+    "giornata": 14,
+    "date_str": "Sun Dec 6 15:00",
+    "home_team": "Fiorentina",
+    "home_team_code": "FIO",
+    "away_team": "Cagliari",
+    "away_team_code": "CAG",
+    "home_score": null,
+    "away_score": null,
+    "status": "SCHEDULED",
+    "difficolta_portieri": {
+      "Fiorentina": 1,
+      "Cagliari": 2
+    },
+    "season": "2026/2027"
+  },
+  {
+    "match_id": "2026_G14_LAZ_ATA",
+    "giornata": 14,
+    "date_str": "Sun Dec 6 15:00",
+    "home_team": "Lazio",
+    "home_team_code": "LAZ",
+    "away_team": "Atalanta",
+    "away_team_code": "ATA",
+    "home_score": null,
+    "away_score": null,
+    "status": "SCHEDULED",
+    "difficolta_portieri": {
+      "Lazio": 3,
+      "Atalanta": 2
+    },
+    "season": "2026/2027"
+  },
+  {
+    "match_id": "2026_G14_MIL_PAR",
+    "giornata": 14,
+    "date_str": "Sun Dec 6 15:00",
+    "home_team": "Milan",
+    "home_team_code": "MIL",
+    "away_team": "Parma",
+    "away_team_code": "PAR",
+    "home_score": null,
+    "away_score": null,
+    "status": "SCHEDULED",
+    "difficolta_portieri": {
+      "Milan": 1,
+      "Parma": 3
+    },
+    "season": "2026/2027"
+  },
+  {
+    "match_id": "2026_G14_VEN_VER",
+    "giornata": 14,
+    "date_str": "Sun Dec 6 15:00",
+    "home_team": "Venezia",
+    "home_team_code": "VEN",
+    "away_team": "Verona",
+    "away_team_code": "VER",
+    "home_score": null,
+    "away_score": null,
+    "status": "SCHEDULED",
+    "difficolta_portieri": {
+      "Venezia": 1,
+      "Verona": 1
+    },
+    "season": "2026/2027"
+  },
+  {
+    "match_id": "2026_G14_MON_COM",
+    "giornata": 14,
+    "date_str": "Sun Dec 6 15:00",
+    "home_team": "Monza",
+    "home_team_code": "MON",
+    "away_team": "Como",
+    "away_team_code": "COM",
+    "home_score": null,
+    "away_score": null,
+    "status": "SCHEDULED",
+    "difficolta_portieri": {
+      "Monza": 1,
+      "Como": 1
+    },
+    "season": "2026/2027"
+  },
+  {
+    "match_id": "2026_G14_NAP_LEC",
+    "giornata": 14,
+    "date_str": "Sun Dec 6 15:00",
+    "home_team": "Napoli",
+    "home_team_code": "NAP",
+    "away_team": "Lecce",
+    "away_team_code": "LEC",
+    "home_score": null,
+    "away_score": null,
+    "status": "SCHEDULED",
+    "difficolta_portieri": {
+      "Napoli": 1,
+      "Lecce": 3
+    },
+    "season": "2026/2027"
+  },
+  {
+    "match_id": "2026_G15_NAP_MIL",
+    "giornata": 15,
+    "date_str": "Sun Dec 13 15:00",
+    "home_team": "Napoli",
+    "home_team_code": "NAP",
+    "away_team": "Milan",
+    "away_team_code": "MIL",
+    "home_score": null,
+    "away_score": null,
+    "status": "SCHEDULED",
+    "difficolta_portieri": {
+      "Napoli": 3,
+      "Milan": 3
+    },
+    "season": "2026/2027"
+  },
+  {
+    "match_id": "2026_G15_COM_BOL",
+    "giornata": 15,
+    "date_str": "Sun Dec 13 15:00",
+    "home_team": "Como",
+    "home_team_code": "COM",
+    "away_team": "Bologna",
+    "away_team_code": "BOL",
+    "home_score": null,
+    "away_score": null,
+    "status": "SCHEDULED",
+    "difficolta_portieri": {
+      "Como": 2,
+      "Bologna": 1
+    },
+    "season": "2026/2027"
+  },
+  {
+    "match_id": "2026_G15_UDI_EMP",
+    "giornata": 15,
+    "date_str": "Sun Dec 13 15:00",
+    "home_team": "Udinese",
+    "home_team_code": "UDI",
+    "away_team": "Empoli",
+    "away_team_code": "EMP",
+    "home_score": null,
+    "away_score": null,
+    "status": "SCHEDULED",
+    "difficolta_portieri": {
+      "Udinese": 1,
+      "Empoli": 1
+    },
+    "season": "2026/2027"
+  },
+  {
+    "match_id": "2026_G15_LEC_VER",
+    "giornata": 15,
+    "date_str": "Sun Dec 13 15:00",
+    "home_team": "Lecce",
+    "home_team_code": "LEC",
+    "away_team": "Verona",
+    "away_team_code": "VER",
+    "home_score": null,
+    "away_score": null,
+    "status": "SCHEDULED",
+    "difficolta_portieri": {
+      "Lecce": 1,
+      "Verona": 1
+    },
+    "season": "2026/2027"
+  },
+  {
+    "match_id": "2026_G15_PAR_FIO",
+    "giornata": 15,
+    "date_str": "Sun Dec 13 15:00",
+    "home_team": "Parma",
+    "home_team_code": "PAR",
+    "away_team": "Fiorentina",
+    "away_team_code": "FIO",
+    "home_score": null,
+    "away_score": null,
+    "status": "SCHEDULED",
+    "difficolta_portieri": {
+      "Parma": 2,
+      "Fiorentina": 1
+    },
+    "season": "2026/2027"
+  },
+  {
+    "match_id": "2026_G15_CAG_VEN",
+    "giornata": 15,
+    "date_str": "Sun Dec 13 15:00",
+    "home_team": "Cagliari",
+    "home_team_code": "CAG",
+    "away_team": "Venezia",
+    "away_team_code": "VEN",
+    "home_score": null,
+    "away_score": null,
+    "status": "SCHEDULED",
+    "difficolta_portieri": {
+      "Cagliari": 1,
+      "Venezia": 1
+    },
+    "season": "2026/2027"
+  },
+  {
+    "match_id": "2026_G15_INT_TOR",
+    "giornata": 15,
+    "date_str": "Sun Dec 13 15:00",
+    "home_team": "Inter",
+    "home_team_code": "INT",
+    "away_team": "Torino",
+    "away_team_code": "TOR",
+    "home_score": null,
+    "away_score": null,
+    "status": "SCHEDULED",
+    "difficolta_portieri": {
+      "Inter": 2,
+      "Torino": 3
+    },
+    "season": "2026/2027"
+  },
+  {
+    "match_id": "2026_G15_JUV_MON",
+    "giornata": 15,
+    "date_str": "Sun Dec 13 15:00",
+    "home_team": "Juventus",
+    "home_team_code": "JUV",
+    "away_team": "Monza",
+    "away_team_code": "MON",
+    "home_score": null,
+    "away_score": null,
+    "status": "SCHEDULED",
+    "difficolta_portieri": {
+      "Juventus": 1,
+      "Monza": 3
+    },
+    "season": "2026/2027"
+  },
+  {
+    "match_id": "2026_G15_ATA_GEN",
+    "giornata": 15,
+    "date_str": "Sun Dec 13 15:00",
+    "home_team": "Atalanta",
+    "home_team_code": "ATA",
+    "away_team": "Genoa",
+    "away_team_code": "GEN",
+    "home_score": null,
+    "away_score": null,
+    "status": "SCHEDULED",
+    "difficolta_portieri": {
+      "Atalanta": 1,
+      "Genoa": 3
+    },
+    "season": "2026/2027"
+  },
+  {
+    "match_id": "2026_G15_LAZ_ROM",
+    "giornata": 15,
+    "date_str": "Sun Dec 13 15:00",
+    "home_team": "Lazio",
+    "home_team_code": "LAZ",
+    "away_team": "Roma",
+    "away_team_code": "ROM",
+    "home_score": null,
+    "away_score": null,
+    "status": "SCHEDULED",
+    "difficolta_portieri": {
+      "Lazio": 2,
+      "Roma": 2
+    },
+    "season": "2026/2027"
+  },
+  {
+    "match_id": "2026_G16_MIL_COM",
+    "giornata": 16,
+    "date_str": "Sun Dec 20 15:00",
+    "home_team": "Milan",
+    "home_team_code": "MIL",
+    "away_team": "Como",
+    "away_team_code": "COM",
+    "home_score": null,
+    "away_score": null,
+    "status": "SCHEDULED",
+    "difficolta_portieri": {
+      "Milan": 1,
+      "Como": 3
+    },
+    "season": "2026/2027"
+  },
+  {
+    "match_id": "2026_G16_VER_PAR",
+    "giornata": 16,
+    "date_str": "Sun Dec 20 15:00",
+    "home_team": "Verona",
+    "home_team_code": "VER",
+    "away_team": "Parma",
+    "away_team_code": "PAR",
+    "home_score": null,
+    "away_score": null,
+    "status": "SCHEDULED",
+    "difficolta_portieri": {
+      "Verona": 1,
+      "Parma": 1
+    },
+    "season": "2026/2027"
+  },
+  {
+    "match_id": "2026_G16_ROM_JUV",
+    "giornata": 16,
+    "date_str": "Sun Dec 20 15:00",
+    "home_team": "Roma",
+    "home_team_code": "ROM",
+    "away_team": "Juventus",
+    "away_team_code": "JUV",
+    "home_score": null,
+    "away_score": null,
+    "status": "SCHEDULED",
+    "difficolta_portieri": {
+      "Roma": 3,
+      "Juventus": 2
+    },
+    "season": "2026/2027"
+  },
+  {
+    "match_id": "2026_G16_EMP_LAZ",
+    "giornata": 16,
+    "date_str": "Sun Dec 20 15:00",
+    "home_team": "Empoli",
+    "home_team_code": "EMP",
+    "away_team": "Lazio",
+    "away_team_code": "LAZ",
+    "home_score": null,
+    "away_score": null,
+    "status": "SCHEDULED",
+    "difficolta_portieri": {
+      "Empoli": 2,
+      "Lazio": 1
+    },
+    "season": "2026/2027"
+  },
+  {
+    "match_id": "2026_G16_ATA_NAP",
+    "giornata": 16,
+    "date_str": "Sun Dec 20 15:00",
+    "home_team": "Atalanta",
+    "home_team_code": "ATA",
+    "away_team": "Napoli",
+    "away_team_code": "NAP",
+    "home_score": null,
+    "away_score": null,
+    "status": "SCHEDULED",
+    "difficolta_portieri": {
+      "Atalanta": 3,
+      "Napoli": 3
+    },
+    "season": "2026/2027"
+  },
+  {
+    "match_id": "2026_G16_FIO_BOL",
+    "giornata": 16,
+    "date_str": "Sun Dec 20 15:00",
+    "home_team": "Fiorentina",
+    "home_team_code": "FIO",
+    "away_team": "Bologna",
+    "away_team_code": "BOL",
+    "home_score": null,
+    "away_score": null,
+    "status": "SCHEDULED",
+    "difficolta_portieri": {
+      "Fiorentina": 2,
+      "Bologna": 2
+    },
+    "season": "2026/2027"
+  },
+  {
+    "match_id": "2026_G16_GEN_UDI",
+    "giornata": 16,
+    "date_str": "Sun Dec 20 15:00",
+    "home_team": "Genoa",
+    "home_team_code": "GEN",
+    "away_team": "Udinese",
+    "away_team_code": "UDI",
+    "home_score": null,
+    "away_score": null,
+    "status": "SCHEDULED",
+    "difficolta_portieri": {
+      "Genoa": 1,
+      "Udinese": 1
+    },
+    "season": "2026/2027"
+  },
+  {
+    "match_id": "2026_G16_LEC_INT",
+    "giornata": 16,
+    "date_str": "Sun Dec 20 15:00",
+    "home_team": "Lecce",
+    "home_team_code": "LEC",
+    "away_team": "Inter",
+    "away_team_code": "INT",
+    "home_score": null,
+    "away_score": null,
+    "status": "SCHEDULED",
+    "difficolta_portieri": {
+      "Lecce": 3,
+      "Inter": 1
+    },
+    "season": "2026/2027"
+  },
+  {
+    "match_id": "2026_G16_TOR_CAG",
+    "giornata": 16,
+    "date_str": "Sun Dec 20 15:00",
+    "home_team": "Torino",
+    "home_team_code": "TOR",
+    "away_team": "Cagliari",
+    "away_team_code": "CAG",
+    "home_score": null,
+    "away_score": null,
+    "status": "SCHEDULED",
+    "difficolta_portieri": {
+      "Torino": 1,
+      "Cagliari": 2
+    },
+    "season": "2026/2027"
+  },
+  {
+    "match_id": "2026_G16_VEN_MON",
+    "giornata": 16,
+    "date_str": "Sun Dec 20 15:00",
+    "home_team": "Venezia",
+    "home_team_code": "VEN",
+    "away_team": "Monza",
+    "away_team_code": "MON",
+    "home_score": null,
+    "away_score": null,
+    "status": "SCHEDULED",
+    "difficolta_portieri": {
+      "Venezia": 1,
+      "Monza": 1
+    },
+    "season": "2026/2027"
+  },
+  {
+    "match_id": "2026_G17_UDI_ATA",
+    "giornata": 17,
+    "date_str": "Sun Jan 3 2027 15:00",
+    "home_team": "Udinese",
+    "home_team_code": "UDI",
+    "away_team": "Atalanta",
+    "away_team_code": "ATA",
+    "home_score": null,
+    "away_score": null,
+    "status": "SCHEDULED",
+    "difficolta_portieri": {
+      "Udinese": 3,
+      "Atalanta": 1
+    },
+    "season": "2026/2027"
+  },
+  {
+    "match_id": "2026_G17_COM_LEC",
+    "giornata": 17,
+    "date_str": "Sun Jan 3 2027 15:00",
+    "home_team": "Como",
+    "home_team_code": "COM",
+    "away_team": "Lecce",
+    "away_team_code": "LEC",
+    "home_score": null,
+    "away_score": null,
+    "status": "SCHEDULED",
+    "difficolta_portieri": {
+      "Como": 1,
+      "Lecce": 1
+    },
+    "season": "2026/2027"
+  },
+  {
+    "match_id": "2026_G17_ROM_EMP",
+    "giornata": 17,
+    "date_str": "Sun Jan 3 2027 15:00",
+    "home_team": "Roma",
+    "home_team_code": "ROM",
+    "away_team": "Empoli",
+    "away_team_code": "EMP",
+    "home_score": null,
+    "away_score": null,
+    "status": "SCHEDULED",
+    "difficolta_portieri": {
+      "Roma": 1,
+      "Empoli": 2
+    },
+    "season": "2026/2027"
+  },
+  {
+    "match_id": "2026_G17_PAR_NAP",
+    "giornata": 17,
+    "date_str": "Sun Jan 3 2027 15:00",
+    "home_team": "Parma",
+    "home_team_code": "PAR",
+    "away_team": "Napoli",
+    "away_team_code": "NAP",
+    "home_score": null,
+    "away_score": null,
+    "status": "SCHEDULED",
+    "difficolta_portieri": {
+      "Parma": 3,
+      "Napoli": 1
+    },
+    "season": "2026/2027"
+  },
+  {
+    "match_id": "2026_G17_CAG_GEN",
+    "giornata": 17,
+    "date_str": "Sun Jan 3 2027 15:00",
+    "home_team": "Cagliari",
+    "home_team_code": "CAG",
+    "away_team": "Genoa",
+    "away_team_code": "GEN",
+    "home_score": null,
+    "away_score": null,
+    "status": "SCHEDULED",
+    "difficolta_portieri": {
+      "Cagliari": 1,
+      "Genoa": 1
+    },
+    "season": "2026/2027"
+  },
+  {
+    "match_id": "2026_G17_TOR_VEN",
+    "giornata": 17,
+    "date_str": "Sun Jan 3 2027 15:00",
+    "home_team": "Torino",
+    "home_team_code": "TOR",
+    "away_team": "Venezia",
+    "away_team_code": "VEN",
+    "home_score": null,
+    "away_score": null,
+    "status": "SCHEDULED",
+    "difficolta_portieri": {
+      "Torino": 1,
+      "Venezia": 2
+    },
+    "season": "2026/2027"
+  },
+  {
+    "match_id": "2026_G17_MON_MIL",
+    "giornata": 17,
+    "date_str": "Sun Jan 3 2027 15:00",
+    "home_team": "Monza",
+    "home_team_code": "MON",
+    "away_team": "Milan",
+    "away_team_code": "MIL",
+    "home_score": null,
+    "away_score": null,
+    "status": "SCHEDULED",
+    "difficolta_portieri": {
+      "Monza": 3,
+      "Milan": 1
+    },
+    "season": "2026/2027"
+  },
+  {
+    "match_id": "2026_G17_INT_VER",
+    "giornata": 17,
+    "date_str": "Sun Jan 3 2027 15:00",
+    "home_team": "Inter",
+    "home_team_code": "INT",
+    "away_team": "Verona",
+    "away_team_code": "VER",
+    "home_score": null,
+    "away_score": null,
+    "status": "SCHEDULED",
+    "difficolta_portieri": {
+      "Inter": 1,
+      "Verona": 3
+    },
+    "season": "2026/2027"
+  },
+  {
+    "match_id": "2026_G17_BOL_JUV",
+    "giornata": 17,
+    "date_str": "Sun Jan 3 2027 15:00",
+    "home_team": "Bologna",
+    "home_team_code": "BOL",
+    "away_team": "Juventus",
+    "away_team_code": "JUV",
+    "home_score": null,
+    "away_score": null,
+    "status": "SCHEDULED",
+    "difficolta_portieri": {
+      "Bologna": 3,
+      "Juventus": 2
+    },
+    "season": "2026/2027"
+  },
+  {
+    "match_id": "2026_G17_FIO_LAZ",
+    "giornata": 17,
+    "date_str": "Sun Jan 3 2027 15:00",
+    "home_team": "Fiorentina",
+    "home_team_code": "FIO",
+    "away_team": "Lazio",
+    "away_team_code": "LAZ",
+    "home_score": null,
+    "away_score": null,
+    "status": "SCHEDULED",
+    "difficolta_portieri": {
+      "Fiorentina": 2,
+      "Lazio": 2
+    },
+    "season": "2026/2027"
+  },
+  {
+    "match_id": "2026_G18_EMP_BOL",
+    "giornata": 18,
+    "date_str": "Wed Jan 6 15:00",
+    "home_team": "Empoli",
+    "home_team_code": "EMP",
+    "away_team": "Bologna",
+    "away_team_code": "BOL",
+    "home_score": null,
+    "away_score": null,
+    "status": "SCHEDULED",
+    "difficolta_portieri": {
+      "Empoli": 2,
+      "Bologna": 1
+    },
+    "season": "2026/2027"
+  },
+  {
+    "match_id": "2026_G18_VER_UDI",
+    "giornata": 18,
+    "date_str": "Wed Jan 6 15:00",
+    "home_team": "Verona",
+    "home_team_code": "VER",
+    "away_team": "Udinese",
+    "away_team_code": "UDI",
+    "home_score": null,
+    "away_score": null,
+    "status": "SCHEDULED",
+    "difficolta_portieri": {
+      "Verona": 1,
+      "Udinese": 1
+    },
+    "season": "2026/2027"
+  },
+  {
+    "match_id": "2026_G18_GEN_MON",
+    "giornata": 18,
+    "date_str": "Wed Jan 6 15:00",
+    "home_team": "Genoa",
+    "home_team_code": "GEN",
+    "away_team": "Monza",
+    "away_team_code": "MON",
+    "home_score": null,
+    "away_score": null,
+    "status": "SCHEDULED",
+    "difficolta_portieri": {
+      "Genoa": 1,
+      "Monza": 1
+    },
+    "season": "2026/2027"
+  },
+  {
+    "match_id": "2026_G18_VEN_ROM",
+    "giornata": 18,
+    "date_str": "Wed Jan 6 15:00",
+    "home_team": "Venezia",
+    "home_team_code": "VEN",
+    "away_team": "Roma",
+    "away_team_code": "ROM",
+    "home_score": null,
+    "away_score": null,
+    "status": "SCHEDULED",
+    "difficolta_portieri": {
+      "Venezia": 2,
+      "Roma": 1
+    },
+    "season": "2026/2027"
+  },
+  {
+    "match_id": "2026_G18_NAP_CAG",
+    "giornata": 18,
+    "date_str": "Wed Jan 6 15:00",
+    "home_team": "Napoli",
+    "home_team_code": "NAP",
+    "away_team": "Cagliari",
+    "away_team_code": "CAG",
+    "home_score": null,
+    "away_score": null,
+    "status": "SCHEDULED",
+    "difficolta_portieri": {
+      "Napoli": 1,
+      "Cagliari": 3
+    },
+    "season": "2026/2027"
+  },
+  {
+    "match_id": "2026_G18_MIL_FIO",
+    "giornata": 18,
+    "date_str": "Wed Jan 6 15:00",
+    "home_team": "Milan",
+    "home_team_code": "MIL",
+    "away_team": "Fiorentina",
+    "away_team_code": "FIO",
+    "home_score": null,
+    "away_score": null,
+    "status": "SCHEDULED",
+    "difficolta_portieri": {
+      "Milan": 2,
+      "Fiorentina": 3
+    },
+    "season": "2026/2027"
+  },
+  {
+    "match_id": "2026_G18_JUV_TOR",
+    "giornata": 18,
+    "date_str": "Wed Jan 6 15:00",
+    "home_team": "Juventus",
+    "home_team_code": "JUV",
+    "away_team": "Torino",
+    "away_team_code": "TOR",
+    "home_score": null,
+    "away_score": null,
+    "status": "SCHEDULED",
+    "difficolta_portieri": {
+      "Juventus": 2,
+      "Torino": 3
+    },
+    "season": "2026/2027"
+  },
+  {
+    "match_id": "2026_G18_ATA_COM",
+    "giornata": 18,
+    "date_str": "Wed Jan 6 15:00",
+    "home_team": "Atalanta",
+    "home_team_code": "ATA",
+    "away_team": "Como",
+    "away_team_code": "COM",
+    "home_score": null,
+    "away_score": null,
+    "status": "SCHEDULED",
+    "difficolta_portieri": {
+      "Atalanta": 1,
+      "Como": 3
+    },
+    "season": "2026/2027"
+  },
+  {
+    "match_id": "2026_G18_LAZ_INT",
+    "giornata": 18,
+    "date_str": "Wed Jan 6 15:00",
+    "home_team": "Lazio",
+    "home_team_code": "LAZ",
+    "away_team": "Inter",
+    "away_team_code": "INT",
+    "home_score": null,
+    "away_score": null,
+    "status": "SCHEDULED",
+    "difficolta_portieri": {
+      "Lazio": 3,
+      "Inter": 2
+    },
+    "season": "2026/2027"
+  },
+  {
+    "match_id": "2026_G18_LEC_PAR",
+    "giornata": 18,
+    "date_str": "Wed Jan 6 15:00",
+    "home_team": "Lecce",
+    "home_team_code": "LEC",
+    "away_team": "Parma",
+    "away_team_code": "PAR",
+    "home_score": null,
+    "away_score": null,
+    "status": "SCHEDULED",
+    "difficolta_portieri": {
+      "Lecce": 1,
+      "Parma": 1
+    },
+    "season": "2026/2027"
+  },
+  {
+    "match_id": "2026_G19_FIO_LEC",
+    "giornata": 19,
+    "date_str": "Sun Jan 10 15:00",
+    "home_team": "Fiorentina",
+    "home_team_code": "FIO",
+    "away_team": "Lecce",
+    "away_team_code": "LEC",
+    "home_score": null,
+    "away_score": null,
+    "status": "SCHEDULED",
+    "difficolta_portieri": {
+      "Fiorentina": 1,
+      "Lecce": 2
+    },
+    "season": "2026/2027"
+  },
+  {
+    "match_id": "2026_G19_UDI_NAP",
+    "giornata": 19,
+    "date_str": "Sun Jan 10 15:00",
+    "home_team": "Udinese",
+    "home_team_code": "UDI",
+    "away_team": "Napoli",
+    "away_team_code": "NAP",
+    "home_score": null,
+    "away_score": null,
+    "status": "SCHEDULED",
+    "difficolta_portieri": {
+      "Udinese": 3,
+      "Napoli": 1
+    },
+    "season": "2026/2027"
+  },
+  {
+    "match_id": "2026_G19_TOR_ATA",
+    "giornata": 19,
+    "date_str": "Sun Jan 10 15:00",
+    "home_team": "Torino",
+    "home_team_code": "TOR",
+    "away_team": "Atalanta",
+    "away_team_code": "ATA",
+    "home_score": null,
+    "away_score": null,
+    "status": "SCHEDULED",
+    "difficolta_portieri": {
+      "Torino": 3,
+      "Atalanta": 2
+    },
+    "season": "2026/2027"
+  },
+  {
+    "match_id": "2026_G19_MON_EMP",
+    "giornata": 19,
+    "date_str": "Sun Jan 10 15:00",
+    "home_team": "Monza",
+    "home_team_code": "MON",
+    "away_team": "Empoli",
+    "away_team_code": "EMP",
+    "home_score": null,
+    "away_score": null,
+    "status": "SCHEDULED",
+    "difficolta_portieri": {
+      "Monza": 1,
+      "Empoli": 1
+    },
+    "season": "2026/2027"
+  },
+  {
+    "match_id": "2026_G19_INT_JUV",
+    "giornata": 19,
+    "date_str": "Sun Jan 10 15:00",
+    "home_team": "Inter",
+    "home_team_code": "INT",
+    "away_team": "Juventus",
+    "away_team_code": "JUV",
+    "home_score": null,
+    "away_score": null,
+    "status": "SCHEDULED",
+    "difficolta_portieri": {
+      "Inter": 3,
+      "Juventus": 3
+    },
+    "season": "2026/2027"
+  },
+  {
+    "match_id": "2026_G19_PAR_VEN",
+    "giornata": 19,
+    "date_str": "Sun Jan 10 15:00",
+    "home_team": "Parma",
+    "home_team_code": "PAR",
+    "away_team": "Venezia",
+    "away_team_code": "VEN",
+    "home_score": null,
+    "away_score": null,
+    "status": "SCHEDULED",
+    "difficolta_portieri": {
+      "Parma": 1,
+      "Venezia": 1
+    },
+    "season": "2026/2027"
+  },
+  {
+    "match_id": "2026_G19_BOL_GEN",
+    "giornata": 19,
+    "date_str": "Sun Jan 10 15:00",
+    "home_team": "Bologna",
+    "home_team_code": "BOL",
+    "away_team": "Genoa",
+    "away_team_code": "GEN",
+    "home_score": null,
+    "away_score": null,
+    "status": "SCHEDULED",
+    "difficolta_portieri": {
+      "Bologna": 1,
+      "Genoa": 2
+    },
+    "season": "2026/2027"
+  },
+  {
+    "match_id": "2026_G19_CAG_VER",
+    "giornata": 19,
+    "date_str": "Sun Jan 10 15:00",
+    "home_team": "Cagliari",
+    "home_team_code": "CAG",
+    "away_team": "Verona",
+    "away_team_code": "VER",
+    "home_score": null,
+    "away_score": null,
+    "status": "SCHEDULED",
+    "difficolta_portieri": {
+      "Cagliari": 1,
+      "Verona": 1
+    },
+    "season": "2026/2027"
+  },
+  {
+    "match_id": "2026_G19_COM_LAZ",
+    "giornata": 19,
+    "date_str": "Sun Jan 10 15:00",
+    "home_team": "Como",
+    "home_team_code": "COM",
+    "away_team": "Lazio",
+    "away_team_code": "LAZ",
+    "home_score": null,
+    "away_score": null,
+    "status": "SCHEDULED",
+    "difficolta_portieri": {
+      "Como": 2,
+      "Lazio": 1
+    },
+    "season": "2026/2027"
+  },
+  {
+    "match_id": "2026_G19_ROM_MIL",
+    "giornata": 19,
+    "date_str": "Sun Jan 10 15:00",
+    "home_team": "Roma",
+    "home_team_code": "ROM",
+    "away_team": "Milan",
+    "away_team_code": "MIL",
+    "home_score": null,
+    "away_score": null,
+    "status": "SCHEDULED",
+    "difficolta_portieri": {
+      "Roma": 3,
+      "Milan": 2
+    },
+    "season": "2026/2027"
+  },
+  {
+    "match_id": "2026_G20_MIL_TOR",
+    "giornata": 20,
+    "date_str": "Sun Jan 17 15:00",
+    "home_team": "Milan",
+    "home_team_code": "MIL",
+    "away_team": "Torino",
+    "away_team_code": "TOR",
+    "home_score": null,
+    "away_score": null,
+    "status": "SCHEDULED",
+    "difficolta_portieri": {
+      "Milan": 2,
+      "Torino": 3
+    },
+    "season": "2026/2027"
+  },
+  {
+    "match_id": "2026_G20_PAR_INT",
+    "giornata": 20,
+    "date_str": "Sun Jan 17 15:00",
+    "home_team": "Parma",
+    "home_team_code": "PAR",
+    "away_team": "Inter",
+    "away_team_code": "INT",
+    "home_score": null,
+    "away_score": null,
+    "status": "SCHEDULED",
+    "difficolta_portieri": {
+      "Parma": 3,
+      "Inter": 1
+    },
+    "season": "2026/2027"
+  },
+  {
+    "match_id": "2026_G20_JUV_GEN",
+    "giornata": 20,
+    "date_str": "Sun Jan 17 15:00",
+    "home_team": "Juventus",
+    "home_team_code": "JUV",
+    "away_team": "Genoa",
+    "away_team_code": "GEN",
+    "home_score": null,
+    "away_score": null,
+    "status": "SCHEDULED",
+    "difficolta_portieri": {
+      "Juventus": 1,
+      "Genoa": 3
+    },
+    "season": "2026/2027"
+  },
+  {
+    "match_id": "2026_G20_LEC_UDI",
+    "giornata": 20,
+    "date_str": "Sun Jan 17 15:00",
+    "home_team": "Lecce",
+    "home_team_code": "LEC",
+    "away_team": "Udinese",
+    "away_team_code": "UDI",
+    "home_score": null,
+    "away_score": null,
+    "status": "SCHEDULED",
+    "difficolta_portieri": {
+      "Lecce": 1,
+      "Udinese": 1
+    },
+    "season": "2026/2027"
+  },
+  {
+    "match_id": "2026_G20_CAG_COM",
+    "giornata": 20,
+    "date_str": "Sun Jan 17 15:00",
+    "home_team": "Cagliari",
+    "home_team_code": "CAG",
+    "away_team": "Como",
+    "away_team_code": "COM",
+    "home_score": null,
+    "away_score": null,
+    "status": "SCHEDULED",
+    "difficolta_portieri": {
+      "Cagliari": 1,
+      "Como": 1
+    },
+    "season": "2026/2027"
+  },
+  {
+    "match_id": "2026_G20_VER_MON",
+    "giornata": 20,
+    "date_str": "Sun Jan 17 15:00",
+    "home_team": "Verona",
+    "home_team_code": "VER",
+    "away_team": "Monza",
+    "away_team_code": "MON",
+    "home_score": null,
+    "away_score": null,
+    "status": "SCHEDULED",
+    "difficolta_portieri": {
+      "Verona": 1,
+      "Monza": 1
+    },
+    "season": "2026/2027"
+  },
+  {
+    "match_id": "2026_G20_NAP_FIO",
+    "giornata": 20,
+    "date_str": "Sun Jan 17 15:00",
+    "home_team": "Napoli",
+    "home_team_code": "NAP",
+    "away_team": "Fiorentina",
+    "away_team_code": "FIO",
+    "home_score": null,
+    "away_score": null,
+    "status": "SCHEDULED",
+    "difficolta_portieri": {
+      "Napoli": 2,
+      "Fiorentina": 3
+    },
+    "season": "2026/2027"
+  },
+  {
+    "match_id": "2026_G20_LAZ_BOL",
+    "giornata": 20,
+    "date_str": "Sun Jan 17 15:00",
+    "home_team": "Lazio",
+    "home_team_code": "LAZ",
+    "away_team": "Bologna",
+    "away_team_code": "BOL",
+    "home_score": null,
+    "away_score": null,
+    "status": "SCHEDULED",
+    "difficolta_portieri": {
+      "Lazio": 2,
+      "Bologna": 2
+    },
+    "season": "2026/2027"
+  },
+  {
+    "match_id": "2026_G20_VEN_EMP",
+    "giornata": 20,
+    "date_str": "Sun Jan 17 15:00",
+    "home_team": "Venezia",
+    "home_team_code": "VEN",
+    "away_team": "Empoli",
+    "away_team_code": "EMP",
+    "home_score": null,
+    "away_score": null,
+    "status": "SCHEDULED",
+    "difficolta_portieri": {
+      "Venezia": 1,
+      "Empoli": 1
+    },
+    "season": "2026/2027"
+  },
+  {
+    "match_id": "2026_G20_ATA_ROM",
+    "giornata": 20,
+    "date_str": "Sun Jan 17 15:00",
+    "home_team": "Atalanta",
+    "home_team_code": "ATA",
+    "away_team": "Roma",
+    "away_team_code": "ROM",
+    "home_score": null,
+    "away_score": null,
+    "status": "SCHEDULED",
+    "difficolta_portieri": {
+      "Atalanta": 2,
+      "Roma": 3
+    },
+    "season": "2026/2027"
+  },
+  {
+    "match_id": "2026_G21_LEC_TOR",
+    "giornata": 21,
+    "date_str": "Sun Jan 24 15:00",
+    "home_team": "Lecce",
+    "home_team_code": "LEC",
+    "away_team": "Torino",
+    "away_team_code": "TOR",
+    "home_score": null,
+    "away_score": null,
+    "status": "SCHEDULED",
+    "difficolta_portieri": {
+      "Lecce": 2,
+      "Torino": 1
+    },
+    "season": "2026/2027"
+  },
+  {
+    "match_id": "2026_G21_JUV_CAG",
+    "giornata": 21,
+    "date_str": "Sun Jan 24 15:00",
+    "home_team": "Juventus",
+    "home_team_code": "JUV",
+    "away_team": "Cagliari",
+    "away_team_code": "CAG",
+    "home_score": null,
+    "away_score": null,
+    "status": "SCHEDULED",
+    "difficolta_portieri": {
+      "Juventus": 1,
+      "Cagliari": 3
+    },
+    "season": "2026/2027"
+  },
+  {
+    "match_id": "2026_G21_INT_VEN",
+    "giornata": 21,
+    "date_str": "Sun Jan 24 15:00",
+    "home_team": "Inter",
+    "home_team_code": "INT",
+    "away_team": "Venezia",
+    "away_team_code": "VEN",
+    "home_score": null,
+    "away_score": null,
+    "status": "SCHEDULED",
+    "difficolta_portieri": {
+      "Inter": 1,
+      "Venezia": 3
+    },
+    "season": "2026/2027"
+  },
+  {
+    "match_id": "2026_G21_FIO_VER",
+    "giornata": 21,
+    "date_str": "Sun Jan 24 15:00",
+    "home_team": "Fiorentina",
+    "home_team_code": "FIO",
+    "away_team": "Verona",
+    "away_team_code": "VER",
+    "home_score": null,
+    "away_score": null,
+    "status": "SCHEDULED",
+    "difficolta_portieri": {
+      "Fiorentina": 1,
+      "Verona": 2
+    },
+    "season": "2026/2027"
+  },
+  {
+    "match_id": "2026_G21_EMP_MIL",
+    "giornata": 21,
+    "date_str": "Sun Jan 24 15:00",
+    "home_team": "Empoli",
+    "home_team_code": "EMP",
+    "away_team": "Milan",
+    "away_team_code": "MIL",
+    "home_score": null,
+    "away_score": null,
+    "status": "SCHEDULED",
+    "difficolta_portieri": {
+      "Empoli": 3,
+      "Milan": 1
+    },
+    "season": "2026/2027"
+  },
+  {
+    "match_id": "2026_G21_ROM_UDI",
+    "giornata": 21,
+    "date_str": "Sun Jan 24 15:00",
+    "home_team": "Roma",
+    "home_team_code": "ROM",
+    "away_team": "Udinese",
+    "away_team_code": "UDI",
+    "home_score": null,
+    "away_score": null,
+    "status": "SCHEDULED",
+    "difficolta_portieri": {
+      "Roma": 1,
+      "Udinese": 2
+    },
+    "season": "2026/2027"
+  },
+  {
+    "match_id": "2026_G21_BOL_ATA",
+    "giornata": 21,
+    "date_str": "Sun Jan 24 15:00",
+    "home_team": "Bologna",
+    "home_team_code": "BOL",
+    "away_team": "Atalanta",
+    "away_team_code": "ATA",
+    "home_score": null,
+    "away_score": null,
+    "status": "SCHEDULED",
+    "difficolta_portieri": {
+      "Bologna": 3,
+      "Atalanta": 2
+    },
+    "season": "2026/2027"
+  },
+  {
+    "match_id": "2026_G21_GEN_PAR",
+    "giornata": 21,
+    "date_str": "Sun Jan 24 15:00",
+    "home_team": "Genoa",
+    "home_team_code": "GEN",
+    "away_team": "Parma",
+    "away_team_code": "PAR",
+    "home_score": null,
+    "away_score": null,
+    "status": "SCHEDULED",
+    "difficolta_portieri": {
+      "Genoa": 1,
+      "Parma": 1
+    },
+    "season": "2026/2027"
+  },
+  {
+    "match_id": "2026_G21_COM_NAP",
+    "giornata": 21,
+    "date_str": "Sun Jan 24 15:00",
+    "home_team": "Como",
+    "home_team_code": "COM",
+    "away_team": "Napoli",
+    "away_team_code": "NAP",
+    "home_score": null,
+    "away_score": null,
+    "status": "SCHEDULED",
+    "difficolta_portieri": {
+      "Como": 3,
+      "Napoli": 1
+    },
+    "season": "2026/2027"
+  },
+  {
+    "match_id": "2026_G21_MON_LAZ",
+    "giornata": 21,
+    "date_str": "Sun Jan 24 15:00",
+    "home_team": "Monza",
+    "home_team_code": "MON",
+    "away_team": "Lazio",
+    "away_team_code": "LAZ",
+    "home_score": null,
+    "away_score": null,
+    "status": "SCHEDULED",
+    "difficolta_portieri": {
+      "Monza": 2,
+      "Lazio": 1
+    },
+    "season": "2026/2027"
+  },
+  {
+    "match_id": "2026_G22_MIL_JUV",
+    "giornata": 22,
+    "date_str": "Sun Jan 31 15:00",
+    "home_team": "Milan",
+    "home_team_code": "MIL",
+    "away_team": "Juventus",
+    "away_team_code": "JUV",
+    "home_score": null,
+    "away_score": null,
+    "status": "SCHEDULED",
+    "difficolta_portieri": {
+      "Milan": 3,
+      "Juventus": 3
+    },
+    "season": "2026/2027"
+  },
+  {
+    "match_id": "2026_G22_MON_ROM",
+    "giornata": 22,
+    "date_str": "Sun Jan 31 15:00",
+    "home_team": "Monza",
+    "home_team_code": "MON",
+    "away_team": "Roma",
+    "away_team_code": "ROM",
+    "home_score": null,
+    "away_score": null,
+    "status": "SCHEDULED",
+    "difficolta_portieri": {
+      "Monza": 2,
+      "Roma": 1
+    },
+    "season": "2026/2027"
+  },
+  {
+    "match_id": "2026_G22_TOR_EMP",
+    "giornata": 22,
+    "date_str": "Sun Jan 31 15:00",
+    "home_team": "Torino",
+    "home_team_code": "TOR",
+    "away_team": "Empoli",
+    "away_team_code": "EMP",
+    "home_score": null,
+    "away_score": null,
+    "status": "SCHEDULED",
+    "difficolta_portieri": {
+      "Torino": 1,
+      "Empoli": 2
+    },
+    "season": "2026/2027"
+  },
+  {
+    "match_id": "2026_G22_UDI_BOL",
+    "giornata": 22,
+    "date_str": "Sun Jan 31 15:00",
+    "home_team": "Udinese",
+    "home_team_code": "UDI",
+    "away_team": "Bologna",
+    "away_team_code": "BOL",
+    "home_score": null,
+    "away_score": null,
+    "status": "SCHEDULED",
+    "difficolta_portieri": {
+      "Udinese": 2,
+      "Bologna": 1
+    },
+    "season": "2026/2027"
+  },
+  {
+    "match_id": "2026_G22_VER_COM",
+    "giornata": 22,
+    "date_str": "Sun Jan 31 15:00",
+    "home_team": "Verona",
+    "home_team_code": "VER",
+    "away_team": "Como",
+    "away_team_code": "COM",
+    "home_score": null,
+    "away_score": null,
+    "status": "SCHEDULED",
+    "difficolta_portieri": {
+      "Verona": 1,
+      "Como": 1
+    },
+    "season": "2026/2027"
+  },
+  {
+    "match_id": "2026_G22_GEN_LEC",
+    "giornata": 22,
+    "date_str": "Sun Jan 31 15:00",
+    "home_team": "Genoa",
+    "home_team_code": "GEN",
+    "away_team": "Lecce",
+    "away_team_code": "LEC",
+    "home_score": null,
+    "away_score": null,
+    "status": "SCHEDULED",
+    "difficolta_portieri": {
+      "Genoa": 1,
+      "Lecce": 1
+    },
+    "season": "2026/2027"
+  },
+  {
+    "match_id": "2026_G22_CAG_PAR",
+    "giornata": 22,
+    "date_str": "Sun Jan 31 15:00",
+    "home_team": "Cagliari",
+    "home_team_code": "CAG",
+    "away_team": "Parma",
+    "away_team_code": "PAR",
+    "home_score": null,
+    "away_score": null,
+    "status": "SCHEDULED",
+    "difficolta_portieri": {
+      "Cagliari": 1,
+      "Parma": 1
+    },
+    "season": "2026/2027"
+  },
+  {
+    "match_id": "2026_G22_ATA_FIO",
+    "giornata": 22,
+    "date_str": "Sun Jan 31 15:00",
+    "home_team": "Atalanta",
+    "home_team_code": "ATA",
+    "away_team": "Fiorentina",
+    "away_team_code": "FIO",
+    "home_score": null,
+    "away_score": null,
+    "status": "SCHEDULED",
+    "difficolta_portieri": {
+      "Atalanta": 2,
+      "Fiorentina": 3
+    },
+    "season": "2026/2027"
+  },
+  {
+    "match_id": "2026_G22_LAZ_VEN",
+    "giornata": 22,
+    "date_str": "Sun Jan 31 15:00",
+    "home_team": "Lazio",
+    "home_team_code": "LAZ",
+    "away_team": "Venezia",
+    "away_team_code": "VEN",
+    "home_score": null,
+    "away_score": null,
+    "status": "SCHEDULED",
+    "difficolta_portieri": {
+      "Lazio": 1,
+      "Venezia": 2
+    },
+    "season": "2026/2027"
+  },
+  {
+    "match_id": "2026_G22_NAP_INT",
+    "giornata": 22,
+    "date_str": "Sun Jan 31 15:00",
+    "home_team": "Napoli",
+    "home_team_code": "NAP",
+    "away_team": "Inter",
+    "away_team_code": "INT",
+    "home_score": null,
+    "away_score": null,
+    "status": "SCHEDULED",
+    "difficolta_portieri": {
+      "Napoli": 3,
+      "Inter": 3
+    },
+    "season": "2026/2027"
+  },
+  {
+    "match_id": "2026_G23_JUV_VER",
+    "giornata": 23,
+    "date_str": "Sun Feb 7 15:00",
+    "home_team": "Juventus",
+    "home_team_code": "JUV",
+    "away_team": "Verona",
+    "away_team_code": "VER",
+    "home_score": null,
+    "away_score": null,
+    "status": "SCHEDULED",
+    "difficolta_portieri": {
+      "Juventus": 1,
+      "Verona": 3
+    },
+    "season": "2026/2027"
+  },
+  {
+    "match_id": "2026_G23_INT_CAG",
+    "giornata": 23,
+    "date_str": "Sun Feb 7 15:00",
+    "home_team": "Inter",
+    "home_team_code": "INT",
+    "away_team": "Cagliari",
+    "away_team_code": "CAG",
+    "home_score": null,
+    "away_score": null,
+    "status": "SCHEDULED",
+    "difficolta_portieri": {
+      "Inter": 1,
+      "Cagliari": 3
+    },
+    "season": "2026/2027"
+  },
+  {
+    "match_id": "2026_G23_COM_MON",
+    "giornata": 23,
+    "date_str": "Sun Feb 7 15:00",
+    "home_team": "Como",
+    "home_team_code": "COM",
+    "away_team": "Monza",
+    "away_team_code": "MON",
+    "home_score": null,
+    "away_score": null,
+    "status": "SCHEDULED",
+    "difficolta_portieri": {
+      "Como": 1,
+      "Monza": 1
+    },
+    "season": "2026/2027"
+  },
+  {
+    "match_id": "2026_G23_LEC_NAP",
+    "giornata": 23,
+    "date_str": "Sun Feb 7 15:00",
+    "home_team": "Lecce",
+    "home_team_code": "LEC",
+    "away_team": "Napoli",
+    "away_team_code": "NAP",
+    "home_score": null,
+    "away_score": null,
+    "status": "SCHEDULED",
+    "difficolta_portieri": {
+      "Lecce": 3,
+      "Napoli": 1
+    },
+    "season": "2026/2027"
+  },
+  {
+    "match_id": "2026_G23_VEN_GEN",
+    "giornata": 23,
+    "date_str": "Sun Feb 7 15:00",
+    "home_team": "Venezia",
+    "home_team_code": "VEN",
+    "away_team": "Genoa",
+    "away_team_code": "GEN",
+    "home_score": null,
+    "away_score": null,
+    "status": "SCHEDULED",
+    "difficolta_portieri": {
+      "Venezia": 1,
+      "Genoa": 1
+    },
+    "season": "2026/2027"
+  },
+  {
+    "match_id": "2026_G23_ROM_TOR",
+    "giornata": 23,
+    "date_str": "Sun Feb 7 15:00",
+    "home_team": "Roma",
+    "home_team_code": "ROM",
+    "away_team": "Torino",
+    "away_team_code": "TOR",
+    "home_score": null,
+    "away_score": null,
+    "status": "SCHEDULED",
+    "difficolta_portieri": {
+      "Roma": 2,
+      "Torino": 2
+    },
+    "season": "2026/2027"
+  },
+  {
+    "match_id": "2026_G23_ATA_LAZ",
+    "giornata": 23,
+    "date_str": "Sun Feb 7 15:00",
+    "home_team": "Atalanta",
+    "home_team_code": "ATA",
+    "away_team": "Lazio",
+    "away_team_code": "LAZ",
+    "home_score": null,
+    "away_score": null,
+    "status": "SCHEDULED",
+    "difficolta_portieri": {
+      "Atalanta": 2,
+      "Lazio": 3
+    },
+    "season": "2026/2027"
+  },
+  {
+    "match_id": "2026_G23_PAR_EMP",
+    "giornata": 23,
+    "date_str": "Sun Feb 7 15:00",
+    "home_team": "Parma",
+    "home_team_code": "PAR",
+    "away_team": "Empoli",
+    "away_team_code": "EMP",
+    "home_score": null,
+    "away_score": null,
+    "status": "SCHEDULED",
+    "difficolta_portieri": {
+      "Parma": 1,
+      "Empoli": 1
+    },
+    "season": "2026/2027"
+  },
+  {
+    "match_id": "2026_G23_BOL_MIL",
+    "giornata": 23,
+    "date_str": "Sun Feb 7 15:00",
+    "home_team": "Bologna",
+    "home_team_code": "BOL",
+    "away_team": "Milan",
+    "away_team_code": "MIL",
+    "home_score": null,
+    "away_score": null,
+    "status": "SCHEDULED",
+    "difficolta_portieri": {
+      "Bologna": 3,
+      "Milan": 2
+    },
+    "season": "2026/2027"
+  },
+  {
+    "match_id": "2026_G23_FIO_UDI",
+    "giornata": 23,
+    "date_str": "Sun Feb 7 15:00",
+    "home_team": "Fiorentina",
+    "home_team_code": "FIO",
+    "away_team": "Udinese",
+    "away_team_code": "UDI",
+    "home_score": null,
+    "away_score": null,
+    "status": "SCHEDULED",
+    "difficolta_portieri": {
+      "Fiorentina": 1,
+      "Udinese": 2
+    },
+    "season": "2026/2027"
+  },
+  {
+    "match_id": "2026_G24_NAP_JUV",
+    "giornata": 24,
+    "date_str": "Sun Feb 14 15:00",
+    "home_team": "Napoli",
+    "home_team_code": "NAP",
+    "away_team": "Juventus",
+    "away_team_code": "JUV",
+    "home_score": null,
+    "away_score": null,
+    "status": "SCHEDULED",
+    "difficolta_portieri": {
+      "Napoli": 3,
+      "Juventus": 3
+    },
+    "season": "2026/2027"
+  },
+  {
+    "match_id": "2026_G24_MON_LEC",
+    "giornata": 24,
+    "date_str": "Sun Feb 14 15:00",
+    "home_team": "Monza",
+    "home_team_code": "MON",
+    "away_team": "Lecce",
+    "away_team_code": "LEC",
+    "home_score": null,
+    "away_score": null,
+    "status": "SCHEDULED",
+    "difficolta_portieri": {
+      "Monza": 1,
+      "Lecce": 1
+    },
+    "season": "2026/2027"
+  },
+  {
+    "match_id": "2026_G24_TOR_VER",
+    "giornata": 24,
+    "date_str": "Sun Feb 14 15:00",
+    "home_team": "Torino",
+    "home_team_code": "TOR",
+    "away_team": "Verona",
+    "away_team_code": "VER",
+    "home_score": null,
+    "away_score": null,
+    "status": "SCHEDULED",
+    "difficolta_portieri": {
+      "Torino": 1,
+      "Verona": 2
+    },
+    "season": "2026/2027"
+  },
+  {
+    "match_id": "2026_G24_EMP_FIO",
+    "giornata": 24,
+    "date_str": "Sun Feb 14 15:00",
+    "home_team": "Empoli",
+    "home_team_code": "EMP",
+    "away_team": "Fiorentina",
+    "away_team_code": "FIO",
+    "home_score": null,
+    "away_score": null,
+    "status": "SCHEDULED",
+    "difficolta_portieri": {
+      "Empoli": 2,
+      "Fiorentina": 1
+    },
+    "season": "2026/2027"
+  },
+  {
+    "match_id": "2026_G24_BOL_COM",
+    "giornata": 24,
+    "date_str": "Sun Feb 14 15:00",
+    "home_team": "Bologna",
+    "home_team_code": "BOL",
+    "away_team": "Como",
+    "away_team_code": "COM",
+    "home_score": null,
+    "away_score": null,
+    "status": "SCHEDULED",
+    "difficolta_portieri": {
+      "Bologna": 1,
+      "Como": 2
+    },
+    "season": "2026/2027"
+  },
+  {
+    "match_id": "2026_G24_ROM_PAR",
+    "giornata": 24,
+    "date_str": "Sun Feb 14 15:00",
+    "home_team": "Roma",
+    "home_team_code": "ROM",
+    "away_team": "Parma",
+    "away_team_code": "PAR",
+    "home_score": null,
+    "away_score": null,
+    "status": "SCHEDULED",
+    "difficolta_portieri": {
+      "Roma": 1,
+      "Parma": 2
+    },
+    "season": "2026/2027"
+  },
+  {
+    "match_id": "2026_G24_UDI_VEN",
+    "giornata": 24,
+    "date_str": "Sun Feb 14 15:00",
+    "home_team": "Udinese",
+    "home_team_code": "UDI",
+    "away_team": "Venezia",
+    "away_team_code": "VEN",
+    "home_score": null,
+    "away_score": null,
+    "status": "SCHEDULED",
+    "difficolta_portieri": {
+      "Udinese": 1,
+      "Venezia": 1
+    },
+    "season": "2026/2027"
+  },
+  {
+    "match_id": "2026_G24_GEN_ATA",
+    "giornata": 24,
+    "date_str": "Sun Feb 14 15:00",
+    "home_team": "Genoa",
+    "home_team_code": "GEN",
+    "away_team": "Atalanta",
+    "away_team_code": "ATA",
+    "home_score": null,
+    "away_score": null,
+    "status": "SCHEDULED",
+    "difficolta_portieri": {
+      "Genoa": 3,
+      "Atalanta": 1
+    },
+    "season": "2026/2027"
+  },
+  {
+    "match_id": "2026_G24_CAG_LAZ",
+    "giornata": 24,
+    "date_str": "Sun Feb 14 15:00",
+    "home_team": "Cagliari",
+    "home_team_code": "CAG",
+    "away_team": "Lazio",
+    "away_team_code": "LAZ",
+    "home_score": null,
+    "away_score": null,
+    "status": "SCHEDULED",
+    "difficolta_portieri": {
+      "Cagliari": 2,
+      "Lazio": 1
+    },
+    "season": "2026/2027"
+  },
+  {
+    "match_id": "2026_G24_INT_MIL",
+    "giornata": 24,
+    "date_str": "Sun Feb 14 15:00",
+    "home_team": "Inter",
+    "home_team_code": "INT",
+    "away_team": "Milan",
+    "away_team_code": "MIL",
+    "home_score": null,
+    "away_score": null,
+    "status": "SCHEDULED",
+    "difficolta_portieri": {
+      "Inter": 3,
+      "Milan": 3
+    },
+    "season": "2026/2027"
+  },
+  {
+    "match_id": "2026_G25_COM_TOR",
+    "giornata": 25,
+    "date_str": "Sun Feb 21 15:00",
+    "home_team": "Como",
+    "home_team_code": "COM",
+    "away_team": "Torino",
+    "away_team_code": "TOR",
+    "home_score": null,
+    "away_score": null,
+    "status": "SCHEDULED",
+    "difficolta_portieri": {
+      "Como": 2,
+      "Torino": 1
+    },
+    "season": "2026/2027"
+  },
+  {
+    "match_id": "2026_G25_ATA_MON",
+    "giornata": 25,
+    "date_str": "Sun Feb 21 15:00",
+    "home_team": "Atalanta",
+    "home_team_code": "ATA",
+    "away_team": "Monza",
+    "away_team_code": "MON",
+    "home_score": null,
+    "away_score": null,
+    "status": "SCHEDULED",
+    "difficolta_portieri": {
+      "Atalanta": 1,
+      "Monza": 3
+    },
+    "season": "2026/2027"
+  },
+  {
+    "match_id": "2026_G25_UDI_PAR",
+    "giornata": 25,
+    "date_str": "Sun Feb 21 15:00",
+    "home_team": "Udinese",
+    "home_team_code": "UDI",
+    "away_team": "Parma",
+    "away_team_code": "PAR",
+    "home_score": null,
+    "away_score": null,
+    "status": "SCHEDULED",
+    "difficolta_portieri": {
+      "Udinese": 1,
+      "Parma": 1
+    },
+    "season": "2026/2027"
+  },
+  {
+    "match_id": "2026_G25_JUV_BOL",
+    "giornata": 25,
+    "date_str": "Sun Feb 21 15:00",
+    "home_team": "Juventus",
+    "home_team_code": "JUV",
+    "away_team": "Bologna",
+    "away_team_code": "BOL",
+    "home_score": null,
+    "away_score": null,
+    "status": "SCHEDULED",
+    "difficolta_portieri": {
+      "Juventus": 2,
+      "Bologna": 3
+    },
+    "season": "2026/2027"
+  },
+  {
+    "match_id": "2026_G25_FIO_INT",
+    "giornata": 25,
+    "date_str": "Sun Feb 21 15:00",
+    "home_team": "Fiorentina",
+    "home_team_code": "FIO",
+    "away_team": "Inter",
+    "away_team_code": "INT",
+    "home_score": null,
+    "away_score": null,
+    "status": "SCHEDULED",
+    "difficolta_portieri": {
+      "Fiorentina": 3,
+      "Inter": 2
+    },
+    "season": "2026/2027"
+  },
+  {
+    "match_id": "2026_G25_VER_ROM",
+    "giornata": 25,
+    "date_str": "Sun Feb 21 15:00",
+    "home_team": "Verona",
+    "home_team_code": "VER",
+    "away_team": "Roma",
+    "away_team_code": "ROM",
+    "home_score": null,
+    "away_score": null,
+    "status": "SCHEDULED",
+    "difficolta_portieri": {
+      "Verona": 2,
+      "Roma": 1
+    },
+    "season": "2026/2027"
+  },
+  {
+    "match_id": "2026_G25_MIL_GEN",
+    "giornata": 25,
+    "date_str": "Sun Feb 21 15:00",
+    "home_team": "Milan",
+    "home_team_code": "MIL",
+    "away_team": "Genoa",
+    "away_team_code": "GEN",
+    "home_score": null,
+    "away_score": null,
+    "status": "SCHEDULED",
+    "difficolta_portieri": {
+      "Milan": 1,
+      "Genoa": 3
+    },
+    "season": "2026/2027"
+  },
+  {
+    "match_id": "2026_G25_VEN_CAG",
+    "giornata": 25,
+    "date_str": "Sun Feb 21 15:00",
+    "home_team": "Venezia",
+    "home_team_code": "VEN",
+    "away_team": "Cagliari",
+    "away_team_code": "CAG",
+    "home_score": null,
+    "away_score": null,
+    "status": "SCHEDULED",
+    "difficolta_portieri": {
+      "Venezia": 1,
+      "Cagliari": 1
+    },
+    "season": "2026/2027"
+  },
+  {
+    "match_id": "2026_G25_LEC_EMP",
+    "giornata": 25,
+    "date_str": "Sun Feb 21 15:00",
+    "home_team": "Lecce",
+    "home_team_code": "LEC",
+    "away_team": "Empoli",
+    "away_team_code": "EMP",
+    "home_score": null,
+    "away_score": null,
+    "status": "SCHEDULED",
+    "difficolta_portieri": {
+      "Lecce": 1,
+      "Empoli": 1
+    },
+    "season": "2026/2027"
+  },
+  {
+    "match_id": "2026_G25_LAZ_NAP",
+    "giornata": 25,
+    "date_str": "Sun Feb 21 15:00",
+    "home_team": "Lazio",
+    "home_team_code": "LAZ",
+    "away_team": "Napoli",
+    "away_team_code": "NAP",
+    "home_score": null,
+    "away_score": null,
+    "status": "SCHEDULED",
+    "difficolta_portieri": {
+      "Lazio": 3,
+      "Napoli": 2
+    },
+    "season": "2026/2027"
+  },
+  {
+    "match_id": "2026_G26_INT_ATA",
+    "giornata": 26,
+    "date_str": "Sun Feb 28 15:00",
+    "home_team": "Inter",
+    "home_team_code": "INT",
+    "away_team": "Atalanta",
+    "away_team_code": "ATA",
+    "home_score": null,
+    "away_score": null,
+    "status": "SCHEDULED",
+    "difficolta_portieri": {
+      "Inter": 3,
+      "Atalanta": 3
+    },
+    "season": "2026/2027"
+  },
+  {
+    "match_id": "2026_G26_CAG_UDI",
+    "giornata": 26,
+    "date_str": "Sun Feb 28 15:00",
+    "home_team": "Cagliari",
+    "home_team_code": "CAG",
+    "away_team": "Udinese",
+    "away_team_code": "UDI",
+    "home_score": null,
+    "away_score": null,
+    "status": "SCHEDULED",
+    "difficolta_portieri": {
+      "Cagliari": 1,
+      "Udinese": 1
+    },
+    "season": "2026/2027"
+  },
+  {
+    "match_id": "2026_G26_PAR_VER",
+    "giornata": 26,
+    "date_str": "Sun Feb 28 15:00",
+    "home_team": "Parma",
+    "home_team_code": "PAR",
+    "away_team": "Verona",
+    "away_team_code": "VER",
+    "home_score": null,
+    "away_score": null,
+    "status": "SCHEDULED",
+    "difficolta_portieri": {
+      "Parma": 1,
+      "Verona": 1
+    },
+    "season": "2026/2027"
+  },
+  {
+    "match_id": "2026_G26_GEN_LAZ",
+    "giornata": 26,
+    "date_str": "Sun Feb 28 15:00",
+    "home_team": "Genoa",
+    "home_team_code": "GEN",
+    "away_team": "Lazio",
+    "away_team_code": "LAZ",
+    "home_score": null,
+    "away_score": null,
+    "status": "SCHEDULED",
+    "difficolta_portieri": {
+      "Genoa": 2,
+      "Lazio": 1
+    },
+    "season": "2026/2027"
+  },
+  {
+    "match_id": "2026_G26_ROM_VEN",
+    "giornata": 26,
+    "date_str": "Sun Feb 28 15:00",
+    "home_team": "Roma",
+    "home_team_code": "ROM",
+    "away_team": "Venezia",
+    "away_team_code": "VEN",
+    "home_score": null,
+    "away_score": null,
+    "status": "SCHEDULED",
+    "difficolta_portieri": {
+      "Roma": 1,
+      "Venezia": 2
+    },
+    "season": "2026/2027"
+  },
+  {
+    "match_id": "2026_G26_COM_MIL",
+    "giornata": 26,
+    "date_str": "Sun Feb 28 15:00",
+    "home_team": "Como",
+    "home_team_code": "COM",
+    "away_team": "Milan",
+    "away_team_code": "MIL",
+    "home_score": null,
+    "away_score": null,
+    "status": "SCHEDULED",
+    "difficolta_portieri": {
+      "Como": 3,
+      "Milan": 1
+    },
+    "season": "2026/2027"
+  },
+  {
+    "match_id": "2026_G26_TOR_FIO",
+    "giornata": 26,
+    "date_str": "Sun Feb 28 15:00",
+    "home_team": "Torino",
+    "home_team_code": "TOR",
+    "away_team": "Fiorentina",
+    "away_team_code": "FIO",
+    "home_score": null,
+    "away_score": null,
+    "status": "SCHEDULED",
+    "difficolta_portieri": {
+      "Torino": 2,
+      "Fiorentina": 2
+    },
+    "season": "2026/2027"
+  },
+  {
+    "match_id": "2026_G26_BOL_LEC",
+    "giornata": 26,
+    "date_str": "Sun Feb 28 15:00",
+    "home_team": "Bologna",
+    "home_team_code": "BOL",
+    "away_team": "Lecce",
+    "away_team_code": "LEC",
+    "home_score": null,
+    "away_score": null,
+    "status": "SCHEDULED",
+    "difficolta_portieri": {
+      "Bologna": 1,
+      "Lecce": 2
+    },
+    "season": "2026/2027"
+  },
+  {
+    "match_id": "2026_G26_MON_JUV",
+    "giornata": 26,
+    "date_str": "Sun Feb 28 15:00",
+    "home_team": "Monza",
+    "home_team_code": "MON",
+    "away_team": "Juventus",
+    "away_team_code": "JUV",
+    "home_score": null,
+    "away_score": null,
+    "status": "SCHEDULED",
+    "difficolta_portieri": {
+      "Monza": 3,
+      "Juventus": 1
+    },
+    "season": "2026/2027"
+  },
+  {
+    "match_id": "2026_G26_EMP_NAP",
+    "giornata": 26,
+    "date_str": "Sun Feb 28 15:00",
+    "home_team": "Empoli",
+    "home_team_code": "EMP",
+    "away_team": "Napoli",
+    "away_team_code": "NAP",
+    "home_score": null,
+    "away_score": null,
+    "status": "SCHEDULED",
+    "difficolta_portieri": {
+      "Empoli": 3,
+      "Napoli": 1
+    },
+    "season": "2026/2027"
+  },
+  {
+    "match_id": "2026_G27_UDI_INT",
+    "giornata": 27,
+    "date_str": "Sun Mar 7 15:00",
+    "home_team": "Udinese",
+    "home_team_code": "UDI",
+    "away_team": "Inter",
+    "away_team_code": "INT",
+    "home_score": null,
+    "away_score": null,
+    "status": "SCHEDULED",
+    "difficolta_portieri": {
+      "Udinese": 3,
+      "Inter": 1
+    },
+    "season": "2026/2027"
+  },
+  {
+    "match_id": "2026_G27_ATA_TOR",
+    "giornata": 27,
+    "date_str": "Sun Mar 7 15:00",
+    "home_team": "Atalanta",
+    "home_team_code": "ATA",
+    "away_team": "Torino",
+    "away_team_code": "TOR",
+    "home_score": null,
+    "away_score": null,
+    "status": "SCHEDULED",
+    "difficolta_portieri": {
+      "Atalanta": 2,
+      "Torino": 3
+    },
+    "season": "2026/2027"
+  },
+  {
+    "match_id": "2026_G27_NAP_PAR",
+    "giornata": 27,
+    "date_str": "Sun Mar 7 15:00",
+    "home_team": "Napoli",
+    "home_team_code": "NAP",
+    "away_team": "Parma",
+    "away_team_code": "PAR",
+    "home_score": null,
+    "away_score": null,
+    "status": "SCHEDULED",
+    "difficolta_portieri": {
+      "Napoli": 1,
+      "Parma": 3
+    },
+    "season": "2026/2027"
+  },
+  {
+    "match_id": "2026_G27_LEC_COM",
+    "giornata": 27,
+    "date_str": "Sun Mar 7 15:00",
+    "home_team": "Lecce",
+    "home_team_code": "LEC",
+    "away_team": "Como",
+    "away_team_code": "COM",
+    "home_score": null,
+    "away_score": null,
+    "status": "SCHEDULED",
+    "difficolta_portieri": {
+      "Lecce": 1,
+      "Como": 1
+    },
+    "season": "2026/2027"
+  },
+  {
+    "match_id": "2026_G27_LAZ_EMP",
+    "giornata": 27,
+    "date_str": "Sun Mar 7 15:00",
+    "home_team": "Lazio",
+    "home_team_code": "LAZ",
+    "away_team": "Empoli",
+    "away_team_code": "EMP",
+    "home_score": null,
+    "away_score": null,
+    "status": "SCHEDULED",
+    "difficolta_portieri": {
+      "Lazio": 1,
+      "Empoli": 2
+    },
+    "season": "2026/2027"
+  },
+  {
+    "match_id": "2026_G27_VER_BOL",
+    "giornata": 27,
+    "date_str": "Sun Mar 7 15:00",
+    "home_team": "Verona",
+    "home_team_code": "VER",
+    "away_team": "Bologna",
+    "away_team_code": "BOL",
+    "home_score": null,
+    "away_score": null,
+    "status": "SCHEDULED",
+    "difficolta_portieri": {
+      "Verona": 2,
+      "Bologna": 1
+    },
+    "season": "2026/2027"
+  },
+  {
+    "match_id": "2026_G27_MON_GEN",
+    "giornata": 27,
+    "date_str": "Sun Mar 7 15:00",
+    "home_team": "Monza",
+    "home_team_code": "MON",
+    "away_team": "Genoa",
+    "away_team_code": "GEN",
+    "home_score": null,
+    "away_score": null,
+    "status": "SCHEDULED",
+    "difficolta_portieri": {
+      "Monza": 1,
+      "Genoa": 1
+    },
+    "season": "2026/2027"
+  },
+  {
+    "match_id": "2026_G27_FIO_VEN",
+    "giornata": 27,
+    "date_str": "Sun Mar 7 15:00",
+    "home_team": "Fiorentina",
+    "home_team_code": "FIO",
+    "away_team": "Venezia",
+    "away_team_code": "VEN",
+    "home_score": null,
+    "away_score": null,
+    "status": "SCHEDULED",
+    "difficolta_portieri": {
+      "Fiorentina": 1,
+      "Venezia": 2
+    },
+    "season": "2026/2027"
+  },
+  {
+    "match_id": "2026_G27_MIL_CAG",
+    "giornata": 27,
+    "date_str": "Sun Mar 7 15:00",
+    "home_team": "Milan",
+    "home_team_code": "MIL",
+    "away_team": "Cagliari",
+    "away_team_code": "CAG",
+    "home_score": null,
+    "away_score": null,
+    "status": "SCHEDULED",
+    "difficolta_portieri": {
+      "Milan": 1,
+      "Cagliari": 3
+    },
+    "season": "2026/2027"
+  },
+  {
+    "match_id": "2026_G27_JUV_ROM",
+    "giornata": 27,
+    "date_str": "Sun Mar 7 15:00",
+    "home_team": "Juventus",
+    "home_team_code": "JUV",
+    "away_team": "Roma",
+    "away_team_code": "ROM",
+    "home_score": null,
+    "away_score": null,
+    "status": "SCHEDULED",
+    "difficolta_portieri": {
+      "Juventus": 2,
+      "Roma": 3
+    },
+    "season": "2026/2027"
+  },
+  {
+    "match_id": "2026_G28_BOL_NAP",
+    "giornata": 28,
+    "date_str": "Sun Mar 14 15:00",
+    "home_team": "Bologna",
+    "home_team_code": "BOL",
+    "away_team": "Napoli",
+    "away_team_code": "NAP",
+    "home_score": null,
+    "away_score": null,
+    "status": "SCHEDULED",
+    "difficolta_portieri": {
+      "Bologna": 3,
+      "Napoli": 2
+    },
+    "season": "2026/2027"
+  },
+  {
+    "match_id": "2026_G28_CAG_FIO",
+    "giornata": 28,
+    "date_str": "Sun Mar 14 15:00",
+    "home_team": "Cagliari",
+    "home_team_code": "CAG",
+    "away_team": "Fiorentina",
+    "away_team_code": "FIO",
+    "home_score": null,
+    "away_score": null,
+    "status": "SCHEDULED",
+    "difficolta_portieri": {
+      "Cagliari": 2,
+      "Fiorentina": 1
+    },
+    "season": "2026/2027"
+  },
+  {
+    "match_id": "2026_G28_MIL_VER",
+    "giornata": 28,
+    "date_str": "Sun Mar 14 15:00",
+    "home_team": "Milan",
+    "home_team_code": "MIL",
+    "away_team": "Verona",
+    "away_team_code": "VER",
+    "home_score": null,
+    "away_score": null,
+    "status": "SCHEDULED",
+    "difficolta_portieri": {
+      "Milan": 1,
+      "Verona": 3
+    },
+    "season": "2026/2027"
+  },
+  {
+    "match_id": "2026_G28_GEN_ROM",
+    "giornata": 28,
+    "date_str": "Sun Mar 14 15:00",
+    "home_team": "Genoa",
+    "home_team_code": "GEN",
+    "away_team": "Roma",
+    "away_team_code": "ROM",
+    "home_score": null,
+    "away_score": null,
+    "status": "SCHEDULED",
+    "difficolta_portieri": {
+      "Genoa": 2,
+      "Roma": 1
+    },
+    "season": "2026/2027"
+  },
+  {
+    "match_id": "2026_G28_PAR_LEC",
+    "giornata": 28,
+    "date_str": "Sun Mar 14 15:00",
+    "home_team": "Parma",
+    "home_team_code": "PAR",
+    "away_team": "Lecce",
+    "away_team_code": "LEC",
+    "home_score": null,
+    "away_score": null,
+    "status": "SCHEDULED",
+    "difficolta_portieri": {
+      "Parma": 1,
+      "Lecce": 1
+    },
+    "season": "2026/2027"
+  },
+  {
+    "match_id": "2026_G28_TOR_INT",
+    "giornata": 28,
+    "date_str": "Sun Mar 14 15:00",
+    "home_team": "Torino",
+    "home_team_code": "TOR",
+    "away_team": "Inter",
+    "away_team_code": "INT",
+    "home_score": null,
+    "away_score": null,
+    "status": "SCHEDULED",
+    "difficolta_portieri": {
+      "Torino": 3,
+      "Inter": 2
+    },
+    "season": "2026/2027"
+  },
+  {
+    "match_id": "2026_G28_EMP_MON",
+    "giornata": 28,
+    "date_str": "Sun Mar 14 15:00",
+    "home_team": "Empoli",
+    "home_team_code": "EMP",
+    "away_team": "Monza",
+    "away_team_code": "MON",
+    "home_score": null,
+    "away_score": null,
+    "status": "SCHEDULED",
+    "difficolta_portieri": {
+      "Empoli": 1,
+      "Monza": 1
+    },
+    "season": "2026/2027"
+  },
+  {
+    "match_id": "2026_G28_COM_UDI",
+    "giornata": 28,
+    "date_str": "Sun Mar 14 15:00",
+    "home_team": "Como",
+    "home_team_code": "COM",
+    "away_team": "Udinese",
+    "away_team_code": "UDI",
+    "home_score": null,
+    "away_score": null,
+    "status": "SCHEDULED",
+    "difficolta_portieri": {
+      "Como": 1,
+      "Udinese": 1
+    },
+    "season": "2026/2027"
+  },
+  {
+    "match_id": "2026_G28_LAZ_JUV",
+    "giornata": 28,
+    "date_str": "Sun Mar 14 15:00",
+    "home_team": "Lazio",
+    "home_team_code": "LAZ",
+    "away_team": "Juventus",
+    "away_team_code": "JUV",
+    "home_score": null,
+    "away_score": null,
+    "status": "SCHEDULED",
+    "difficolta_portieri": {
+      "Lazio": 3,
+      "Juventus": 2
+    },
+    "season": "2026/2027"
+  },
+  {
+    "match_id": "2026_G28_VEN_ATA",
+    "giornata": 28,
+    "date_str": "Sun Mar 14 15:00",
+    "home_team": "Venezia",
+    "home_team_code": "VEN",
+    "away_team": "Atalanta",
+    "away_team_code": "ATA",
+    "home_score": null,
+    "away_score": null,
+    "status": "SCHEDULED",
+    "difficolta_portieri": {
+      "Venezia": 3,
+      "Atalanta": 1
+    },
+    "season": "2026/2027"
+  },
+  {
+    "match_id": "2026_G29_NAP_VEN",
+    "giornata": 29,
+    "date_str": "Sun Mar 21 15:00",
+    "home_team": "Napoli",
+    "home_team_code": "NAP",
+    "away_team": "Venezia",
+    "away_team_code": "VEN",
+    "home_score": null,
+    "away_score": null,
+    "status": "SCHEDULED",
+    "difficolta_portieri": {
+      "Napoli": 1,
+      "Venezia": 3
+    },
+    "season": "2026/2027"
+  },
+  {
+    "match_id": "2026_G29_UDI_TOR",
+    "giornata": 29,
+    "date_str": "Sun Mar 21 15:00",
+    "home_team": "Udinese",
+    "home_team_code": "UDI",
+    "away_team": "Torino",
+    "away_team_code": "TOR",
+    "home_score": null,
+    "away_score": null,
+    "status": "SCHEDULED",
+    "difficolta_portieri": {
+      "Udinese": 2,
+      "Torino": 1
+    },
+    "season": "2026/2027"
+  },
+  {
+    "match_id": "2026_G29_JUV_COM",
+    "giornata": 29,
+    "date_str": "Sun Mar 21 15:00",
+    "home_team": "Juventus",
+    "home_team_code": "JUV",
+    "away_team": "Como",
+    "away_team_code": "COM",
+    "home_score": null,
+    "away_score": null,
+    "status": "SCHEDULED",
+    "difficolta_portieri": {
+      "Juventus": 1,
+      "Como": 3
+    },
+    "season": "2026/2027"
+  },
+  {
+    "match_id": "2026_G29_FIO_GEN",
+    "giornata": 29,
+    "date_str": "Sun Mar 21 15:00",
+    "home_team": "Fiorentina",
+    "home_team_code": "FIO",
+    "away_team": "Genoa",
+    "away_team_code": "GEN",
+    "home_score": null,
+    "away_score": null,
+    "status": "SCHEDULED",
+    "difficolta_portieri": {
+      "Fiorentina": 1,
+      "Genoa": 2
+    },
+    "season": "2026/2027"
+  },
+  {
+    "match_id": "2026_G29_PAR_LAZ",
+    "giornata": 29,
+    "date_str": "Sun Mar 21 15:00",
+    "home_team": "Parma",
+    "home_team_code": "PAR",
+    "away_team": "Lazio",
+    "away_team_code": "LAZ",
+    "home_score": null,
+    "away_score": null,
+    "status": "SCHEDULED",
+    "difficolta_portieri": {
+      "Parma": 2,
+      "Lazio": 1
+    },
+    "season": "2026/2027"
+  },
+  {
+    "match_id": "2026_G29_VER_CAG",
+    "giornata": 29,
+    "date_str": "Sun Mar 21 15:00",
+    "home_team": "Verona",
+    "home_team_code": "VER",
+    "away_team": "Cagliari",
+    "away_team_code": "CAG",
+    "home_score": null,
+    "away_score": null,
+    "status": "SCHEDULED",
+    "difficolta_portieri": {
+      "Verona": 1,
+      "Cagliari": 1
+    },
+    "season": "2026/2027"
+  },
+  {
+    "match_id": "2026_G29_MON_BOL",
+    "giornata": 29,
+    "date_str": "Sun Mar 21 15:00",
+    "home_team": "Monza",
+    "home_team_code": "MON",
+    "away_team": "Bologna",
+    "away_team_code": "BOL",
+    "home_score": null,
+    "away_score": null,
+    "status": "SCHEDULED",
+    "difficolta_portieri": {
+      "Monza": 2,
+      "Bologna": 1
+    },
+    "season": "2026/2027"
+  },
+  {
+    "match_id": "2026_G29_INT_EMP",
+    "giornata": 29,
+    "date_str": "Sun Mar 21 15:00",
+    "home_team": "Inter",
+    "home_team_code": "INT",
+    "away_team": "Empoli",
+    "away_team_code": "EMP",
+    "home_score": null,
+    "away_score": null,
+    "status": "SCHEDULED",
+    "difficolta_portieri": {
+      "Inter": 1,
+      "Empoli": 3
+    },
+    "season": "2026/2027"
+  },
+  {
+    "match_id": "2026_G29_ROM_LEC",
+    "giornata": 29,
+    "date_str": "Sun Mar 21 15:00",
+    "home_team": "Roma",
+    "home_team_code": "ROM",
+    "away_team": "Lecce",
+    "away_team_code": "LEC",
+    "home_score": null,
+    "away_score": null,
+    "status": "SCHEDULED",
+    "difficolta_portieri": {
+      "Roma": 1,
+      "Lecce": 2
+    },
+    "season": "2026/2027"
+  },
+  {
+    "match_id": "2026_G29_ATA_MIL",
+    "giornata": 29,
+    "date_str": "Sun Mar 21 15:00",
+    "home_team": "Atalanta",
+    "home_team_code": "ATA",
+    "away_team": "Milan",
+    "away_team_code": "MIL",
+    "home_score": null,
+    "away_score": null,
+    "status": "SCHEDULED",
+    "difficolta_portieri": {
+      "Atalanta": 3,
+      "Milan": 3
+    },
+    "season": "2026/2027"
+  },
+  {
+    "match_id": "2026_G30_LEC_LAZ",
+    "giornata": 30,
+    "date_str": "Sun Apr 4 15:00",
+    "home_team": "Lecce",
+    "home_team_code": "LEC",
+    "away_team": "Lazio",
+    "away_team_code": "LAZ",
+    "home_score": null,
+    "away_score": null,
+    "status": "SCHEDULED",
+    "difficolta_portieri": {
+      "Lecce": 2,
+      "Lazio": 1
+    },
+    "season": "2026/2027"
+  },
+  {
+    "match_id": "2026_G30_CAG_NAP",
+    "giornata": 30,
+    "date_str": "Sun Apr 4 15:00",
+    "home_team": "Cagliari",
+    "home_team_code": "CAG",
+    "away_team": "Napoli",
+    "away_team_code": "NAP",
+    "home_score": null,
+    "away_score": null,
+    "status": "SCHEDULED",
+    "difficolta_portieri": {
+      "Cagliari": 3,
+      "Napoli": 1
+    },
+    "season": "2026/2027"
+  },
+  {
+    "match_id": "2026_G30_COM_FIO",
+    "giornata": 30,
+    "date_str": "Sun Apr 4 15:00",
+    "home_team": "Como",
+    "home_team_code": "COM",
+    "away_team": "Fiorentina",
+    "away_team_code": "FIO",
+    "home_score": null,
+    "away_score": null,
+    "status": "SCHEDULED",
+    "difficolta_portieri": {
+      "Como": 2,
+      "Fiorentina": 1
+    },
+    "season": "2026/2027"
+  },
+  {
+    "match_id": "2026_G30_VER_ATA",
+    "giornata": 30,
+    "date_str": "Sun Apr 4 15:00",
+    "home_team": "Verona",
+    "home_team_code": "VER",
+    "away_team": "Atalanta",
+    "away_team_code": "ATA",
+    "home_score": null,
+    "away_score": null,
+    "status": "SCHEDULED",
+    "difficolta_portieri": {
+      "Verona": 3,
+      "Atalanta": 1
+    },
+    "season": "2026/2027"
+  },
+  {
+    "match_id": "2026_G30_ROM_BOL",
+    "giornata": 30,
+    "date_str": "Sun Apr 4 15:00",
+    "home_team": "Roma",
+    "home_team_code": "ROM",
+    "away_team": "Bologna",
+    "away_team_code": "BOL",
+    "home_score": null,
+    "away_score": null,
+    "status": "SCHEDULED",
+    "difficolta_portieri": {
+      "Roma": 2,
+      "Bologna": 2
+    },
+    "season": "2026/2027"
+  },
+  {
+    "match_id": "2026_G30_MIL_MON",
+    "giornata": 30,
+    "date_str": "Sun Apr 4 15:00",
+    "home_team": "Milan",
+    "home_team_code": "MIL",
+    "away_team": "Monza",
+    "away_team_code": "MON",
+    "home_score": null,
+    "away_score": null,
+    "status": "SCHEDULED",
+    "difficolta_portieri": {
+      "Milan": 1,
+      "Monza": 3
+    },
+    "season": "2026/2027"
+  },
+  {
+    "match_id": "2026_G30_GEN_INT",
+    "giornata": 30,
+    "date_str": "Sun Apr 4 15:00",
+    "home_team": "Genoa",
+    "home_team_code": "GEN",
+    "away_team": "Inter",
+    "away_team_code": "INT",
+    "home_score": null,
+    "away_score": null,
+    "status": "SCHEDULED",
+    "difficolta_portieri": {
+      "Genoa": 3,
+      "Inter": 1
+    },
+    "season": "2026/2027"
+  },
+  {
+    "match_id": "2026_G30_TOR_JUV",
+    "giornata": 30,
+    "date_str": "Sun Apr 4 15:00",
+    "home_team": "Torino",
+    "home_team_code": "TOR",
+    "away_team": "Juventus",
+    "away_team_code": "JUV",
+    "home_score": null,
+    "away_score": null,
+    "status": "SCHEDULED",
+    "difficolta_portieri": {
+      "Torino": 3,
+      "Juventus": 2
+    },
+    "season": "2026/2027"
+  },
+  {
+    "match_id": "2026_G30_VEN_PAR",
+    "giornata": 30,
+    "date_str": "Sun Apr 4 15:00",
+    "home_team": "Venezia",
+    "home_team_code": "VEN",
+    "away_team": "Parma",
+    "away_team_code": "PAR",
+    "home_score": null,
+    "away_score": null,
+    "status": "SCHEDULED",
+    "difficolta_portieri": {
+      "Venezia": 1,
+      "Parma": 1
+    },
+    "season": "2026/2027"
+  },
+  {
+    "match_id": "2026_G30_EMP_UDI",
+    "giornata": 30,
+    "date_str": "Sun Apr 4 15:00",
+    "home_team": "Empoli",
+    "home_team_code": "EMP",
+    "away_team": "Udinese",
+    "away_team_code": "UDI",
+    "home_score": null,
+    "away_score": null,
+    "status": "SCHEDULED",
+    "difficolta_portieri": {
+      "Empoli": 1,
+      "Udinese": 1
+    },
+    "season": "2026/2027"
+  },
+  {
+    "match_id": "2026_G31_JUV_LEC",
+    "giornata": 31,
+    "date_str": "Sun Apr 11 15:00",
+    "home_team": "Juventus",
+    "home_team_code": "JUV",
+    "away_team": "Lecce",
+    "away_team_code": "LEC",
+    "home_score": null,
+    "away_score": null,
+    "status": "SCHEDULED",
+    "difficolta_portieri": {
+      "Juventus": 1,
+      "Lecce": 3
+    },
+    "season": "2026/2027"
+  },
+  {
+    "match_id": "2026_G31_NAP_VER",
+    "giornata": 31,
+    "date_str": "Sun Apr 11 15:00",
+    "home_team": "Napoli",
+    "home_team_code": "NAP",
+    "away_team": "Verona",
+    "away_team_code": "VER",
+    "home_score": null,
+    "away_score": null,
+    "status": "SCHEDULED",
+    "difficolta_portieri": {
+      "Napoli": 1,
+      "Verona": 3
+    },
+    "season": "2026/2027"
+  },
+  {
+    "match_id": "2026_G31_FIO_MIL",
+    "giornata": 31,
+    "date_str": "Sun Apr 11 15:00",
+    "home_team": "Fiorentina",
+    "home_team_code": "FIO",
+    "away_team": "Milan",
+    "away_team_code": "MIL",
+    "home_score": null,
+    "away_score": null,
+    "status": "SCHEDULED",
+    "difficolta_portieri": {
+      "Fiorentina": 3,
+      "Milan": 2
+    },
+    "season": "2026/2027"
+  },
+  {
+    "match_id": "2026_G31_LAZ_TOR",
+    "giornata": 31,
+    "date_str": "Sun Apr 11 15:00",
+    "home_team": "Lazio",
+    "home_team_code": "LAZ",
+    "away_team": "Torino",
+    "away_team_code": "TOR",
+    "home_score": null,
+    "away_score": null,
+    "status": "SCHEDULED",
+    "difficolta_portieri": {
+      "Lazio": 2,
+      "Torino": 2
+    },
+    "season": "2026/2027"
+  },
+  {
+    "match_id": "2026_G31_CAG_ATA",
+    "giornata": 31,
+    "date_str": "Sun Apr 11 15:00",
+    "home_team": "Cagliari",
+    "home_team_code": "CAG",
+    "away_team": "Atalanta",
+    "away_team_code": "ATA",
+    "home_score": null,
+    "away_score": null,
+    "status": "SCHEDULED",
+    "difficolta_portieri": {
+      "Cagliari": 3,
+      "Atalanta": 1
+    },
+    "season": "2026/2027"
+  },
+  {
+    "match_id": "2026_G31_PAR_COM",
+    "giornata": 31,
+    "date_str": "Sun Apr 11 15:00",
+    "home_team": "Parma",
+    "home_team_code": "PAR",
+    "away_team": "Como",
+    "away_team_code": "COM",
+    "home_score": null,
+    "away_score": null,
+    "status": "SCHEDULED",
+    "difficolta_portieri": {
+      "Parma": 1,
+      "Como": 1
+    },
+    "season": "2026/2027"
+  },
+  {
+    "match_id": "2026_G31_BOL_VEN",
+    "giornata": 31,
+    "date_str": "Sun Apr 11 15:00",
+    "home_team": "Bologna",
+    "home_team_code": "BOL",
+    "away_team": "Venezia",
+    "away_team_code": "VEN",
+    "home_score": null,
+    "away_score": null,
+    "status": "SCHEDULED",
+    "difficolta_portieri": {
+      "Bologna": 1,
+      "Venezia": 2
+    },
+    "season": "2026/2027"
+  },
+  {
+    "match_id": "2026_G31_EMP_GEN",
+    "giornata": 31,
+    "date_str": "Sun Apr 11 15:00",
+    "home_team": "Empoli",
+    "home_team_code": "EMP",
+    "away_team": "Genoa",
+    "away_team_code": "GEN",
+    "home_score": null,
+    "away_score": null,
+    "status": "SCHEDULED",
+    "difficolta_portieri": {
+      "Empoli": 1,
+      "Genoa": 1
+    },
+    "season": "2026/2027"
+  },
+  {
+    "match_id": "2026_G31_INT_ROM",
+    "giornata": 31,
+    "date_str": "Sun Apr 11 15:00",
+    "home_team": "Inter",
+    "home_team_code": "INT",
+    "away_team": "Roma",
+    "away_team_code": "ROM",
+    "home_score": null,
+    "away_score": null,
+    "status": "SCHEDULED",
+    "difficolta_portieri": {
+      "Inter": 2,
+      "Roma": 3
+    },
+    "season": "2026/2027"
+  },
+  {
+    "match_id": "2026_G31_UDI_MON",
+    "giornata": 31,
+    "date_str": "Sun Apr 11 15:00",
+    "home_team": "Udinese",
+    "home_team_code": "UDI",
+    "away_team": "Monza",
+    "away_team_code": "MON",
+    "home_score": null,
+    "away_score": null,
+    "status": "SCHEDULED",
+    "difficolta_portieri": {
+      "Udinese": 1,
+      "Monza": 1
+    },
+    "season": "2026/2027"
+  },
+  {
+    "match_id": "2026_G32_MON_INT",
+    "giornata": 32,
+    "date_str": "Sun Apr 18 15:00",
+    "home_team": "Monza",
+    "home_team_code": "MON",
+    "away_team": "Inter",
+    "away_team_code": "INT",
+    "home_score": null,
+    "away_score": null,
+    "status": "SCHEDULED",
+    "difficolta_portieri": {
+      "Monza": 3,
+      "Inter": 1
+    },
+    "season": "2026/2027"
+  },
+  {
+    "match_id": "2026_G32_FIO_PAR",
+    "giornata": 32,
+    "date_str": "Sun Apr 18 15:00",
+    "home_team": "Fiorentina",
+    "home_team_code": "FIO",
+    "away_team": "Parma",
+    "away_team_code": "PAR",
+    "home_score": null,
+    "away_score": null,
+    "status": "SCHEDULED",
+    "difficolta_portieri": {
+      "Fiorentina": 1,
+      "Parma": 2
+    },
+    "season": "2026/2027"
+  },
+  {
+    "match_id": "2026_G32_ROM_LAZ",
+    "giornata": 32,
+    "date_str": "Sun Apr 18 15:00",
+    "home_team": "Roma",
+    "home_team_code": "ROM",
+    "away_team": "Lazio",
+    "away_team_code": "LAZ",
+    "home_score": null,
+    "away_score": null,
+    "status": "SCHEDULED",
+    "difficolta_portieri": {
+      "Roma": 2,
+      "Lazio": 2
+    },
+    "season": "2026/2027"
+  },
+  {
+    "match_id": "2026_G32_COM_EMP",
+    "giornata": 32,
+    "date_str": "Sun Apr 18 15:00",
+    "home_team": "Como",
+    "home_team_code": "COM",
+    "away_team": "Empoli",
+    "away_team_code": "EMP",
+    "home_score": null,
+    "away_score": null,
+    "status": "SCHEDULED",
+    "difficolta_portieri": {
+      "Como": 1,
+      "Empoli": 1
+    },
+    "season": "2026/2027"
+  },
+  {
+    "match_id": "2026_G32_VER_LEC",
+    "giornata": 32,
+    "date_str": "Sun Apr 18 15:00",
+    "home_team": "Verona",
+    "home_team_code": "VER",
+    "away_team": "Lecce",
+    "away_team_code": "LEC",
+    "home_score": null,
+    "away_score": null,
+    "status": "SCHEDULED",
+    "difficolta_portieri": {
+      "Verona": 1,
+      "Lecce": 1
+    },
+    "season": "2026/2027"
+  },
+  {
+    "match_id": "2026_G32_BOL_CAG",
+    "giornata": 32,
+    "date_str": "Sun Apr 18 15:00",
+    "home_team": "Bologna",
+    "home_team_code": "BOL",
+    "away_team": "Cagliari",
+    "away_team_code": "CAG",
+    "home_score": null,
+    "away_score": null,
+    "status": "SCHEDULED",
+    "difficolta_portieri": {
+      "Bologna": 1,
+      "Cagliari": 2
+    },
+    "season": "2026/2027"
+  },
+  {
+    "match_id": "2026_G32_ATA_UDI",
+    "giornata": 32,
+    "date_str": "Sun Apr 18 15:00",
+    "home_team": "Atalanta",
+    "home_team_code": "ATA",
+    "away_team": "Udinese",
+    "away_team_code": "UDI",
+    "home_score": null,
+    "away_score": null,
+    "status": "SCHEDULED",
+    "difficolta_portieri": {
+      "Atalanta": 1,
+      "Udinese": 3
+    },
+    "season": "2026/2027"
+  },
+  {
+    "match_id": "2026_G32_VEN_JUV",
+    "giornata": 32,
+    "date_str": "Sun Apr 18 15:00",
+    "home_team": "Venezia",
+    "home_team_code": "VEN",
+    "away_team": "Juventus",
+    "away_team_code": "JUV",
+    "home_score": null,
+    "away_score": null,
+    "status": "SCHEDULED",
+    "difficolta_portieri": {
+      "Venezia": 3,
+      "Juventus": 1
+    },
+    "season": "2026/2027"
+  },
+  {
+    "match_id": "2026_G32_MIL_NAP",
+    "giornata": 32,
+    "date_str": "Sun Apr 18 15:00",
+    "home_team": "Milan",
+    "home_team_code": "MIL",
+    "away_team": "Napoli",
+    "away_team_code": "NAP",
+    "home_score": null,
+    "away_score": null,
+    "status": "SCHEDULED",
+    "difficolta_portieri": {
+      "Milan": 3,
+      "Napoli": 3
+    },
+    "season": "2026/2027"
+  },
+  {
+    "match_id": "2026_G32_TOR_GEN",
+    "giornata": 32,
+    "date_str": "Sun Apr 18 15:00",
+    "home_team": "Torino",
+    "home_team_code": "TOR",
+    "away_team": "Genoa",
+    "away_team_code": "GEN",
+    "home_score": null,
+    "away_score": null,
+    "status": "SCHEDULED",
+    "difficolta_portieri": {
+      "Torino": 1,
+      "Genoa": 2
+    },
+    "season": "2026/2027"
+  },
+  {
+    "match_id": "2026_G33_EMP_ROM",
+    "giornata": 33,
+    "date_str": "Sun Apr 25 15:00",
+    "home_team": "Empoli",
+    "home_team_code": "EMP",
+    "away_team": "Roma",
+    "away_team_code": "ROM",
+    "home_score": null,
+    "away_score": null,
+    "status": "SCHEDULED",
+    "difficolta_portieri": {
+      "Empoli": 2,
+      "Roma": 1
+    },
+    "season": "2026/2027"
+  },
+  {
+    "match_id": "2026_G33_CAG_MON",
+    "giornata": 33,
+    "date_str": "Sun Apr 25 15:00",
+    "home_team": "Cagliari",
+    "home_team_code": "CAG",
+    "away_team": "Monza",
+    "away_team_code": "MON",
+    "home_score": null,
+    "away_score": null,
+    "status": "SCHEDULED",
+    "difficolta_portieri": {
+      "Cagliari": 1,
+      "Monza": 1
+    },
+    "season": "2026/2027"
+  },
+  {
+    "match_id": "2026_G33_NAP_UDI",
+    "giornata": 33,
+    "date_str": "Sun Apr 25 15:00",
+    "home_team": "Napoli",
+    "home_team_code": "NAP",
+    "away_team": "Udinese",
+    "away_team_code": "UDI",
+    "home_score": null,
+    "away_score": null,
+    "status": "SCHEDULED",
+    "difficolta_portieri": {
+      "Napoli": 1,
+      "Udinese": 3
+    },
+    "season": "2026/2027"
+  },
+  {
+    "match_id": "2026_G33_PAR_ATA",
+    "giornata": 33,
+    "date_str": "Sun Apr 25 15:00",
+    "home_team": "Parma",
+    "home_team_code": "PAR",
+    "away_team": "Atalanta",
+    "away_team_code": "ATA",
+    "home_score": null,
+    "away_score": null,
+    "status": "SCHEDULED",
+    "difficolta_portieri": {
+      "Parma": 3,
+      "Atalanta": 1
+    },
+    "season": "2026/2027"
+  },
+  {
+    "match_id": "2026_G33_LAZ_COM",
+    "giornata": 33,
+    "date_str": "Sun Apr 25 15:00",
+    "home_team": "Lazio",
+    "home_team_code": "LAZ",
+    "away_team": "Como",
+    "away_team_code": "COM",
+    "home_score": null,
+    "away_score": null,
+    "status": "SCHEDULED",
+    "difficolta_portieri": {
+      "Lazio": 1,
+      "Como": 2
+    },
+    "season": "2026/2027"
+  },
+  {
+    "match_id": "2026_G33_JUV_FIO",
+    "giornata": 33,
+    "date_str": "Sun Apr 25 15:00",
+    "home_team": "Juventus",
+    "home_team_code": "JUV",
+    "away_team": "Fiorentina",
+    "away_team_code": "FIO",
+    "home_score": null,
+    "away_score": null,
+    "status": "SCHEDULED",
+    "difficolta_portieri": {
+      "Juventus": 2,
+      "Fiorentina": 3
+    },
+    "season": "2026/2027"
+  },
+  {
+    "match_id": "2026_G33_GEN_VER",
+    "giornata": 33,
+    "date_str": "Sun Apr 25 15:00",
+    "home_team": "Genoa",
+    "home_team_code": "GEN",
+    "away_team": "Verona",
+    "away_team_code": "VER",
+    "home_score": null,
+    "away_score": null,
+    "status": "SCHEDULED",
+    "difficolta_portieri": {
+      "Genoa": 1,
+      "Verona": 1
+    },
+    "season": "2026/2027"
+  },
+  {
+    "match_id": "2026_G33_LEC_MIL",
+    "giornata": 33,
+    "date_str": "Sun Apr 25 15:00",
+    "home_team": "Lecce",
+    "home_team_code": "LEC",
+    "away_team": "Milan",
+    "away_team_code": "MIL",
+    "home_score": null,
+    "away_score": null,
+    "status": "SCHEDULED",
+    "difficolta_portieri": {
+      "Lecce": 3,
+      "Milan": 1
+    },
+    "season": "2026/2027"
+  },
+  {
+    "match_id": "2026_G33_VEN_TOR",
+    "giornata": 33,
+    "date_str": "Sun Apr 25 15:00",
+    "home_team": "Venezia",
+    "home_team_code": "VEN",
+    "away_team": "Torino",
+    "away_team_code": "TOR",
+    "home_score": null,
+    "away_score": null,
+    "status": "SCHEDULED",
+    "difficolta_portieri": {
+      "Venezia": 2,
+      "Torino": 1
+    },
+    "season": "2026/2027"
+  },
+  {
+    "match_id": "2026_G33_INT_BOL",
+    "giornata": 33,
+    "date_str": "Sun Apr 25 15:00",
+    "home_team": "Inter",
+    "home_team_code": "INT",
+    "away_team": "Bologna",
+    "away_team_code": "BOL",
+    "home_score": null,
+    "away_score": null,
+    "status": "SCHEDULED",
+    "difficolta_portieri": {
+      "Inter": 2,
+      "Bologna": 3
+    },
+    "season": "2026/2027"
+  },
+  {
+    "match_id": "2026_G34_ATA_JUV",
+    "giornata": 34,
+    "date_str": "Sun May 2 15:00",
+    "home_team": "Atalanta",
+    "home_team_code": "ATA",
+    "away_team": "Juventus",
+    "away_team_code": "JUV",
+    "home_score": null,
+    "away_score": null,
+    "status": "SCHEDULED",
+    "difficolta_portieri": {
+      "Atalanta": 3,
+      "Juventus": 3
+    },
+    "season": "2026/2027"
+  },
+  {
+    "match_id": "2026_G34_TOR_PAR",
+    "giornata": 34,
+    "date_str": "Sun May 2 15:00",
+    "home_team": "Torino",
+    "home_team_code": "TOR",
+    "away_team": "Parma",
+    "away_team_code": "PAR",
+    "home_score": null,
+    "away_score": null,
+    "status": "SCHEDULED",
+    "difficolta_portieri": {
+      "Torino": 1,
+      "Parma": 2
+    },
+    "season": "2026/2027"
+  },
+  {
+    "match_id": "2026_G34_MIL_LAZ",
+    "giornata": 34,
+    "date_str": "Sun May 2 15:00",
+    "home_team": "Milan",
+    "home_team_code": "MIL",
+    "away_team": "Lazio",
+    "away_team_code": "LAZ",
+    "home_score": null,
+    "away_score": null,
+    "status": "SCHEDULED",
+    "difficolta_portieri": {
+      "Milan": 2,
+      "Lazio": 3
+    },
+    "season": "2026/2027"
+  },
+  {
+    "match_id": "2026_G34_UDI_GEN",
+    "giornata": 34,
+    "date_str": "Sun May 2 15:00",
+    "home_team": "Udinese",
+    "home_team_code": "UDI",
+    "away_team": "Genoa",
+    "away_team_code": "GEN",
+    "home_score": null,
+    "away_score": null,
+    "status": "SCHEDULED",
+    "difficolta_portieri": {
+      "Udinese": 1,
+      "Genoa": 1
+    },
+    "season": "2026/2027"
+  },
+  {
+    "match_id": "2026_G34_VER_EMP",
+    "giornata": 34,
+    "date_str": "Sun May 2 15:00",
+    "home_team": "Verona",
+    "home_team_code": "VER",
+    "away_team": "Empoli",
+    "away_team_code": "EMP",
+    "home_score": null,
+    "away_score": null,
+    "status": "SCHEDULED",
+    "difficolta_portieri": {
+      "Verona": 1,
+      "Empoli": 1
+    },
+    "season": "2026/2027"
+  },
+  {
+    "match_id": "2026_G34_BOL_FIO",
+    "giornata": 34,
+    "date_str": "Sun May 2 15:00",
+    "home_team": "Bologna",
+    "home_team_code": "BOL",
+    "away_team": "Fiorentina",
+    "away_team_code": "FIO",
+    "home_score": null,
+    "away_score": null,
+    "status": "SCHEDULED",
+    "difficolta_portieri": {
+      "Bologna": 2,
+      "Fiorentina": 2
+    },
+    "season": "2026/2027"
+  },
+  {
+    "match_id": "2026_G34_COM_INT",
+    "giornata": 34,
+    "date_str": "Sun May 2 15:00",
+    "home_team": "Como",
+    "home_team_code": "COM",
+    "away_team": "Inter",
+    "away_team_code": "INT",
+    "home_score": null,
+    "away_score": null,
+    "status": "SCHEDULED",
+    "difficolta_portieri": {
+      "Como": 3,
+      "Inter": 1
+    },
+    "season": "2026/2027"
+  },
+  {
+    "match_id": "2026_G34_MON_VEN",
+    "giornata": 34,
+    "date_str": "Sun May 2 15:00",
+    "home_team": "Monza",
+    "home_team_code": "MON",
+    "away_team": "Venezia",
+    "away_team_code": "VEN",
+    "home_score": null,
+    "away_score": null,
+    "status": "SCHEDULED",
+    "difficolta_portieri": {
+      "Monza": 1,
+      "Venezia": 1
+    },
+    "season": "2026/2027"
+  },
+  {
+    "match_id": "2026_G34_LEC_CAG",
+    "giornata": 34,
+    "date_str": "Sun May 2 15:00",
+    "home_team": "Lecce",
+    "home_team_code": "LEC",
+    "away_team": "Cagliari",
+    "away_team_code": "CAG",
+    "home_score": null,
+    "away_score": null,
+    "status": "SCHEDULED",
+    "difficolta_portieri": {
+      "Lecce": 1,
+      "Cagliari": 1
+    },
+    "season": "2026/2027"
+  },
+  {
+    "match_id": "2026_G34_ROM_NAP",
+    "giornata": 34,
+    "date_str": "Sun May 2 15:00",
+    "home_team": "Roma",
+    "home_team_code": "ROM",
+    "away_team": "Napoli",
+    "away_team_code": "NAP",
+    "home_score": null,
+    "away_score": null,
+    "status": "SCHEDULED",
+    "difficolta_portieri": {
+      "Roma": 3,
+      "Napoli": 2
+    },
+    "season": "2026/2027"
+  },
+  {
+    "match_id": "2026_G35_PAR_MIL",
+    "giornata": 35,
+    "date_str": "Sun May 9 15:00",
+    "home_team": "Parma",
+    "home_team_code": "PAR",
+    "away_team": "Milan",
+    "away_team_code": "MIL",
+    "home_score": null,
+    "away_score": null,
+    "status": "SCHEDULED",
+    "difficolta_portieri": {
+      "Parma": 3,
+      "Milan": 1
+    },
+    "season": "2026/2027"
+  },
+  {
+    "match_id": "2026_G35_GEN_CAG",
+    "giornata": 35,
+    "date_str": "Sun May 9 15:00",
+    "home_team": "Genoa",
+    "home_team_code": "GEN",
+    "away_team": "Cagliari",
+    "away_team_code": "CAG",
+    "home_score": null,
+    "away_score": null,
+    "status": "SCHEDULED",
+    "difficolta_portieri": {
+      "Genoa": 1,
+      "Cagliari": 1
+    },
+    "season": "2026/2027"
+  },
+  {
+    "match_id": "2026_G35_LAZ_VER",
+    "giornata": 35,
+    "date_str": "Sun May 9 15:00",
+    "home_team": "Lazio",
+    "home_team_code": "LAZ",
+    "away_team": "Verona",
+    "away_team_code": "VER",
+    "home_score": null,
+    "away_score": null,
+    "status": "SCHEDULED",
+    "difficolta_portieri": {
+      "Lazio": 1,
+      "Verona": 2
+    },
+    "season": "2026/2027"
+  },
+  {
+    "match_id": "2026_G35_NAP_MON",
+    "giornata": 35,
+    "date_str": "Sun May 9 15:00",
+    "home_team": "Napoli",
+    "home_team_code": "NAP",
+    "away_team": "Monza",
+    "away_team_code": "MON",
+    "home_score": null,
+    "away_score": null,
+    "status": "SCHEDULED",
+    "difficolta_portieri": {
+      "Napoli": 1,
+      "Monza": 3
+    },
+    "season": "2026/2027"
+  },
+  {
+    "match_id": "2026_G35_INT_LEC",
+    "giornata": 35,
+    "date_str": "Sun May 9 15:00",
+    "home_team": "Inter",
+    "home_team_code": "INT",
+    "away_team": "Lecce",
+    "away_team_code": "LEC",
+    "home_score": null,
+    "away_score": null,
+    "status": "SCHEDULED",
+    "difficolta_portieri": {
+      "Inter": 1,
+      "Lecce": 3
+    },
+    "season": "2026/2027"
+  },
+  {
+    "match_id": "2026_G35_VEN_COM",
+    "giornata": 35,
+    "date_str": "Sun May 9 15:00",
+    "home_team": "Venezia",
+    "home_team_code": "VEN",
+    "away_team": "Como",
+    "away_team_code": "COM",
+    "home_score": null,
+    "away_score": null,
+    "status": "SCHEDULED",
+    "difficolta_portieri": {
+      "Venezia": 1,
+      "Como": 1
+    },
+    "season": "2026/2027"
+  },
+  {
+    "match_id": "2026_G35_UDI_JUV",
+    "giornata": 35,
+    "date_str": "Sun May 9 15:00",
+    "home_team": "Udinese",
+    "home_team_code": "UDI",
+    "away_team": "Juventus",
+    "away_team_code": "JUV",
+    "home_score": null,
+    "away_score": null,
+    "status": "SCHEDULED",
+    "difficolta_portieri": {
+      "Udinese": 3,
+      "Juventus": 1
+    },
+    "season": "2026/2027"
+  },
+  {
+    "match_id": "2026_G35_TOR_BOL",
+    "giornata": 35,
+    "date_str": "Sun May 9 15:00",
+    "home_team": "Torino",
+    "home_team_code": "TOR",
+    "away_team": "Bologna",
+    "away_team_code": "BOL",
+    "home_score": null,
+    "away_score": null,
+    "status": "SCHEDULED",
+    "difficolta_portieri": {
+      "Torino": 2,
+      "Bologna": 2
+    },
+    "season": "2026/2027"
+  },
+  {
+    "match_id": "2026_G35_EMP_ATA",
+    "giornata": 35,
+    "date_str": "Sun May 9 15:00",
+    "home_team": "Empoli",
+    "home_team_code": "EMP",
+    "away_team": "Atalanta",
+    "away_team_code": "ATA",
+    "home_score": null,
+    "away_score": null,
+    "status": "SCHEDULED",
+    "difficolta_portieri": {
+      "Empoli": 3,
+      "Atalanta": 1
+    },
+    "season": "2026/2027"
+  },
+  {
+    "match_id": "2026_G35_FIO_ROM",
+    "giornata": 35,
+    "date_str": "Sun May 9 15:00",
+    "home_team": "Fiorentina",
+    "home_team_code": "FIO",
+    "away_team": "Roma",
+    "away_team_code": "ROM",
+    "home_score": null,
+    "away_score": null,
+    "status": "SCHEDULED",
+    "difficolta_portieri": {
+      "Fiorentina": 2,
+      "Roma": 2
+    },
+    "season": "2026/2027"
+  },
+  {
+    "match_id": "2026_G36_NAP_GEN",
+    "giornata": 36,
+    "date_str": "Sun May 16 15:00",
+    "home_team": "Napoli",
+    "home_team_code": "NAP",
+    "away_team": "Genoa",
+    "away_team_code": "GEN",
+    "home_score": null,
+    "away_score": null,
+    "status": "SCHEDULED",
+    "difficolta_portieri": {
+      "Napoli": 1,
+      "Genoa": 3
+    },
+    "season": "2026/2027"
+  },
+  {
+    "match_id": "2026_G36_LEC_FIO",
+    "giornata": 36,
+    "date_str": "Sun May 16 15:00",
+    "home_team": "Lecce",
+    "home_team_code": "LEC",
+    "away_team": "Fiorentina",
+    "away_team_code": "FIO",
+    "home_score": null,
+    "away_score": null,
+    "status": "SCHEDULED",
+    "difficolta_portieri": {
+      "Lecce": 2,
+      "Fiorentina": 1
+    },
+    "season": "2026/2027"
+  },
+  {
+    "match_id": "2026_G36_LAZ_UDI",
+    "giornata": 36,
+    "date_str": "Sun May 16 15:00",
+    "home_team": "Lazio",
+    "home_team_code": "LAZ",
+    "away_team": "Udinese",
+    "away_team_code": "UDI",
+    "home_score": null,
+    "away_score": null,
+    "status": "SCHEDULED",
+    "difficolta_portieri": {
+      "Lazio": 1,
+      "Udinese": 2
+    },
+    "season": "2026/2027"
+  },
+  {
+    "match_id": "2026_G36_BOL_EMP",
+    "giornata": 36,
+    "date_str": "Sun May 16 15:00",
+    "home_team": "Bologna",
+    "home_team_code": "BOL",
+    "away_team": "Empoli",
+    "away_team_code": "EMP",
+    "home_score": null,
+    "away_score": null,
+    "status": "SCHEDULED",
+    "difficolta_portieri": {
+      "Bologna": 1,
+      "Empoli": 2
+    },
+    "season": "2026/2027"
+  },
+  {
+    "match_id": "2026_G36_COM_ATA",
+    "giornata": 36,
+    "date_str": "Sun May 16 15:00",
+    "home_team": "Como",
+    "home_team_code": "COM",
+    "away_team": "Atalanta",
+    "away_team_code": "ATA",
+    "home_score": null,
+    "away_score": null,
+    "status": "SCHEDULED",
+    "difficolta_portieri": {
+      "Como": 3,
+      "Atalanta": 1
+    },
+    "season": "2026/2027"
+  },
+  {
+    "match_id": "2026_G36_JUV_INT",
+    "giornata": 36,
+    "date_str": "Sun May 16 15:00",
+    "home_team": "Juventus",
+    "home_team_code": "JUV",
+    "away_team": "Inter",
+    "away_team_code": "INT",
+    "home_score": null,
+    "away_score": null,
+    "status": "SCHEDULED",
+    "difficolta_portieri": {
+      "Juventus": 3,
+      "Inter": 3
+    },
+    "season": "2026/2027"
+  },
+  {
+    "match_id": "2026_G36_VER_VEN",
+    "giornata": 36,
+    "date_str": "Sun May 16 15:00",
+    "home_team": "Verona",
+    "home_team_code": "VER",
+    "away_team": "Venezia",
+    "away_team_code": "VEN",
+    "home_score": null,
+    "away_score": null,
+    "status": "SCHEDULED",
+    "difficolta_portieri": {
+      "Verona": 1,
+      "Venezia": 1
+    },
+    "season": "2026/2027"
+  },
+  {
+    "match_id": "2026_G36_MON_PAR",
+    "giornata": 36,
+    "date_str": "Sun May 16 15:00",
+    "home_team": "Monza",
+    "home_team_code": "MON",
+    "away_team": "Parma",
+    "away_team_code": "PAR",
+    "home_score": null,
+    "away_score": null,
+    "status": "SCHEDULED",
+    "difficolta_portieri": {
+      "Monza": 1,
+      "Parma": 1
+    },
+    "season": "2026/2027"
+  },
+  {
+    "match_id": "2026_G36_MIL_ROM",
+    "giornata": 36,
+    "date_str": "Sun May 16 15:00",
+    "home_team": "Milan",
+    "home_team_code": "MIL",
+    "away_team": "Roma",
+    "away_team_code": "ROM",
+    "home_score": null,
+    "away_score": null,
+    "status": "SCHEDULED",
+    "difficolta_portieri": {
+      "Milan": 2,
+      "Roma": 3
+    },
+    "season": "2026/2027"
+  },
+  {
+    "match_id": "2026_G36_CAG_TOR",
+    "giornata": 36,
+    "date_str": "Sun May 16 15:00",
+    "home_team": "Cagliari",
+    "home_team_code": "CAG",
+    "away_team": "Torino",
+    "away_team_code": "TOR",
+    "home_score": null,
+    "away_score": null,
+    "status": "SCHEDULED",
+    "difficolta_portieri": {
+      "Cagliari": 2,
+      "Torino": 1
+    },
+    "season": "2026/2027"
+  },
+  {
+    "match_id": "2026_G37_ROM_COM",
+    "giornata": 37,
+    "date_str": "Sun May 23 15:00",
+    "home_team": "Roma",
+    "home_team_code": "ROM",
+    "away_team": "Como",
+    "away_team_code": "COM",
+    "home_score": null,
+    "away_score": null,
+    "status": "SCHEDULED",
+    "difficolta_portieri": {
+      "Roma": 1,
+      "Como": 2
+    },
+    "season": "2026/2027"
+  },
+  {
+    "match_id": "2026_G37_PAR_JUV",
+    "giornata": 37,
+    "date_str": "Sun May 23 15:00",
+    "home_team": "Parma",
+    "home_team_code": "PAR",
+    "away_team": "Juventus",
+    "away_team_code": "JUV",
+    "home_score": null,
+    "away_score": null,
+    "status": "SCHEDULED",
+    "difficolta_portieri": {
+      "Parma": 3,
+      "Juventus": 1
+    },
+    "season": "2026/2027"
+  },
+  {
+    "match_id": "2026_G37_TOR_NAP",
+    "giornata": 37,
+    "date_str": "Sun May 23 15:00",
+    "home_team": "Torino",
+    "home_team_code": "TOR",
+    "away_team": "Napoli",
+    "away_team_code": "NAP",
+    "home_score": null,
+    "away_score": null,
+    "status": "SCHEDULED",
+    "difficolta_portieri": {
+      "Torino": 3,
+      "Napoli": 2
+    },
+    "season": "2026/2027"
+  },
+  {
+    "match_id": "2026_G37_ATA_LEC",
+    "giornata": 37,
+    "date_str": "Sun May 23 15:00",
+    "home_team": "Atalanta",
+    "home_team_code": "ATA",
+    "away_team": "Lecce",
+    "away_team_code": "LEC",
+    "home_score": null,
+    "away_score": null,
+    "status": "SCHEDULED",
+    "difficolta_portieri": {
+      "Atalanta": 1,
+      "Lecce": 3
+    },
+    "season": "2026/2027"
+  },
+  {
+    "match_id": "2026_G37_INT_LAZ",
+    "giornata": 37,
+    "date_str": "Sun May 23 15:00",
+    "home_team": "Inter",
+    "home_team_code": "INT",
+    "away_team": "Lazio",
+    "away_team_code": "LAZ",
+    "home_score": null,
+    "away_score": null,
+    "status": "SCHEDULED",
+    "difficolta_portieri": {
+      "Inter": 2,
+      "Lazio": 3
+    },
+    "season": "2026/2027"
+  },
+  {
+    "match_id": "2026_G37_UDI_VER",
+    "giornata": 37,
+    "date_str": "Sun May 23 15:00",
+    "home_team": "Udinese",
+    "home_team_code": "UDI",
+    "away_team": "Verona",
+    "away_team_code": "VER",
+    "home_score": null,
+    "away_score": null,
+    "status": "SCHEDULED",
+    "difficolta_portieri": {
+      "Udinese": 1,
+      "Verona": 1
+    },
+    "season": "2026/2027"
+  },
+  {
+    "match_id": "2026_G37_EMP_CAG",
+    "giornata": 37,
+    "date_str": "Sun May 23 15:00",
+    "home_team": "Empoli",
+    "home_team_code": "EMP",
+    "away_team": "Cagliari",
+    "away_team_code": "CAG",
+    "home_score": null,
+    "away_score": null,
+    "status": "SCHEDULED",
+    "difficolta_portieri": {
+      "Empoli": 1,
+      "Cagliari": 1
+    },
+    "season": "2026/2027"
+  },
+  {
+    "match_id": "2026_G37_FIO_MON",
+    "giornata": 37,
+    "date_str": "Sun May 23 15:00",
+    "home_team": "Fiorentina",
+    "home_team_code": "FIO",
+    "away_team": "Monza",
+    "away_team_code": "MON",
+    "home_score": null,
+    "away_score": null,
+    "status": "SCHEDULED",
+    "difficolta_portieri": {
+      "Fiorentina": 1,
+      "Monza": 2
+    },
+    "season": "2026/2027"
+  },
+  {
+    "match_id": "2026_G37_VEN_MIL",
+    "giornata": 37,
+    "date_str": "Sun May 23 15:00",
+    "home_team": "Venezia",
+    "home_team_code": "VEN",
+    "away_team": "Milan",
+    "away_team_code": "MIL",
+    "home_score": null,
+    "away_score": null,
+    "status": "SCHEDULED",
+    "difficolta_portieri": {
+      "Venezia": 3,
+      "Milan": 1
+    },
+    "season": "2026/2027"
+  },
+  {
+    "match_id": "2026_G37_GEN_BOL",
+    "giornata": 37,
+    "date_str": "Sun May 23 15:00",
+    "home_team": "Genoa",
+    "home_team_code": "GEN",
+    "away_team": "Bologna",
+    "away_team_code": "BOL",
+    "home_score": null,
+    "away_score": null,
+    "status": "SCHEDULED",
+    "difficolta_portieri": {
+      "Genoa": 2,
+      "Bologna": 1
+    },
+    "season": "2026/2027"
+  },
+  {
+    "match_id": "2026_G38_MIL_UDI",
+    "giornata": 38,
+    "date_str": "Sun May 30 15:00",
+    "home_team": "Milan",
+    "home_team_code": "MIL",
+    "away_team": "Udinese",
+    "away_team_code": "UDI",
+    "home_score": null,
+    "away_score": null,
+    "status": "SCHEDULED",
+    "difficolta_portieri": {
+      "Milan": 1,
+      "Udinese": 3
+    },
+    "season": "2026/2027"
+  },
+  {
+    "match_id": "2026_G38_JUV_EMP",
+    "giornata": 38,
+    "date_str": "Sun May 30 15:00",
+    "home_team": "Juventus",
+    "home_team_code": "JUV",
+    "away_team": "Empoli",
+    "away_team_code": "EMP",
+    "home_score": null,
+    "away_score": null,
+    "status": "SCHEDULED",
+    "difficolta_portieri": {
+      "Juventus": 1,
+      "Empoli": 3
+    },
+    "season": "2026/2027"
+  },
+  {
+    "match_id": "2026_G38_MON_TOR",
+    "giornata": 38,
+    "date_str": "Sun May 30 15:00",
+    "home_team": "Monza",
+    "home_team_code": "MON",
+    "away_team": "Torino",
+    "away_team_code": "TOR",
+    "home_score": null,
+    "away_score": null,
+    "status": "SCHEDULED",
+    "difficolta_portieri": {
+      "Monza": 2,
+      "Torino": 1
+    },
+    "season": "2026/2027"
+  },
+  {
+    "match_id": "2026_G38_VER_INT",
+    "giornata": 38,
+    "date_str": "Sun May 30 15:00",
+    "home_team": "Verona",
+    "home_team_code": "VER",
+    "away_team": "Inter",
+    "away_team_code": "INT",
+    "home_score": null,
+    "away_score": null,
+    "status": "SCHEDULED",
+    "difficolta_portieri": {
+      "Verona": 3,
+      "Inter": 1
+    },
+    "season": "2026/2027"
+  },
+  {
+    "match_id": "2026_G38_CAG_ROM",
+    "giornata": 38,
+    "date_str": "Sun May 30 15:00",
+    "home_team": "Cagliari",
+    "home_team_code": "CAG",
+    "away_team": "Roma",
+    "away_team_code": "ROM",
+    "home_score": null,
+    "away_score": null,
+    "status": "SCHEDULED",
+    "difficolta_portieri": {
+      "Cagliari": 2,
+      "Roma": 1
+    },
+    "season": "2026/2027"
+  },
+  {
+    "match_id": "2026_G38_LAZ_FIO",
+    "giornata": 38,
+    "date_str": "Sun May 30 15:00",
+    "home_team": "Lazio",
+    "home_team_code": "LAZ",
+    "away_team": "Fiorentina",
+    "away_team_code": "FIO",
+    "home_score": null,
+    "away_score": null,
+    "status": "SCHEDULED",
+    "difficolta_portieri": {
+      "Lazio": 2,
+      "Fiorentina": 2
+    },
+    "season": "2026/2027"
+  },
+  {
+    "match_id": "2026_G38_COM_GEN",
+    "giornata": 38,
+    "date_str": "Sun May 30 15:00",
+    "home_team": "Como",
+    "home_team_code": "COM",
+    "away_team": "Genoa",
+    "away_team_code": "GEN",
+    "home_score": null,
+    "away_score": null,
+    "status": "SCHEDULED",
+    "difficolta_portieri": {
+      "Como": 1,
+      "Genoa": 1
+    },
+    "season": "2026/2027"
+  },
+  {
+    "match_id": "2026_G38_NAP_ATA",
+    "giornata": 38,
+    "date_str": "Sun May 30 15:00",
+    "home_team": "Napoli",
+    "home_team_code": "NAP",
+    "away_team": "Atalanta",
+    "away_team_code": "ATA",
+    "home_score": null,
+    "away_score": null,
+    "status": "SCHEDULED",
+    "difficolta_portieri": {
+      "Napoli": 3,
+      "Atalanta": 3
+    },
+    "season": "2026/2027"
+  },
+  {
+    "match_id": "2026_G38_LEC_VEN",
+    "giornata": 38,
+    "date_str": "Sun May 30 15:00",
+    "home_team": "Lecce",
+    "home_team_code": "LEC",
+    "away_team": "Venezia",
+    "away_team_code": "VEN",
+    "home_score": null,
+    "away_score": null,
+    "status": "SCHEDULED",
+    "difficolta_portieri": {
+      "Lecce": 1,
+      "Venezia": 1
+    },
+    "season": "2026/2027"
+  },
+  {
+    "match_id": "2026_G38_BOL_PAR",
+    "giornata": 38,
+    "date_str": "Sun May 30 15:00",
+    "home_team": "Bologna",
+    "home_team_code": "BOL",
+    "away_team": "Parma",
+    "away_team_code": "PAR",
+    "home_score": null,
+    "away_score": null,
+    "status": "SCHEDULED",
+    "difficolta_portieri": {
+      "Bologna": 1,
+      "Parma": 2
+    },
+    "season": "2026/2027"
+  }
+]

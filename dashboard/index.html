@@ -1,0 +1,970 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Fanta AI War Room 2026/2027 - Fanta Bro CX (500 Crediti)</title>
+    <!-- Tailwind CSS CDN -->
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" rel="stylesheet">
+    <style>
+        .badge-mod { background: linear-gradient(135deg, #10b981, #059669); }
+        .badge-penalty { background: linear-gradient(135deg, #ef4444, #dc2626); }
+        .badge-bug { background: linear-gradient(135deg, #8b5cf6, #7c3aed); }
+        .tab-active { border-bottom: 3px solid #3b82f6; color: #3b82f6; font-weight: 700; }
+        ::-webkit-scrollbar { width: 6px; height: 6px; }
+        ::-webkit-scrollbar-thumb { background: #334155; border-radius: 4px; }
+    </style>
+</head>
+<body class="bg-slate-950 text-slate-100 min-h-screen font-sans antialiased selection:bg-blue-600 selection:text-white">
+
+    <!-- HEADER & NAVBAR -->
+    <header class="bg-slate-900 border-b border-slate-800 sticky top-0 z-50 shadow-xl">
+        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 flex flex-col md:flex-row justify-between items-center py-3.5 gap-3">
+            <div class="flex items-center space-x-3">
+                <div class="bg-blue-600 p-2.5 rounded-2xl text-white shadow-lg shadow-blue-500/20">
+                    <i class="fa-solid fa-brain text-2xl"></i>
+                </div>
+                <div>
+                    <h1 class="text-xl font-black tracking-tight text-white flex items-center gap-2">
+                        FANTA AI WAR ROOM 2026/2027 
+                        <span class="text-xs px-2.5 py-0.5 rounded-full bg-emerald-950 text-emerald-300 border border-emerald-700 font-bold">Listone Ufficiale Sincronizzato</span>
+                    </h1>
+                    <p class="text-xs text-slate-400">Lega: Fanta Bro CX • 10 Squadre • 500 Crediti • Modificatore +1/+6 • Umberto & Andrea</p>
+                </div>
+            </div>
+
+            <!-- LIVE STATS SUMMARY -->
+            <div class="flex flex-wrap items-center justify-center gap-3 bg-slate-950/80 px-4 py-2 rounded-2xl border border-slate-800 shadow-inner">
+                <div class="text-center px-1">
+                    <div class="text-[10px] text-slate-400 uppercase font-bold tracking-wider">Crediti Residui</div>
+                    <div class="text-base font-black text-emerald-400" id="user-remaining-credits">500</div>
+                </div>
+                <div class="h-6 w-px bg-slate-800 hidden sm:block"></div>
+                <div class="text-center px-1">
+                    <div class="text-[10px] text-slate-400 uppercase font-bold tracking-wider">Slot Rosa</div>
+                    <div class="text-base font-black text-blue-400" id="user-slots-count">0 / 25</div>
+                </div>
+                <div class="h-6 w-px bg-slate-800 hidden sm:block"></div>
+                <div class="text-center px-1">
+                    <div class="text-[10px] text-slate-400 uppercase font-bold tracking-wider">Tua Max Offerta</div>
+                    <div class="text-base font-black text-amber-400" id="user-max-bid">476</div>
+                </div>
+                <div class="h-6 w-px bg-slate-800 hidden sm:block"></div>
+                <div class="text-center px-1">
+                    <div class="text-[10px] text-slate-400 uppercase font-bold tracking-wider">Soffitto Rivali</div>
+                    <div class="text-base font-black text-rose-400" id="top-rival-max-bid-nav">476</div>
+                </div>
+                <div class="h-6 w-px bg-slate-800 hidden sm:block"></div>
+                <div class="text-center px-1">
+                    <div class="text-[10px] text-slate-400 uppercase font-bold tracking-wider">Soglia Vittoria</div>
+                    <div class="text-base font-black text-purple-400" id="winning-threshold-nav">477</div>
+                </div>
+            </div>
+        </div>
+
+        <!-- NAVIGATION TABS -->
+        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 flex space-x-6 border-t border-slate-800/80 overflow-x-auto">
+            <button onclick="switchTab('portieri')" id="tab-btn-portieri" class="py-3 px-1 text-sm font-medium tab-active transition-all whitespace-nowrap">
+                <i class="fa-solid fa-shield-halved mr-1.5 text-blue-400"></i> Matrice Incroci Portieri 2026/27
+            </button>
+            <button onclick="switchTab('database')" id="tab-btn-database" class="py-3 px-1 text-sm font-medium text-slate-400 hover:text-slate-200 transition-all whitespace-nowrap">
+                <i class="fa-solid fa-users mr-1.5 text-emerald-400"></i> Listone Ufficiale & Moneyball (588 Calciatori)
+            </button>
+            <button onclick="switchTab('live-auction')" id="tab-btn-live-auction" class="py-3 px-1 text-sm font-medium text-slate-400 hover:text-slate-200 transition-all whitespace-nowrap">
+                <i class="fa-solid fa-gavel mr-1.5 text-amber-400"></i> Calcolatore Prezzo Massimo & Live Auction
+            </button>
+            <button onclick="switchTab('modificatore')" id="tab-btn-modificatore" class="py-3 px-1 text-sm font-medium text-slate-400 hover:text-slate-200 transition-all whitespace-nowrap">
+                <i class="fa-solid fa-calculator mr-1.5 text-purple-400"></i> Calcolatore Modificatore (+1 a +6)
+            </button>
+        </div>
+    </header>
+
+    <!-- MAIN CONTENT AREA -->
+    <main class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-6">
+
+        <!-- TAB 1: MATRICE INCROCI PORTIERI REALI 2026/2027 -->
+        <section id="tab-portieri" class="space-y-6">
+            <div class="bg-slate-900 rounded-3xl p-6 border border-slate-800 shadow-xl">
+                <div class="flex flex-col lg:flex-row justify-between items-start lg:items-center gap-4 mb-6">
+                    <div>
+                        <h2 class="text-2xl font-black text-white flex items-center gap-2">
+                            <i class="fa-solid fa-shield-halved text-blue-500"></i>
+                            Matrice Portieri 2026/2027 (Modello a 3 Livelli di Difficoltà)
+                        </h2>
+                        <p class="text-sm text-slate-400 mt-1">
+                            Portieri reali titolari della Serie A 2026/27. Risparmiando sulla porta hai la massima potenza di fuoco su Malen, Lautaro, McTominay e Paz.
+                        </p>
+                    </div>
+                    <div class="flex flex-wrap gap-2">
+                        <span class="px-3 py-1 rounded-xl bg-emerald-950 text-emerald-400 border border-emerald-800/80 text-xs font-bold flex items-center gap-1.5">
+                            <span class="w-2.5 h-2.5 rounded-full bg-emerald-400"></span> FACILE (In casa vs medio-bassa)
+                        </span>
+                        <span class="px-3 py-1 rounded-xl bg-amber-950 text-amber-400 border border-amber-800/80 text-xs font-bold flex items-center gap-1.5">
+                            <span class="w-2.5 h-2.5 rounded-full bg-amber-400"></span> MEDIA (Casa vs Top / Fuori vs Media)
+                        </span>
+                        <span class="px-3 py-1 rounded-xl bg-rose-950 text-rose-400 border border-rose-800/80 text-xs font-bold flex items-center gap-1.5">
+                            <span class="w-2.5 h-2.5 rounded-full bg-rose-400"></span> DIFFICILE (Fuori casa vs Big)
+                        </span>
+                    </div>
+                </div>
+
+                <!-- CARDS COMBINAZIONI PORTIERI RACCOMANDATE -->
+                <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-5" id="goalkeeper-combos-container">
+                    <!-- Popolato dinamicamente da JavaScript -->
+                </div>
+            </div>
+
+            <!-- COMPARATORE TUTTI I PORTIERI SERIE A 2026/2027 -->
+            <div class="bg-slate-900 rounded-3xl p-6 border border-slate-800 shadow-xl">
+                <h3 class="text-lg font-black text-white mb-4 flex items-center gap-2">
+                    <i class="fa-solid fa-list-ol text-blue-400"></i> Tutti i Portieri Titolari Serie A 2026/2027 (Quotazioni & FVM Ufficiali)
+                </h3>
+                <div class="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-5 gap-3" id="all-gks-grid">
+                    <!-- Popolato da JS -->
+                </div>
+            </div>
+        </section>
+
+        <!-- TAB 2: DATABASE UFFICIALE (588 GIOCATORI REALI & MONEYBALL) -->
+        <section id="tab-database" class="hidden space-y-6">
+            <div class="bg-slate-900 rounded-3xl p-6 border border-slate-800 shadow-xl">
+                <div class="flex flex-col md:flex-row justify-between items-start md:items-center gap-4 mb-6">
+                    <div>
+                        <h2 class="text-2xl font-black text-white flex items-center gap-2">
+                            <i class="fa-solid fa-users text-emerald-400"></i>
+                            Listone Ufficiale & Indice Moneyball 2026/2027
+                        </h2>
+                        <p class="text-sm text-slate-400">588 calciatori reali sincronizzati da Fantacalcio.it con target calibrati su 500 crediti, statistiche avanzate xG/xA e Moneyball Index.</p>
+                    </div>
+                    <!-- SEARCH & FILTERS -->
+                    <div class="flex flex-wrap gap-2 w-full md:w-auto">
+                        <input type="text" id="player-search" oninput="filterPlayers()" placeholder="Cerca calciatore o squadra..." class="bg-slate-950 border border-slate-700 rounded-xl px-4 py-2 text-sm text-slate-100 focus:outline-none focus:border-blue-500 w-full md:w-56">
+                        
+                        <div class="flex gap-1 bg-slate-950 p-1 rounded-xl border border-slate-800">
+                            <button onclick="setRoleFilter('ALL')" id="role-ALL" class="px-3 py-1.5 text-xs font-bold rounded-lg bg-blue-600 text-white">TUTTI</button>
+                            <button onclick="setRoleFilter('P')" id="role-P" class="px-3 py-1.5 text-xs font-bold rounded-lg text-slate-400 hover:text-white">P</button>
+                            <button onclick="setRoleFilter('D')" id="role-D" class="px-3 py-1.5 text-xs font-bold rounded-lg text-slate-400 hover:text-white">D</button>
+                            <button onclick="setRoleFilter('C')" id="role-C" class="px-3 py-1.5 text-xs font-bold rounded-lg text-slate-400 hover:text-white">C</button>
+                            <button onclick="setRoleFilter('A')" id="role-A" class="px-3 py-1.5 text-xs font-bold rounded-lg text-slate-400 hover:text-white">A</button>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- PLAYERS TABLE -->
+                <div class="overflow-x-auto rounded-2xl border border-slate-800">
+                    <table class="w-full text-left border-collapse">
+                        <thead>
+                            <tr class="bg-slate-950/80 text-slate-400 text-xs uppercase font-bold tracking-wider border-b border-slate-800">
+                                <th class="py-3.5 px-4">Calciatore</th>
+                                <th class="py-3.5 px-3 text-center">Ruolo</th>
+                                <th class="py-3.5 px-3">Squadra</th>
+                                <th class="py-3.5 px-3">Tier / Categoria</th>
+                                <th class="py-3.5 px-3 text-center">Target (su 500)</th>
+                                <th class="py-3.5 px-3 text-center">Max Offerta</th>
+                                <th class="py-3.5 px-3 text-center">Moneyball Index</th>
+                                <th class="py-3.5 px-3 text-center">xG / xA</th>
+                                <th class="py-3.5 px-4">Dati Tattici & Piazzati</th>
+                                <th class="py-3.5 px-3 text-center">Azione</th>
+                            </tr>
+                        </thead>
+                        <tbody id="players-table-body" class="divide-y divide-slate-800/60 text-sm">
+                            <!-- Popolato dinamicamente da JS -->
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+        </section>
+
+        <!-- TAB 3: CALCOLATORE PREZZO MASSIMO & LIVE AUCTION -->
+        <section id="tab-live-auction" class="hidden space-y-6">
+
+            <!-- STRATEGIC OVERVIEW: CALCOLATORE PREZZO MASSIMO & RIVAL CEILINGS -->
+            <div class="bg-slate-900 rounded-3xl p-6 border border-slate-800 shadow-xl space-y-6">
+                <div class="flex flex-col md:flex-row justify-between items-start md:items-center gap-2">
+                    <div>
+                        <h2 class="text-2xl font-black text-white flex items-center gap-2">
+                            <i class="fa-solid fa-calculator text-amber-400"></i>
+                            Calcolatore Prezzo Massimo & Dominio d'Asta Live
+                        </h2>
+                        <p class="text-sm text-slate-400">Algoritmo matematico che calcola il prezzo massimo spendibile, il soffitto rilanci dei rivali e la soglia di vittoria matematica.</p>
+                    </div>
+                </div>
+
+                <!-- 4 METRIC CARDS -->
+                <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-4">
+                    <!-- CARD 1: USER MAX BID -->
+                    <div class="bg-slate-950 p-4 rounded-2xl border border-slate-800 flex flex-col justify-between">
+                        <div class="flex justify-between items-center text-xs text-slate-400 font-bold uppercase mb-1">
+                            <span>Tua Max Offerta Singola</span>
+                            <i class="fa-solid fa-gavel text-amber-400"></i>
+                        </div>
+                        <div class="text-3xl font-black text-amber-400" id="card-user-max-bid">476 <span class="text-sm font-bold text-slate-400">cr</span></div>
+                        <div class="text-[11px] text-slate-500 mt-1 font-mono">Formula: C_user - (S_user - 1)</div>
+                    </div>
+
+                    <!-- CARD 2: TOP RIVAL MAX BID -->
+                    <div class="bg-slate-950 p-4 rounded-2xl border border-slate-800 flex flex-col justify-between">
+                        <div class="flex justify-between items-center text-xs text-slate-400 font-bold uppercase mb-1">
+                            <span>Soffitto Max Rivali</span>
+                            <i class="fa-solid fa-chess-king text-rose-400"></i>
+                        </div>
+                        <div class="text-3xl font-black text-rose-400" id="card-top-rival-max-bid">476 <span class="text-sm font-bold text-slate-400">cr</span></div>
+                        <div class="text-[11px] text-slate-500 mt-1 truncate" id="card-top-rival-name">Rivale più ricco: Matteo Daniele</div>
+                    </div>
+
+                    <!-- CARD 3: WINNING THRESHOLD -->
+                    <div class="bg-slate-950 p-4 rounded-2xl border border-slate-800 flex flex-col justify-between">
+                        <div class="flex justify-between items-center text-xs text-slate-400 font-bold uppercase mb-1">
+                            <span>Soglia Vittoria Matematica</span>
+                            <i class="fa-solid fa-trophy text-purple-400"></i>
+                        </div>
+                        <div class="text-3xl font-black text-purple-400" id="card-winning-threshold">477 <span class="text-sm font-bold text-slate-400">cr</span></div>
+                        <div class="text-[11px] text-slate-500 mt-1 font-mono">Formula: Max_Rivali + 1</div>
+                    </div>
+
+                    <!-- CARD 4: SAFETY RESERVES -->
+                    <div class="bg-slate-950 p-4 rounded-2xl border border-slate-800 flex flex-col justify-between">
+                        <div class="flex justify-between items-center text-xs text-slate-400 font-bold uppercase mb-1">
+                            <span>Riserva Sicurezza Slot</span>
+                            <i class="fa-solid fa-shield-halved text-emerald-400"></i>
+                        </div>
+                        <div class="text-3xl font-black text-emerald-400" id="card-safety-reserve">24 <span class="text-sm font-bold text-slate-400">cr</span></div>
+                        <div class="text-[11px] text-slate-500 mt-1" id="card-safety-breakdown">P:3 | D:8 | C:8 | A:6 (1 cr/slot)</div>
+                    </div>
+                </div>
+
+                <!-- LIVE INTERACTIVE PLAYER AUCTION EVALUATOR -->
+                <div class="bg-slate-950/90 rounded-2xl p-5 border border-slate-800/90 space-y-4">
+                    <div class="flex flex-col md:flex-row justify-between items-start md:items-center gap-3">
+                        <h3 class="text-base font-black text-white flex items-center gap-2">
+                            <i class="fa-solid fa-crosshairs text-blue-400"></i>
+                            Valutatore Tattico in Tempo Reale & Calcolo Rilanci
+                        </h3>
+                        <span class="text-xs text-slate-400 font-medium">Seleziona un calciatore e inserisci l'offerta per ricevere il verdetto AI istantaneo.</span>
+                    </div>
+
+                    <div class="grid grid-cols-1 md:grid-cols-3 gap-4 items-end">
+                        <!-- SELECT PLAYER -->
+                        <div>
+                            <label class="text-xs font-bold text-slate-300 block mb-1">Calciatore all'Asta:</label>
+                            <input list="players-datalist" id="evaluator-player-input" onchange="onEvaluatorPlayerSelected()" placeholder="Digita o cerca un calciatore..." class="w-full bg-slate-900 border border-slate-700 rounded-xl px-3.5 py-2 text-sm text-white focus:outline-none focus:border-blue-500">
+                            <datalist id="players-datalist">
+                                <!-- Popolato da JS -->
+                            </datalist>
+                        </div>
+
+                        <!-- CURRENT BID INPUT -->
+                        <div>
+                            <label class="text-xs font-bold text-slate-300 block mb-1">Offerta Attuale / Rilancio (crediti):</label>
+                            <input type="number" min="1" id="evaluator-current-bid" value="1" oninput="updateAuctionEvaluator()" class="w-full bg-slate-900 border border-slate-700 rounded-xl px-3.5 py-2 text-sm text-amber-300 font-bold focus:outline-none focus:border-blue-500">
+                        </div>
+
+                        <!-- QUICK BUY BUTTON -->
+                        <div>
+                            <button onclick="buyEvaluatedPlayer()" id="evaluator-buy-btn" class="w-full bg-blue-600 hover:bg-blue-500 text-white font-bold py-2 px-4 rounded-xl text-sm transition-all shadow-lg flex items-center justify-center gap-2">
+                                <i class="fa-solid fa-plus-circle"></i> Aggiudica & Aggiungi a Rosa
+                            </button>
+                        </div>
+                    </div>
+
+                    <!-- EVALUATOR RESULT BANNER -->
+                    <div id="evaluator-result-box" class="bg-slate-900 rounded-2xl p-4 border border-slate-800 flex flex-col md:flex-row items-start md:items-center justify-between gap-4">
+                        <div class="space-y-1">
+                            <div class="flex items-center gap-2">
+                                <span class="text-xs font-bold text-slate-400 uppercase">Verdetto Strategico:</span>
+                                <span id="evaluator-verdict-badge" class="px-3 py-1 rounded-xl font-black text-xs uppercase bg-emerald-950 text-emerald-300 border border-emerald-700">COMPRA</span>
+                            </div>
+                            <div id="evaluator-reasoning" class="text-xs text-slate-300">
+                                Seleziona un giocatore dal listone per iniziare la valutazione istantanea.
+                            </div>
+                        </div>
+
+                        <div class="flex flex-wrap gap-3 text-xs bg-slate-950 px-4 py-2 rounded-xl border border-slate-800/80">
+                            <div><span class="text-slate-400">Target:</span> <span class="font-bold text-amber-400" id="eval-player-target">-</span></div>
+                            <div class="h-4 w-px bg-slate-800"></div>
+                            <div><span class="text-slate-400">Max Consigliato:</span> <span class="font-bold text-rose-400" id="eval-player-max">-</span></div>
+                            <div class="h-4 w-px bg-slate-800"></div>
+                            <div><span class="text-slate-400">Moneyball:</span> <span class="font-bold text-emerald-400" id="eval-player-moneyball">-</span></div>
+                            <div class="h-4 w-px bg-slate-800"></div>
+                            <div><span class="text-slate-400">xG / xA:</span> <span class="font-bold text-blue-400" id="eval-player-xg-xa">-</span></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="grid grid-cols-1 lg:grid-cols-3 gap-6">
+                
+                <!-- COL 1 & 2: LA NOSTRA ROSA LIVE -->
+                <div class="lg:col-span-2 space-y-6">
+                    <div class="bg-slate-900 rounded-3xl p-6 border border-slate-800 shadow-xl">
+                        <div class="flex justify-between items-center mb-4">
+                            <h2 class="text-xl font-black text-white flex items-center gap-2">
+                                <i class="fa-solid fa-clipboard-check text-emerald-400"></i> La Nostra Rosa Ufficiale (Umberto & Andrea)
+                            </h2>
+                            <button onclick="resetRoster()" class="text-xs text-rose-400 hover:text-rose-300 border border-rose-800/60 px-3 py-1 rounded-xl">
+                                Reset Rosa
+                            </button>
+                        </div>
+
+                        <!-- 4 REPARTI -->
+                        <div class="space-y-4">
+                            <!-- PORTIERI (3) -->
+                            <div class="bg-slate-950/70 rounded-2xl p-4 border border-slate-800/80">
+                                <div class="flex justify-between items-center mb-2">
+                                    <div class="font-bold text-amber-400 text-sm flex items-center gap-2">
+                                        <i class="fa-solid fa-hand"></i> Portieri (Slot: <span id="count-p">0</span>/3)
+                                    </div>
+                                    <div class="text-xs text-slate-400 font-medium">Spesi: <span id="spent-p" class="text-amber-300 font-bold">0</span> cr • Riserva Sicurezza: <span id="reserve-p" class="text-slate-300 font-bold">3</span> cr</div>
+                                </div>
+                                <div id="roster-p-list" class="grid grid-cols-1 md:grid-cols-3 gap-2">
+                                    <!-- Slots -->
+                                </div>
+                            </div>
+
+                            <!-- DIFENSORI (8) -->
+                            <div class="bg-slate-950/70 rounded-2xl p-4 border border-slate-800/80">
+                                <div class="flex justify-between items-center mb-2">
+                                    <div class="font-bold text-emerald-400 text-sm flex items-center gap-2">
+                                        <i class="fa-solid fa-shield"></i> Difensori (Slot: <span id="count-d">0</span>/8)
+                                    </div>
+                                    <div class="text-xs text-slate-400 font-medium">Spesi: <span id="spent-d" class="text-emerald-300 font-bold">0</span> cr • Riserva Sicurezza: <span id="reserve-d" class="text-slate-300 font-bold">8</span> cr</div>
+                                </div>
+                                <div id="roster-d-list" class="grid grid-cols-2 md:grid-cols-4 gap-2">
+                                    <!-- Slots -->
+                                </div>
+                            </div>
+
+                            <!-- CENTROCAMPISTI (8) -->
+                            <div class="bg-slate-950/70 rounded-2xl p-4 border border-slate-800/80">
+                                <div class="flex justify-between items-center mb-2">
+                                    <div class="font-bold text-blue-400 text-sm flex items-center gap-2">
+                                        <i class="fa-solid fa-futbol"></i> Centrocampisti (Slot: <span id="count-c">0</span>/8)
+                                    </div>
+                                    <div class="text-xs text-slate-400 font-medium">Spesi: <span id="spent-c" class="text-blue-300 font-bold">0</span> cr • Riserva Sicurezza: <span id="reserve-c" class="text-slate-300 font-bold">8</span> cr</div>
+                                </div>
+                                <div id="roster-c-list" class="grid grid-cols-2 md:grid-cols-4 gap-2">
+                                    <!-- Slots -->
+                                </div>
+                            </div>
+
+                            <!-- ATTACCANTI (6) -->
+                            <div class="bg-slate-950/70 rounded-2xl p-4 border border-slate-800/80">
+                                <div class="flex justify-between items-center mb-2">
+                                    <div class="font-bold text-rose-400 text-sm flex items-center gap-2">
+                                        <i class="fa-solid fa-crosshairs"></i> Attaccanti (Slot: <span id="count-a">0</span>/6)
+                                    </div>
+                                    <div class="text-xs text-slate-400 font-medium">Spesi: <span id="spent-a" class="text-rose-300 font-bold">0</span> cr • Riserva Sicurezza: <span id="reserve-a" class="text-slate-300 font-bold">6</span> cr</div>
+                                </div>
+                                <div id="roster-a-list" class="grid grid-cols-2 md:grid-cols-3 gap-2">
+                                    <!-- Slots -->
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- COL 3: TRACKER AVVERSARI -->
+                <div class="space-y-6">
+                    <div class="bg-slate-900 rounded-3xl p-6 border border-slate-800 shadow-xl">
+                        <div class="flex justify-between items-center mb-2">
+                            <h2 class="text-lg font-black text-white flex items-center gap-2">
+                                <i class="fa-solid fa-chess-board text-indigo-400"></i> Rival Budget Tracker
+                            </h2>
+                            <span class="text-xs text-slate-400">9 Avversari</span>
+                        </div>
+                        <p class="text-xs text-slate-400 mb-4">Monitora i crediti spesi, gli slot occupati e la puntata massima singola residua di ciascun avversario.</p>
+
+                        <div id="rivals-container" class="space-y-2.5 max-h-[560px] overflow-y-auto pr-1">
+                            <!-- Popolato da JS -->
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+        </section>
+
+        <!-- TAB 4: SIMULATORE MODIFICATORE DIFESA (+1 A +6) -->
+        <section id="tab-modificatore" class="hidden space-y-6">
+            <div class="bg-slate-900 rounded-3xl p-6 border border-slate-800 shadow-xl">
+                <h2 class="text-2xl font-black text-white flex items-center gap-2 mb-2">
+                    <i class="fa-solid fa-calculator text-emerald-400"></i>
+                    Simulatore Ufficiale Modificatore Difesa (+1 a +6)
+                </h2>
+                <p class="text-sm text-slate-400 mb-6">
+                    Regola Fanta Bro CX: Calcolato sulla media voto pura del portiere e dei 3 migliori difensori schierati (con modulo da almeno 4 difensori).
+                </p>
+
+                <div class="grid grid-cols-1 md:grid-cols-5 gap-4 mb-6">
+                    <div class="bg-slate-950 p-4 rounded-2xl border border-slate-800 text-center">
+                        <label class="text-xs font-bold text-amber-400 uppercase block mb-1">Portiere</label>
+                        <input type="number" step="0.5" id="mod-p" value="6.5" class="w-full bg-slate-900 border border-slate-700 rounded-xl p-2 text-center text-lg font-bold text-white focus:outline-none focus:border-blue-500" oninput="calculateModifier()">
+                    </div>
+                    <div class="bg-slate-950 p-4 rounded-2xl border border-slate-800 text-center">
+                        <label class="text-xs font-bold text-emerald-400 uppercase block mb-1">Difensore 1</label>
+                        <input type="number" step="0.5" id="mod-d1" value="6.5" class="w-full bg-slate-900 border border-slate-700 rounded-xl p-2 text-center text-lg font-bold text-white focus:outline-none focus:border-blue-500" oninput="calculateModifier()">
+                    </div>
+                    <div class="bg-slate-950 p-4 rounded-2xl border border-slate-800 text-center">
+                        <label class="text-xs font-bold text-emerald-400 uppercase block mb-1">Difensore 2</label>
+                        <input type="number" step="0.5" id="mod-d2" value="6.5" class="w-full bg-slate-900 border border-slate-700 rounded-xl p-2 text-center text-lg font-bold text-white focus:outline-none focus:border-blue-500" oninput="calculateModifier()">
+                    </div>
+                    <div class="bg-slate-950 p-4 rounded-2xl border border-slate-800 text-center">
+                        <label class="text-xs font-bold text-emerald-400 uppercase block mb-1">Difensore 3</label>
+                        <input type="number" step="0.5" id="mod-d3" value="6.0" class="w-full bg-slate-900 border border-slate-700 rounded-xl p-2 text-center text-lg font-bold text-white focus:outline-none focus:border-blue-500" oninput="calculateModifier()">
+                    </div>
+                    <div class="bg-slate-950 p-4 rounded-2xl border border-slate-800 text-center">
+                        <label class="text-xs font-bold text-emerald-400 uppercase block mb-1">Difensore 4</label>
+                        <input type="number" step="0.5" id="mod-d4" value="6.0" class="w-full bg-slate-900 border border-slate-700 rounded-xl p-2 text-center text-lg font-bold text-white focus:outline-none focus:border-blue-500" oninput="calculateModifier()">
+                    </div>
+                </div>
+
+                <!-- RISULTATO CALCOLO -->
+                <div class="bg-slate-950 p-6 rounded-3xl border border-slate-800 flex flex-col md:flex-row items-center justify-between gap-6">
+                    <div>
+                        <div class="text-xs text-slate-400 font-bold uppercase">Media Voto Difesa (Migliori 3 D + P)</div>
+                        <div class="text-3xl font-black text-white mt-1" id="mod-avg-display">6.375</div>
+                    </div>
+                    <div class="text-center md:text-right">
+                        <div class="text-xs text-slate-400 font-bold uppercase">Bonus Modificatore Assegnato</div>
+                        <div class="text-4xl font-black text-emerald-400 mt-1" id="mod-bonus-display">+1 PUNTI</div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+    </main>
+
+    <!-- JS ENGINE -->
+    <script>
+        let playersData = [];
+        let currentRoleFilter = 'ALL';
+        let userRoster = { P: [], D: [], C: [], A: [] };
+        let userTotalSpent = 0;
+        const totalBudget = 500;
+        let selectedEvaluatorPlayer = null;
+
+        // RIVALI DELLA LEGA DALLA CHAT
+        let rivals = [
+            { name: "Matteo Daniele cx (Admin)", credits: 500, slots: 0 },
+            { name: "Leo / Fiducio (Super Admin)", credits: 500, slots: 0 },
+            { name: "Alessandro del Giudice", credits: 500, slots: 0 },
+            { name: "Alessandro Guerra cx", credits: 500, slots: 0 },
+            { name: "Gerry Teutonico", credits: 500, slots: 0 },
+            { name: "Gabriele Pedax", credits: 500, slots: 0 },
+            { name: "Micio", credits: 500, slots: 0 },
+            { name: "bele cx", credits: 500, slots: 0 },
+            { name: "Antonio", credits: 500, slots: 0 }
+        ];
+
+        // COMBINAZIONI PORTIERI REALI 2026/2027
+        const gkCombos = [
+            {
+                tier: "TOP CLASS REALE",
+                name: "Blocco Roma (Svilar + Ryan)",
+                cost: "42-46 cr",
+                easy: 25, med: 10, hard: 3,
+                desc: "Svilar è il portiere con FVM più alto d'Italia (FVM 85). Muro da modificatore.",
+                tag: "Numero 1 Assoluto 👑",
+                color: "blue"
+            },
+            {
+                tier: "TOP CLASS REALE",
+                name: "Blocco Juventus (Vicario + Perin)",
+                cost: "35-40 cr",
+                easy: 24, med: 11, hard: 3,
+                desc: "Vicario nuovo guardiano della Juve. Difesa di ferro.",
+                tag: "Clean Sheet Machine",
+                color: "indigo"
+            },
+            {
+                tier: "IBRIDA TOP (STRACONSIGLIATA)",
+                name: "Juventus (Vicario) + Torino (Perri)",
+                cost: "32-35 cr",
+                easy: 28, med: 8, hard: 2,
+                desc: "28 PARTITE FACILI SU 38! Derby di Torino: alternanza casa/fuori perfetta!",
+                tag: "STRACONSIGLIATA ⭐",
+                color: "emerald"
+            },
+            {
+                tier: "IBRIDA INTELLIGENTE",
+                name: "Lazio (Mandas) + Udinese (Okoye)",
+                cost: "22-26 cr",
+                easy: 26, med: 9, hard: 3,
+                desc: "Mandas titolare nella Lazio + Okoye roccia dell'Udinese.",
+                tag: "Equilibrio & Risparmio",
+                color: "teal"
+            },
+            {
+                tier: "MONEYBALL LOW COST",
+                name: "Torino (Perri) + Lecce (Falcone) + Cagliari (Caprile)",
+                cost: "16-20 cr",
+                easy: 29, med: 7, hard: 2,
+                desc: "29 PARTITE FACILI! Risparmi 30 crediti per prendere Hojlund o Malen!",
+                tag: "MASTERCLASS MONEYBALL 🔥",
+                color: "amber"
+            },
+            {
+                tier: "MONEYBALL LOW COST",
+                name: "Como (Butez/Sanchez) + Parma (Suzuki)",
+                cost: "18-22 cr",
+                easy: 26, med: 9, hard: 3,
+                desc: "Portieri reattivi da ottimi voti. Costo super contenuto.",
+                tag: "Super Risparmio",
+                color: "purple"
+            }
+        ];
+
+        window.addEventListener('DOMContentLoaded', async () => {
+            renderGKCombos();
+            calculateModifier();
+            await loadPlayersDatabase();
+            renderAllGKsGrid();
+            populateDatalist();
+            updateRosterUI();
+            renderRivals();
+        });
+
+        function switchTab(tabId) {
+            ['portieri', 'database', 'live-auction', 'modificatore'].forEach(t => {
+                document.getElementById('tab-' + t).classList.add('hidden');
+                document.getElementById('tab-btn-' + t).classList.remove('tab-active', 'text-blue-500');
+                document.getElementById('tab-btn-' + t).classList.add('text-slate-400');
+            });
+            document.getElementById('tab-' + tabId).classList.remove('hidden');
+            const activeBtn = document.getElementById('tab-btn-' + tabId);
+            activeBtn.classList.add('tab-active');
+            activeBtn.classList.remove('text-slate-400');
+        }
+
+        function renderGKCombos() {
+            const container = document.getElementById('goalkeeper-combos-container');
+            container.innerHTML = gkCombos.map(c => `
+                <div class="bg-slate-950/80 rounded-2xl p-5 border border-slate-800 hover:border-blue-500 transition-all shadow-md flex flex-col justify-between">
+                    <div>
+                        <div class="flex justify-between items-start mb-2">
+                            <span class="text-[11px] uppercase font-bold text-slate-400">${c.tier}</span>
+                            <span class="text-xs px-2.5 py-0.5 rounded-full font-bold bg-${c.color}-950 text-${c.color}-400 border border-${c.color}-800">${c.tag}</span>
+                        </div>
+                        <h4 class="text-base font-bold text-white mb-1">${c.name}</h4>
+                        <p class="text-xs text-slate-400 mb-3">${c.desc}</p>
+                    </div>
+
+                    <div class="space-y-3 pt-3 border-t border-slate-800">
+                        <div class="flex justify-between items-center text-xs">
+                            <span class="text-slate-400">Costo Stimato (500 cr):</span>
+                            <span class="font-bold text-amber-400">${c.cost}</span>
+                        </div>
+                        <div class="grid grid-cols-3 gap-1.5 text-center text-xs">
+                            <div class="bg-emerald-950/60 text-emerald-300 py-1.5 rounded-lg border border-emerald-800/60 font-bold">${c.easy} Facili</div>
+                            <div class="bg-amber-950/60 text-amber-300 py-1.5 rounded-lg border border-amber-800/60 font-bold">${c.med} Medie</div>
+                            <div class="bg-rose-950/60 text-rose-300 py-1.5 rounded-lg border border-rose-800/60 font-bold">${c.hard} Difficili</div>
+                        </div>
+                    </div>
+                </div>
+            `).join('');
+        }
+
+        async function loadPlayersDatabase() {
+            try {
+                const res = await fetch('../data/players_db.json');
+                const data = await res.json();
+                playersData = [];
+                for (let role in data) {
+                    playersData.push(...data[role]);
+                }
+                renderPlayersTable(playersData);
+            } catch (err) {
+                console.error("Errore caricamento database:", err);
+            }
+        }
+
+        function populateDatalist() {
+            const dl = document.getElementById('players-datalist');
+            if (!dl) return;
+            dl.innerHTML = playersData.map(p => `<option value="${p.nome}">${p.squadra} (${p.ruolo}) - Target: ${p.prezzo_target} cr</option>`).join('');
+        }
+
+        function renderAllGKsGrid() {
+            const container = document.getElementById('all-gks-grid');
+            const gks = playersData.filter(p => p.ruolo === 'P').slice(0, 20);
+            container.innerHTML = gks.map(g => `
+                <div class="bg-slate-950 p-3 rounded-2xl border border-slate-800 flex flex-col justify-between">
+                    <div>
+                        <div class="text-xs font-bold text-white">${g.nome}</div>
+                        <div class="text-[11px] text-slate-400 font-medium">${g.squadra}</div>
+                    </div>
+                    <div class="mt-2 flex justify-between items-center text-xs pt-2 border-t border-slate-800/60">
+                        <span class="text-slate-400">Target:</span>
+                        <span class="font-black text-amber-300">${g.prezzo_target} cr</span>
+                    </div>
+                </div>
+            `).join('');
+        }
+
+        function renderPlayersTable(list) {
+            const tbody = document.getElementById('players-table-body');
+            tbody.innerHTML = list.map(p => {
+                let roleColor = p.ruolo === 'P' ? 'amber' : p.ruolo === 'D' ? 'emerald' : p.ruolo === 'C' ? 'blue' : 'rose';
+                let specialBadges = '';
+                if (p.piazzati) {
+                    specialBadges += `<span class="inline-block px-1.5 py-0.5 rounded text-[10px] font-bold badge-penalty text-white mr-1">🎯 ${p.piazzati}</span>`;
+                }
+                if (p.mod_rating) {
+                    specialBadges += `<span class="inline-block px-1.5 py-0.5 rounded text-[10px] font-bold badge-mod text-white mr-1">🛡️ Mod ${p.mod_rating}</span>`;
+                }
+                if (p.tier && (p.tier.includes('Crack') || p.tier.includes('Bug') || p.tier.includes('Top'))) {
+                    specialBadges += `<span class="inline-block px-1.5 py-0.5 rounded text-[10px] font-bold badge-bug text-white mr-1">${p.tier}</span>`;
+                }
+
+                let mbVal = p.moneyball_index || (p.stats && p.stats.moneyball_index) || 50.0;
+                let xgVal = p.xg !== undefined ? p.xg : (p.stats && p.stats.xg ? p.stats.xg : 0.0);
+                let xaVal = p.xa !== undefined ? p.xa : (p.stats && p.stats.xa ? p.stats.xa : 0.0);
+
+                let mbColor = mbVal >= 80 ? 'emerald' : mbVal >= 60 ? 'blue' : 'slate';
+
+                return `
+                    <tr class="hover:bg-slate-900/80 transition-colors">
+                        <td class="py-3.5 px-4 font-bold text-white flex items-center gap-2">
+                            ${p.nome}
+                        </td>
+                        <td class="py-3.5 px-3 text-center">
+                            <span class="w-6 h-6 inline-flex items-center justify-center rounded-lg bg-${roleColor}-950 text-${roleColor}-400 border border-${roleColor}-800 font-black text-xs">${p.ruolo}</span>
+                        </td>
+                        <td class="py-3.5 px-3 text-slate-300 font-medium">${p.squadra}</td>
+                        <td class="py-3.5 px-3 text-xs text-slate-400 font-semibold">${p.tier}</td>
+                        <td class="py-3.5 px-3 text-center font-black text-amber-300 text-base">${p.prezzo_target} cr</td>
+                        <td class="py-3.5 px-3 text-center font-bold text-rose-400">${p.prezzo_max} cr</td>
+                        <td class="py-3.5 px-3 text-center">
+                            <span class="px-2 py-0.5 rounded-lg bg-${mbColor}-950 text-${mbColor}-300 border border-${mbColor}-800 text-xs font-bold">${mbVal.toFixed(1)}</span>
+                        </td>
+                        <td class="py-3.5 px-3 text-center text-xs font-mono text-slate-300">
+                            ${xgVal.toFixed(1)} / ${xaVal.toFixed(1)}
+                        </td>
+                        <td class="py-3.5 px-4 text-xs text-slate-300 max-w-xs">
+                            <div>${specialBadges}</div>
+                            <div class="mt-0.5 text-slate-400">${p.note || ''}</div>
+                        </td>
+                        <td class="py-3.5 px-3 text-center">
+                            <div class="flex items-center justify-center gap-1.5">
+                                <button onclick="selectPlayerForAuction('${p.nome}')" class="px-2.5 py-1.5 rounded-xl bg-amber-600 hover:bg-amber-500 text-white text-xs font-bold transition-all shadow-md whitespace-nowrap">
+                                    ⚡ Valuta
+                                </button>
+                                <button onclick="buyPlayer('${p.nome}', '${p.ruolo}', ${p.prezzo_target})" class="px-2.5 py-1.5 rounded-xl bg-blue-600 hover:bg-blue-500 text-white text-xs font-bold transition-all shadow-md whitespace-nowrap">
+                                    + Prendi
+                                </button>
+                            </div>
+                        </td>
+                    </tr>
+                `;
+            }).join('');
+        }
+
+        function filterPlayers() {
+            const query = document.getElementById('player-search').value.toLowerCase();
+            let filtered = playersData.filter(p => {
+                const matchRole = currentRoleFilter === 'ALL' || p.ruolo === currentRoleFilter;
+                const matchSearch = p.nome.toLowerCase().includes(query) || p.squadra.toLowerCase().includes(query) || (p.note && p.note.toLowerCase().includes(query)) || (p.piazzati && p.piazzati.toLowerCase().includes(query));
+                return matchRole && matchSearch;
+            });
+            renderPlayersTable(filtered);
+        }
+
+        function setRoleFilter(role) {
+            currentRoleFilter = role;
+            ['ALL', 'P', 'D', 'C', 'A'].forEach(r => {
+                const btn = document.getElementById('role-' + r);
+                if (r === role) {
+                    btn.className = 'px-3 py-1.5 text-xs font-bold rounded-lg bg-blue-600 text-white';
+                } else {
+                    btn.className = 'px-3 py-1.5 text-xs font-bold rounded-lg text-slate-400 hover:text-white';
+                }
+            });
+            filterPlayers();
+        }
+
+        function selectPlayerForAuction(playerName) {
+            switchTab('live-auction');
+            const p = playersData.find(x => x.nome.toLowerCase() === playerName.toLowerCase());
+            if (p) {
+                selectedEvaluatorPlayer = p;
+                document.getElementById('evaluator-player-input').value = p.nome;
+                document.getElementById('evaluator-current-bid').value = p.prezzo_target;
+                updateAuctionEvaluator();
+            }
+        }
+
+        function onEvaluatorPlayerSelected() {
+            const val = document.getElementById('evaluator-player-input').value.toLowerCase();
+            const p = playersData.find(x => x.nome.toLowerCase() === val || x.nome.toLowerCase().includes(val));
+            if (p) {
+                selectedEvaluatorPlayer = p;
+                document.getElementById('evaluator-player-input').value = p.nome;
+                document.getElementById('evaluator-current-bid').value = p.prezzo_target;
+            } else {
+                selectedEvaluatorPlayer = null;
+            }
+            updateAuctionEvaluator();
+        }
+
+        function updateAuctionEvaluator() {
+            if (!selectedEvaluatorPlayer) {
+                document.getElementById('evaluator-verdict-badge').innerText = "SELEZIONA CALCIATORE";
+                document.getElementById('evaluator-verdict-badge').className = "px-3 py-1 rounded-xl font-black text-xs uppercase bg-slate-800 text-slate-400 border border-slate-700";
+                document.getElementById('evaluator-reasoning').innerText = "Cerca un giocatore dal listone sopra per analizzare rilanci e convenienza tattica.";
+                document.getElementById('eval-player-target').innerText = "-";
+                document.getElementById('eval-player-max').innerText = "-";
+                document.getElementById('eval-player-moneyball').innerText = "-";
+                document.getElementById('eval-player-xg-xa').innerText = "-";
+                return;
+            }
+
+            const p = selectedEvaluatorPlayer;
+            const currentBid = parseInt(document.getElementById('evaluator-current-bid').value, 10) || 1;
+            
+            const remainingCredits = totalBudget - userTotalSpent;
+            const totalCount = userRoster.P.length + userRoster.D.length + userRoster.C.length + userRoster.A.length;
+            const remainingSlots = 25 - totalCount;
+            const userMaxBid = remainingSlots > 0 ? (remainingCredits - (remainingSlots - 1)) : remainingCredits;
+
+            // Compute Top Rival Ceiling
+            let topRivalCeiling = 0;
+            let topRivalName = "Nessuno";
+            rivals.forEach(r => {
+                const remSlots = 25 - r.slots;
+                const rMax = remSlots > 0 ? (r.credits - (remSlots - 1)) : r.credits;
+                if (rMax > topRivalCeiling) {
+                    topRivalCeiling = rMax;
+                    topRivalName = r.name;
+                }
+            });
+
+            // Calculate Role Safety Reserve
+            const limits = { P: 3, D: 8, C: 8, A: 6 };
+            const remP = Math.max(0, limits.P - userRoster.P.length);
+            const remD = Math.max(0, limits.D - userRoster.D.length);
+            const remC = Math.max(0, limits.C - userRoster.C.length);
+            const remA = Math.max(0, limits.A - userRoster.A.length);
+            
+            // Other roles minimum reserve
+            let otherRolesReserve = 0;
+            if (p.ruolo === 'P') otherRolesReserve = remD + remC + remA + Math.max(0, remP - 1);
+            else if (p.ruolo === 'D') otherRolesReserve = remP + remC + remA + Math.max(0, remD - 1);
+            else if (p.ruolo === 'C') otherRolesReserve = remP + remD + remA + Math.max(0, remC - 1);
+            else if (p.ruolo === 'A') otherRolesReserve = remP + remD + remC + Math.max(0, remA - 1);
+
+            const safeMaxForRole = Math.max(1, remainingCredits - otherRolesReserve);
+
+            let mbVal = p.moneyball_index || (p.stats && p.stats.moneyball_index) || 50.0;
+            let xgVal = p.xg !== undefined ? p.xg : (p.stats && p.stats.xg ? p.stats.xg : 0.0);
+            let xaVal = p.xa !== undefined ? p.xa : (p.stats && p.stats.xa ? p.stats.xa : 0.0);
+
+            document.getElementById('eval-player-target').innerText = `${p.prezzo_target} cr`;
+            document.getElementById('eval-player-max').innerText = `${p.prezzo_max} cr`;
+            document.getElementById('eval-player-moneyball').innerText = `${mbVal.toFixed(1)}/100`;
+            document.getElementById('eval-player-xg-xa').innerText = `${xgVal.toFixed(1)} / ${xaVal.toFixed(1)}`;
+
+            const badge = document.getElementById('evaluator-verdict-badge');
+            const reason = document.getElementById('evaluator-reasoning');
+
+            // Verdict Logic
+            if (currentBid > safeMaxForRole || currentBid > userMaxBid) {
+                badge.innerText = "ATTENZIONE BUDGET";
+                badge.className = "px-3 py-1 rounded-xl font-black text-xs uppercase bg-rose-950 text-rose-300 border border-rose-700";
+                reason.innerHTML = `⚠️ <strong class="text-rose-400">Puntata non sostenibile!</strong> Il tuo limite di sicurezza per il ruolo ${p.ruolo} è di <strong>${safeMaxForRole} cr</strong> (necessari ${otherRolesReserve} cr per completare gli altri ${remainingSlots - 1} slot).`;
+            } else if (currentBid > p.prezzo_max) {
+                badge.innerText = "LASCIA";
+                badge.className = "px-3 py-1 rounded-xl font-black text-xs uppercase bg-rose-950 text-rose-300 border border-rose-700";
+                reason.innerHTML = `🔴 <strong class="text-rose-400">Prezzo Fuori Mercato!</strong> L'offerta di ${currentBid} cr supera il prezzo massimo consigliato (${p.prezzo_max} cr). Lascia svenare gli avversari!`;
+            } else if (currentBid <= p.prezzo_target) {
+                badge.innerText = "COMPRA";
+                badge.className = "px-3 py-1 rounded-xl font-black text-xs uppercase bg-emerald-950 text-emerald-300 border border-emerald-700";
+                reason.innerHTML = `🟢 <strong class="text-emerald-400">Grande Affare!</strong> Il prezzo di ${currentBid} cr è pari o inferiore al target (${p.prezzo_target} cr). Indice Moneyball: <strong>${mbVal.toFixed(1)}</strong>. Offerta fortemente consigliata!`;
+            } else if (currentBid <= p.prezzo_max) {
+                badge.innerText = "RILANCIA";
+                badge.className = "px-3 py-1 rounded-xl font-black text-xs uppercase bg-amber-950 text-amber-300 border border-amber-700";
+                let ceilingDiff = userMaxBid - topRivalCeiling;
+                let rivalMsg = ceilingDiff > 0 ? `Hai un vantaggio di ${ceilingDiff} cr sul top rivale (${topRivalName}).` : `Il rivale ${topRivalName} ha un soffitto di ${topRivalCeiling} cr.`;
+                reason.innerHTML = `🟡 <strong class="text-amber-400">Rilancio Sostenibile.</strong> Offerta superiore al target ma entro il tetto massimo (${p.prezzo_max} cr). ${rivalMsg} Puoi rilanciare fino a <strong>${Math.min(p.prezzo_max, safeMaxForRole)} cr</strong>.`;
+            }
+        }
+
+        function buyEvaluatedPlayer() {
+            if (!selectedEvaluatorPlayer) {
+                alert("Seleziona prima un calciatore dall'elenco!");
+                return;
+            }
+            const currentBid = parseInt(document.getElementById('evaluator-current-bid').value, 10) || selectedEvaluatorPlayer.prezzo_target;
+            buyPlayer(selectedEvaluatorPlayer.nome, selectedEvaluatorPlayer.ruolo, currentBid, true);
+        }
+
+        function buyPlayer(name, role, defaultPrice, skipPrompt = false) {
+            let price = defaultPrice;
+            if (!skipPrompt) {
+                const cost = prompt(`A quanti crediti hai preso ${name}?`, defaultPrice);
+                if (cost === null) return;
+                price = parseInt(cost, 10);
+            }
+
+            if (isNaN(price) || price < 1) {
+                alert("Prezzo non valido!");
+                return;
+            }
+
+            const limits = { P: 3, D: 8, C: 8, A: 6 };
+            if (userRoster[role].length >= limits[role]) {
+                alert(`Hai già completato gli slot per il ruolo ${role} (${limits[role]}/${limits[role]})!`);
+                return;
+            }
+
+            userRoster[role].push({ name, price });
+            updateRosterUI();
+            updateAuctionEvaluator();
+        }
+
+        function removePlayer(role, index) {
+            userRoster[role].splice(index, 1);
+            updateRosterUI();
+            updateAuctionEvaluator();
+        }
+
+        function updateRosterUI() {
+            let totalCount = 0;
+            userTotalSpent = 0;
+
+            const limits = { P: 3, D: 8, C: 8, A: 6 };
+
+            ['P', 'D', 'C', 'A'].forEach(role => {
+                const list = userRoster[role];
+                totalCount += list.length;
+                let spent = list.reduce((acc, cur) => acc + cur.price, 0);
+                userTotalSpent += spent;
+
+                document.getElementById('count-' + role.toLowerCase()).innerText = list.length;
+                document.getElementById('spent-' + role.toLowerCase()).innerText = spent;
+                
+                const remSlotsRole = Math.max(0, limits[role] - list.length);
+                const reserveEl = document.getElementById('reserve-' + role.toLowerCase());
+                if (reserveEl) reserveEl.innerText = remSlotsRole;
+
+                const container = document.getElementById('roster-' + role.toLowerCase() + '-list');
+                let html = list.map((p, idx) => `
+                    <div class="bg-slate-900 p-2.5 rounded-xl border border-slate-800 flex justify-between items-center text-xs">
+                        <div>
+                            <div class="font-bold text-white">${p.name}</div>
+                            <div class="text-slate-400">${p.price} crediti</div>
+                        </div>
+                        <button onclick="removePlayer('${role}', ${idx})" class="text-rose-400 hover:text-rose-300 text-xs p-1">
+                            <i class="fa-solid fa-trash"></i>
+                        </button>
+                    </div>
+                `).join('');
+
+                for (let i = list.length; i < limits[role]; i++) {
+                    html += `<div class="border border-dashed border-slate-800 rounded-xl p-2.5 text-center text-xs text-slate-600">Slot ${i+1} Vuoto</div>`;
+                }
+                container.innerHTML = html;
+            });
+
+            const remainingCredits = totalBudget - userTotalSpent;
+            const remainingSlots = 25 - totalCount;
+            const maxBid = remainingSlots > 0 ? Math.max(1, (remainingCredits - (remainingSlots - 1))) : remainingCredits;
+
+            // Calculate Top Rival Max Bid
+            let topRivalCeiling = 0;
+            let topRivalName = "Nessuno";
+            rivals.forEach(r => {
+                const remSlots = 25 - r.slots;
+                const rMax = remSlots > 0 ? Math.max(1, r.credits - (remSlots - 1)) : r.credits;
+                if (rMax > topRivalCeiling) {
+                    topRivalCeiling = rMax;
+                    topRivalName = r.name;
+                }
+            });
+
+            const winningThreshold = topRivalCeiling + 1;
+            const safetyReserveCredits = remainingSlots;
+
+            // Update Nav Header
+            document.getElementById('user-remaining-credits').innerText = remainingCredits;
+            document.getElementById('user-slots-count').innerText = `${totalCount} / 25`;
+            document.getElementById('user-max-bid').innerText = maxBid;
+            document.getElementById('top-rival-max-bid-nav').innerText = topRivalCeiling;
+            document.getElementById('winning-threshold-nav').innerText = winningThreshold;
+
+            // Update Strategic Cards
+            document.getElementById('card-user-max-bid').innerHTML = `${maxBid} <span class="text-sm font-bold text-slate-400">cr</span>`;
+            document.getElementById('card-top-rival-max-bid').innerHTML = `${topRivalCeiling} <span class="text-sm font-bold text-slate-400">cr</span>`;
+            document.getElementById('card-top-rival-name').innerText = `Rivale più ricco: ${topRivalName}`;
+            document.getElementById('card-winning-threshold').innerHTML = `${winningThreshold} <span class="text-sm font-bold text-slate-400">cr</span>`;
+            document.getElementById('card-safety-reserve').innerHTML = `${safetyReserveCredits} <span class="text-sm font-bold text-slate-400">cr</span>`;
+            
+            const remP = Math.max(0, limits.P - userRoster.P.length);
+            const remD = Math.max(0, limits.D - userRoster.D.length);
+            const remC = Math.max(0, limits.C - userRoster.C.length);
+            const remA = Math.max(0, limits.A - userRoster.A.length);
+            document.getElementById('card-safety-breakdown').innerText = `P:${remP} | D:${remD} | C:${remC} | A:${remA} (1 cr/slot)`;
+        }
+
+        function resetRoster() {
+            if (confirm("Vuoi davvero resettare la tua rosa?")) {
+                userRoster = { P: [], D: [], C: [], A: [] };
+                updateRosterUI();
+                updateAuctionEvaluator();
+            }
+        }
+
+        function renderRivals() {
+            const container = document.getElementById('rivals-container');
+            container.innerHTML = rivals.map((r, i) => {
+                const remSlots = 25 - r.slots;
+                const rivalMaxBid = remSlots > 0 ? Math.max(1, (r.credits - (remSlots - 1))) : r.credits;
+                return `
+                <div class="bg-slate-950 p-3 rounded-2xl border border-slate-800 flex justify-between items-center">
+                    <div>
+                        <div class="text-xs font-bold text-slate-200">${r.name}</div>
+                        <div class="text-[11px] text-slate-400">Crediti: <span class="font-bold text-amber-400">${r.credits}</span> | Slot: ${r.slots}/25 | Max Offerta: <span class="font-bold text-rose-400">${rivalMaxBid}</span></div>
+                    </div>
+                    <div class="flex items-center gap-1.5">
+                        <button onclick="spendRival(${i})" class="px-2.5 py-1 rounded-xl bg-slate-900 hover:bg-slate-800 text-xs font-bold text-slate-300 border border-slate-700">- Spesa</button>
+                    </div>
+                </div>
+            `}).join('');
+        }
+
+        function spendRival(index) {
+            const val = prompt(`Quanti crediti ha speso ${rivals[index].name}?`);
+            if (val === null) return;
+            const spent = parseInt(val, 10);
+            if (!isNaN(spent) && spent > 0) {
+                rivals[index].credits = Math.max(0, rivals[index].credits - spent);
+                rivals[index].slots = Math.min(25, rivals[index].slots + 1);
+                renderRivals();
+                updateRosterUI();
+                updateAuctionEvaluator();
+            }
+        }
+
+        function calculateModifier() {
+            const p = parseFloat(document.getElementById('mod-p').value) || 6.0;
+            const d1 = parseFloat(document.getElementById('mod-d1').value) || 6.0;
+            const d2 = parseFloat(document.getElementById('mod-d2').value) || 6.0;
+            const d3 = parseFloat(document.getElementById('mod-d3').value) || 6.0;
+            const d4 = parseFloat(document.getElementById('mod-d4').value) || 6.0;
+
+            const defs = [d1, d2, d3, d4].sort((a, b) => b - a);
+            const top3Defs = defs.slice(0, 3);
+            const avg = (p + top3Defs[0] + top3Defs[1] + top3Defs[2]) / 4.0;
+
+            document.getElementById('mod-avg-display').innerText = avg.toFixed(3);
+
+            let bonus = 0;
+            if (avg >= 7.00) bonus = 6;
+            else if (avg >= 6.50) bonus = 3;
+            else if (avg >= 6.00) bonus = 1;
+            else bonus = 0;
+
+            document.getElementById('mod-bonus-display').innerText = `+${bonus} PUNTI`;
+        }
+    </script>
+</body>
+</html>
