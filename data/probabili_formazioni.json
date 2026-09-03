@@ -1,0 +1,3264 @@
+{
+  "giornata": 1,
+  "season": "2026/2027",
+  "matches": [
+    {
+      "match_id": "2026_G01_UDI_COM",
+      "giornata": 1,
+      "date_str": "2026-08-22T18:30:00Z",
+      "stadium": "Stadio Serie A",
+      "home_team": "Udinese",
+      "home_team_code": "UDI",
+      "away_team": "Como",
+      "away_team_code": "COM",
+      "home_lineup": {
+        "squadra": "Udinese",
+        "squadra_code": "UDI",
+        "modulo": "3-4-2-1",
+        "titolari": [
+          {
+            "nome": "Okoye",
+            "ruolo": "P",
+            "probabilita": 90,
+            "status": "STARTER"
+          },
+          {
+            "nome": "Abankwah",
+            "ruolo": "D",
+            "probabilita": 80,
+            "status": "STARTER"
+          },
+          {
+            "nome": "Kabasele",
+            "ruolo": "D",
+            "probabilita": 80,
+            "status": "STARTER"
+          },
+          {
+            "nome": "Solet",
+            "ruolo": "D",
+            "probabilita": 90,
+            "status": "STARTER"
+          },
+          {
+            "nome": "Vojvoda",
+            "ruolo": "D",
+            "probabilita": 90,
+            "status": "STARTER"
+          },
+          {
+            "nome": "Piotrowski",
+            "ruolo": "C",
+            "probabilita": 85,
+            "status": "STARTER"
+          },
+          {
+            "nome": "Karlstrom",
+            "ruolo": "C",
+            "probabilita": 90,
+            "status": "STARTER"
+          },
+          {
+            "nome": "Kamara H.",
+            "ruolo": "D",
+            "probabilita": 90,
+            "status": "STARTER"
+          },
+          {
+            "nome": "Ekkelenkamp",
+            "ruolo": "C",
+            "probabilita": 90,
+            "status": "STARTER"
+          },
+          {
+            "nome": "Unai Gomez",
+            "ruolo": "C",
+            "probabilita": 90,
+            "status": "STARTER"
+          },
+          {
+            "nome": "Davis K.",
+            "ruolo": "A",
+            "probabilita": 90,
+            "status": "STARTER"
+          }
+        ],
+        "panchina": [
+          {
+            "nome": "Mrozek",
+            "ruolo": "P",
+            "probabilita": 5,
+            "status": "BENCH"
+          },
+          {
+            "nome": "Piana",
+            "ruolo": "P",
+            "probabilita": 1,
+            "status": "BENCH"
+          },
+          {
+            "nome": "Padelli",
+            "ruolo": "P",
+            "probabilita": 1,
+            "status": "BENCH"
+          },
+          {
+            "nome": "Ebosse",
+            "ruolo": "D",
+            "probabilita": 40,
+            "status": "BENCH"
+          },
+          {
+            "nome": "Bertola",
+            "ruolo": "D",
+            "probabilita": 55,
+            "status": "BENCH"
+          },
+          {
+            "nome": "Arizala",
+            "ruolo": "D",
+            "probabilita": 55,
+            "status": "BENCH"
+          },
+          {
+            "nome": "Miller L.",
+            "ruolo": "C",
+            "probabilita": 60,
+            "status": "BENCH"
+          },
+          {
+            "nome": "Jovanovic",
+            "ruolo": "C",
+            "probabilita": 35,
+            "status": "BENCH"
+          },
+          {
+            "nome": "Zarraga",
+            "ruolo": "C",
+            "probabilita": 50,
+            "status": "BENCH"
+          },
+          {
+            "nome": "Gueye",
+            "ruolo": "A",
+            "probabilita": 60,
+            "status": "BENCH"
+          },
+          {
+            "nome": "Bayo V.",
+            "ruolo": "A",
+            "probabilita": 40,
+            "status": "BENCH"
+          }
+        ],
+        "ballottaggi": [],
+        "infortunati": [],
+        "squalificati": []
+      },
+      "away_lineup": {
+        "squadra": "Como",
+        "squadra_code": "COM",
+        "modulo": "4-2-3-1",
+        "titolari": [
+          {
+            "nome": "Butez",
+            "ruolo": "P",
+            "probabilita": 90,
+            "status": "STARTER"
+          },
+          {
+            "nome": "Couto",
+            "ruolo": "D",
+            "probabilita": 60,
+            "status": "STARTER"
+          },
+          {
+            "nome": "Chalobah T.",
+            "ruolo": "D",
+            "probabilita": 80,
+            "status": "STARTER"
+          },
+          {
+            "nome": "Ramon",
+            "ruolo": "D",
+            "probabilita": 80,
+            "status": "STARTER"
+          },
+          {
+            "nome": "Valle",
+            "ruolo": "D",
+            "probabilita": 60,
+            "status": "STARTER"
+          },
+          {
+            "nome": "Da Cunha",
+            "ruolo": "C",
+            "probabilita": 80,
+            "status": "STARTER"
+          },
+          {
+            "nome": "Perrone",
+            "ruolo": "C",
+            "probabilita": 80,
+            "status": "STARTER"
+          },
+          {
+            "nome": "Diao",
+            "ruolo": "A",
+            "probabilita": 85,
+            "status": "STARTER"
+          },
+          {
+            "nome": "Paz N.",
+            "ruolo": "C",
+            "probabilita": 90,
+            "status": "STARTER"
+          },
+          {
+            "nome": "Baturina",
+            "ruolo": "C",
+            "probabilita": 80,
+            "status": "STARTER"
+          },
+          {
+            "nome": "Kean",
+            "ruolo": "A",
+            "probabilita": 55,
+            "status": "STARTER"
+          }
+        ],
+        "panchina": [
+          {
+            "nome": "Sanchez Ro.",
+            "ruolo": "P",
+            "probabilita": 5,
+            "status": "BENCH"
+          },
+          {
+            "nome": "Vigorito",
+            "ruolo": "P",
+            "probabilita": 1,
+            "status": "BENCH"
+          },
+          {
+            "nome": "Smolcic I.",
+            "ruolo": "D",
+            "probabilita": 60,
+            "status": "BENCH"
+          },
+          {
+            "nome": "Kaiki",
+            "ruolo": "D",
+            "probabilita": 55,
+            "status": "BENCH"
+          },
+          {
+            "nome": "Kambwala",
+            "ruolo": "D",
+            "probabilita": 25,
+            "status": "BENCH"
+          },
+          {
+            "nome": "Kempf",
+            "ruolo": "D",
+            "probabilita": 40,
+            "status": "BENCH"
+          },
+          {
+            "nome": "Goldaniga",
+            "ruolo": "D",
+            "probabilita": 20,
+            "status": "BENCH"
+          },
+          {
+            "nome": "Milla",
+            "ruolo": "C",
+            "probabilita": 60,
+            "status": "BENCH"
+          },
+          {
+            "nome": "Caqueret",
+            "ruolo": "C",
+            "probabilita": 40,
+            "status": "BENCH"
+          },
+          {
+            "nome": "Lahdo",
+            "ruolo": "C",
+            "probabilita": 15,
+            "status": "BENCH"
+          },
+          {
+            "nome": "Ricci S.",
+            "ruolo": "C",
+            "probabilita": 35,
+            "status": "BENCH"
+          },
+          {
+            "nome": "Liberali",
+            "ruolo": "C",
+            "probabilita": 40,
+            "status": "BENCH"
+          },
+          {
+            "nome": "Rodriguez Je.",
+            "ruolo": "C",
+            "probabilita": 60,
+            "status": "BENCH"
+          },
+          {
+            "nome": "Douvikas",
+            "ruolo": "A",
+            "probabilita": 60,
+            "status": "BENCH"
+          }
+        ],
+        "ballottaggi": [],
+        "infortunati": [],
+        "squalificati": []
+      }
+    },
+    {
+      "match_id": "2026_G01_INT_MON",
+      "giornata": 1,
+      "date_str": "2026-08-22T18:30:00Z",
+      "stadium": "Stadio Serie A",
+      "home_team": "Inter",
+      "home_team_code": "INT",
+      "away_team": "Monza",
+      "away_team_code": "MON",
+      "home_lineup": {
+        "squadra": "Inter",
+        "squadra_code": "INT",
+        "modulo": "3-5-2",
+        "titolari": [
+          {
+            "nome": "Martinez Jo.",
+            "ruolo": "P",
+            "probabilita": 90,
+            "status": "STARTER"
+          },
+          {
+            "nome": "Bisseck",
+            "ruolo": "D",
+            "probabilita": 80,
+            "status": "STARTER"
+          },
+          {
+            "nome": "Akanji",
+            "ruolo": "D",
+            "probabilita": 90,
+            "status": "STARTER"
+          },
+          {
+            "nome": "Bastoni",
+            "ruolo": "D",
+            "probabilita": 90,
+            "status": "STARTER"
+          },
+          {
+            "nome": "Diouf",
+            "ruolo": "C",
+            "probabilita": 85,
+            "status": "STARTER"
+          },
+          {
+            "nome": "Barella",
+            "ruolo": "C",
+            "probabilita": 90,
+            "status": "STARTER"
+          },
+          {
+            "nome": "Calhanoglu",
+            "ruolo": "C",
+            "probabilita": 90,
+            "status": "STARTER"
+          },
+          {
+            "nome": "Zielinski",
+            "ruolo": "C",
+            "probabilita": 60,
+            "status": "STARTER"
+          },
+          {
+            "nome": "Dimarco",
+            "ruolo": "D",
+            "probabilita": 90,
+            "status": "STARTER"
+          },
+          {
+            "nome": "Martinez L.",
+            "ruolo": "A",
+            "probabilita": 90,
+            "status": "STARTER"
+          },
+          {
+            "nome": "Esposito F.P.",
+            "ruolo": "A",
+            "probabilita": 55,
+            "status": "STARTER"
+          }
+        ],
+        "panchina": [
+          {
+            "nome": "Provedel",
+            "ruolo": "P",
+            "probabilita": 5,
+            "status": "BENCH"
+          },
+          {
+            "nome": "Di Gennaro",
+            "ruolo": "P",
+            "probabilita": 1,
+            "status": "BENCH"
+          },
+          {
+            "nome": "Stones",
+            "ruolo": "D",
+            "probabilita": 55,
+            "status": "BENCH"
+          },
+          {
+            "nome": "Carlos Augusto",
+            "ruolo": "D",
+            "probabilita": 50,
+            "status": "BENCH"
+          },
+          {
+            "nome": "Spence",
+            "ruolo": "D",
+            "probabilita": 35,
+            "status": "BENCH"
+          },
+          {
+            "nome": "Pavard",
+            "ruolo": "D",
+            "probabilita": 30,
+            "status": "BENCH"
+          },
+          {
+            "nome": "Sucic P.",
+            "ruolo": "C",
+            "probabilita": 60,
+            "status": "BENCH"
+          },
+          {
+            "nome": "Luis Henrique",
+            "ruolo": "C",
+            "probabilita": 30,
+            "status": "BENCH"
+          },
+          {
+            "nome": "Jones C.",
+            "ruolo": "C",
+            "probabilita": 60,
+            "status": "BENCH"
+          },
+          {
+            "nome": "Stankovic A.",
+            "ruolo": "C",
+            "probabilita": 25,
+            "status": "BENCH"
+          },
+          {
+            "nome": "Mkhitaryan",
+            "ruolo": "C",
+            "probabilita": 40,
+            "status": "BENCH"
+          },
+          {
+            "nome": "Bonny",
+            "ruolo": "A",
+            "probabilita": 40,
+            "status": "BENCH"
+          },
+          {
+            "nome": "Thuram",
+            "ruolo": "A",
+            "probabilita": 60,
+            "status": "BENCH"
+          }
+        ],
+        "ballottaggi": [],
+        "infortunati": [],
+        "squalificati": []
+      },
+      "away_lineup": {
+        "squadra": "Monza",
+        "squadra_code": "MON",
+        "modulo": "3-4-2-1",
+        "titolari": [
+          {
+            "nome": "Tornqvist",
+            "ruolo": "P",
+            "probabilita": 90,
+            "status": "STARTER"
+          },
+          {
+            "nome": "Ziolkowski",
+            "ruolo": "D",
+            "probabilita": 60,
+            "status": "STARTER"
+          },
+          {
+            "nome": "Lucchesi",
+            "ruolo": "D",
+            "probabilita": 85,
+            "status": "STARTER"
+          },
+          {
+            "nome": "Carboni A.",
+            "ruolo": "D",
+            "probabilita": 85,
+            "status": "STARTER"
+          },
+          {
+            "nome": "Birindelli",
+            "ruolo": "D",
+            "probabilita": 90,
+            "status": "STARTER"
+          },
+          {
+            "nome": "Akinsanmiro",
+            "ruolo": "C",
+            "probabilita": 80,
+            "status": "STARTER"
+          },
+          {
+            "nome": "Folorunsho",
+            "ruolo": "C",
+            "probabilita": 85,
+            "status": "STARTER"
+          },
+          {
+            "nome": "Mangas",
+            "ruolo": "D",
+            "probabilita": 90,
+            "status": "STARTER"
+          },
+          {
+            "nome": "Colpani",
+            "ruolo": "C",
+            "probabilita": 80,
+            "status": "STARTER"
+          },
+          {
+            "nome": "Ngonge",
+            "ruolo": "A",
+            "probabilita": 60,
+            "status": "STARTER"
+          },
+          {
+            "nome": "Cutrone",
+            "ruolo": "A",
+            "probabilita": 90,
+            "status": "STARTER"
+          }
+        ],
+        "panchina": [
+          {
+            "nome": "Thiam",
+            "ruolo": "P",
+            "probabilita": 5,
+            "status": "BENCH"
+          },
+          {
+            "nome": "Strajnar",
+            "ruolo": "P",
+            "probabilita": 1,
+            "status": "BENCH"
+          },
+          {
+            "nome": "Antov",
+            "ruolo": "D",
+            "probabilita": 20,
+            "status": "BENCH"
+          },
+          {
+            "nome": "Kouadio",
+            "ruolo": "D",
+            "probabilita": 60,
+            "status": "BENCH"
+          },
+          {
+            "nome": "Goglichidze",
+            "ruolo": "D",
+            "probabilita": 40,
+            "status": "BENCH"
+          },
+          {
+            "nome": "Bakoune",
+            "ruolo": "D",
+            "probabilita": 30,
+            "status": "BENCH"
+          },
+          {
+            "nome": "Maye",
+            "ruolo": "D",
+            "probabilita": 35,
+            "status": "BENCH"
+          },
+          {
+            "nome": "Mout",
+            "ruolo": "C",
+            "probabilita": 60,
+            "status": "BENCH"
+          },
+          {
+            "nome": "Foe Ondoa",
+            "ruolo": "C",
+            "probabilita": 50,
+            "status": "BENCH"
+          },
+          {
+            "nome": "Forson O.",
+            "ruolo": "C",
+            "probabilita": 40,
+            "status": "BENCH"
+          },
+          {
+            "nome": "Tour&#xE8; I.",
+            "ruolo": "C",
+            "probabilita": 55,
+            "status": "BENCH"
+          },
+          {
+            "nome": "Colombo L.",
+            "ruolo": "C",
+            "probabilita": 25,
+            "status": "BENCH"
+          },
+          {
+            "nome": "Mota",
+            "ruolo": "A",
+            "probabilita": 60,
+            "status": "BENCH"
+          },
+          {
+            "nome": "Zeballos",
+            "ruolo": "A",
+            "probabilita": 50,
+            "status": "BENCH"
+          },
+          {
+            "nome": "Robinson J.",
+            "ruolo": "A",
+            "probabilita": 25,
+            "status": "BENCH"
+          }
+        ],
+        "ballottaggi": [],
+        "infortunati": [],
+        "squalificati": []
+      }
+    },
+    {
+      "match_id": "2026_G01_GEN_NAP",
+      "giornata": 1,
+      "date_str": "2026-08-22T18:30:00Z",
+      "stadium": "Stadio Serie A",
+      "home_team": "Genoa",
+      "home_team_code": "GEN",
+      "away_team": "Napoli",
+      "away_team_code": "NAP",
+      "home_lineup": {
+        "squadra": "Genoa",
+        "squadra_code": "GEN",
+        "modulo": "3-4-2-1",
+        "titolari": [
+          {
+            "nome": "Bijlow",
+            "ruolo": "P",
+            "probabilita": 90,
+            "status": "STARTER"
+          },
+          {
+            "nome": "Marcandalli",
+            "ruolo": "D",
+            "probabilita": 90,
+            "status": "STARTER"
+          },
+          {
+            "nome": "Ostigard",
+            "ruolo": "D",
+            "probabilita": 90,
+            "status": "STARTER"
+          },
+          {
+            "nome": "Vasquez",
+            "ruolo": "D",
+            "probabilita": 90,
+            "status": "STARTER"
+          },
+          {
+            "nome": "Ellertsson",
+            "ruolo": "C",
+            "probabilita": 90,
+            "status": "STARTER"
+          },
+          {
+            "nome": "Frendrup",
+            "ruolo": "C",
+            "probabilita": 90,
+            "status": "STARTER"
+          },
+          {
+            "nome": "Sow",
+            "ruolo": "C",
+            "probabilita": 90,
+            "status": "STARTER"
+          },
+          {
+            "nome": "Mitaj",
+            "ruolo": "D",
+            "probabilita": 80,
+            "status": "STARTER"
+          },
+          {
+            "nome": "Baldanzi",
+            "ruolo": "C",
+            "probabilita": 90,
+            "status": "STARTER"
+          },
+          {
+            "nome": "Vitinha O.",
+            "ruolo": "A",
+            "probabilita": 60,
+            "status": "STARTER"
+          },
+          {
+            "nome": "Colombo",
+            "ruolo": "A",
+            "probabilita": 90,
+            "status": "STARTER"
+          }
+        ],
+        "panchina": [
+          {
+            "nome": "Stolz",
+            "ruolo": "P",
+            "probabilita": 5,
+            "status": "BENCH"
+          },
+          {
+            "nome": "Sommariva",
+            "ruolo": "P",
+            "probabilita": 1,
+            "status": "BENCH"
+          },
+          {
+            "nome": "Otoa",
+            "ruolo": "D",
+            "probabilita": 35,
+            "status": "BENCH"
+          },
+          {
+            "nome": "Sabelli",
+            "ruolo": "D",
+            "probabilita": 20,
+            "status": "BENCH"
+          },
+          {
+            "nome": "Drameh",
+            "ruolo": "D",
+            "probabilita": 30,
+            "status": "BENCH"
+          },
+          {
+            "nome": "Puczka",
+            "ruolo": "D",
+            "probabilita": 50,
+            "status": "BENCH"
+          },
+          {
+            "nome": "Amorim",
+            "ruolo": "C",
+            "probabilita": 60,
+            "status": "BENCH"
+          },
+          {
+            "nome": "Messias",
+            "ruolo": "C",
+            "probabilita": 60,
+            "status": "BENCH"
+          },
+          {
+            "nome": "Traor&#xE8; Hj.",
+            "ruolo": "C",
+            "probabilita": 35,
+            "status": "BENCH"
+          },
+          {
+            "nome": "Meichtry",
+            "ruolo": "C",
+            "probabilita": 55,
+            "status": "BENCH"
+          },
+          {
+            "nome": "Zulevic",
+            "ruolo": "A",
+            "probabilita": 15,
+            "status": "BENCH"
+          },
+          {
+            "nome": "Havel",
+            "ruolo": "A",
+            "probabilita": 35,
+            "status": "BENCH"
+          },
+          {
+            "nome": "Robinho Junior",
+            "ruolo": "A",
+            "probabilita": 25,
+            "status": "BENCH"
+          },
+          {
+            "nome": "Osmajic",
+            "ruolo": "A",
+            "probabilita": 60,
+            "status": "BENCH"
+          }
+        ],
+        "ballottaggi": [],
+        "infortunati": [],
+        "squalificati": []
+      },
+      "away_lineup": {
+        "squadra": "Napoli",
+        "squadra_code": "NAP",
+        "modulo": "4-3-3",
+        "titolari": [
+          {
+            "nome": "Meret",
+            "ruolo": "P",
+            "probabilita": 90,
+            "status": "STARTER"
+          },
+          {
+            "nome": "Di Lorenzo",
+            "ruolo": "D",
+            "probabilita": 90,
+            "status": "STARTER"
+          },
+          {
+            "nome": "Rrahmani",
+            "ruolo": "D",
+            "probabilita": 90,
+            "status": "STARTER"
+          },
+          {
+            "nome": "Marin R.",
+            "ruolo": "D",
+            "probabilita": 60,
+            "status": "STARTER"
+          },
+          {
+            "nome": "Spinazzola",
+            "ruolo": "D",
+            "probabilita": 60,
+            "status": "STARTER"
+          },
+          {
+            "nome": "Zambo Anguissa",
+            "ruolo": "C",
+            "probabilita": 90,
+            "status": "STARTER"
+          },
+          {
+            "nome": "Lobotka",
+            "ruolo": "C",
+            "probabilita": 90,
+            "status": "STARTER"
+          },
+          {
+            "nome": "De Bruyne",
+            "ruolo": "C",
+            "probabilita": 80,
+            "status": "STARTER"
+          },
+          {
+            "nome": "Politano",
+            "ruolo": "C",
+            "probabilita": 80,
+            "status": "STARTER"
+          },
+          {
+            "nome": "Hojlund",
+            "ruolo": "A",
+            "probabilita": 90,
+            "status": "STARTER"
+          },
+          {
+            "nome": "Santos A.",
+            "ruolo": "A",
+            "probabilita": 80,
+            "status": "STARTER"
+          }
+        ],
+        "panchina": [
+          {
+            "nome": "Milinkovic-Savic V.",
+            "ruolo": "P",
+            "probabilita": 5,
+            "status": "BENCH"
+          },
+          {
+            "nome": "Contini",
+            "ruolo": "P",
+            "probabilita": 1,
+            "status": "BENCH"
+          },
+          {
+            "nome": "Olivera",
+            "ruolo": "D",
+            "probabilita": 60,
+            "status": "BENCH"
+          },
+          {
+            "nome": "Favasuli",
+            "ruolo": "D",
+            "probabilita": 20,
+            "status": "BENCH"
+          },
+          {
+            "nome": "Beukema",
+            "ruolo": "D",
+            "probabilita": 35,
+            "status": "BENCH"
+          },
+          {
+            "nome": "Badiashile",
+            "ruolo": "D",
+            "probabilita": 30,
+            "status": "BENCH"
+          },
+          {
+            "nome": "Gilmour",
+            "ruolo": "C",
+            "probabilita": 35,
+            "status": "BENCH"
+          },
+          {
+            "nome": "Vergara",
+            "ruolo": "C",
+            "probabilita": 60,
+            "status": "BENCH"
+          },
+          {
+            "nome": "Giovane",
+            "ruolo": "A",
+            "probabilita": 35,
+            "status": "BENCH"
+          },
+          {
+            "nome": "Lang",
+            "ruolo": "A",
+            "probabilita": 55,
+            "status": "BENCH"
+          },
+          {
+            "nome": "Neres",
+            "ruolo": "A",
+            "probabilita": 50,
+            "status": "BENCH"
+          },
+          {
+            "nome": "Lucca",
+            "ruolo": "A",
+            "probabilita": 60,
+            "status": "BENCH"
+          }
+        ],
+        "ballottaggi": [],
+        "infortunati": [],
+        "squalificati": []
+      }
+    },
+    {
+      "match_id": "2026_G01_PAR_CAG",
+      "giornata": 1,
+      "date_str": "2026-08-22T18:30:00Z",
+      "stadium": "Stadio Serie A",
+      "home_team": "Parma",
+      "home_team_code": "PAR",
+      "away_team": "Cagliari",
+      "away_team_code": "CAG",
+      "home_lineup": {
+        "squadra": "Parma",
+        "squadra_code": "PAR",
+        "modulo": "3-5-2",
+        "titolari": [
+          {
+            "nome": "Corvi",
+            "ruolo": "P",
+            "probabilita": 80,
+            "status": "STARTER"
+          },
+          {
+            "nome": "Delprato",
+            "ruolo": "D",
+            "probabilita": 90,
+            "status": "STARTER"
+          },
+          {
+            "nome": "Troilo",
+            "ruolo": "D",
+            "probabilita": 90,
+            "status": "STARTER"
+          },
+          {
+            "nome": "Diego Carlos",
+            "ruolo": "D",
+            "probabilita": 80,
+            "status": "STARTER"
+          },
+          {
+            "nome": "Britschgi",
+            "ruolo": "D",
+            "probabilita": 80,
+            "status": "STARTER"
+          },
+          {
+            "nome": "Bernab&#xE8;",
+            "ruolo": "C",
+            "probabilita": 90,
+            "status": "STARTER"
+          },
+          {
+            "nome": "Keita M.",
+            "ruolo": "C",
+            "probabilita": 90,
+            "status": "STARTER"
+          },
+          {
+            "nome": "Ordonez C.",
+            "ruolo": "C",
+            "probabilita": 85,
+            "status": "STARTER"
+          },
+          {
+            "nome": "Valeri",
+            "ruolo": "D",
+            "probabilita": 80,
+            "status": "STARTER"
+          },
+          {
+            "nome": "Romero D.",
+            "ruolo": "A",
+            "probabilita": 55,
+            "status": "STARTER"
+          },
+          {
+            "nome": "Tour&#xE8; E.",
+            "ruolo": "A",
+            "probabilita": 90,
+            "status": "STARTER"
+          }
+        ],
+        "panchina": [
+          {
+            "nome": "Daffara",
+            "ruolo": "P",
+            "probabilita": 5,
+            "status": "BENCH"
+          },
+          {
+            "nome": "Ghidotti",
+            "ruolo": "P",
+            "probabilita": 1,
+            "status": "BENCH"
+          },
+          {
+            "nome": "Valenti",
+            "ruolo": "D",
+            "probabilita": 50,
+            "status": "BENCH"
+          },
+          {
+            "nome": "Ndiaye",
+            "ruolo": "D",
+            "probabilita": 55,
+            "status": "BENCH"
+          },
+          {
+            "nome": "Drobnic",
+            "ruolo": "D",
+            "probabilita": 25,
+            "status": "BENCH"
+          },
+          {
+            "nome": "Carboni F.",
+            "ruolo": "D",
+            "probabilita": 35,
+            "status": "BENCH"
+          },
+          {
+            "nome": "Fabbian",
+            "ruolo": "C",
+            "probabilita": 60,
+            "status": "BENCH"
+          },
+          {
+            "nome": "Cremaschi",
+            "ruolo": "C",
+            "probabilita": 35,
+            "status": "BENCH"
+          },
+          {
+            "nome": "Diallo O.",
+            "ruolo": "C",
+            "probabilita": 55,
+            "status": "BENCH"
+          },
+          {
+            "nome": "Konate A.",
+            "ruolo": "C",
+            "probabilita": 30,
+            "status": "BENCH"
+          },
+          {
+            "nome": "Almqvist",
+            "ruolo": "C",
+            "probabilita": 25,
+            "status": "BENCH"
+          },
+          {
+            "nome": "De Martis",
+            "ruolo": "A",
+            "probabilita": 15,
+            "status": "BENCH"
+          },
+          {
+            "nome": "Lontani",
+            "ruolo": "A",
+            "probabilita": 60,
+            "status": "BENCH"
+          },
+          {
+            "nome": "Elphege",
+            "ruolo": "A",
+            "probabilita": 55,
+            "status": "BENCH"
+          },
+          {
+            "nome": "Frigan",
+            "ruolo": "A",
+            "probabilita": 40,
+            "status": "BENCH"
+          }
+        ],
+        "ballottaggi": [],
+        "infortunati": [],
+        "squalificati": []
+      },
+      "away_lineup": {
+        "squadra": "Cagliari",
+        "squadra_code": "CAG",
+        "modulo": "4-4-2",
+        "titolari": [
+          {
+            "nome": "Caprile",
+            "ruolo": "P",
+            "probabilita": 90,
+            "status": "STARTER"
+          },
+          {
+            "nome": "Z&#xE8; Pedro",
+            "ruolo": "D",
+            "probabilita": 90,
+            "status": "STARTER"
+          },
+          {
+            "nome": "Deiola",
+            "ruolo": "C",
+            "probabilita": 80,
+            "status": "STARTER"
+          },
+          {
+            "nome": "Rodriguez Ju.",
+            "ruolo": "D",
+            "probabilita": 90,
+            "status": "STARTER"
+          },
+          {
+            "nome": "Obert",
+            "ruolo": "D",
+            "probabilita": 90,
+            "status": "STARTER"
+          },
+          {
+            "nome": "Adopo",
+            "ruolo": "C",
+            "probabilita": 90,
+            "status": "STARTER"
+          },
+          {
+            "nome": "Winks",
+            "ruolo": "C",
+            "probabilita": 90,
+            "status": "STARTER"
+          },
+          {
+            "nome": "Romano",
+            "ruolo": "C",
+            "probabilita": 90,
+            "status": "STARTER"
+          },
+          {
+            "nome": "Fazzini",
+            "ruolo": "C",
+            "probabilita": 90,
+            "status": "STARTER"
+          },
+          {
+            "nome": "Maldini",
+            "ruolo": "A",
+            "probabilita": 80,
+            "status": "STARTER"
+          },
+          {
+            "nome": "Kevin Carlos",
+            "ruolo": "A",
+            "probabilita": 55,
+            "status": "STARTER"
+          }
+        ],
+        "panchina": [
+          {
+            "nome": "Radunovic",
+            "ruolo": "P",
+            "probabilita": 5,
+            "status": "BENCH"
+          },
+          {
+            "nome": "Sherri",
+            "ruolo": "P",
+            "probabilita": 1,
+            "status": "BENCH"
+          },
+          {
+            "nome": "Aurelio",
+            "ruolo": "D",
+            "probabilita": 25,
+            "status": "BENCH"
+          },
+          {
+            "nome": "Kofler",
+            "ruolo": "D",
+            "probabilita": 35,
+            "status": "BENCH"
+          },
+          {
+            "nome": "Sugawara",
+            "ruolo": "D",
+            "probabilita": 25,
+            "status": "BENCH"
+          },
+          {
+            "nome": "Liteta",
+            "ruolo": "C",
+            "probabilita": 20,
+            "status": "BENCH"
+          },
+          {
+            "nome": "Ciervo",
+            "ruolo": "C",
+            "probabilita": 50,
+            "status": "BENCH"
+          },
+          {
+            "nome": "Felici",
+            "ruolo": "C",
+            "probabilita": 20,
+            "status": "BENCH"
+          },
+          {
+            "nome": "Gagliardini",
+            "ruolo": "C",
+            "probabilita": 55,
+            "status": "BENCH"
+          },
+          {
+            "nome": "Fadera",
+            "ruolo": "C",
+            "probabilita": 60,
+            "status": "BENCH"
+          },
+          {
+            "nome": "Massolin",
+            "ruolo": "C",
+            "probabilita": 35,
+            "status": "BENCH"
+          },
+          {
+            "nome": "Nzola",
+            "ruolo": "A",
+            "probabilita": 60,
+            "status": "BENCH"
+          },
+          {
+            "nome": "Mendy P.",
+            "ruolo": "A",
+            "probabilita": 60,
+            "status": "BENCH"
+          },
+          {
+            "nome": "Borrelli",
+            "ruolo": "A",
+            "probabilita": 35,
+            "status": "BENCH"
+          }
+        ],
+        "ballottaggi": [],
+        "infortunati": [],
+        "squalificati": []
+      }
+    },
+    {
+      "match_id": "2026_G01_EMP_JUV",
+      "giornata": 1,
+      "date_str": "2026-08-22T18:30:00Z",
+      "stadium": "Stadio Serie A",
+      "home_team": "Empoli",
+      "home_team_code": "EMP",
+      "away_team": "Juventus",
+      "away_team_code": "JUV",
+      "home_lineup": {
+        "squadra": "Empoli",
+        "squadra_code": "EMP",
+        "modulo": "4-2-3-1",
+        "titolari": [
+          {
+            "nome": "Palmisani",
+            "ruolo": "P",
+            "probabilita": 90,
+            "status": "STARTER"
+          },
+          {
+            "nome": "Oyono A.",
+            "ruolo": "D",
+            "probabilita": 80,
+            "status": "STARTER"
+          },
+          {
+            "nome": "Calvani",
+            "ruolo": "D",
+            "probabilita": 90,
+            "status": "STARTER"
+          },
+          {
+            "nome": "Monterisi",
+            "ruolo": "D",
+            "probabilita": 90,
+            "status": "STARTER"
+          },
+          {
+            "nome": "Bracaglia",
+            "ruolo": "D",
+            "probabilita": 85,
+            "status": "STARTER"
+          },
+          {
+            "nome": "Masini",
+            "ruolo": "C",
+            "probabilita": 80,
+            "status": "STARTER"
+          },
+          {
+            "nome": "Cal&#xF2;",
+            "ruolo": "C",
+            "probabilita": 90,
+            "status": "STARTER"
+          },
+          {
+            "nome": "Fini",
+            "ruolo": "C",
+            "probabilita": 80,
+            "status": "STARTER"
+          },
+          {
+            "nome": "Schmid",
+            "ruolo": "C",
+            "probabilita": 60,
+            "status": "STARTER"
+          },
+          {
+            "nome": "Kvernadze",
+            "ruolo": "A",
+            "probabilita": 90,
+            "status": "STARTER"
+          },
+          {
+            "nome": "Raimondo",
+            "ruolo": "A",
+            "probabilita": 90,
+            "status": "STARTER"
+          }
+        ],
+        "panchina": [
+          {
+            "nome": "Desplanches",
+            "ruolo": "P",
+            "probabilita": 5,
+            "status": "BENCH"
+          },
+          {
+            "nome": "Pisseri",
+            "ruolo": "P",
+            "probabilita": 1,
+            "status": "BENCH"
+          },
+          {
+            "nome": "Cittadini",
+            "ruolo": "D",
+            "probabilita": 30,
+            "status": "BENCH"
+          },
+          {
+            "nome": "Akpoguma",
+            "ruolo": "D",
+            "probabilita": 30,
+            "status": "BENCH"
+          },
+          {
+            "nome": "Tchato",
+            "ruolo": "D",
+            "probabilita": 40,
+            "status": "BENCH"
+          },
+          {
+            "nome": "Omar Fayed",
+            "ruolo": "D",
+            "probabilita": 20,
+            "status": "BENCH"
+          },
+          {
+            "nome": "Terzic",
+            "ruolo": "D",
+            "probabilita": 40,
+            "status": "BENCH"
+          },
+          {
+            "nome": "Amey",
+            "ruolo": "D",
+            "probabilita": 20,
+            "status": "BENCH"
+          },
+          {
+            "nome": "Cichella",
+            "ruolo": "C",
+            "probabilita": 60,
+            "status": "BENCH"
+          },
+          {
+            "nome": "Grillitsch",
+            "ruolo": "C",
+            "probabilita": 55,
+            "status": "BENCH"
+          },
+          {
+            "nome": "El Azzouzi A.",
+            "ruolo": "C",
+            "probabilita": 30,
+            "status": "BENCH"
+          },
+          {
+            "nome": "Zerbin",
+            "ruolo": "C",
+            "probabilita": 60,
+            "status": "BENCH"
+          },
+          {
+            "nome": "Ghedjemis",
+            "ruolo": "A",
+            "probabilita": 30,
+            "status": "BENCH"
+          },
+          {
+            "nome": "Birligea",
+            "ruolo": "A",
+            "probabilita": 60,
+            "status": "BENCH"
+          },
+          {
+            "nome": "Bobcek",
+            "ruolo": "A",
+            "probabilita": 55,
+            "status": "BENCH"
+          }
+        ],
+        "ballottaggi": [],
+        "infortunati": [],
+        "squalificati": []
+      },
+      "away_lineup": {
+        "squadra": "Juventus",
+        "squadra_code": "JUV",
+        "modulo": "4-2-3-1",
+        "titolari": [
+          {
+            "nome": "Vicario",
+            "ruolo": "P",
+            "probabilita": 90,
+            "status": "STARTER"
+          },
+          {
+            "nome": "Kalulu",
+            "ruolo": "D",
+            "probabilita": 90,
+            "status": "STARTER"
+          },
+          {
+            "nome": "Bremer",
+            "ruolo": "D",
+            "probabilita": 90,
+            "status": "STARTER"
+          },
+          {
+            "nome": "Lucum&#xEC;",
+            "ruolo": "D",
+            "probabilita": 60,
+            "status": "STARTER"
+          },
+          {
+            "nome": "Celik",
+            "ruolo": "D",
+            "probabilita": 80,
+            "status": "STARTER"
+          },
+          {
+            "nome": "Locatelli",
+            "ruolo": "C",
+            "probabilita": 90,
+            "status": "STARTER"
+          },
+          {
+            "nome": "Douglas Luiz",
+            "ruolo": "C",
+            "probabilita": 80,
+            "status": "STARTER"
+          },
+          {
+            "nome": "Conceicao",
+            "ruolo": "C",
+            "probabilita": 90,
+            "status": "STARTER"
+          },
+          {
+            "nome": "Gonzalez N.",
+            "ruolo": "C",
+            "probabilita": 90,
+            "status": "STARTER"
+          },
+          {
+            "nome": "Boga",
+            "ruolo": "A",
+            "probabilita": 60,
+            "status": "STARTER"
+          },
+          {
+            "nome": "Kolo Muani",
+            "ruolo": "A",
+            "probabilita": 90,
+            "status": "STARTER"
+          }
+        ],
+        "panchina": [
+          {
+            "nome": "Grabara",
+            "ruolo": "P",
+            "probabilita": 5,
+            "status": "BENCH"
+          },
+          {
+            "nome": "Pinsoglio",
+            "ruolo": "P",
+            "probabilita": 1,
+            "status": "BENCH"
+          },
+          {
+            "nome": "Kelly L.",
+            "ruolo": "D",
+            "probabilita": 55,
+            "status": "BENCH"
+          },
+          {
+            "nome": "Cambiaso",
+            "ruolo": "D",
+            "probabilita": 40,
+            "status": "BENCH"
+          },
+          {
+            "nome": "Rugani",
+            "ruolo": "D",
+            "probabilita": 25,
+            "status": "BENCH"
+          },
+          {
+            "nome": "Gatti",
+            "ruolo": "D",
+            "probabilita": 35,
+            "status": "BENCH"
+          },
+          {
+            "nome": "Cabal",
+            "ruolo": "D",
+            "probabilita": 25,
+            "status": "BENCH"
+          },
+          {
+            "nome": "Koopmeiners",
+            "ruolo": "C",
+            "probabilita": 55,
+            "status": "BENCH"
+          },
+          {
+            "nome": "Alajbegovic",
+            "ruolo": "C",
+            "probabilita": 55,
+            "status": "BENCH"
+          },
+          {
+            "nome": "Sarr P.",
+            "ruolo": "C",
+            "probabilita": 60,
+            "status": "BENCH"
+          },
+          {
+            "nome": "Zhegrova",
+            "ruolo": "C",
+            "probabilita": 15,
+            "status": "BENCH"
+          },
+          {
+            "nome": "Woltemade",
+            "ruolo": "A",
+            "probabilita": 60,
+            "status": "BENCH"
+          },
+          {
+            "nome": "Milik",
+            "ruolo": "A",
+            "probabilita": 30,
+            "status": "BENCH"
+          }
+        ],
+        "ballottaggi": [],
+        "infortunati": [
+          {
+            "nome": "Milik",
+            "motivo": "Problema al ginocchio/menisco"
+          }
+        ],
+        "squalificati": []
+      }
+    },
+    {
+      "match_id": "2026_G01_VEN_LEC",
+      "giornata": 1,
+      "date_str": "2026-08-22T18:30:00Z",
+      "stadium": "Stadio Serie A",
+      "home_team": "Venezia",
+      "home_team_code": "VEN",
+      "away_team": "Lecce",
+      "away_team_code": "LEC",
+      "home_lineup": {
+        "squadra": "Venezia",
+        "squadra_code": "VEN",
+        "modulo": "3-5-2",
+        "titolari": [
+          {
+            "nome": "Stankovic F.",
+            "ruolo": "P",
+            "probabilita": 90,
+            "status": "STARTER"
+          },
+          {
+            "nome": "Schingtienne",
+            "ruolo": "D",
+            "probabilita": 90,
+            "status": "STARTER"
+          },
+          {
+            "nome": "Bella-Kotchap",
+            "ruolo": "D",
+            "probabilita": 90,
+            "status": "STARTER"
+          },
+          {
+            "nome": "Halhal",
+            "ruolo": "D",
+            "probabilita": 80,
+            "status": "STARTER"
+          },
+          {
+            "nome": "Mazzocchi",
+            "ruolo": "D",
+            "probabilita": 55,
+            "status": "STARTER"
+          },
+          {
+            "nome": "Perez K.",
+            "ruolo": "C",
+            "probabilita": 80,
+            "status": "STARTER"
+          },
+          {
+            "nome": "Busio",
+            "ruolo": "C",
+            "probabilita": 90,
+            "status": "STARTER"
+          },
+          {
+            "nome": "Basic",
+            "ruolo": "C",
+            "probabilita": 90,
+            "status": "STARTER"
+          },
+          {
+            "nome": "Haps",
+            "ruolo": "D",
+            "probabilita": 60,
+            "status": "STARTER"
+          },
+          {
+            "nome": "Yeboah J.",
+            "ruolo": "A",
+            "probabilita": 90,
+            "status": "STARTER"
+          },
+          {
+            "nome": "Adams A.",
+            "ruolo": "A",
+            "probabilita": 90,
+            "status": "STARTER"
+          }
+        ],
+        "panchina": [
+          {
+            "nome": "Montip&#xF2;",
+            "ruolo": "P",
+            "probabilita": 5,
+            "status": "BENCH"
+          },
+          {
+            "nome": "Grandi",
+            "ruolo": "P",
+            "probabilita": 1,
+            "status": "BENCH"
+          },
+          {
+            "nome": "Pozzi",
+            "ruolo": "P",
+            "probabilita": 1,
+            "status": "BENCH"
+          },
+          {
+            "nome": "Gomes",
+            "ruolo": "D",
+            "probabilita": 25,
+            "status": "BENCH"
+          },
+          {
+            "nome": "Correia T.",
+            "ruolo": "D",
+            "probabilita": 55,
+            "status": "BENCH"
+          },
+          {
+            "nome": "Sagrado",
+            "ruolo": "D",
+            "probabilita": 25,
+            "status": "BENCH"
+          },
+          {
+            "nome": "Juan Jesus",
+            "ruolo": "D",
+            "probabilita": 40,
+            "status": "BENCH"
+          },
+          {
+            "nome": "Hainaut",
+            "ruolo": "D",
+            "probabilita": 60,
+            "status": "BENCH"
+          },
+          {
+            "nome": "Sohm",
+            "ruolo": "C",
+            "probabilita": 60,
+            "status": "BENCH"
+          },
+          {
+            "nome": "Dagasso",
+            "ruolo": "C",
+            "probabilita": 25,
+            "status": "BENCH"
+          },
+          {
+            "nome": "Helgason",
+            "ruolo": "C",
+            "probabilita": 55,
+            "status": "BENCH"
+          },
+          {
+            "nome": "Fernandez T.",
+            "ruolo": "C",
+            "probabilita": 30,
+            "status": "BENCH"
+          },
+          {
+            "nome": "Rrahmani Al.",
+            "ruolo": "A",
+            "probabilita": 60,
+            "status": "BENCH"
+          },
+          {
+            "nome": "Lauberbach",
+            "ruolo": "A",
+            "probabilita": 40,
+            "status": "BENCH"
+          },
+          {
+            "nome": "Lisman",
+            "ruolo": "A",
+            "probabilita": 15,
+            "status": "BENCH"
+          }
+        ],
+        "ballottaggi": [],
+        "infortunati": [],
+        "squalificati": []
+      },
+      "away_lineup": {
+        "squadra": "Lecce",
+        "squadra_code": "LEC",
+        "modulo": "4-3-3",
+        "titolari": [
+          {
+            "nome": "Falcone",
+            "ruolo": "P",
+            "probabilita": 90,
+            "status": "STARTER"
+          },
+          {
+            "nome": "Veiga D.",
+            "ruolo": "D",
+            "probabilita": 90,
+            "status": "STARTER"
+          },
+          {
+            "nome": "Gaspar K.",
+            "ruolo": "D",
+            "probabilita": 90,
+            "status": "STARTER"
+          },
+          {
+            "nome": "Tiago Gabriel",
+            "ruolo": "D",
+            "probabilita": 80,
+            "status": "STARTER"
+          },
+          {
+            "nome": "Gallo",
+            "ruolo": "D",
+            "probabilita": 80,
+            "status": "STARTER"
+          },
+          {
+            "nome": "Coulibaly L.",
+            "ruolo": "C",
+            "probabilita": 90,
+            "status": "STARTER"
+          },
+          {
+            "nome": "Ilic",
+            "ruolo": "C",
+            "probabilita": 60,
+            "status": "STARTER"
+          },
+          {
+            "nome": "Gorter",
+            "ruolo": "C",
+            "probabilita": 55,
+            "status": "STARTER"
+          },
+          {
+            "nome": "Pierotti",
+            "ruolo": "C",
+            "probabilita": 90,
+            "status": "STARTER"
+          },
+          {
+            "nome": "Stulic",
+            "ruolo": "A",
+            "probabilita": 90,
+            "status": "STARTER"
+          },
+          {
+            "nome": "N&#x27;Dri",
+            "ruolo": "A",
+            "probabilita": 55,
+            "status": "STARTER"
+          }
+        ],
+        "panchina": [
+          {
+            "nome": "Penev",
+            "ruolo": "P",
+            "probabilita": 5,
+            "status": "BENCH"
+          },
+          {
+            "nome": "Bleve",
+            "ruolo": "P",
+            "probabilita": 1,
+            "status": "BENCH"
+          },
+          {
+            "nome": "Ndaba",
+            "ruolo": "D",
+            "probabilita": 40,
+            "status": "BENCH"
+          },
+          {
+            "nome": "Dembel&#xE8; A.",
+            "ruolo": "D",
+            "probabilita": 35,
+            "status": "BENCH"
+          },
+          {
+            "nome": "Siebert",
+            "ruolo": "D",
+            "probabilita": 50,
+            "status": "BENCH"
+          },
+          {
+            "nome": "Maleh",
+            "ruolo": "C",
+            "probabilita": 60,
+            "status": "BENCH"
+          },
+          {
+            "nome": "Laerke",
+            "ruolo": "C",
+            "probabilita": 20,
+            "status": "BENCH"
+          },
+          {
+            "nome": "Gandelman",
+            "ruolo": "C",
+            "probabilita": 35,
+            "status": "BENCH"
+          },
+          {
+            "nome": "Fofana Sa.",
+            "ruolo": "C",
+            "probabilita": 30,
+            "status": "BENCH"
+          },
+          {
+            "nome": "Ngom",
+            "ruolo": "C",
+            "probabilita": 60,
+            "status": "BENCH"
+          },
+          {
+            "nome": "Berisha M.",
+            "ruolo": "C",
+            "probabilita": 40,
+            "status": "BENCH"
+          },
+          {
+            "nome": "Monteiro J.",
+            "ruolo": "C",
+            "probabilita": 60,
+            "status": "BENCH"
+          },
+          {
+            "nome": "Fatah",
+            "ruolo": "A",
+            "probabilita": 55,
+            "status": "BENCH"
+          }
+        ],
+        "ballottaggi": [],
+        "infortunati": [],
+        "squalificati": []
+      }
+    },
+    {
+      "match_id": "2026_G01_ATA_VER",
+      "giornata": 1,
+      "date_str": "2026-08-22T18:30:00Z",
+      "stadium": "Stadio Serie A",
+      "home_team": "Atalanta",
+      "home_team_code": "ATA",
+      "away_team": "Verona",
+      "away_team_code": "VER",
+      "home_lineup": {
+        "squadra": "Atalanta",
+        "squadra_code": "ATA",
+        "modulo": "4-3-3",
+        "titolari": [
+          {
+            "nome": "Carnesecchi",
+            "ruolo": "P",
+            "probabilita": 90,
+            "status": "STARTER"
+          },
+          {
+            "nome": "Bellanova",
+            "ruolo": "D",
+            "probabilita": 60,
+            "status": "STARTER"
+          },
+          {
+            "nome": "Kossounou",
+            "ruolo": "D",
+            "probabilita": 90,
+            "status": "STARTER"
+          },
+          {
+            "nome": "Bernasconi",
+            "ruolo": "D",
+            "probabilita": 85,
+            "status": "STARTER"
+          },
+          {
+            "nome": "Samardzic",
+            "ruolo": "C",
+            "probabilita": 55,
+            "status": "STARTER"
+          },
+          {
+            "nome": "Gaetano",
+            "ruolo": "C",
+            "probabilita": 90,
+            "status": "STARTER"
+          },
+          {
+            "nome": "Ederson D.S.",
+            "ruolo": "C",
+            "probabilita": 90,
+            "status": "STARTER"
+          },
+          {
+            "nome": "De Ketelaere",
+            "ruolo": "A",
+            "probabilita": 90,
+            "status": "STARTER"
+          },
+          {
+            "nome": "Rowe",
+            "ruolo": "C",
+            "probabilita": 70,
+            "status": "STARTER"
+          },
+          {
+            "nome": "Zappacosta",
+            "ruolo": "D",
+            "probabilita": 60,
+            "status": "STARTER"
+          },
+          {
+            "nome": "Kolasinac",
+            "ruolo": "D",
+            "probabilita": 35,
+            "status": "STARTER"
+          }
+        ],
+        "panchina": [
+          {
+            "nome": "Sportiello",
+            "ruolo": "P",
+            "probabilita": 5,
+            "status": "BENCH"
+          },
+          {
+            "nome": "Pompei",
+            "ruolo": "P",
+            "probabilita": 1,
+            "status": "BENCH"
+          },
+          {
+            "nome": "Pasalic",
+            "ruolo": "C",
+            "probabilita": 60,
+            "status": "BENCH"
+          },
+          {
+            "nome": "Kessi&#xE8;",
+            "ruolo": "C",
+            "probabilita": 55,
+            "status": "BENCH"
+          },
+          {
+            "nome": "Elmas",
+            "ruolo": "C",
+            "probabilita": 40,
+            "status": "BENCH"
+          },
+          {
+            "nome": "Zalewski",
+            "ruolo": "C",
+            "probabilita": 40,
+            "status": "BENCH"
+          },
+          {
+            "nome": "Raspadori",
+            "ruolo": "A",
+            "probabilita": 60,
+            "status": "BENCH"
+          },
+          {
+            "nome": "Krstovic",
+            "ruolo": "A",
+            "probabilita": 60,
+            "status": "BENCH"
+          },
+          {
+            "nome": "Scalvini",
+            "ruolo": "D",
+            "probabilita": 90,
+            "status": "STARTER"
+          },
+          {
+            "nome": "Scamacca",
+            "ruolo": "A",
+            "probabilita": 60,
+            "status": "STARTER"
+          }
+        ],
+        "ballottaggi": [],
+        "infortunati": [
+          {
+            "nome": "Scamacca",
+            "motivo": "Rottura legamento crociato"
+          },
+          {
+            "nome": "Scalvini",
+            "motivo": "Lesione crociato"
+          }
+        ],
+        "squalificati": []
+      },
+      "away_lineup": {
+        "squadra": "Verona",
+        "squadra_code": "VER",
+        "modulo": "4-3-3",
+        "titolari": [
+          {
+            "nome": "Muric",
+            "ruolo": "P",
+            "probabilita": 90,
+            "status": "STARTER"
+          },
+          {
+            "nome": "Van Der Brempt",
+            "ruolo": "D",
+            "probabilita": 80,
+            "status": "STARTER"
+          },
+          {
+            "nome": "Idzes",
+            "ruolo": "D",
+            "probabilita": 90,
+            "status": "STARTER"
+          },
+          {
+            "nome": "Leysen F.",
+            "ruolo": "D",
+            "probabilita": 70,
+            "status": "STARTER"
+          },
+          {
+            "nome": "Doig",
+            "ruolo": "D",
+            "probabilita": 60,
+            "status": "STARTER"
+          },
+          {
+            "nome": "Adzic",
+            "ruolo": "C",
+            "probabilita": 80,
+            "status": "STARTER"
+          },
+          {
+            "nome": "Matic",
+            "ruolo": "C",
+            "probabilita": 90,
+            "status": "STARTER"
+          },
+          {
+            "nome": "Bakola",
+            "ruolo": "C",
+            "probabilita": 80,
+            "status": "STARTER"
+          },
+          {
+            "nome": "Berardi",
+            "ruolo": "A",
+            "probabilita": 55,
+            "status": "STARTER"
+          },
+          {
+            "nome": "Bowie",
+            "ruolo": "A",
+            "probabilita": 60,
+            "status": "STARTER"
+          },
+          {
+            "nome": "Laurient&#xE8;",
+            "ruolo": "A",
+            "probabilita": 90,
+            "status": "STARTER"
+          }
+        ],
+        "panchina": [
+          {
+            "nome": "Turati",
+            "ruolo": "P",
+            "probabilita": 5,
+            "status": "BENCH"
+          },
+          {
+            "nome": "Satalino",
+            "ruolo": "P",
+            "probabilita": 1,
+            "status": "BENCH"
+          },
+          {
+            "nome": "Obrador",
+            "ruolo": "D",
+            "probabilita": 60,
+            "status": "BENCH"
+          },
+          {
+            "nome": "Caleta-Car",
+            "ruolo": "D",
+            "probabilita": 35,
+            "status": "BENCH"
+          },
+          {
+            "nome": "Odenthal",
+            "ruolo": "D",
+            "probabilita": 25,
+            "status": "BENCH"
+          },
+          {
+            "nome": "Cinquegrano",
+            "ruolo": "D",
+            "probabilita": 30,
+            "status": "BENCH"
+          },
+          {
+            "nome": "Thorstvedt",
+            "ruolo": "C",
+            "probabilita": 60,
+            "status": "BENCH"
+          },
+          {
+            "nome": "Lipani",
+            "ruolo": "C",
+            "probabilita": 55,
+            "status": "BENCH"
+          },
+          {
+            "nome": "Dominguez B.",
+            "ruolo": "C",
+            "probabilita": 40,
+            "status": "BENCH"
+          },
+          {
+            "nome": "Volpato",
+            "ruolo": "C",
+            "probabilita": 60,
+            "status": "BENCH"
+          },
+          {
+            "nome": "Sulemana I.",
+            "ruolo": "C",
+            "probabilita": 30,
+            "status": "BENCH"
+          },
+          {
+            "nome": "Kulla",
+            "ruolo": "A",
+            "probabilita": 10,
+            "status": "BENCH"
+          },
+          {
+            "nome": "Esposito Se.",
+            "ruolo": "A",
+            "probabilita": 60,
+            "status": "BENCH"
+          }
+        ],
+        "ballottaggi": [],
+        "infortunati": [],
+        "squalificati": [
+          {
+            "nome": "Suslov",
+            "motivo": "Squalifica 1 giornata"
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "2026_G01_TOR_MIL",
+      "giornata": 1,
+      "date_str": "2026-08-22T18:30:00Z",
+      "stadium": "Stadio Serie A",
+      "home_team": "Torino",
+      "home_team_code": "TOR",
+      "away_team": "Milan",
+      "away_team_code": "MIL",
+      "home_lineup": {
+        "squadra": "Torino",
+        "squadra_code": "TOR",
+        "modulo": "3-4-2-1",
+        "titolari": [
+          {
+            "nome": "Perri",
+            "ruolo": "P",
+            "probabilita": 80,
+            "status": "STARTER"
+          },
+          {
+            "nome": "Comuzzo",
+            "ruolo": "D",
+            "probabilita": 90,
+            "status": "STARTER"
+          },
+          {
+            "nome": "Coco",
+            "ruolo": "D",
+            "probabilita": 90,
+            "status": "STARTER"
+          },
+          {
+            "nome": "Comert",
+            "ruolo": "D",
+            "probabilita": 90,
+            "status": "STARTER"
+          },
+          {
+            "nome": "Belghali",
+            "ruolo": "D",
+            "probabilita": 80,
+            "status": "STARTER"
+          },
+          {
+            "nome": "Gineitis",
+            "ruolo": "C",
+            "probabilita": 55,
+            "status": "STARTER"
+          },
+          {
+            "nome": "Fitz-Jim",
+            "ruolo": "C",
+            "probabilita": 85,
+            "status": "STARTER"
+          },
+          {
+            "nome": "Cacciamani",
+            "ruolo": "C",
+            "probabilita": 60,
+            "status": "STARTER"
+          },
+          {
+            "nome": "Adams C.",
+            "ruolo": "A",
+            "probabilita": 60,
+            "status": "STARTER"
+          },
+          {
+            "nome": "Vlasic",
+            "ruolo": "C",
+            "probabilita": 90,
+            "status": "STARTER"
+          },
+          {
+            "nome": "Simeone",
+            "ruolo": "A",
+            "probabilita": 90,
+            "status": "STARTER"
+          }
+        ],
+        "panchina": [
+          {
+            "nome": "Mascardi",
+            "ruolo": "P",
+            "probabilita": 5,
+            "status": "BENCH"
+          },
+          {
+            "nome": "Paleari",
+            "ruolo": "P",
+            "probabilita": 1,
+            "status": "BENCH"
+          },
+          {
+            "nome": "Ismajli",
+            "ruolo": "D",
+            "probabilita": 55,
+            "status": "BENCH"
+          },
+          {
+            "nome": "Fortini",
+            "ruolo": "D",
+            "probabilita": 60,
+            "status": "BENCH"
+          },
+          {
+            "nome": "Patterson",
+            "ruolo": "D",
+            "probabilita": 40,
+            "status": "BENCH"
+          },
+          {
+            "nome": "Biraghi",
+            "ruolo": "D",
+            "probabilita": 20,
+            "status": "BENCH"
+          },
+          {
+            "nome": "Ilkhan",
+            "ruolo": "C",
+            "probabilita": 40,
+            "status": "BENCH"
+          },
+          {
+            "nome": "Aboukhlal",
+            "ruolo": "C",
+            "probabilita": 30,
+            "status": "BENCH"
+          },
+          {
+            "nome": "Braganca",
+            "ruolo": "C",
+            "probabilita": 40,
+            "status": "BENCH"
+          },
+          {
+            "nome": "Oristanio",
+            "ruolo": "C",
+            "probabilita": 55,
+            "status": "BENCH"
+          },
+          {
+            "nome": "Anjorin",
+            "ruolo": "C",
+            "probabilita": 20,
+            "status": "BENCH"
+          },
+          {
+            "nome": "Mandragora",
+            "ruolo": "C",
+            "probabilita": 60,
+            "status": "BENCH"
+          },
+          {
+            "nome": "Zapata D.",
+            "ruolo": "A",
+            "probabilita": 60,
+            "status": "BENCH"
+          },
+          {
+            "nome": "Kulenovic",
+            "ruolo": "A",
+            "probabilita": 35,
+            "status": "BENCH"
+          }
+        ],
+        "ballottaggi": [],
+        "infortunati": [
+          {
+            "nome": "Schuurs",
+            "motivo": "Recupero ginocchio"
+          }
+        ],
+        "squalificati": []
+      },
+      "away_lineup": {
+        "squadra": "Milan",
+        "squadra_code": "MIL",
+        "modulo": "3-4-2-1",
+        "titolari": [
+          {
+            "nome": "Maignan",
+            "ruolo": "P",
+            "probabilita": 90,
+            "status": "STARTER"
+          },
+          {
+            "nome": "Gila",
+            "ruolo": "D",
+            "probabilita": 90,
+            "status": "STARTER"
+          },
+          {
+            "nome": "De Winter",
+            "ruolo": "D",
+            "probabilita": 60,
+            "status": "STARTER"
+          },
+          {
+            "nome": "Pavlovic",
+            "ruolo": "D",
+            "probabilita": 90,
+            "status": "STARTER"
+          },
+          {
+            "nome": "Chukwueze",
+            "ruolo": "C",
+            "probabilita": 85,
+            "status": "STARTER"
+          },
+          {
+            "nome": "Modric",
+            "ruolo": "C",
+            "probabilita": 90,
+            "status": "STARTER"
+          },
+          {
+            "nome": "Musah",
+            "ruolo": "C",
+            "probabilita": 90,
+            "status": "STARTER"
+          },
+          {
+            "nome": "Bartesaghi",
+            "ruolo": "D",
+            "probabilita": 85,
+            "status": "STARTER"
+          },
+          {
+            "nome": "Rabiot",
+            "ruolo": "C",
+            "probabilita": 85,
+            "status": "STARTER"
+          },
+          {
+            "nome": "Ciss&#xE8; A.",
+            "ruolo": "C",
+            "probabilita": 60,
+            "status": "STARTER"
+          },
+          {
+            "nome": "Ramos G.",
+            "ruolo": "A",
+            "probabilita": 90,
+            "status": "STARTER"
+          }
+        ],
+        "panchina": [
+          {
+            "nome": "Terracciano",
+            "ruolo": "P",
+            "probabilita": 5,
+            "status": "BENCH"
+          },
+          {
+            "nome": "Torriani",
+            "ruolo": "P",
+            "probabilita": 1,
+            "status": "BENCH"
+          },
+          {
+            "nome": "Gabbia",
+            "ruolo": "D",
+            "probabilita": 40,
+            "status": "BENCH"
+          },
+          {
+            "nome": "Tomori",
+            "ruolo": "D",
+            "probabilita": 25,
+            "status": "BENCH"
+          },
+          {
+            "nome": "Estupinan",
+            "ruolo": "D",
+            "probabilita": 55,
+            "status": "BENCH"
+          },
+          {
+            "nome": "Terracciano F.",
+            "ruolo": "D",
+            "probabilita": 25,
+            "status": "BENCH"
+          },
+          {
+            "nome": "Diawara S.",
+            "ruolo": "D",
+            "probabilita": 20,
+            "status": "BENCH"
+          },
+          {
+            "nome": "Jashari",
+            "ruolo": "C",
+            "probabilita": 55,
+            "status": "BENCH"
+          },
+          {
+            "nome": "Moreira",
+            "ruolo": "C",
+            "probabilita": 60,
+            "status": "BENCH"
+          },
+          {
+            "nome": "Saelemaekers",
+            "ruolo": "C",
+            "probabilita": 60,
+            "status": "BENCH"
+          },
+          {
+            "nome": "Hutchinson",
+            "ruolo": "C",
+            "probabilita": 40,
+            "status": "BENCH"
+          },
+          {
+            "nome": "Pulisic",
+            "ruolo": "C",
+            "probabilita": 50,
+            "status": "BENCH"
+          },
+          {
+            "nome": "Loftus-Cheek",
+            "ruolo": "C",
+            "probabilita": 60,
+            "status": "BENCH"
+          },
+          {
+            "nome": "Camarda",
+            "ruolo": "A",
+            "probabilita": 30,
+            "status": "BENCH"
+          }
+        ],
+        "ballottaggi": [],
+        "infortunati": [
+          {
+            "nome": "Florenzi",
+            "motivo": "Lesione legamento crociato"
+          }
+        ],
+        "squalificati": []
+      }
+    },
+    {
+      "match_id": "2026_G01_BOL_LAZ",
+      "giornata": 1,
+      "date_str": "2026-08-22T18:30:00Z",
+      "stadium": "Stadio Serie A",
+      "home_team": "Bologna",
+      "home_team_code": "BOL",
+      "away_team": "Lazio",
+      "away_team_code": "LAZ",
+      "home_lineup": {
+        "squadra": "Bologna",
+        "squadra_code": "BOL",
+        "modulo": "4-3-3",
+        "titolari": [
+          {
+            "nome": "Skorupski",
+            "ruolo": "P",
+            "probabilita": 90,
+            "status": "STARTER"
+          },
+          {
+            "nome": "Zortea",
+            "ruolo": "D",
+            "probabilita": 60,
+            "status": "STARTER"
+          },
+          {
+            "nome": "Heggem",
+            "ruolo": "D",
+            "probabilita": 90,
+            "status": "STARTER"
+          },
+          {
+            "nome": "Theate",
+            "ruolo": "D",
+            "probabilita": 55,
+            "status": "STARTER"
+          },
+          {
+            "nome": "Miranda J.",
+            "ruolo": "D",
+            "probabilita": 80,
+            "status": "STARTER"
+          },
+          {
+            "nome": "Odgaard",
+            "ruolo": "C",
+            "probabilita": 85,
+            "status": "STARTER"
+          },
+          {
+            "nome": "Ferguson",
+            "ruolo": "C",
+            "probabilita": 90,
+            "status": "STARTER"
+          },
+          {
+            "nome": "Pobega",
+            "ruolo": "C",
+            "probabilita": 55,
+            "status": "STARTER"
+          },
+          {
+            "nome": "Bernardeschi",
+            "ruolo": "C",
+            "probabilita": 90,
+            "status": "STARTER"
+          },
+          {
+            "nome": "Piccoli",
+            "ruolo": "A",
+            "probabilita": 80,
+            "status": "STARTER"
+          },
+          {
+            "nome": "Alhassane",
+            "ruolo": "D",
+            "probabilita": 35,
+            "status": "STARTER"
+          }
+        ],
+        "panchina": [
+          {
+            "nome": "Pessina Mas.",
+            "ruolo": "P",
+            "probabilita": 5,
+            "status": "BENCH"
+          },
+          {
+            "nome": "Happonen",
+            "ruolo": "P",
+            "probabilita": 1,
+            "status": "BENCH"
+          },
+          {
+            "nome": "Holm",
+            "ruolo": "D",
+            "probabilita": 60,
+            "status": "BENCH"
+          },
+          {
+            "nome": "Helland",
+            "ruolo": "D",
+            "probabilita": 40,
+            "status": "BENCH"
+          },
+          {
+            "nome": "Vitik",
+            "ruolo": "D",
+            "probabilita": 35,
+            "status": "BENCH"
+          },
+          {
+            "nome": "Casale",
+            "ruolo": "D",
+            "probabilita": 30,
+            "status": "BENCH"
+          },
+          {
+            "nome": "De Silvestri",
+            "ruolo": "D",
+            "probabilita": 20,
+            "status": "BENCH"
+          },
+          {
+            "nome": "Moro N.",
+            "ruolo": "C",
+            "probabilita": 60,
+            "status": "BENCH"
+          },
+          {
+            "nome": "Amondarain",
+            "ruolo": "C",
+            "probabilita": 55,
+            "status": "BENCH"
+          },
+          {
+            "nome": "Mbangula",
+            "ruolo": "C",
+            "probabilita": 55,
+            "status": "BENCH"
+          },
+          {
+            "nome": "Dovbyk",
+            "ruolo": "A",
+            "probabilita": 60,
+            "status": "BENCH"
+          },
+          {
+            "nome": "Cambiaghi",
+            "ruolo": "C",
+            "probabilita": 80,
+            "status": "STARTER"
+          }
+        ],
+        "ballottaggi": [],
+        "infortunati": [
+          {
+            "nome": "Cambiaghi",
+            "motivo": "Lesione legamento crociato"
+          }
+        ],
+        "squalificati": []
+      },
+      "away_lineup": {
+        "squadra": "Lazio",
+        "squadra_code": "LAZ",
+        "modulo": "4-3-3",
+        "titolari": [
+          {
+            "nome": "Mandas",
+            "ruolo": "P",
+            "probabilita": 90,
+            "status": "STARTER"
+          },
+          {
+            "nome": "Floriani Mussolini",
+            "ruolo": "D",
+            "probabilita": 90,
+            "status": "STARTER"
+          },
+          {
+            "nome": "Doekhi",
+            "ruolo": "D",
+            "probabilita": 80,
+            "status": "STARTER"
+          },
+          {
+            "nome": "Provstgaard",
+            "ruolo": "D",
+            "probabilita": 90,
+            "status": "STARTER"
+          },
+          {
+            "nome": "Tavares N.",
+            "ruolo": "D",
+            "probabilita": 85,
+            "status": "STARTER"
+          },
+          {
+            "nome": "Frattesi",
+            "ruolo": "C",
+            "probabilita": 90,
+            "status": "STARTER"
+          },
+          {
+            "nome": "Belahyane",
+            "ruolo": "C",
+            "probabilita": 85,
+            "status": "STARTER"
+          },
+          {
+            "nome": "Taylor K.",
+            "ruolo": "C",
+            "probabilita": 90,
+            "status": "STARTER"
+          },
+          {
+            "nome": "Isaksen",
+            "ruolo": "C",
+            "probabilita": 60,
+            "status": "STARTER"
+          },
+          {
+            "nome": "Pinamonti",
+            "ruolo": "A",
+            "probabilita": 90,
+            "status": "STARTER"
+          },
+          {
+            "nome": "Zaccagni",
+            "ruolo": "C",
+            "probabilita": 90,
+            "status": "STARTER"
+          }
+        ],
+        "panchina": [
+          {
+            "nome": "Motta",
+            "ruolo": "P",
+            "probabilita": 5,
+            "status": "BENCH"
+          },
+          {
+            "nome": "Renzetti",
+            "ruolo": "P",
+            "probabilita": 1,
+            "status": "BENCH"
+          },
+          {
+            "nome": "Pedraza",
+            "ruolo": "D",
+            "probabilita": 60,
+            "status": "BENCH"
+          },
+          {
+            "nome": "Sutalo J.",
+            "ruolo": "D",
+            "probabilita": 50,
+            "status": "BENCH"
+          },
+          {
+            "nome": "Lazzari",
+            "ruolo": "D",
+            "probabilita": 40,
+            "status": "BENCH"
+          },
+          {
+            "nome": "Romagnoli",
+            "ruolo": "D",
+            "probabilita": 15,
+            "status": "BENCH"
+          },
+          {
+            "nome": "Pellegrini Lu.",
+            "ruolo": "D",
+            "probabilita": 20,
+            "status": "BENCH"
+          },
+          {
+            "nome": "Cancellieri",
+            "ruolo": "C",
+            "probabilita": 60,
+            "status": "BENCH"
+          },
+          {
+            "nome": "Przyborek",
+            "ruolo": "C",
+            "probabilita": 25,
+            "status": "BENCH"
+          },
+          {
+            "nome": "Gudmundsson A.",
+            "ruolo": "C",
+            "probabilita": 60,
+            "status": "BENCH"
+          },
+          {
+            "nome": "Noslin",
+            "ruolo": "A",
+            "probabilita": 60,
+            "status": "BENCH"
+          }
+        ],
+        "ballottaggi": [],
+        "infortunati": [],
+        "squalificati": [
+          {
+            "nome": "Rovella",
+            "motivo": "Squalifica 1 giornata"
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "2026_G01_ROM_FIO",
+      "giornata": 1,
+      "date_str": "2026-08-22T18:30:00Z",
+      "stadium": "Stadio Serie A",
+      "home_team": "Roma",
+      "home_team_code": "ROM",
+      "away_team": "Fiorentina",
+      "away_team_code": "FIO",
+      "home_lineup": {
+        "squadra": "Roma",
+        "squadra_code": "ROM",
+        "modulo": "3-4-2-1",
+        "titolari": [
+          {
+            "nome": "Svilar",
+            "ruolo": "P",
+            "probabilita": 90,
+            "status": "STARTER"
+          },
+          {
+            "nome": "Mancini",
+            "ruolo": "D",
+            "probabilita": 90,
+            "status": "STARTER"
+          },
+          {
+            "nome": "Ghilardi",
+            "ruolo": "D",
+            "probabilita": 80,
+            "status": "STARTER"
+          },
+          {
+            "nome": "Hermoso",
+            "ruolo": "D",
+            "probabilita": 90,
+            "status": "STARTER"
+          },
+          {
+            "nome": "Molina N.",
+            "ruolo": "D",
+            "probabilita": 55,
+            "status": "STARTER"
+          },
+          {
+            "nome": "Kon&#xE8; M.",
+            "ruolo": "C",
+            "probabilita": 90,
+            "status": "STARTER"
+          },
+          {
+            "nome": "Cristante",
+            "ruolo": "C",
+            "probabilita": 90,
+            "status": "STARTER"
+          },
+          {
+            "nome": "Wesley",
+            "ruolo": "D",
+            "probabilita": 90,
+            "status": "STARTER"
+          },
+          {
+            "nome": "Dybala",
+            "ruolo": "A",
+            "probabilita": 90,
+            "status": "STARTER"
+          },
+          {
+            "nome": "Mora",
+            "ruolo": "C",
+            "probabilita": 60,
+            "status": "STARTER"
+          },
+          {
+            "nome": "Malen",
+            "ruolo": "A",
+            "probabilita": 90,
+            "status": "STARTER"
+          }
+        ],
+        "panchina": [
+          {
+            "nome": "Gollini",
+            "ruolo": "P",
+            "probabilita": 5,
+            "status": "BENCH"
+          },
+          {
+            "nome": "De Marzi",
+            "ruolo": "P",
+            "probabilita": 1,
+            "status": "BENCH"
+          },
+          {
+            "nome": "Lulli",
+            "ruolo": "D",
+            "probabilita": 60,
+            "status": "BENCH"
+          },
+          {
+            "nome": "Koulierakis",
+            "ruolo": "D",
+            "probabilita": 40,
+            "status": "BENCH"
+          },
+          {
+            "nome": "Balerdi",
+            "ruolo": "D",
+            "probabilita": 30,
+            "status": "BENCH"
+          },
+          {
+            "nome": "Pisilli",
+            "ruolo": "C",
+            "probabilita": 60,
+            "status": "BENCH"
+          },
+          {
+            "nome": "De Roon",
+            "ruolo": "C",
+            "probabilita": 55,
+            "status": "BENCH"
+          },
+          {
+            "nome": "Pellegrini Lo.",
+            "ruolo": "C",
+            "probabilita": 10,
+            "status": "BENCH"
+          },
+          {
+            "nome": "Soul&#xE8;",
+            "ruolo": "A",
+            "probabilita": 60,
+            "status": "BENCH"
+          },
+          {
+            "nome": "Castro S.",
+            "ruolo": "A",
+            "probabilita": 55,
+            "status": "BENCH"
+          }
+        ],
+        "ballottaggi": [],
+        "infortunati": [
+          {
+            "nome": "Saelemaekers",
+            "motivo": "Frattura malleolo"
+          }
+        ],
+        "squalificati": []
+      },
+      "away_lineup": {
+        "squadra": "Fiorentina",
+        "squadra_code": "FIO",
+        "modulo": "4-3-2-1",
+        "titolari": [
+          {
+            "nome": "De Gea",
+            "ruolo": "P",
+            "probabilita": 90,
+            "status": "STARTER"
+          },
+          {
+            "nome": "Jimenez A.",
+            "ruolo": "D",
+            "probabilita": 55,
+            "status": "STARTER"
+          },
+          {
+            "nome": "Dragusin",
+            "ruolo": "D",
+            "probabilita": 90,
+            "status": "STARTER"
+          },
+          {
+            "nome": "Viery",
+            "ruolo": "D",
+            "probabilita": 55,
+            "status": "STARTER"
+          },
+          {
+            "nome": "Valdepenas",
+            "ruolo": "D",
+            "probabilita": 80,
+            "status": "STARTER"
+          },
+          {
+            "nome": "Ndour",
+            "ruolo": "C",
+            "probabilita": 85,
+            "status": "STARTER"
+          },
+          {
+            "nome": "Oulai",
+            "ruolo": "C",
+            "probabilita": 70,
+            "status": "STARTER"
+          },
+          {
+            "nome": "Atta",
+            "ruolo": "C",
+            "probabilita": 90,
+            "status": "STARTER"
+          },
+          {
+            "nome": "Mastantuono",
+            "ruolo": "C",
+            "probabilita": 90,
+            "status": "STARTER"
+          },
+          {
+            "nome": "Njie",
+            "ruolo": "C",
+            "probabilita": 60,
+            "status": "STARTER"
+          },
+          {
+            "nome": "Pellegrino M.",
+            "ruolo": "A",
+            "probabilita": 80,
+            "status": "STARTER"
+          }
+        ],
+        "panchina": [
+          {
+            "nome": "Christensen O.",
+            "ruolo": "P",
+            "probabilita": 5,
+            "status": "BENCH"
+          },
+          {
+            "nome": "Lezzerini",
+            "ruolo": "P",
+            "probabilita": 1,
+            "status": "BENCH"
+          },
+          {
+            "nome": "Dod&#xF2;",
+            "ruolo": "D",
+            "probabilita": 40,
+            "status": "BENCH"
+          },
+          {
+            "nome": "Joao Mario",
+            "ruolo": "D",
+            "probabilita": 60,
+            "status": "BENCH"
+          },
+          {
+            "nome": "Ranieri L.",
+            "ruolo": "D",
+            "probabilita": 40,
+            "status": "BENCH"
+          },
+          {
+            "nome": "Pongracic",
+            "ruolo": "D",
+            "probabilita": 35,
+            "status": "BENCH"
+          },
+          {
+            "nome": "Fagioli",
+            "ruolo": "C",
+            "probabilita": 60,
+            "status": "BENCH"
+          },
+          {
+            "nome": "Brescianini",
+            "ruolo": "C",
+            "probabilita": 55,
+            "status": "BENCH"
+          },
+          {
+            "nome": "Goncalves P.",
+            "ruolo": "C",
+            "probabilita": 55,
+            "status": "BENCH"
+          },
+          {
+            "nome": "Gnonto",
+            "ruolo": "A",
+            "probabilita": 40,
+            "status": "BENCH"
+          },
+          {
+            "nome": "Beto",
+            "ruolo": "A",
+            "probabilita": 60,
+            "status": "BENCH"
+          }
+        ],
+        "ballottaggi": [],
+        "infortunati": [],
+        "squalificati": []
+      }
+    }
+  ]
+}

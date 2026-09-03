@@ -1,0 +1,21 @@
+id,code,name,full_name,city,stadium,coach,promoted,primary_color,secondary_color
+ATA,ATA,Atalanta,Atalanta Bergamasca Calcio,Bergamo,Gewiss Stadium,Gian Piero Gasperini,False,#005BA9,#000000
+BOL,BOL,Bologna,Bologna Football Club 1909,Bologna,Renato Dall'Ara,Vincenzo Italiano,False,#1A2F51,#9E1B32
+CAG,CAG,Cagliari,Cagliari Calcio,Cagliari,Unipol Domus,Davide Nicola,False,#9E1B32,#002B49
+COM,COM,Como,Como 1907,Como,Giuseppe Sinigaglia,Cesc Fabregas,True,#003399,#FFFFFF
+EMP,EMP,Empoli,Empoli Football Club,Empoli,Carlo Castellani,Roberto D'Aversa,False,#005DAA,#FFFFFF
+FIO,FIO,Fiorentina,ACF Fiorentina,Firenze,Artemio Franchi,Raffaele Palladino,False,#4F2683,#FFFFFF
+GEN,GEN,Genoa,Genoa Cricket and Football Club,Genova,Luigi Ferraris,Alberto Gilardino,False,#9E1B32,#002B49
+INT,INT,Inter,FC Internazionale Milano,Milano,Giuseppe Meazza (San Siro),Simone Inzaghi,False,#000000,#00529F
+JUV,JUV,Juventus,Juventus Football Club,Torino,Allianz Stadium,Thiago Motta,False,#000000,#FFFFFF
+LAZ,LAZ,Lazio,Società Sportiva Lazio,Roma,Stadio Olimpico,Marco Baroni,False,#87D8F7,#FFFFFF
+LEC,LEC,Lecce,Unione Sportiva Lecce,Lecce,Stadio Via del Mare,Luca Gotti,False,#FFD700,#C8102E
+MIL,MIL,Milan,Associazione Calcio Milan,Milano,Giuseppe Meazza (San Siro),Paulo Fonseca,False,#FB090B,#000000
+MON,MON,Monza,Associazione Calcio Monza,Monza,U-Power Stadium,Alessandro Nesta,False,#E30613,#FFFFFF
+NAP,NAP,Napoli,Società Sportiva Calcio Napoli,Napoli,Diego Armando Maradona,Antonio Conte,False,#0080C8,#FFFFFF
+PAR,PAR,Parma,Parma Calcio 1913,Parma,Ennio Tardini,Fabio Pecchia,True,#FFD700,#003399
+ROM,ROM,Roma,Associazione Sportiva Roma,Roma,Stadio Olimpico,Daniele De Rossi,False,#8E1F2F,#F0BC42
+TOR,TOR,Torino,Torino Football Club,Torino,Stadio Olimpico Grande Torino,Paolo Vanoli,False,#8B0000,#FFFFFF
+UDI,UDI,Udinese,Udinese Calcio,Udine,Bluenergy Stadium,Kosta Runjaic,False,#000000,#FFFFFF
+VEN,VEN,Venezia,Venezia Football Club,Venezia,Pier Luigi Penzo,Eusebio Di Francesco,True,#FF6600,#008000
+VER,VER,Verona,Hellas Verona Football Club,Verona,Marcantonio Bentegodi,Paolo Zanetti,False,#003399,#FFD700
