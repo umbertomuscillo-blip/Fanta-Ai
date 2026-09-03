@@ -73,6 +73,21 @@ class DataPipeline:
             players = self.players_parser.parse(None, None)
             source_tiers["players"] = "PRESERVED_EXISTING"
 
+        # --- MARKET PATCH 2026/2027 ---
+        if players:
+            # Di Gregorio is at Juventus in 2024 but user says he's out of Serie A in 2026
+            # Perin is at Juventus in 2024 but user says he's in Serie B in 2026
+            # Szczesny left in 2026
+            players = [p for p in players if p.nome not in ["Di Gregorio", "Perin", "Szczesny"]]
+        # ------------------------------
+
+
+
+        # --- MARKET PATCH 2026/2027 ---
+        if players:
+            players = [p for p in players if p.nome not in ["Di Gregorio", "Perin"]]
+        # ------------------------------
+
         # 2. Fetch & Parse Lineups
         if fetch_lineups:
             try:

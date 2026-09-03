@@ -1,15 +1,15 @@
 {
-  "timestamp": "2026-09-02T18:37:10Z",
+  "timestamp": "2026-09-03T15:21:39Z",
   "success": true,
   "players_count": 588,
   "lineups_count": 10,
   "fixtures_count": 380,
   "teams_count": 20,
-  "execution_time_sec": 0.263,
+  "execution_time_sec": 1.952,
   "errors": [],
   "source_tiers": {
-    "players": "TIER_2_CACHE",
-    "lineups": "TIER_2_CACHE",
-    "fixtures": "TIER_2_CACHE"
+    "players": "TIER_1_LIVE",
+    "lineups": "TIER_1_LIVE",
+    "fixtures": "TIER_1_LIVE"
   }
 }
