@@ -1,0 +1,902 @@
+{
+  "1ª Giornata lega": {
+    "serie_a": "3ª Giornata serie a",
+    "matches": [
+      {
+        "home": "ostriche e calciochampagne fc",
+        "away": "Raimon FC"
+      },
+      {
+        "home": "BERLUSCA DORTMUND",
+        "away": "AS Kuga"
+      },
+      {
+        "home": "Tettenham Hot-Sbor",
+        "away": "ASD GINOSA"
+      },
+      {
+        "home": "FC AntonioMiSpiego",
+        "away": "AS MATIC"
+      },
+      {
+        "home": "BAYERN MICIO",
+        "away": "ibelluaglioni"
+      }
+    ]
+  },
+  "2ª Giornata lega": {
+    "serie_a": "4ª Giornata serie a",
+    "matches": [
+      {
+        "home": "AS Kuga",
+        "away": "ostriche e calciochampagne fc"
+      },
+      {
+        "home": "AS MATIC",
+        "away": "BAYERN MICIO"
+      },
+      {
+        "home": "ASD GINOSA",
+        "away": "FC AntonioMiSpiego"
+      },
+      {
+        "home": "Raimon FC",
+        "away": "Tettenham Hot-Sbor"
+      },
+      {
+        "home": "ibelluaglioni",
+        "away": "BERLUSCA DORTMUND"
+      }
+    ]
+  },
+  "3ª Giornata lega": {
+    "serie_a": "5ª Giornata serie a",
+    "matches": [
+      {
+        "home": "ostriche e calciochampagne fc",
+        "away": "ibelluaglioni"
+      },
+      {
+        "home": "BERLUSCA DORTMUND",
+        "away": "AS MATIC"
+      },
+      {
+        "home": "Tettenham Hot-Sbor",
+        "away": "AS Kuga"
+      },
+      {
+        "home": "Raimon FC",
+        "away": "ASD GINOSA"
+      },
+      {
+        "home": "BAYERN MICIO",
+        "away": "FC AntonioMiSpiego"
+      }
+    ]
+  },
+  "4ª Giornata lega": {
+    "serie_a": "6ª Giornata serie a",
+    "matches": [
+      {
+        "home": "AS Kuga",
+        "away": "Raimon FC"
+      },
+      {
+        "home": "FC AntonioMiSpiego",
+        "away": "BERLUSCA DORTMUND"
+      },
+      {
+        "home": "AS MATIC",
+        "away": "ostriche e calciochampagne fc"
+      },
+      {
+        "home": "ASD GINOSA",
+        "away": "BAYERN MICIO"
+      },
+      {
+        "home": "ibelluaglioni",
+        "away": "Tettenham Hot-Sbor"
+      }
+    ]
+  },
+  "5ª Giornata lega": {
+    "serie_a": "7ª Giornata serie a",
+    "matches": [
+      {
+        "home": "ostriche e calciochampagne fc",
+        "away": "FC AntonioMiSpiego"
+      },
+      {
+        "home": "BERLUSCA DORTMUND",
+        "away": "BAYERN MICIO"
+      },
+      {
+        "home": "AS Kuga",
+        "away": "ASD GINOSA"
+      },
+      {
+        "home": "Tettenham Hot-Sbor",
+        "away": "AS MATIC"
+      },
+      {
+        "home": "Raimon FC",
+        "away": "ibelluaglioni"
+      }
+    ]
+  },
+  "6ª Giornata lega": {
+    "serie_a": "8ª Giornata serie a",
+    "matches": [
+      {
+        "home": "FC AntonioMiSpiego",
+        "away": "Tettenham Hot-Sbor"
+      },
+      {
+        "home": "AS MATIC",
+        "away": "Raimon FC"
+      },
+      {
+        "home": "ASD GINOSA",
+        "away": "BERLUSCA DORTMUND"
+      },
+      {
+        "home": "ibelluaglioni",
+        "away": "AS Kuga"
+      },
+      {
+        "home": "BAYERN MICIO",
+        "away": "ostriche e calciochampagne fc"
+      }
+    ]
+  },
+  "7ª Giornata lega": {
+    "serie_a": "9ª Giornata serie a",
+    "matches": [
+      {
+        "home": "ostriche e calciochampagne fc",
+        "away": "BERLUSCA DORTMUND"
+      },
+      {
+        "home": "AS Kuga",
+        "away": "AS MATIC"
+      },
+      {
+        "home": "Tettenham Hot-Sbor",
+        "away": "BAYERN MICIO"
+      },
+      {
+        "home": "Raimon FC",
+        "away": "FC AntonioMiSpiego"
+      },
+      {
+        "home": "ibelluaglioni",
+        "away": "ASD GINOSA"
+      }
+    ]
+  },
+  "8ª Giornata lega": {
+    "serie_a": "10ª Giornata serie a",
+    "matches": [
+      {
+        "home": "ostriche e calciochampagne fc",
+        "away": "ASD GINOSA"
+      },
+      {
+        "home": "BERLUSCA DORTMUND",
+        "away": "Tettenham Hot-Sbor"
+      },
+      {
+        "home": "FC AntonioMiSpiego",
+        "away": "AS Kuga"
+      },
+      {
+        "home": "AS MATIC",
+        "away": "ibelluaglioni"
+      },
+      {
+        "home": "BAYERN MICIO",
+        "away": "Raimon FC"
+      }
+    ]
+  },
+  "9ª Giornata lega": {
+    "serie_a": "11ª Giornata serie a",
+    "matches": [
+      {
+        "home": "AS Kuga",
+        "away": "BAYERN MICIO"
+      },
+      {
+        "home": "Tettenham Hot-Sbor",
+        "away": "ostriche e calciochampagne fc"
+      },
+      {
+        "home": "ASD GINOSA",
+        "away": "AS MATIC"
+      },
+      {
+        "home": "Raimon FC",
+        "away": "BERLUSCA DORTMUND"
+      },
+      {
+        "home": "ibelluaglioni",
+        "away": "FC AntonioMiSpiego"
+      }
+    ]
+  },
+  "10ª Giornata lega": {
+    "serie_a": "12ª Giornata serie a",
+    "matches": [
+      {
+        "home": "Tettenham Hot-Sbor",
+        "away": "BERLUSCA DORTMUND"
+      },
+      {
+        "home": "FC AntonioMiSpiego",
+        "away": "BAYERN MICIO"
+      },
+      {
+        "home": "AS MATIC",
+        "away": "AS Kuga"
+      },
+      {
+        "home": "ASD GINOSA",
+        "away": "ibelluaglioni"
+      },
+      {
+        "home": "Raimon FC",
+        "away": "ostriche e calciochampagne fc"
+      }
+    ]
+  },
+  "11ª Giornata lega": {
+    "serie_a": "13ª Giornata serie a",
+    "matches": [
+      {
+        "home": "ostriche e calciochampagne fc",
+        "away": "Tettenham Hot-Sbor"
+      },
+      {
+        "home": "BERLUSCA DORTMUND",
+        "away": "ASD GINOSA"
+      },
+      {
+        "home": "AS Kuga",
+        "away": "FC AntonioMiSpiego"
+      },
+      {
+        "home": "ibelluaglioni",
+        "away": "Raimon FC"
+      },
+      {
+        "home": "BAYERN MICIO",
+        "away": "AS MATIC"
+      }
+    ]
+  },
+  "12ª Giornata lega": {
+    "serie_a": "14ª Giornata serie a",
+    "matches": [
+      {
+        "home": "BERLUSCA DORTMUND",
+        "away": "ostriche e calciochampagne fc"
+      },
+      {
+        "home": "AS Kuga",
+        "away": "ibelluaglioni"
+      },
+      {
+        "home": "FC AntonioMiSpiego",
+        "away": "ASD GINOSA"
+      },
+      {
+        "home": "AS MATIC",
+        "away": "Tettenham Hot-Sbor"
+      },
+      {
+        "home": "Raimon FC",
+        "away": "BAYERN MICIO"
+      }
+    ]
+  },
+  "13ª Giornata lega": {
+    "serie_a": "15ª Giornata serie a",
+    "matches": [
+      {
+        "home": "ostriche e calciochampagne fc",
+        "away": "AS MATIC"
+      },
+      {
+        "home": "BAYERN MICIO",
+        "away": "BERLUSCA DORTMUND"
+      },
+      {
+        "home": "Tettenham Hot-Sbor",
+        "away": "Raimon FC"
+      },
+      {
+        "home": "ASD GINOSA",
+        "away": "AS Kuga"
+      },
+      {
+        "home": "FC AntonioMiSpiego",
+        "away": "ibelluaglioni"
+      }
+    ]
+  },
+  "14ª Giornata lega": {
+    "serie_a": "16ª Giornata serie a",
+    "matches": [
+      {
+        "home": "ASD GINOSA",
+        "away": "ostriche e calciochampagne fc"
+      },
+      {
+        "home": "BAYERN MICIO",
+        "away": "Tettenham Hot-Sbor"
+      },
+      {
+        "home": "BERLUSCA DORTMUND",
+        "away": "FC AntonioMiSpiego"
+      },
+      {
+        "home": "Raimon FC",
+        "away": "AS Kuga"
+      },
+      {
+        "home": "ibelluaglioni",
+        "away": "AS MATIC"
+      }
+    ]
+  },
+  "15ª Giornata lega": {
+    "serie_a": "17ª Giornata serie a",
+    "matches": [
+      {
+        "home": "ostriche e calciochampagne fc",
+        "away": "BAYERN MICIO"
+      },
+      {
+        "home": "BERLUSCA DORTMUND",
+        "away": "ibelluaglioni"
+      },
+      {
+        "home": "AS Kuga",
+        "away": "Tettenham Hot-Sbor"
+      },
+      {
+        "home": "FC AntonioMiSpiego",
+        "away": "Raimon FC"
+      },
+      {
+        "home": "AS MATIC",
+        "away": "ASD GINOSA"
+      }
+    ]
+  },
+  "16ª Giornata lega": {
+    "serie_a": "18ª Giornata serie a",
+    "matches": [
+      {
+        "home": "ibelluaglioni",
+        "away": "ostriche e calciochampagne fc"
+      },
+      {
+        "home": "BAYERN MICIO",
+        "away": "AS Kuga"
+      },
+      {
+        "home": "Tettenham Hot-Sbor",
+        "away": "FC AntonioMiSpiego"
+      },
+      {
+        "home": "AS MATIC",
+        "away": "BERLUSCA DORTMUND"
+      },
+      {
+        "home": "ASD GINOSA",
+        "away": "Raimon FC"
+      }
+    ]
+  },
+  "17ª Giornata lega": {
+    "serie_a": "19ª Giornata serie a",
+    "matches": [
+      {
+        "home": "AS Kuga",
+        "away": "BERLUSCA DORTMUND"
+      },
+      {
+        "home": "FC AntonioMiSpiego",
+        "away": "ostriche e calciochampagne fc"
+      },
+      {
+        "home": "ASD GINOSA",
+        "away": "Tettenham Hot-Sbor"
+      },
+      {
+        "home": "Raimon FC",
+        "away": "AS MATIC"
+      },
+      {
+        "home": "ibelluaglioni",
+        "away": "BAYERN MICIO"
+      }
+    ]
+  },
+  "18ª Giornata lega": {
+    "serie_a": "20ª Giornata serie a",
+    "matches": [
+      {
+        "home": "ostriche e calciochampagne fc",
+        "away": "AS Kuga"
+      },
+      {
+        "home": "BERLUSCA DORTMUND",
+        "away": "Raimon FC"
+      },
+      {
+        "home": "Tettenham Hot-Sbor",
+        "away": "ibelluaglioni"
+      },
+      {
+        "home": "AS MATIC",
+        "away": "FC AntonioMiSpiego"
+      },
+      {
+        "home": "BAYERN MICIO",
+        "away": "ASD GINOSA"
+      }
+    ]
+  },
+  "19ª Giornata lega": {
+    "serie_a": "21ª Giornata serie a",
+    "matches": [
+      {
+        "home": "AS MATIC",
+        "away": "ASD GINOSA"
+      },
+      {
+        "home": "ibelluaglioni",
+        "away": "ostriche e calciochampagne fc"
+      },
+      {
+        "home": "BAYERN MICIO",
+        "away": "AS Kuga"
+      },
+      {
+        "home": "BERLUSCA DORTMUND",
+        "away": "Tettenham Hot-Sbor"
+      },
+      {
+        "home": "Raimon FC",
+        "away": "FC AntonioMiSpiego"
+      }
+    ]
+  },
+  "20ª Giornata lega": {
+    "serie_a": "22ª Giornata serie a",
+    "matches": [
+      {
+        "home": "ostriche e calciochampagne fc",
+        "away": "AS MATIC"
+      },
+      {
+        "home": "Tettenham Hot-Sbor",
+        "away": "Raimon FC"
+      },
+      {
+        "home": "AS Kuga",
+        "away": "BERLUSCA DORTMUND"
+      },
+      {
+        "home": "ASD GINOSA",
+        "away": "BAYERN MICIO"
+      },
+      {
+        "home": "FC AntonioMiSpiego",
+        "away": "ibelluaglioni"
+      }
+    ]
+  },
+  "21ª Giornata lega": {
+    "serie_a": "23ª Giornata serie a",
+    "matches": [
+      {
+        "home": "AS MATIC",
+        "away": "FC AntonioMiSpiego"
+      },
+      {
+        "home": "ibelluaglioni",
+        "away": "Tettenham Hot-Sbor"
+      },
+      {
+        "home": "BAYERN MICIO",
+        "away": "ostriche e calciochampagne fc"
+      },
+      {
+        "home": "ASD GINOSA",
+        "away": "AS Kuga"
+      },
+      {
+        "home": "Raimon FC",
+        "away": "BERLUSCA DORTMUND"
+      }
+    ]
+  },
+  "22ª Giornata lega": {
+    "serie_a": "24ª Giornata serie a",
+    "matches": [
+      {
+        "home": "ostriche e calciochampagne fc",
+        "away": "ASD GINOSA"
+      },
+      {
+        "home": "BERLUSCA DORTMUND",
+        "away": "ibelluaglioni"
+      },
+      {
+        "home": "Tettenham Hot-Sbor",
+        "away": "AS MATIC"
+      },
+      {
+        "home": "AS Kuga",
+        "away": "Raimon FC"
+      },
+      {
+        "home": "FC AntonioMiSpiego",
+        "away": "BAYERN MICIO"
+      }
+    ]
+  },
+  "23ª Giornata lega": {
+    "serie_a": "25ª Giornata serie a",
+    "matches": [
+      {
+        "home": "AS MATIC",
+        "away": "BERLUSCA DORTMUND"
+      },
+      {
+        "home": "ibelluaglioni",
+        "away": "Raimon FC"
+      },
+      {
+        "home": "ostriche e calciochampagne fc",
+        "away": "AS Kuga"
+      },
+      {
+        "home": "BAYERN MICIO",
+        "away": "Tettenham Hot-Sbor"
+      },
+      {
+        "home": "ASD GINOSA",
+        "away": "FC AntonioMiSpiego"
+      }
+    ]
+  },
+  "24ª Giornata lega": {
+    "serie_a": "26ª Giornata serie a",
+    "matches": [
+      {
+        "home": "BERLUSCA DORTMUND",
+        "away": "BAYERN MICIO"
+      },
+      {
+        "home": "Tettenham Hot-Sbor",
+        "away": "ASD GINOSA"
+      },
+      {
+        "home": "AS Kuga",
+        "away": "ibelluaglioni"
+      },
+      {
+        "home": "FC AntonioMiSpiego",
+        "away": "ostriche e calciochampagne fc"
+      },
+      {
+        "home": "Raimon FC",
+        "away": "AS MATIC"
+      }
+    ]
+  },
+  "25ª Giornata lega": {
+    "serie_a": "27ª Giornata serie a",
+    "matches": [
+      {
+        "home": "AS MATIC",
+        "away": "ibelluaglioni"
+      },
+      {
+        "home": "ostriche e calciochampagne fc",
+        "away": "Tettenham Hot-Sbor"
+      },
+      {
+        "home": "BAYERN MICIO",
+        "away": "Raimon FC"
+      },
+      {
+        "home": "ASD GINOSA",
+        "away": "BERLUSCA DORTMUND"
+      },
+      {
+        "home": "FC AntonioMiSpiego",
+        "away": "AS Kuga"
+      }
+    ]
+  },
+  "26ª Giornata lega": {
+    "serie_a": "28ª Giornata serie a",
+    "matches": [
+      {
+        "home": "AS MATIC",
+        "away": "AS Kuga"
+      },
+      {
+        "home": "ibelluaglioni",
+        "away": "BAYERN MICIO"
+      },
+      {
+        "home": "BERLUSCA DORTMUND",
+        "away": "ostriche e calciochampagne fc"
+      },
+      {
+        "home": "Tettenham Hot-Sbor",
+        "away": "FC AntonioMiSpiego"
+      },
+      {
+        "home": "Raimon FC",
+        "away": "ASD GINOSA"
+      }
+    ]
+  },
+  "27ª Giornata lega": {
+    "serie_a": "29ª Giornata serie a",
+    "matches": [
+      {
+        "home": "ostriche e calciochampagne fc",
+        "away": "Raimon FC"
+      },
+      {
+        "home": "BAYERN MICIO",
+        "away": "AS MATIC"
+      },
+      {
+        "home": "AS Kuga",
+        "away": "Tettenham Hot-Sbor"
+      },
+      {
+        "home": "ASD GINOSA",
+        "away": "ibelluaglioni"
+      },
+      {
+        "home": "FC AntonioMiSpiego",
+        "away": "BERLUSCA DORTMUND"
+      }
+    ]
+  },
+  "28ª Giornata lega": {
+    "serie_a": "30ª Giornata serie a",
+    "matches": [
+      {
+        "home": "BAYERN MICIO",
+        "away": "ibelluaglioni"
+      },
+      {
+        "home": "BERLUSCA DORTMUND",
+        "away": "Raimon FC"
+      },
+      {
+        "home": "Tettenham Hot-Sbor",
+        "away": "ostriche e calciochampagne fc"
+      },
+      {
+        "home": "AS Kuga",
+        "away": "FC AntonioMiSpiego"
+      },
+      {
+        "home": "ASD GINOSA",
+        "away": "AS MATIC"
+      }
+    ]
+  },
+  "29ª Giornata lega": {
+    "serie_a": "31ª Giornata serie a",
+    "matches": [
+      {
+        "home": "AS MATIC",
+        "away": "BAYERN MICIO"
+      },
+      {
+        "home": "ibelluaglioni",
+        "away": "AS Kuga"
+      },
+      {
+        "home": "ostriche e calciochampagne fc",
+        "away": "BERLUSCA DORTMUND"
+      },
+      {
+        "home": "FC AntonioMiSpiego",
+        "away": "ASD GINOSA"
+      },
+      {
+        "home": "Raimon FC",
+        "away": "Tettenham Hot-Sbor"
+      }
+    ]
+  },
+  "30ª Giornata lega": {
+    "serie_a": "32ª Giornata serie a",
+    "matches": [
+      {
+        "home": "ibelluaglioni",
+        "away": "AS MATIC"
+      },
+      {
+        "home": "ostriche e calciochampagne fc",
+        "away": "FC AntonioMiSpiego"
+      },
+      {
+        "home": "BERLUSCA DORTMUND",
+        "away": "AS Kuga"
+      },
+      {
+        "home": "Tettenham Hot-Sbor",
+        "away": "BAYERN MICIO"
+      },
+      {
+        "home": "ASD GINOSA",
+        "away": "Raimon FC"
+      }
+    ]
+  },
+  "31ª Giornata lega": {
+    "serie_a": "33ª Giornata serie a",
+    "matches": [
+      {
+        "home": "AS MATIC",
+        "away": "Tettenham Hot-Sbor"
+      },
+      {
+        "home": "Raimon FC",
+        "away": "ibelluaglioni"
+      },
+      {
+        "home": "BAYERN MICIO",
+        "away": "ASD GINOSA"
+      },
+      {
+        "home": "AS Kuga",
+        "away": "ostriche e calciochampagne fc"
+      },
+      {
+        "home": "BERLUSCA DORTMUND",
+        "away": "FC AntonioMiSpiego"
+      }
+    ]
+  },
+  "32ª Giornata lega": {
+    "serie_a": "34ª Giornata serie a",
+    "matches": [
+      {
+        "home": "AS Kuga",
+        "away": "AS MATIC"
+      },
+      {
+        "home": "Raimon FC",
+        "away": "BAYERN MICIO"
+      },
+      {
+        "home": "ibelluaglioni",
+        "away": "BERLUSCA DORTMUND"
+      },
+      {
+        "home": "ASD GINOSA",
+        "away": "ostriche e calciochampagne fc"
+      },
+      {
+        "home": "FC AntonioMiSpiego",
+        "away": "Tettenham Hot-Sbor"
+      }
+    ]
+  },
+  "33ª Giornata lega": {
+    "serie_a": "35ª Giornata serie a",
+    "matches": [
+      {
+        "home": "AS MATIC",
+        "away": "Raimon FC"
+      },
+      {
+        "home": "ibelluaglioni",
+        "away": "FC AntonioMiSpiego"
+      },
+      {
+        "home": "ostriche e calciochampagne fc",
+        "away": "BAYERN MICIO"
+      },
+      {
+        "home": "BERLUSCA DORTMUND",
+        "away": "ASD GINOSA"
+      },
+      {
+        "home": "Tettenham Hot-Sbor",
+        "away": "AS Kuga"
+      }
+    ]
+  },
+  "34ª Giornata lega": {
+    "serie_a": "36ª Giornata serie a",
+    "matches": [
+      {
+        "home": "FC AntonioMiSpiego",
+        "away": "AS MATIC"
+      },
+      {
+        "home": "Raimon FC",
+        "away": "ostriche e calciochampagne fc"
+      },
+      {
+        "home": "BAYERN MICIO",
+        "away": "BERLUSCA DORTMUND"
+      },
+      {
+        "home": "Tettenham Hot-Sbor",
+        "away": "ibelluaglioni"
+      },
+      {
+        "home": "AS Kuga",
+        "away": "ASD GINOSA"
+      }
+    ]
+  },
+  "35ª Giornata lega": {
+    "serie_a": "37ª Giornata serie a",
+    "matches": [
+      {
+        "home": "ostriche e calciochampagne fc",
+        "away": "ibelluaglioni"
+      },
+      {
+        "home": "BERLUSCA DORTMUND",
+        "away": "AS MATIC"
+      },
+      {
+        "home": "AS Kuga",
+        "away": "BAYERN MICIO"
+      },
+      {
+        "home": "ASD GINOSA",
+        "away": "Tettenham Hot-Sbor"
+      },
+      {
+        "home": "FC AntonioMiSpiego",
+        "away": "Raimon FC"
+      }
+    ]
+  },
+  "36ª Giornata lega": {
+    "serie_a": "38ª Giornata serie a",
+    "matches": [
+      {
+        "home": "AS MATIC",
+        "away": "ostriche e calciochampagne fc"
+      },
+      {
+        "home": "ibelluaglioni",
+        "away": "ASD GINOSA"
+      },
+      {
+        "home": "BAYERN MICIO",
+        "away": "FC AntonioMiSpiego"
+      },
+      {
+        "home": "Tettenham Hot-Sbor",
+        "away": "BERLUSCA DORTMUND"
+      },
+      {
+        "home": "Raimon FC",
+        "away": "AS Kuga"
+      }
+    ]
+  }
+}

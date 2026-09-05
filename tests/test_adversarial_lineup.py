@@ -164,11 +164,11 @@ class TestModificatoreDifesaExactBoundaries(unittest.TestCase):
         self.assertEqual(bonus_6000, 1.0)
 
     def test_boundary_6_499_vs_6_500(self):
-        """Average 6.499 gives +1.0 bonus; Average 6.500 gives +3.0 bonus."""
+        """Average 6.499 gives +2.0 bonus (official 5-tier); Average 6.500 gives +3.0 bonus."""
         gk, defs_6499 = self._create_def_unit(6.5, 6.5, 6.5, 6.496)
         bonus_6499, avg_6499 = self.optimizer.calculate_modifier_bonus(gk, defs_6499)
         self.assertAlmostEqual(avg_6499, 6.499, places=3)
-        self.assertEqual(bonus_6499, 1.0)
+        self.assertEqual(bonus_6499, 2.0)
 
         gk, defs_6500 = self._create_def_unit(6.5, 6.5, 6.5, 6.5)
         bonus_6500, avg_6500 = self.optimizer.calculate_modifier_bonus(gk, defs_6500)
@@ -176,11 +176,11 @@ class TestModificatoreDifesaExactBoundaries(unittest.TestCase):
         self.assertEqual(bonus_6500, 3.0)
 
     def test_boundary_6_999_vs_7_000(self):
-        """Average 6.999 gives +3.0 bonus; Average 7.000 gives +6.0 bonus."""
+        """Average 6.999 gives +4.5 bonus (official 5-tier); Average 7.000 gives +6.0 bonus."""
         gk, defs_6999 = self._create_def_unit(7.0, 7.0, 7.0, 6.996)
         bonus_6999, avg_6999 = self.optimizer.calculate_modifier_bonus(gk, defs_6999)
         self.assertAlmostEqual(avg_6999, 6.999, places=3)
-        self.assertEqual(bonus_6999, 3.0)
+        self.assertEqual(bonus_6999, 4.5)
 
         gk, defs_7000 = self._create_def_unit(7.0, 7.0, 7.0, 7.0)
         bonus_7000, avg_7000 = self.optimizer.calculate_modifier_bonus(gk, defs_7000)

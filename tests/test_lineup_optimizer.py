@@ -146,7 +146,7 @@ class TestTier2BoundaryCornerCases(unittest.TestCase):
         ]
         bonus_below, avg_below = self.optimizer.calculate_modifier_bonus(gk, defs_649)
         self.assertEqual(round(avg_below, 3), 6.490)
-        self.assertEqual(bonus_below, 1.0)
+        self.assertEqual(bonus_below, 2.0)  # In 5-tier official league rules, 6.25 to 6.49 yields +2.0
 
         gk_650 = self._make_dummy_player("GK", "P", 6.5)
         defs_650 = [
@@ -160,7 +160,7 @@ class TestTier2BoundaryCornerCases(unittest.TestCase):
         self.assertEqual(bonus_exact, 3.0)
 
     def test_t2_03_modifier_border_6_99_vs_7_00(self):
-        """Exact boundary: 6.99 yields +3, 7.00 yields +6."""
+        """Exact boundary: 6.99 yields +4.5 (official 5-tier), 7.00 yields +6."""
         gk = self._make_dummy_player("GK", "P", 6.9)
         defs_699 = [
             self._make_dummy_player("D1", "D", 7.0),
@@ -170,7 +170,7 @@ class TestTier2BoundaryCornerCases(unittest.TestCase):
         ]
         bonus_below, avg_below = self.optimizer.calculate_modifier_bonus(gk, defs_699)
         self.assertEqual(round(avg_below, 3), 6.990)
-        self.assertEqual(bonus_below, 3.0)
+        self.assertEqual(bonus_below, 4.5)  # In 5-tier official league rules, 6.75 to 6.99 yields +4.5
 
         gk_700 = self._make_dummy_player("GK", "P", 7.0)
         defs_700 = [

@@ -1,0 +1,3572 @@
+{
+  "Berlusca Dortmund": {
+    "budget_left": 0,
+    "players_count": 25,
+    "total_spent": 500,
+    "players": [
+      {
+        "nome": "De Gea",
+        "nome_asta": "De Gea",
+        "ruolo": "P",
+        "prezzo": 13,
+        "squadra": "Fiorentina",
+        "stats": {
+          "mv": 5.25,
+          "fm": 1.75,
+          "xg": 0.0,
+          "xa": 0.0,
+          "fvm": 0
+        }
+      },
+      {
+        "nome": "Caprile",
+        "nome_asta": "Caprile",
+        "ruolo": "P",
+        "prezzo": 9,
+        "squadra": "Cagliari",
+        "stats": {
+          "mv": 6.5,
+          "fm": 6.0,
+          "xg": 0.0,
+          "xa": 0.0,
+          "fvm": 0
+        }
+      },
+      {
+        "nome": "Christensen O.",
+        "nome_asta": "Christensen O.",
+        "ruolo": "P",
+        "prezzo": 1,
+        "squadra": "Fiorentina",
+        "stats": {
+          "mv": 0.0,
+          "fm": 0.0,
+          "xg": 0.0,
+          "xa": 0.0,
+          "fvm": 0
+        }
+      },
+      {
+        "nome": "Gila",
+        "nome_asta": "Gila",
+        "ruolo": "D",
+        "prezzo": 25,
+        "squadra": "Milan",
+        "stats": {
+          "mv": 6.5,
+          "fm": 6.5,
+          "xg": 0.86,
+          "xa": 0.56,
+          "fvm": 0
+        }
+      },
+      {
+        "nome": "Stones",
+        "nome_asta": "Stones",
+        "ruolo": "D",
+        "prezzo": 7,
+        "squadra": "Inter",
+        "stats": {
+          "mv": 6.0,
+          "fm": 6.0,
+          "xg": 0.29,
+          "xa": 0.45,
+          "fvm": 0
+        }
+      },
+      {
+        "nome": "Ostigard",
+        "nome_asta": "Ostigard",
+        "ruolo": "D",
+        "prezzo": 20,
+        "squadra": "Genoa",
+        "stats": {
+          "mv": 6.5,
+          "fm": 6.0,
+          "xg": 0.98,
+          "xa": 0.75,
+          "fvm": 0
+        }
+      },
+      {
+        "nome": "Zappacosta",
+        "nome_asta": "Zappacosta",
+        "ruolo": "D",
+        "prezzo": 11,
+        "squadra": "Atalanta",
+        "stats": {
+          "mv": 6.0,
+          "fm": 6.0,
+          "xg": 0.22,
+          "xa": 0.35,
+          "fvm": 0
+        }
+      },
+      {
+        "nome": "Cambiaso",
+        "nome_asta": "Cambiaso",
+        "ruolo": "D",
+        "prezzo": 9,
+        "squadra": "Juventus",
+        "stats": {
+          "mv": 6.0,
+          "fm": 5.5,
+          "xg": 0.21,
+          "xa": 0.33,
+          "fvm": 0
+        }
+      },
+      {
+        "nome": "Mina",
+        "nome_asta": "Mina",
+        "ruolo": "D",
+        "prezzo": 5,
+        "squadra": "Cagliari",
+        "stats": {
+          "mv": 0.0,
+          "fm": 0.0,
+          "xg": 0.24,
+          "xa": 0.36,
+          "fvm": 0
+        }
+      },
+      {
+        "nome": "Obert",
+        "nome_asta": "Obert",
+        "ruolo": "D",
+        "prezzo": 1,
+        "squadra": "Cagliari",
+        "stats": {
+          "mv": 5.75,
+          "fm": 5.75,
+          "xg": 0.18,
+          "xa": 0.27,
+          "fvm": 0
+        }
+      },
+      {
+        "nome": "Monterisi",
+        "nome_asta": "Monterisi",
+        "ruolo": "D",
+        "prezzo": 1,
+        "squadra": "Empoli",
+        "stats": {
+          "mv": 6.0,
+          "fm": 6.0,
+          "xg": 0.15,
+          "xa": 0.24,
+          "fvm": 0
+        }
+      },
+      {
+        "nome": "Rabiot",
+        "nome_asta": "Rabiot",
+        "ruolo": "C",
+        "prezzo": 49,
+        "squadra": "Milan",
+        "stats": {
+          "mv": 6.75,
+          "fm": 8.75,
+          "xg": 4.38,
+          "xa": 4.94,
+          "fvm": 0
+        }
+      },
+      {
+        "nome": "Orsolini",
+        "nome_asta": "Orsolini",
+        "ruolo": "C",
+        "prezzo": 48,
+        "squadra": "Bologna",
+        "stats": {
+          "mv": 5.75,
+          "fm": 5.75,
+          "xg": 5.92,
+          "xa": 6.26,
+          "fvm": 0
+        }
+      },
+      {
+        "nome": "McKennie",
+        "nome_asta": "Mckennie",
+        "ruolo": "C",
+        "prezzo": 29,
+        "squadra": "Juventus",
+        "stats": {
+          "mv": 6.0,
+          "fm": 6.0,
+          "xg": 1.75,
+          "xa": 2.0,
+          "fvm": 0
+        }
+      },
+      {
+        "nome": "Baldanzi",
+        "nome_asta": "Baldanzi",
+        "ruolo": "C",
+        "prezzo": 7,
+        "squadra": "Genoa",
+        "stats": {
+          "mv": 5.75,
+          "fm": 5.75,
+          "xg": 0.7,
+          "xa": 0.8,
+          "fvm": 0
+        }
+      },
+      {
+        "nome": "Isaksen",
+        "nome_asta": "Isaksen",
+        "ruolo": "C",
+        "prezzo": 5,
+        "squadra": "Lazio",
+        "stats": {
+          "mv": 6.0,
+          "fm": 6.0,
+          "xg": 0.55,
+          "xa": 0.63,
+          "fvm": 0
+        }
+      },
+      {
+        "nome": "Milla",
+        "nome_asta": "Milla",
+        "ruolo": "C",
+        "prezzo": 1,
+        "squadra": "Como",
+        "stats": {
+          "mv": 6.75,
+          "fm": 6.75,
+          "xg": 0.75,
+          "xa": 0.86,
+          "fvm": 0
+        }
+      },
+      {
+        "nome": "Hutchinson",
+        "nome_asta": "Hutchinson",
+        "ruolo": "C",
+        "prezzo": 1,
+        "squadra": "Milan",
+        "stats": {
+          "mv": 0.0,
+          "fm": 0.0,
+          "xg": 0.62,
+          "xa": 0.71,
+          "fvm": 0
+        }
+      },
+      {
+        "nome": "Romano",
+        "nome_asta": "Romano",
+        "ruolo": "C",
+        "prezzo": 1,
+        "squadra": "Cagliari",
+        "stats": {
+          "mv": 6.5,
+          "fm": 8.0,
+          "xg": 2.77,
+          "xa": 1.8,
+          "fvm": 0
+        }
+      },
+      {
+        "nome": "Kolo Muani",
+        "nome_asta": "Kolo Muani",
+        "ruolo": "A",
+        "prezzo": 108,
+        "squadra": "Juventus",
+        "stats": {
+          "mv": 5.5,
+          "fm": 5.5,
+          "xg": 7.5,
+          "xa": 2.75,
+          "fvm": 0
+        }
+      },
+      {
+        "nome": "Diao",
+        "nome_asta": "Diao",
+        "ruolo": "A",
+        "prezzo": 41,
+        "squadra": "Como",
+        "stats": {
+          "mv": 6.25,
+          "fm": 6.75,
+          "xg": 2.27,
+          "xa": 1.53,
+          "fvm": 0
+        }
+      },
+      {
+        "nome": "Scamacca",
+        "nome_asta": "Scamacca",
+        "ruolo": "A",
+        "prezzo": 81,
+        "squadra": "Atalanta",
+        "stats": {
+          "mv": 5.75,
+          "fm": 5.75,
+          "xg": 5.0,
+          "xa": 1.83,
+          "fvm": 0
+        }
+      },
+      {
+        "nome": "Pellegrino M.",
+        "nome_asta": "Pellegrino M.",
+        "ruolo": "A",
+        "prezzo": 17,
+        "squadra": "Fiorentina",
+        "stats": {
+          "mv": 4.75,
+          "fm": 4.5,
+          "xg": 1.82,
+          "xa": 0.67,
+          "fvm": 0
+        }
+      },
+      {
+        "nome": "Camarda",
+        "nome_asta": "Camarda",
+        "ruolo": "A",
+        "prezzo": 8,
+        "squadra": "Milan",
+        "stats": {
+          "mv": 0.0,
+          "fm": 0.0,
+          "xg": 0.91,
+          "xa": 0.33,
+          "fvm": 0
+        }
+      },
+      {
+        "nome": "Maldini",
+        "nome_asta": "Maldini",
+        "ruolo": "A",
+        "prezzo": 2,
+        "squadra": "Cagliari",
+        "stats": {
+          "mv": 5.75,
+          "fm": 5.75,
+          "xg": 0.95,
+          "xa": 0.35,
+          "fvm": 0
+        }
+      }
+    ]
+  },
+  "As Kuga": {
+    "budget_left": 0,
+    "players_count": 25,
+    "total_spent": 498,
+    "players": [
+      {
+        "nome": "Butez",
+        "nome_asta": "Butez",
+        "ruolo": "P",
+        "prezzo": 32,
+        "squadra": "Como",
+        "stats": {
+          "mv": 5.75,
+          "fm": 4.75,
+          "xg": 0.0,
+          "xa": 0.0,
+          "fvm": 0
+        }
+      },
+      {
+        "nome": "Okoye",
+        "nome_asta": "Okoye",
+        "ruolo": "P",
+        "prezzo": 13,
+        "squadra": "Udinese",
+        "stats": {
+          "mv": 6.25,
+          "fm": 4.75,
+          "xg": 0.0,
+          "xa": 0.0,
+          "fvm": 0
+        }
+      },
+      {
+        "nome": "Sanchez Ro.",
+        "nome_asta": "Sanchez Ro.",
+        "ruolo": "P",
+        "prezzo": 1,
+        "squadra": "Como",
+        "stats": {
+          "mv": 0.0,
+          "fm": 0.0,
+          "xg": 0.0,
+          "xa": 0.0,
+          "fvm": 0
+        }
+      },
+      {
+        "nome": "Solet",
+        "nome_asta": "Solet",
+        "ruolo": "D",
+        "prezzo": 28,
+        "squadra": "Udinese",
+        "stats": {
+          "mv": 6.0,
+          "fm": 6.0,
+          "xg": 0.54,
+          "xa": 0.84,
+          "fvm": 0
+        }
+      },
+      {
+        "nome": "Mancini",
+        "nome_asta": "Mancini",
+        "ruolo": "D",
+        "prezzo": 30,
+        "squadra": "Roma",
+        "stats": {
+          "mv": 6.5,
+          "fm": 7.0,
+          "xg": 1.09,
+          "xa": 2.41,
+          "fvm": 0
+        }
+      },
+      {
+        "nome": "N'Dicka",
+        "nome_asta": "N'dicka",
+        "ruolo": "D",
+        "prezzo": 25,
+        "squadra": "Roma",
+        "stats": {
+          "mv": 6.0,
+          "fm": 6.0,
+          "xg": 0.49,
+          "xa": 0.76,
+          "fvm": 0
+        }
+      },
+      {
+        "nome": "Kamara H.",
+        "nome_asta": "Kamara H.",
+        "ruolo": "D",
+        "prezzo": 9,
+        "squadra": "Udinese",
+        "stats": {
+          "mv": 7.0,
+          "fm": 10.0,
+          "xg": 1.84,
+          "xa": 0.22,
+          "fvm": 0
+        }
+      },
+      {
+        "nome": "Coco",
+        "nome_asta": "Coco",
+        "ruolo": "D",
+        "prezzo": 4,
+        "squadra": "Torino",
+        "stats": {
+          "mv": 5.75,
+          "fm": 5.75,
+          "xg": 0.66,
+          "xa": 0.25,
+          "fvm": 0
+        }
+      },
+      {
+        "nome": "Rodriguez Ju.",
+        "nome_asta": "Rodriguez Ju.",
+        "ruolo": "D",
+        "prezzo": 3,
+        "squadra": "Cagliari",
+        "stats": {
+          "mv": 6.25,
+          "fm": 6.25,
+          "xg": 0.66,
+          "xa": 0.25,
+          "fvm": 0
+        }
+      },
+      {
+        "nome": "Doekhi",
+        "nome_asta": "Doekhi",
+        "ruolo": "D",
+        "prezzo": 1,
+        "squadra": "Lazio",
+        "stats": {
+          "mv": 6.25,
+          "fm": 6.25,
+          "xg": 0.69,
+          "xa": 0.29,
+          "fvm": 0
+        }
+      },
+      {
+        "nome": "Kolasinac",
+        "nome_asta": "Kolasinac",
+        "ruolo": "D",
+        "prezzo": 1,
+        "squadra": "Atalanta",
+        "stats": {
+          "mv": 6.0,
+          "fm": 6.0,
+          "xg": 0.59,
+          "xa": 0.15,
+          "fvm": 0
+        }
+      },
+      {
+        "nome": "Gonzalez N.",
+        "nome_asta": "Gonzalez N.",
+        "ruolo": "C",
+        "prezzo": 12,
+        "squadra": "Juventus",
+        "stats": {
+          "mv": 7.5,
+          "fm": 10.5,
+          "xg": 1.88,
+          "xa": 1.29,
+          "fvm": 0
+        }
+      },
+      {
+        "nome": "Bernardeschi",
+        "nome_asta": "Bernardeschi",
+        "ruolo": "C",
+        "prezzo": 10,
+        "squadra": "Bologna",
+        "stats": {
+          "mv": 6.5,
+          "fm": 6.5,
+          "xg": 0.68,
+          "xa": 0.77,
+          "fvm": 0
+        }
+      },
+      {
+        "nome": "Zaccagni",
+        "nome_asta": "Zaccagni",
+        "ruolo": "C",
+        "prezzo": 33,
+        "squadra": "Lazio",
+        "stats": {
+          "mv": 6.0,
+          "fm": 5.75,
+          "xg": 3.67,
+          "xa": 2.49,
+          "fvm": 0
+        }
+      },
+      {
+        "nome": "Samardzic",
+        "nome_asta": "Samardzic",
+        "ruolo": "C",
+        "prezzo": 14,
+        "squadra": "Atalanta",
+        "stats": {
+          "mv": 6.5,
+          "fm": 8.0,
+          "xg": 1.85,
+          "xa": 1.26,
+          "fvm": 0
+        }
+      },
+      {
+        "nome": "Alajbegovic",
+        "nome_asta": "Alajbegovic",
+        "ruolo": "C",
+        "prezzo": 15,
+        "squadra": "Juventus",
+        "stats": {
+          "mv": 5.5,
+          "fm": 5.5,
+          "xg": 1.05,
+          "xa": 1.2,
+          "fvm": 0
+        }
+      },
+      {
+        "nome": "Kessiè",
+        "nome_asta": "Kessiè",
+        "ruolo": "C",
+        "prezzo": 17,
+        "squadra": "Atalanta",
+        "stats": {
+          "mv": 0.0,
+          "fm": 0.0,
+          "xg": 1.18,
+          "xa": 1.34,
+          "fvm": 0
+        }
+      },
+      {
+        "nome": "Modric",
+        "nome_asta": "Modric",
+        "ruolo": "C",
+        "prezzo": 9,
+        "squadra": "Milan",
+        "stats": {
+          "mv": 6.0,
+          "fm": 6.0,
+          "xg": 1.12,
+          "xa": 1.29,
+          "fvm": 0
+        }
+      },
+      {
+        "nome": "Adzic",
+        "nome_asta": "Adzic",
+        "ruolo": "C",
+        "prezzo": 1,
+        "squadra": "Verona",
+        "stats": {
+          "mv": 6.0,
+          "fm": 6.5,
+          "xg": 0.4,
+          "xa": 1.26,
+          "fvm": 0
+        }
+      },
+      {
+        "nome": "Dybala",
+        "nome_asta": "Dybala",
+        "ruolo": "A",
+        "prezzo": 46,
+        "squadra": "Roma",
+        "stats": {
+          "mv": 7.5,
+          "fm": 9.0,
+          "xg": 7.05,
+          "xa": 3.77,
+          "fvm": 0
+        }
+      },
+      {
+        "nome": "Hojlund",
+        "nome_asta": "Hojlund",
+        "ruolo": "A",
+        "prezzo": 146,
+        "squadra": "Napoli",
+        "stats": {
+          "mv": 6.25,
+          "fm": 7.75,
+          "xg": 15.17,
+          "xa": 4.33,
+          "fvm": 0
+        }
+      },
+      {
+        "nome": "Yildiz",
+        "nome_asta": "Yildiz",
+        "ruolo": "A",
+        "prezzo": 28,
+        "squadra": "Juventus",
+        "stats": {
+          "mv": 5.5,
+          "fm": 5.5,
+          "xg": 4.55,
+          "xa": 1.67,
+          "fvm": 0
+        }
+      },
+      {
+        "nome": "Varela G.",
+        "nome_asta": "Varela G.",
+        "ruolo": "A",
+        "prezzo": 9,
+        "squadra": "Monza",
+        "stats": {
+          "mv": 7.0,
+          "fm": 10.0,
+          "xg": 3.52,
+          "xa": 0.67,
+          "fvm": 0
+        }
+      },
+      {
+        "nome": "Ghedjemis",
+        "nome_asta": "Ghedjemis",
+        "ruolo": "A",
+        "prezzo": 7,
+        "squadra": "Empoli",
+        "stats": {
+          "mv": 0.0,
+          "fm": 0.0,
+          "xg": 1.05,
+          "xa": 0.38,
+          "fvm": 0
+        }
+      },
+      {
+        "nome": "Gnonto",
+        "nome_asta": "Gnonto",
+        "ruolo": "A",
+        "prezzo": 4,
+        "squadra": "Fiorentina",
+        "stats": {
+          "mv": 0.0,
+          "fm": 0.0,
+          "xg": 1.14,
+          "xa": 0.42,
+          "fvm": 0
+        }
+      }
+    ]
+  },
+  "As Matic": {
+    "budget_left": 1,
+    "players_count": 25,
+    "total_spent": 488,
+    "players": [
+      {
+        "nome": "Maignan",
+        "nome_asta": "Maignan",
+        "ruolo": "P",
+        "prezzo": 38,
+        "squadra": "Milan",
+        "stats": {
+          "mv": 6.0,
+          "fm": 5.5,
+          "xg": 0.0,
+          "xa": 0.0,
+          "fvm": 0
+        }
+      },
+      {
+        "nome": "Skorupski",
+        "nome_asta": "Skorupski",
+        "ruolo": "P",
+        "prezzo": 9,
+        "squadra": "Bologna",
+        "stats": {
+          "mv": 5.5,
+          "fm": 4.5,
+          "xg": 0.0,
+          "xa": 0.0,
+          "fvm": 0
+        }
+      },
+      {
+        "nome": "Torriani",
+        "nome_asta": "Torriani",
+        "ruolo": "P",
+        "prezzo": 1,
+        "squadra": "Milan",
+        "stats": {
+          "mv": 0.0,
+          "fm": 0.0,
+          "xg": 0.0,
+          "xa": 0.0,
+          "fvm": 0
+        }
+      },
+      {
+        "nome": "Molina N.",
+        "nome_asta": "Molina N.",
+        "ruolo": "D",
+        "prezzo": 34,
+        "squadra": "Roma",
+        "stats": {
+          "mv": 6.0,
+          "fm": 6.0,
+          "xg": 0.92,
+          "xa": 1.42,
+          "fvm": 0
+        }
+      },
+      {
+        "nome": "Di Lorenzo",
+        "nome_asta": "Di Lorenzo",
+        "ruolo": "D",
+        "prezzo": 20,
+        "squadra": "Napoli",
+        "stats": {
+          "mv": 6.0,
+          "fm": 5.75,
+          "xg": 0.46,
+          "xa": 0.71,
+          "fvm": 0
+        }
+      },
+      {
+        "nome": "Bartesaghi",
+        "nome_asta": "Bartesaghi",
+        "ruolo": "D",
+        "prezzo": 3,
+        "squadra": "Milan",
+        "stats": {
+          "mv": 6.0,
+          "fm": 6.0,
+          "xg": 0.26,
+          "xa": 0.4,
+          "fvm": 0
+        }
+      },
+      {
+        "nome": "Comuzzo",
+        "nome_asta": "Comuzzo",
+        "ruolo": "D",
+        "prezzo": 4,
+        "squadra": "Torino",
+        "stats": {
+          "mv": 6.25,
+          "fm": 7.75,
+          "xg": 1.25,
+          "xa": 0.24,
+          "fvm": 0
+        }
+      },
+      {
+        "nome": "Valdepenas",
+        "nome_asta": "Valdepenas",
+        "ruolo": "D",
+        "prezzo": 1,
+        "squadra": "Fiorentina",
+        "stats": {
+          "mv": 5.0,
+          "fm": 5.0,
+          "xg": 0.19,
+          "xa": 0.29,
+          "fvm": 0
+        }
+      },
+      {
+        "nome": "Gaspar K.",
+        "nome_asta": "Gaspar K.",
+        "ruolo": "D",
+        "prezzo": 1,
+        "squadra": "Lecce",
+        "stats": {
+          "mv": 5.5,
+          "fm": 5.25,
+          "xg": 0.14,
+          "xa": 0.22,
+          "fvm": 0
+        }
+      },
+      {
+        "nome": "Badiashile",
+        "nome_asta": "Badiashile",
+        "ruolo": "D",
+        "prezzo": 3,
+        "squadra": "Napoli",
+        "stats": {
+          "mv": 0.0,
+          "fm": 0.0,
+          "xg": 0.21,
+          "xa": 0.33,
+          "fvm": 0
+        }
+      },
+      {
+        "nome": "Lulli",
+        "nome_asta": "Lulli",
+        "ruolo": "D",
+        "prezzo": 1,
+        "squadra": "Roma",
+        "stats": {
+          "mv": 6.5,
+          "fm": 6.5,
+          "xg": 0.62,
+          "xa": 0.18,
+          "fvm": 0
+        }
+      },
+      {
+        "nome": "Paz N.",
+        "nome_asta": "Paz N.",
+        "ruolo": "C",
+        "prezzo": 82,
+        "squadra": "Como",
+        "stats": {
+          "mv": 5.75,
+          "fm": 5.75,
+          "xg": 6.12,
+          "xa": 7.0,
+          "fvm": 0
+        }
+      },
+      {
+        "nome": "Rodriguez Je.",
+        "nome_asta": "Rodriguez Je.",
+        "ruolo": "C",
+        "prezzo": 16,
+        "squadra": "Como",
+        "stats": {
+          "mv": 5.5,
+          "fm": 5.5,
+          "xg": 0.78,
+          "xa": 0.89,
+          "fvm": 0
+        }
+      },
+      {
+        "nome": "Frattesi",
+        "nome_asta": "Frattesi",
+        "ruolo": "C",
+        "prezzo": 29,
+        "squadra": "Lazio",
+        "stats": {
+          "mv": 7.25,
+          "fm": 10.25,
+          "xg": 3.38,
+          "xa": 2.14,
+          "fvm": 0
+        }
+      },
+      {
+        "nome": "Cacciamani",
+        "nome_asta": "Cacciamani",
+        "ruolo": "C",
+        "prezzo": 5,
+        "squadra": "Torino",
+        "stats": {
+          "mv": 6.0,
+          "fm": 6.5,
+          "xg": 2.1,
+          "xa": 2.69,
+          "fvm": 0
+        }
+      },
+      {
+        "nome": "Volpato",
+        "nome_asta": "Volpato",
+        "ruolo": "C",
+        "prezzo": 5,
+        "squadra": "Verona",
+        "stats": {
+          "mv": 6.75,
+          "fm": 8.0,
+          "xg": 1.38,
+          "xa": 0.71,
+          "fvm": 0
+        }
+      },
+      {
+        "nome": "Thuram K.",
+        "nome_asta": "Thuram K.",
+        "ruolo": "C",
+        "prezzo": 2,
+        "squadra": "Juventus",
+        "stats": {
+          "mv": 0.0,
+          "fm": 0.0,
+          "xg": 0.62,
+          "xa": 0.71,
+          "fvm": 0
+        }
+      },
+      {
+        "nome": "Pisilli",
+        "nome_asta": "Pisilli",
+        "ruolo": "C",
+        "prezzo": 1,
+        "squadra": "Roma",
+        "stats": {
+          "mv": 6.5,
+          "fm": 8.0,
+          "xg": 1.23,
+          "xa": 0.54,
+          "fvm": 0
+        }
+      },
+      {
+        "nome": "Gaetano",
+        "nome_asta": "Gaetano",
+        "ruolo": "C",
+        "prezzo": 3,
+        "squadra": "Atalanta",
+        "stats": {
+          "mv": 5.75,
+          "fm": 6.25,
+          "xg": 0.75,
+          "xa": 1.66,
+          "fvm": 0
+        }
+      },
+      {
+        "nome": "Ramos G.",
+        "nome_asta": "Ramos G.",
+        "ruolo": "A",
+        "prezzo": 160,
+        "squadra": "Milan",
+        "stats": {
+          "mv": 6.5,
+          "fm": 8.0,
+          "xg": 14.12,
+          "xa": 3.95,
+          "fvm": 0
+        }
+      },
+      {
+        "nome": "De Ketelaere",
+        "nome_asta": "De Ketelaere",
+        "ruolo": "A",
+        "prezzo": 55,
+        "squadra": "Atalanta",
+        "stats": {
+          "mv": 5.75,
+          "fm": 5.75,
+          "xg": 4.32,
+          "xa": 1.58,
+          "fvm": 0
+        }
+      },
+      {
+        "nome": "Vitinha O.",
+        "nome_asta": "Vitinha O.",
+        "ruolo": "A",
+        "prezzo": 7,
+        "squadra": "Genoa",
+        "stats": {
+          "mv": 5.5,
+          "fm": 5.5,
+          "xg": 0.59,
+          "xa": 0.22,
+          "fvm": 0
+        }
+      },
+      {
+        "nome": "Kvernadze",
+        "nome_asta": "Kvernadze",
+        "ruolo": "A",
+        "prezzo": 5,
+        "squadra": "Empoli",
+        "stats": {
+          "mv": 6.75,
+          "fm": 7.25,
+          "xg": 1.09,
+          "xa": 1.1,
+          "fvm": 0
+        }
+      },
+      {
+        "nome": "Lontani",
+        "nome_asta": "Lontani",
+        "ruolo": "A",
+        "prezzo": 1,
+        "squadra": "Parma",
+        "stats": {
+          "mv": 6.25,
+          "fm": 6.25,
+          "xg": 0.5,
+          "xa": 0.2,
+          "fvm": 0
+        }
+      },
+      {
+        "nome": "Lucca",
+        "nome_asta": "Lucca",
+        "ruolo": "A",
+        "prezzo": 2,
+        "squadra": "Napoli",
+        "stats": {
+          "mv": 6.5,
+          "fm": 6.5,
+          "xg": 3.05,
+          "xa": 0.2,
+          "fvm": 0
+        }
+      }
+    ]
+  },
+  "Asd Ginosa": {
+    "budget_left": 0,
+    "players_count": 25,
+    "total_spent": 498,
+    "players": [
+      {
+        "nome": "Svilar",
+        "nome_asta": "Svilar",
+        "ruolo": "P",
+        "prezzo": 43,
+        "squadra": "Roma",
+        "stats": {
+          "mv": 6.25,
+          "fm": 6.25,
+          "xg": 0.0,
+          "xa": 0.0,
+          "fvm": 0
+        }
+      },
+      {
+        "nome": "Gollini",
+        "nome_asta": "Gollini",
+        "ruolo": "P",
+        "prezzo": 1,
+        "squadra": "Roma",
+        "stats": {
+          "mv": 0.0,
+          "fm": 0.0,
+          "xg": 0.0,
+          "xa": 0.0,
+          "fvm": 0
+        }
+      },
+      {
+        "nome": "De Marzi",
+        "nome_asta": "De Marzi",
+        "ruolo": "P",
+        "prezzo": 1,
+        "squadra": "Roma",
+        "stats": {
+          "mv": 0.0,
+          "fm": 0.0,
+          "xg": 0.0,
+          "xa": 0.0,
+          "fvm": 0
+        }
+      },
+      {
+        "nome": "Rrahmani",
+        "nome_asta": "Rrahmani",
+        "ruolo": "D",
+        "prezzo": 25,
+        "squadra": "Napoli",
+        "stats": {
+          "mv": 6.25,
+          "fm": 6.75,
+          "xg": 1.1,
+          "xa": 2.43,
+          "fvm": 0
+        }
+      },
+      {
+        "nome": "Kalulu",
+        "nome_asta": "Kalulu",
+        "ruolo": "D",
+        "prezzo": 30,
+        "squadra": "Juventus",
+        "stats": {
+          "mv": 6.5,
+          "fm": 6.5,
+          "xg": 1.05,
+          "xa": 0.85,
+          "fvm": 0
+        }
+      },
+      {
+        "nome": "Balerdi",
+        "nome_asta": "Balerdi",
+        "ruolo": "D",
+        "prezzo": 3,
+        "squadra": "Roma",
+        "stats": {
+          "mv": 0.0,
+          "fm": 0.0,
+          "xg": 0.13,
+          "xa": 0.2,
+          "fvm": 0
+        }
+      },
+      {
+        "nome": "Miranda J.",
+        "nome_asta": "Miranda J.",
+        "ruolo": "D",
+        "prezzo": 10,
+        "squadra": "Bologna",
+        "stats": {
+          "mv": 6.0,
+          "fm": 6.0,
+          "xg": 0.27,
+          "xa": 0.42,
+          "fvm": 0
+        }
+      },
+      {
+        "nome": "Spinazzola",
+        "nome_asta": "Spinazzola",
+        "ruolo": "D",
+        "prezzo": 13,
+        "squadra": "Napoli",
+        "stats": {
+          "mv": 5.75,
+          "fm": 5.75,
+          "xg": 0.29,
+          "xa": 0.45,
+          "fvm": 0
+        }
+      },
+      {
+        "nome": "Valle",
+        "nome_asta": "Valle",
+        "ruolo": "D",
+        "prezzo": 1,
+        "squadra": "Como",
+        "stats": {
+          "mv": 6.0,
+          "fm": 6.0,
+          "xg": 0.25,
+          "xa": 0.38,
+          "fvm": 0
+        }
+      },
+      {
+        "nome": "Kaiki",
+        "nome_asta": "Kaiki",
+        "ruolo": "D",
+        "prezzo": 1,
+        "squadra": "Como",
+        "stats": {
+          "mv": 0.0,
+          "fm": 0.0,
+          "xg": 0.15,
+          "xa": 0.24,
+          "fvm": 0
+        }
+      },
+      {
+        "nome": "Obrador",
+        "nome_asta": "Obrador",
+        "ruolo": "D",
+        "prezzo": 1,
+        "squadra": "Verona",
+        "stats": {
+          "mv": 6.0,
+          "fm": 6.0,
+          "xg": 0.15,
+          "xa": 0.24,
+          "fvm": 0
+        }
+      },
+      {
+        "nome": "McTominay",
+        "nome_asta": "Mctominay",
+        "ruolo": "C",
+        "prezzo": 59,
+        "squadra": "Napoli",
+        "stats": {
+          "mv": 5.75,
+          "fm": 5.75,
+          "xg": 5.5,
+          "xa": 6.29,
+          "fvm": 0
+        }
+      },
+      {
+        "nome": "Vlasic",
+        "nome_asta": "Vlasic",
+        "ruolo": "C",
+        "prezzo": 25,
+        "squadra": "Torino",
+        "stats": {
+          "mv": 5.25,
+          "fm": 5.25,
+          "xg": 1.82,
+          "xa": 2.09,
+          "fvm": 0
+        }
+      },
+      {
+        "nome": "Zaniolo",
+        "nome_asta": "Zaniolo",
+        "ruolo": "C",
+        "prezzo": 43,
+        "squadra": "Udinese",
+        "stats": {
+          "mv": 6.5,
+          "fm": 6.5,
+          "xg": 2.0,
+          "xa": 2.29,
+          "fvm": 0
+        }
+      },
+      {
+        "nome": "Politano",
+        "nome_asta": "Politano",
+        "ruolo": "C",
+        "prezzo": 4,
+        "squadra": "Napoli",
+        "stats": {
+          "mv": 5.5,
+          "fm": 5.25,
+          "xg": 0.93,
+          "xa": 1.06,
+          "fvm": 0
+        }
+      },
+      {
+        "nome": "El Shaarawy",
+        "nome_asta": "El Shaarawy",
+        "ruolo": "C",
+        "prezzo": 7,
+        "squadra": "Genoa",
+        "stats": {
+          "mv": 0.0,
+          "fm": 0.0,
+          "xg": 0.62,
+          "xa": 0.71,
+          "fvm": 0
+        }
+      },
+      {
+        "nome": "Chukwueze",
+        "nome_asta": "Chukwueze",
+        "ruolo": "C",
+        "prezzo": 5,
+        "squadra": "Milan",
+        "stats": {
+          "mv": 6.75,
+          "fm": 7.25,
+          "xg": 0.55,
+          "xa": 1.43,
+          "fvm": 0
+        }
+      },
+      {
+        "nome": "Calò",
+        "nome_asta": "Calò",
+        "ruolo": "C",
+        "prezzo": 1,
+        "squadra": "Empoli",
+        "stats": {
+          "mv": 6.25,
+          "fm": 6.75,
+          "xg": 0.68,
+          "xa": 1.57,
+          "fvm": 0
+        }
+      },
+      {
+        "nome": "Bernabè",
+        "nome_asta": "Bernabè",
+        "ruolo": "C",
+        "prezzo": 1,
+        "squadra": "Parma",
+        "stats": {
+          "mv": 5.75,
+          "fm": 5.75,
+          "xg": 0.85,
+          "xa": 0.97,
+          "fvm": 0
+        }
+      },
+      {
+        "nome": "Berardi",
+        "nome_asta": "Berardi",
+        "ruolo": "A",
+        "prezzo": 50,
+        "squadra": "Verona",
+        "stats": {
+          "mv": 7.0,
+          "fm": 10.0,
+          "xg": 5.67,
+          "xa": 1.77,
+          "fvm": 0
+        }
+      },
+      {
+        "nome": "Kean",
+        "nome_asta": "Kean",
+        "ruolo": "A",
+        "prezzo": 67,
+        "squadra": "Como",
+        "stats": {
+          "mv": 6.0,
+          "fm": 6.0,
+          "xg": 8.32,
+          "xa": 3.05,
+          "fvm": 0
+        }
+      },
+      {
+        "nome": "Pinamonti",
+        "nome_asta": "Pinamonti",
+        "ruolo": "A",
+        "prezzo": 86,
+        "squadra": "Lazio",
+        "stats": {
+          "mv": 0.0,
+          "fm": 0.0,
+          "xg": 4.91,
+          "xa": 0.88,
+          "fvm": 0
+        }
+      },
+      {
+        "nome": "Adams A.",
+        "nome_asta": "Adams A.",
+        "ruolo": "A",
+        "prezzo": 12,
+        "squadra": "Venezia",
+        "stats": {
+          "mv": 5.5,
+          "fm": 5.5,
+          "xg": 1.59,
+          "xa": 0.58,
+          "fvm": 0
+        }
+      },
+      {
+        "nome": "Tourè E.",
+        "nome_asta": "Tourè E.",
+        "ruolo": "A",
+        "prezzo": 8,
+        "squadra": "Parma",
+        "stats": {
+          "mv": 5.5,
+          "fm": 5.5,
+          "xg": 1.68,
+          "xa": 0.62,
+          "fvm": 0
+        }
+      },
+      {
+        "nome": "Noslin",
+        "nome_asta": "Noslin",
+        "ruolo": "A",
+        "prezzo": 1,
+        "squadra": "Lazio",
+        "stats": {
+          "mv": 0.0,
+          "fm": 0.0,
+          "xg": 0.4,
+          "xa": 0.2,
+          "fvm": 0
+        }
+      }
+    ]
+  },
+  "Bayern Micio": {
+    "budget_left": 3,
+    "players_count": 25,
+    "total_spent": 497,
+    "players": [
+      {
+        "nome": "Martinez Jo.",
+        "nome_asta": "Martinez Jo.",
+        "ruolo": "P",
+        "prezzo": 39,
+        "squadra": "Inter",
+        "stats": {
+          "mv": 6.0,
+          "fm": 5.5,
+          "xg": 0.0,
+          "xa": 0.0,
+          "fvm": 0
+        }
+      },
+      {
+        "nome": "Thiam",
+        "nome_asta": "Thiam",
+        "ruolo": "P",
+        "prezzo": 1,
+        "squadra": "Monza",
+        "stats": {
+          "mv": 4.5,
+          "fm": 1.5,
+          "xg": 0.0,
+          "xa": 0.0,
+          "fvm": 0
+        }
+      },
+      {
+        "nome": "Provedel",
+        "nome_asta": "Provedel",
+        "ruolo": "P",
+        "prezzo": 10,
+        "squadra": "Inter",
+        "stats": {
+          "mv": 0.0,
+          "fm": 0.0,
+          "xg": 0.0,
+          "xa": 0.0,
+          "fvm": 0
+        }
+      },
+      {
+        "nome": "Wesley",
+        "nome_asta": "Wesley",
+        "ruolo": "D",
+        "prezzo": 38,
+        "squadra": "Roma",
+        "stats": {
+          "mv": 6.75,
+          "fm": 7.25,
+          "xg": 1.52,
+          "xa": 2.28,
+          "fvm": 0
+        }
+      },
+      {
+        "nome": "Akanji",
+        "nome_asta": "Akanji",
+        "ruolo": "D",
+        "prezzo": 24,
+        "squadra": "Inter",
+        "stats": {
+          "mv": 5.5,
+          "fm": 5.25,
+          "xg": 0.55,
+          "xa": 0.85,
+          "fvm": 0
+        }
+      },
+      {
+        "nome": "Idzes",
+        "nome_asta": "Idzes",
+        "ruolo": "D",
+        "prezzo": 1,
+        "squadra": "Verona",
+        "stats": {
+          "mv": 6.0,
+          "fm": 6.0,
+          "xg": 0.72,
+          "xa": 0.35,
+          "fvm": 0
+        }
+      },
+      {
+        "nome": "Couto",
+        "nome_asta": "Couto",
+        "ruolo": "D",
+        "prezzo": 15,
+        "squadra": "Como",
+        "stats": {
+          "mv": 5.5,
+          "fm": 5.5,
+          "xg": 0.29,
+          "xa": 0.45,
+          "fvm": 0
+        }
+      },
+      {
+        "nome": "Mangas",
+        "nome_asta": "Mangas",
+        "ruolo": "D",
+        "prezzo": 4,
+        "squadra": "Monza",
+        "stats": {
+          "mv": 6.0,
+          "fm": 6.5,
+          "xg": 0.18,
+          "xa": 1.77,
+          "fvm": 0
+        }
+      },
+      {
+        "nome": "Tavares N.",
+        "nome_asta": "Tavares N.",
+        "ruolo": "D",
+        "prezzo": 8,
+        "squadra": "Lazio",
+        "stats": {
+          "mv": 6.5,
+          "fm": 7.5,
+          "xg": 0.79,
+          "xa": 1.15,
+          "fvm": 0
+        }
+      },
+      {
+        "nome": "Pedraza",
+        "nome_asta": "Pedraza",
+        "ruolo": "D",
+        "prezzo": 1,
+        "squadra": "Lazio",
+        "stats": {
+          "mv": 6.0,
+          "fm": 6.0,
+          "xg": 0.16,
+          "xa": 0.25,
+          "fvm": 0
+        }
+      },
+      {
+        "nome": "Smolcic I.",
+        "nome_asta": "Smolcic I.",
+        "ruolo": "D",
+        "prezzo": 1,
+        "squadra": "Como",
+        "stats": {
+          "mv": 5.5,
+          "fm": 5.5,
+          "xg": 0.12,
+          "xa": 0.18,
+          "fvm": 0
+        }
+      },
+      {
+        "nome": "Atta",
+        "nome_asta": "Atta",
+        "ruolo": "C",
+        "prezzo": 29,
+        "squadra": "Fiorentina",
+        "stats": {
+          "mv": 4.5,
+          "fm": 4.5,
+          "xg": 1.95,
+          "xa": 2.23,
+          "fvm": 0
+        }
+      },
+      {
+        "nome": "De Bruyne",
+        "nome_asta": "De Bruyne",
+        "ruolo": "C",
+        "prezzo": 40,
+        "squadra": "Napoli",
+        "stats": {
+          "mv": 7.0,
+          "fm": 9.0,
+          "xg": 3.45,
+          "xa": 3.89,
+          "fvm": 0
+        }
+      },
+      {
+        "nome": "Konè M.",
+        "nome_asta": "Konè M.",
+        "ruolo": "C",
+        "prezzo": 16,
+        "squadra": "Roma",
+        "stats": {
+          "mv": 6.5,
+          "fm": 6.25,
+          "xg": 1.05,
+          "xa": 1.2,
+          "fvm": 0
+        }
+      },
+      {
+        "nome": "Cambiaghi",
+        "nome_asta": "Cambiaghi",
+        "ruolo": "C",
+        "prezzo": 9,
+        "squadra": "Bologna",
+        "stats": {
+          "mv": 6.0,
+          "fm": 5.75,
+          "xg": 0.62,
+          "xa": 0.71,
+          "fvm": 0
+        }
+      },
+      {
+        "nome": "Zambo Anguissa",
+        "nome_asta": "Zambo Anguissa",
+        "ruolo": "C",
+        "prezzo": 4,
+        "squadra": "Napoli",
+        "stats": {
+          "mv": 5.25,
+          "fm": 5.25,
+          "xg": 1.02,
+          "xa": 1.17,
+          "fvm": 0
+        }
+      },
+      {
+        "nome": "Mandragora",
+        "nome_asta": "Mandragora",
+        "ruolo": "C",
+        "prezzo": 2,
+        "squadra": "Torino",
+        "stats": {
+          "mv": 5.25,
+          "fm": 5.25,
+          "xg": 2.08,
+          "xa": 1.86,
+          "fvm": 0
+        }
+      },
+      {
+        "nome": "Sucic P.",
+        "nome_asta": "Sucic P.",
+        "ruolo": "C",
+        "prezzo": 1,
+        "squadra": "Inter",
+        "stats": {
+          "mv": 6.5,
+          "fm": 6.5,
+          "xg": 0.53,
+          "xa": 0.6,
+          "fvm": 0
+        }
+      },
+      {
+        "nome": "Sarr P.",
+        "nome_asta": "Sarr P.",
+        "ruolo": "C",
+        "prezzo": 1,
+        "squadra": "Juventus",
+        "stats": {
+          "mv": 0.0,
+          "fm": 0.0,
+          "xg": 0.62,
+          "xa": 0.71,
+          "fvm": 0
+        }
+      },
+      {
+        "nome": "Esposito F.P.",
+        "nome_asta": "Esposito F.P.",
+        "ruolo": "A",
+        "prezzo": 89,
+        "squadra": "Inter",
+        "stats": {
+          "mv": 7.0,
+          "fm": 9.0,
+          "xg": 5.62,
+          "xa": 2.45,
+          "fvm": 0
+        }
+      },
+      {
+        "nome": "Douvikas",
+        "nome_asta": "Douvikas",
+        "ruolo": "A",
+        "prezzo": 102,
+        "squadra": "Como",
+        "stats": {
+          "mv": 6.75,
+          "fm": 9.75,
+          "xg": 10.11,
+          "xa": 3.08,
+          "fvm": 0
+        }
+      },
+      {
+        "nome": "Esposito Se.",
+        "nome_asta": "Esposito Se.",
+        "ruolo": "A",
+        "prezzo": 35,
+        "squadra": "Verona",
+        "stats": {
+          "mv": 0.0,
+          "fm": 0.0,
+          "xg": 4.32,
+          "xa": 0.67,
+          "fvm": 0
+        }
+      },
+      {
+        "nome": "Raspadori",
+        "nome_asta": "Raspadori",
+        "ruolo": "A",
+        "prezzo": 16,
+        "squadra": "Atalanta",
+        "stats": {
+          "mv": 6.25,
+          "fm": 7.75,
+          "xg": 4.17,
+          "xa": 1.22,
+          "fvm": 0
+        }
+      },
+      {
+        "nome": "Bowie",
+        "nome_asta": "Bowie",
+        "ruolo": "A",
+        "prezzo": 10,
+        "squadra": "Verona",
+        "stats": {
+          "mv": 5.5,
+          "fm": 5.5,
+          "xg": 1.45,
+          "xa": 0.53,
+          "fvm": 0
+        }
+      },
+      {
+        "nome": "Nzola",
+        "nome_asta": "Nzola",
+        "ruolo": "A",
+        "prezzo": 1,
+        "squadra": "Cagliari",
+        "stats": {
+          "mv": 0.0,
+          "fm": 0.0,
+          "xg": 0.45,
+          "xa": 0.2,
+          "fvm": 0
+        }
+      }
+    ]
+  },
+  "Fc Antoniomispi...": {
+    "budget_left": 4,
+    "players_count": 25,
+    "total_spent": 479,
+    "players": [
+      {
+        "nome": "Meret",
+        "nome_asta": "Meret",
+        "ruolo": "P",
+        "prezzo": 38,
+        "squadra": "Napoli",
+        "stats": {
+          "mv": 6.0,
+          "fm": 5.0,
+          "xg": 0.0,
+          "xa": 0.0,
+          "fvm": 0
+        }
+      },
+      {
+        "nome": "Palmisani",
+        "nome_asta": "Palmisani",
+        "ruolo": "P",
+        "prezzo": 2,
+        "squadra": "Empoli",
+        "stats": {
+          "mv": 6.25,
+          "fm": 5.75,
+          "xg": 0.0,
+          "xa": 0.0,
+          "fvm": 0
+        }
+      },
+      {
+        "nome": "Milinkovic-Savic V.",
+        "nome_asta": "Milinkovic-Savic",
+        "ruolo": "P",
+        "prezzo": 1,
+        "squadra": "Napoli",
+        "stats": {
+          "mv": 0.0,
+          "fm": 0.0,
+          "xg": 0.0,
+          "xa": 0.0,
+          "fvm": 0
+        }
+      },
+      {
+        "nome": "Dimarco",
+        "nome_asta": "Dimarco",
+        "ruolo": "D",
+        "prezzo": 61,
+        "squadra": "Inter",
+        "stats": {
+          "mv": 6.25,
+          "fm": 6.25,
+          "xg": 3.32,
+          "xa": 4.36,
+          "fvm": 0
+        }
+      },
+      {
+        "nome": "Celik",
+        "nome_asta": "Celik",
+        "ruolo": "D",
+        "prezzo": 11,
+        "squadra": "Juventus",
+        "stats": {
+          "mv": 6.0,
+          "fm": 5.75,
+          "xg": 0.19,
+          "xa": 0.29,
+          "fvm": 0
+        }
+      },
+      {
+        "nome": "Dragusin",
+        "nome_asta": "Dragusin",
+        "ruolo": "D",
+        "prezzo": 8,
+        "squadra": "Fiorentina",
+        "stats": {
+          "mv": 4.0,
+          "fm": 3.75,
+          "xg": 0.24,
+          "xa": 0.36,
+          "fvm": 0
+        }
+      },
+      {
+        "nome": "De Winter",
+        "nome_asta": "De Winter",
+        "ruolo": "D",
+        "prezzo": 5,
+        "squadra": "Milan",
+        "stats": {
+          "mv": 6.75,
+          "fm": 6.75,
+          "xg": 0.74,
+          "xa": 0.36,
+          "fvm": 0
+        }
+      },
+      {
+        "nome": "Vojvoda",
+        "nome_asta": "Vojvoda",
+        "ruolo": "D",
+        "prezzo": 5,
+        "squadra": "Udinese",
+        "stats": {
+          "mv": 6.5,
+          "fm": 6.5,
+          "xg": 0.72,
+          "xa": 0.35,
+          "fvm": 0
+        }
+      },
+      {
+        "nome": "Valeri",
+        "nome_asta": "Valeri",
+        "ruolo": "D",
+        "prezzo": 1,
+        "squadra": "Parma",
+        "stats": {
+          "mv": 6.0,
+          "fm": 6.0,
+          "xg": 0.26,
+          "xa": 0.4,
+          "fvm": 0
+        }
+      },
+      {
+        "nome": "Belghali",
+        "nome_asta": "Belghali",
+        "ruolo": "D",
+        "prezzo": 1,
+        "squadra": "Torino",
+        "stats": {
+          "mv": 0.0,
+          "fm": 0.0,
+          "xg": 0.24,
+          "xa": 0.36,
+          "fvm": 0
+        }
+      },
+      {
+        "nome": "Gabbia",
+        "nome_asta": "Gabbia",
+        "ruolo": "D",
+        "prezzo": 1,
+        "squadra": "Milan",
+        "stats": {
+          "mv": 6.0,
+          "fm": 6.0,
+          "xg": 0.18,
+          "xa": 0.27,
+          "fvm": 0
+        }
+      },
+      {
+        "nome": "Mora",
+        "nome_asta": "Mora",
+        "ruolo": "C",
+        "prezzo": 45,
+        "squadra": "Roma",
+        "stats": {
+          "mv": 6.75,
+          "fm": 8.25,
+          "xg": 3.25,
+          "xa": 2.86,
+          "fvm": 0
+        }
+      },
+      {
+        "nome": "Pulisic",
+        "nome_asta": "Pulisic",
+        "ruolo": "C",
+        "prezzo": 49,
+        "squadra": "Milan",
+        "stats": {
+          "mv": 0.0,
+          "fm": 0.0,
+          "xg": 5.25,
+          "xa": 5.49,
+          "fvm": 0
+        }
+      },
+      {
+        "nome": "Gudmundsson A.",
+        "nome_asta": "Gudmundsson",
+        "ruolo": "C",
+        "prezzo": 19,
+        "squadra": "Lazio",
+        "stats": {
+          "mv": 4.5,
+          "fm": 4.0,
+          "xg": 2.5,
+          "xa": 2.34,
+          "fvm": 0
+        }
+      },
+      {
+        "nome": "Fazzini",
+        "nome_asta": "Fazzini",
+        "ruolo": "C",
+        "prezzo": 5,
+        "squadra": "Cagliari",
+        "stats": {
+          "mv": 5.5,
+          "fm": 5.25,
+          "xg": 2.08,
+          "xa": 1.86,
+          "fvm": 0
+        }
+      },
+      {
+        "nome": "Vergara",
+        "nome_asta": "Vergara",
+        "ruolo": "C",
+        "prezzo": 4,
+        "squadra": "Napoli",
+        "stats": {
+          "mv": 7.5,
+          "fm": 11.5,
+          "xg": 1.62,
+          "xa": 1.8,
+          "fvm": 0
+        }
+      },
+      {
+        "nome": "Colpani",
+        "nome_asta": "Colpani",
+        "ruolo": "C",
+        "prezzo": 3,
+        "squadra": "Monza",
+        "stats": {
+          "mv": 5.75,
+          "fm": 7.25,
+          "xg": 1.12,
+          "xa": 0.43,
+          "fvm": 0
+        }
+      },
+      {
+        "nome": "Fernandez T.",
+        "nome_asta": "Fernandez T.",
+        "ruolo": "C",
+        "prezzo": 1,
+        "squadra": "Venezia",
+        "stats": {
+          "mv": 0.0,
+          "fm": 0.0,
+          "xg": 0.2,
+          "xa": 0.23,
+          "fvm": 0
+        }
+      },
+      {
+        "nome": "Cissè A.",
+        "nome_asta": "Cissè A.",
+        "ruolo": "C",
+        "prezzo": 2,
+        "squadra": "Milan",
+        "stats": {
+          "mv": 6.25,
+          "fm": 7.75,
+          "xg": 1.35,
+          "xa": 0.69,
+          "fvm": 0
+        }
+      },
+      {
+        "nome": "Krstovic",
+        "nome_asta": "Krstovic",
+        "ruolo": "A",
+        "prezzo": 57,
+        "squadra": "Atalanta",
+        "stats": {
+          "mv": 6.25,
+          "fm": 7.5,
+          "xg": 7.8,
+          "xa": 1.63,
+          "fvm": 0
+        }
+      },
+      {
+        "nome": "Beto",
+        "nome_asta": "Beto",
+        "ruolo": "A",
+        "prezzo": 62,
+        "squadra": "Fiorentina",
+        "stats": {
+          "mv": 0.0,
+          "fm": 0.0,
+          "xg": 2.27,
+          "xa": 0.83,
+          "fvm": 0
+        }
+      },
+      {
+        "nome": "Dovbyk",
+        "nome_asta": "Dovbyk",
+        "ruolo": "A",
+        "prezzo": 40,
+        "squadra": "Bologna",
+        "stats": {
+          "mv": 5.25,
+          "fm": 5.25,
+          "xg": 2.32,
+          "xa": 0.85,
+          "fvm": 0
+        }
+      },
+      {
+        "nome": "Colombo",
+        "nome_asta": "Colombo",
+        "ruolo": "A",
+        "prezzo": 49,
+        "squadra": "Genoa",
+        "stats": {
+          "mv": 5.75,
+          "fm": 5.75,
+          "xg": 4.86,
+          "xa": 0.87,
+          "fvm": 0
+        }
+      },
+      {
+        "nome": "Bobcek",
+        "nome_asta": "Bobcek",
+        "ruolo": "A",
+        "prezzo": 1,
+        "squadra": "Empoli",
+        "stats": {
+          "mv": 0.0,
+          "fm": 0.0,
+          "xg": 1.41,
+          "xa": 0.52,
+          "fvm": 0
+        }
+      },
+      {
+        "nome": "Yeboah J.",
+        "nome_asta": "Yeboah J.",
+        "ruolo": "A",
+        "prezzo": 8,
+        "squadra": "Venezia",
+        "stats": {
+          "mv": 6.25,
+          "fm": 6.25,
+          "xg": 1.23,
+          "xa": 0.45,
+          "fvm": 0
+        }
+      }
+    ]
+  },
+  "I Belluaglioni": {
+    "budget_left": 6,
+    "players_count": 25,
+    "total_spent": 494,
+    "players": [
+      {
+        "nome": "Mandas",
+        "nome_asta": "Mandas",
+        "ruolo": "P",
+        "prezzo": 21,
+        "squadra": "Lazio",
+        "stats": {
+          "mv": 6.25,
+          "fm": 6.25,
+          "xg": 0.0,
+          "xa": 0.0,
+          "fvm": 0
+        }
+      },
+      {
+        "nome": "Bijlow",
+        "nome_asta": "Bijlow",
+        "ruolo": "P",
+        "prezzo": 6,
+        "squadra": "Genoa",
+        "stats": {
+          "mv": 5.5,
+          "fm": 4.0,
+          "xg": 0.0,
+          "xa": 0.0,
+          "fvm": 0
+        }
+      },
+      {
+        "nome": "Muric",
+        "nome_asta": "Muric",
+        "ruolo": "P",
+        "prezzo": 6,
+        "squadra": "Verona",
+        "stats": {
+          "mv": 6.25,
+          "fm": 4.75,
+          "xg": 0.0,
+          "xa": 0.0,
+          "fvm": 0
+        }
+      },
+      {
+        "nome": "Spence",
+        "nome_asta": "Spence",
+        "ruolo": "D",
+        "prezzo": 25,
+        "squadra": "Inter",
+        "stats": {
+          "mv": 0.0,
+          "fm": 0.0,
+          "xg": 0.44,
+          "xa": 0.67,
+          "fvm": 0
+        }
+      },
+      {
+        "nome": "Bremer",
+        "nome_asta": "Bremer",
+        "ruolo": "D",
+        "prezzo": 37,
+        "squadra": "Juventus",
+        "stats": {
+          "mv": 7.0,
+          "fm": 8.5,
+          "xg": 1.81,
+          "xa": 1.09,
+          "fvm": 0
+        }
+      },
+      {
+        "nome": "Provstgaard",
+        "nome_asta": "Provstgaard",
+        "ruolo": "D",
+        "prezzo": 2,
+        "squadra": "Lazio",
+        "stats": {
+          "mv": 6.0,
+          "fm": 5.75,
+          "xg": 0.15,
+          "xa": 0.24,
+          "fvm": 0
+        }
+      },
+      {
+        "nome": "Bracaglia",
+        "nome_asta": "Bracaglia",
+        "ruolo": "D",
+        "prezzo": 1,
+        "squadra": "Empoli",
+        "stats": {
+          "mv": 6.75,
+          "fm": 8.5,
+          "xg": 1.28,
+          "xa": 0.97,
+          "fvm": 0
+        }
+      },
+      {
+        "nome": "Diego Carlos",
+        "nome_asta": "Diego Carlos",
+        "ruolo": "D",
+        "prezzo": 2,
+        "squadra": "Parma",
+        "stats": {
+          "mv": 0.0,
+          "fm": 0.0,
+          "xg": 0.31,
+          "xa": 0.47,
+          "fvm": 0
+        }
+      },
+      {
+        "nome": "Gallo",
+        "nome_asta": "Gallo",
+        "ruolo": "D",
+        "prezzo": 2,
+        "squadra": "Lecce",
+        "stats": {
+          "mv": 5.5,
+          "fm": 5.5,
+          "xg": 0.14,
+          "xa": 0.22,
+          "fvm": 0
+        }
+      },
+      {
+        "nome": "Ismajli",
+        "nome_asta": "Ismajli",
+        "ruolo": "D",
+        "prezzo": 1,
+        "squadra": "Torino",
+        "stats": {
+          "mv": 6.0,
+          "fm": 6.0,
+          "xg": 0.65,
+          "xa": 0.24,
+          "fvm": 0
+        }
+      },
+      {
+        "nome": "Leysen F.",
+        "nome_asta": "Leysen F.",
+        "ruolo": "D",
+        "prezzo": 2,
+        "squadra": "Verona",
+        "stats": {
+          "mv": 6.0,
+          "fm": 6.5,
+          "xg": 0.14,
+          "xa": 0.92,
+          "fvm": 0
+        }
+      },
+      {
+        "nome": "Calhanoglu",
+        "nome_asta": "Calhanoglu",
+        "ruolo": "C",
+        "prezzo": 71,
+        "squadra": "Inter",
+        "stats": {
+          "mv": 7.0,
+          "fm": 9.75,
+          "xg": 9.07,
+          "xa": 8.14,
+          "fvm": 0
+        }
+      },
+      {
+        "nome": "Koopmeiners",
+        "nome_asta": "Koopmeiners",
+        "ruolo": "C",
+        "prezzo": 3,
+        "squadra": "Juventus",
+        "stats": {
+          "mv": 7.0,
+          "fm": 10.0,
+          "xg": 2.62,
+          "xa": 1.63,
+          "fvm": 0
+        }
+      },
+      {
+        "nome": "Da Cunha",
+        "nome_asta": "Da Cunha",
+        "ruolo": "C",
+        "prezzo": 38,
+        "squadra": "Como",
+        "stats": {
+          "mv": 6.25,
+          "fm": 6.25,
+          "xg": 2.17,
+          "xa": 2.49,
+          "fvm": 0
+        }
+      },
+      {
+        "nome": "Locatelli",
+        "nome_asta": "Locatelli",
+        "ruolo": "C",
+        "prezzo": 4,
+        "squadra": "Juventus",
+        "stats": {
+          "mv": 6.5,
+          "fm": 6.75,
+          "xg": 0.82,
+          "xa": 1.74,
+          "fvm": 0
+        }
+      },
+      {
+        "nome": "Perrone",
+        "nome_asta": "Perrone",
+        "ruolo": "C",
+        "prezzo": 1,
+        "squadra": "Como",
+        "stats": {
+          "mv": 6.0,
+          "fm": 6.0,
+          "xg": 0.85,
+          "xa": 0.97,
+          "fvm": 0
+        }
+      },
+      {
+        "nome": "Bakola",
+        "nome_asta": "Bakola",
+        "ruolo": "C",
+        "prezzo": 1,
+        "squadra": "Verona",
+        "stats": {
+          "mv": 6.0,
+          "fm": 6.0,
+          "xg": 0.35,
+          "xa": 0.4,
+          "fvm": 0
+        }
+      },
+      {
+        "nome": "Odgaard",
+        "nome_asta": "Odgaard",
+        "ruolo": "C",
+        "prezzo": 1,
+        "squadra": "Bologna",
+        "stats": {
+          "mv": 5.75,
+          "fm": 5.5,
+          "xg": 0.42,
+          "xa": 0.49,
+          "fvm": 0
+        }
+      },
+      {
+        "nome": "Busio",
+        "nome_asta": "Busio",
+        "ruolo": "C",
+        "prezzo": 1,
+        "squadra": "Venezia",
+        "stats": {
+          "mv": 5.75,
+          "fm": 5.75,
+          "xg": 0.35,
+          "xa": 1.6,
+          "fvm": 0
+        }
+      },
+      {
+        "nome": "Malen",
+        "nome_asta": "Malen",
+        "ruolo": "A",
+        "prezzo": 213,
+        "squadra": "Roma",
+        "stats": {
+          "mv": 8.25,
+          "fm": 15.5,
+          "xg": 27.2,
+          "xa": 7.5,
+          "fvm": 0
+        }
+      },
+      {
+        "nome": "Santos A.",
+        "nome_asta": "Santos A.",
+        "ruolo": "A",
+        "prezzo": 33,
+        "squadra": "Napoli",
+        "stats": {
+          "mv": 6.0,
+          "fm": 6.0,
+          "xg": 2.77,
+          "xa": 1.02,
+          "fvm": 0
+        }
+      },
+      {
+        "nome": "Kevin Carlos",
+        "nome_asta": "Kevin Carlos",
+        "ruolo": "A",
+        "prezzo": 7,
+        "squadra": "Cagliari",
+        "stats": {
+          "mv": 5.5,
+          "fm": 5.0,
+          "xg": 1.64,
+          "xa": 0.6,
+          "fvm": 0
+        }
+      },
+      {
+        "nome": "Raimondo",
+        "nome_asta": "Raimondo",
+        "ruolo": "A",
+        "prezzo": 13,
+        "squadra": "Empoli",
+        "stats": {
+          "mv": 6.75,
+          "fm": 9.5,
+          "xg": 2.93,
+          "xa": 0.45,
+          "fvm": 0
+        }
+      },
+      {
+        "nome": "Cutrone",
+        "nome_asta": "Cutrone",
+        "ruolo": "A",
+        "prezzo": 2,
+        "squadra": "Monza",
+        "stats": {
+          "mv": 6.0,
+          "fm": 6.0,
+          "xg": 3.55,
+          "xa": 0.38,
+          "fvm": 0
+        }
+      },
+      {
+        "nome": "Stulic",
+        "nome_asta": "Stulic",
+        "ruolo": "A",
+        "prezzo": 1,
+        "squadra": "Lecce",
+        "stats": {
+          "mv": 5.25,
+          "fm": 5.25,
+          "xg": 0.5,
+          "xa": 0.2,
+          "fvm": 0
+        }
+      }
+    ]
+  },
+  "Ostriche E Calci...": {
+    "budget_left": 11,
+    "players_count": 25,
+    "total_spent": 487,
+    "players": [
+      {
+        "nome": "Vicario",
+        "nome_asta": "Vicario",
+        "ruolo": "P",
+        "prezzo": 47,
+        "squadra": "Juventus",
+        "stats": {
+          "mv": 6.25,
+          "fm": 6.25,
+          "xg": 0.0,
+          "xa": 0.0,
+          "fvm": 0
+        }
+      },
+      {
+        "nome": "Perri",
+        "nome_asta": "Perri",
+        "ruolo": "P",
+        "prezzo": 5,
+        "squadra": "Torino",
+        "stats": {
+          "mv": 0.0,
+          "fm": 0.0,
+          "xg": 0.0,
+          "xa": 0.0,
+          "fvm": 0
+        }
+      },
+      {
+        "nome": "Grabara",
+        "nome_asta": "Grabara",
+        "ruolo": "P",
+        "prezzo": 1,
+        "squadra": "Juventus",
+        "stats": {
+          "mv": 0.0,
+          "fm": 0.0,
+          "xg": 0.0,
+          "xa": 0.0,
+          "fvm": 0
+        }
+      },
+      {
+        "nome": "Bastoni",
+        "nome_asta": "Bastoni",
+        "ruolo": "D",
+        "prezzo": 33,
+        "squadra": "Inter",
+        "stats": {
+          "mv": 6.25,
+          "fm": 6.25,
+          "xg": 1.01,
+          "xa": 0.78,
+          "fvm": 0
+        }
+      },
+      {
+        "nome": "Chalobah T.",
+        "nome_asta": "Chalobah T.",
+        "ruolo": "D",
+        "prezzo": 24,
+        "squadra": "Como",
+        "stats": {
+          "mv": 6.5,
+          "fm": 6.5,
+          "xg": 0.88,
+          "xa": 0.58,
+          "fvm": 0
+        }
+      },
+      {
+        "nome": "Pavlovic",
+        "nome_asta": "Pavlovic",
+        "ruolo": "D",
+        "prezzo": 29,
+        "squadra": "Milan",
+        "stats": {
+          "mv": 6.25,
+          "fm": 6.0,
+          "xg": 1.08,
+          "xa": 0.89,
+          "fvm": 0
+        }
+      },
+      {
+        "nome": "Koulierakis",
+        "nome_asta": "Koulierakis",
+        "ruolo": "D",
+        "prezzo": 3,
+        "squadra": "Roma",
+        "stats": {
+          "mv": 6.0,
+          "fm": 6.0,
+          "xg": 0.18,
+          "xa": 0.27,
+          "fvm": 0
+        }
+      },
+      {
+        "nome": "Hermoso",
+        "nome_asta": "Hermoso",
+        "ruolo": "D",
+        "prezzo": 14,
+        "squadra": "Roma",
+        "stats": {
+          "mv": 6.5,
+          "fm": 6.25,
+          "xg": 0.81,
+          "xa": 0.47,
+          "fvm": 0
+        }
+      },
+      {
+        "nome": "Kristensen T.",
+        "nome_asta": "Kristensen T.",
+        "ruolo": "D",
+        "prezzo": 5,
+        "squadra": "Atalanta",
+        "stats": {
+          "mv": 0.0,
+          "fm": 0.0,
+          "xg": 0.24,
+          "xa": 0.36,
+          "fvm": 0
+        }
+      },
+      {
+        "nome": "Marcandalli",
+        "nome_asta": "Marcandalli",
+        "ruolo": "D",
+        "prezzo": 1,
+        "squadra": "Genoa",
+        "stats": {
+          "mv": 5.75,
+          "fm": 5.75,
+          "xg": 0.16,
+          "xa": 0.25,
+          "fvm": 0
+        }
+      },
+      {
+        "nome": "Kabasele",
+        "nome_asta": "Kabasele",
+        "ruolo": "D",
+        "prezzo": 1,
+        "squadra": "Udinese",
+        "stats": {
+          "mv": 0.0,
+          "fm": 0.0,
+          "xg": 0.14,
+          "xa": 0.22,
+          "fvm": 0
+        }
+      },
+      {
+        "nome": "Barella",
+        "nome_asta": "Barella",
+        "ruolo": "C",
+        "prezzo": 35,
+        "squadra": "Inter",
+        "stats": {
+          "mv": 6.5,
+          "fm": 7.0,
+          "xg": 2.02,
+          "xa": 3.11,
+          "fvm": 0
+        }
+      },
+      {
+        "nome": "Goncalves P.",
+        "nome_asta": "Goncalves P.",
+        "ruolo": "C",
+        "prezzo": 25,
+        "squadra": "Fiorentina",
+        "stats": {
+          "mv": 0.0,
+          "fm": 0.0,
+          "xg": 1.25,
+          "xa": 1.43,
+          "fvm": 0
+        }
+      },
+      {
+        "nome": "Jones C.",
+        "nome_asta": "Jones C.",
+        "ruolo": "C",
+        "prezzo": 17,
+        "squadra": "Inter",
+        "stats": {
+          "mv": 6.0,
+          "fm": 6.0,
+          "xg": 1.18,
+          "xa": 1.34,
+          "fvm": 0
+        }
+      },
+      {
+        "nome": "Schmid",
+        "nome_asta": "Schmid",
+        "ruolo": "C",
+        "prezzo": 1,
+        "squadra": "Empoli",
+        "stats": {
+          "mv": 5.75,
+          "fm": 5.5,
+          "xg": 0.62,
+          "xa": 0.71,
+          "fvm": 0
+        }
+      },
+      {
+        "nome": "Ekkelenkamp",
+        "nome_asta": "Ekkelenkamp",
+        "ruolo": "C",
+        "prezzo": 26,
+        "squadra": "Udinese",
+        "stats": {
+          "mv": 7.0,
+          "fm": 9.0,
+          "xg": 2.17,
+          "xa": 2.43,
+          "fvm": 0
+        }
+      },
+      {
+        "nome": "Ndour",
+        "nome_asta": "Ndour",
+        "ruolo": "C",
+        "prezzo": 1,
+        "squadra": "Fiorentina",
+        "stats": {
+          "mv": 5.0,
+          "fm": 5.0,
+          "xg": 0.55,
+          "xa": 0.63,
+          "fvm": 0
+        }
+      },
+      {
+        "nome": "Douglas Luiz",
+        "nome_asta": "Douglas Luiz",
+        "ruolo": "C",
+        "prezzo": 2,
+        "squadra": "Juventus",
+        "stats": {
+          "mv": 5.75,
+          "fm": 5.75,
+          "xg": 0.38,
+          "xa": 0.43,
+          "fvm": 0
+        }
+      },
+      {
+        "nome": "Casadei",
+        "nome_asta": "Casadei",
+        "ruolo": "C",
+        "prezzo": 1,
+        "squadra": "Torino",
+        "stats": {
+          "mv": 5.0,
+          "fm": 5.0,
+          "xg": 0.68,
+          "xa": 0.77,
+          "fvm": 0
+        }
+      },
+      {
+        "nome": "Simeone",
+        "nome_asta": "Simeone",
+        "ruolo": "A",
+        "prezzo": 75,
+        "squadra": "Torino",
+        "stats": {
+          "mv": 5.5,
+          "fm": 5.5,
+          "xg": 3.64,
+          "xa": 1.33,
+          "fvm": 0
+        }
+      },
+      {
+        "nome": "Davis K.",
+        "nome_asta": "Davis K.",
+        "ruolo": "A",
+        "prezzo": 100,
+        "squadra": "Udinese",
+        "stats": {
+          "mv": 6.5,
+          "fm": 6.5,
+          "xg": 4.91,
+          "xa": 1.8,
+          "fvm": 0
+        }
+      },
+      {
+        "nome": "Piccoli",
+        "nome_asta": "Piccoli",
+        "ruolo": "A",
+        "prezzo": 20,
+        "squadra": "Bologna",
+        "stats": {
+          "mv": 5.5,
+          "fm": 5.5,
+          "xg": 1.32,
+          "xa": 0.48,
+          "fvm": 0
+        }
+      },
+      {
+        "nome": "Romero D.",
+        "nome_asta": "Romero D.",
+        "ruolo": "A",
+        "prezzo": 12,
+        "squadra": "Parma",
+        "stats": {
+          "mv": 6.5,
+          "fm": 6.5,
+          "xg": 1.68,
+          "xa": 0.62,
+          "fvm": 0
+        }
+      },
+      {
+        "nome": "Adams C.",
+        "nome_asta": "Adams C.",
+        "ruolo": "A",
+        "prezzo": 5,
+        "squadra": "Torino",
+        "stats": {
+          "mv": 6.5,
+          "fm": 8.0,
+          "xg": 2.35,
+          "xa": 0.55,
+          "fvm": 0
+        }
+      },
+      {
+        "nome": "Geubbels",
+        "nome_asta": "Geubbels",
+        "ruolo": "A",
+        "prezzo": 4,
+        "squadra": "Lecce",
+        "stats": {
+          "mv": 5.25,
+          "fm": 5.25,
+          "xg": 1.05,
+          "xa": 0.38,
+          "fvm": 0
+        }
+      }
+    ]
+  },
+  "Raimon Fc": {
+    "budget_left": 32,
+    "players_count": 25,
+    "total_spent": 466,
+    "players": [
+      {
+        "nome": "Carnesecchi",
+        "nome_asta": "Carnesecchi",
+        "ruolo": "P",
+        "prezzo": 37,
+        "squadra": "Atalanta",
+        "stats": {
+          "mv": 6.75,
+          "fm": 6.75,
+          "xg": 0.0,
+          "xa": 0.0,
+          "fvm": 0
+        }
+      },
+      {
+        "nome": "Corvi",
+        "nome_asta": "Corvi",
+        "ruolo": "P",
+        "prezzo": 5,
+        "squadra": "Parma",
+        "stats": {
+          "mv": 5.75,
+          "fm": 4.25,
+          "xg": 0.0,
+          "xa": 0.0,
+          "fvm": 0
+        }
+      },
+      {
+        "nome": "Sportiello",
+        "nome_asta": "Sportiello",
+        "ruolo": "P",
+        "prezzo": 1,
+        "squadra": "Atalanta",
+        "stats": {
+          "mv": 0.0,
+          "fm": 0.0,
+          "xg": 0.0,
+          "xa": 0.0,
+          "fvm": 0
+        }
+      },
+      {
+        "nome": "Bernasconi",
+        "nome_asta": "Bernasconi",
+        "ruolo": "D",
+        "prezzo": 9,
+        "squadra": "Atalanta",
+        "stats": {
+          "mv": 5.5,
+          "fm": 5.5,
+          "xg": 0.21,
+          "xa": 0.33,
+          "fvm": 0
+        }
+      },
+      {
+        "nome": "Lucumì",
+        "nome_asta": "Lucumì",
+        "ruolo": "D",
+        "prezzo": 18,
+        "squadra": "Juventus",
+        "stats": {
+          "mv": 5.5,
+          "fm": 5.0,
+          "xg": 0.2,
+          "xa": 0.31,
+          "fvm": 0
+        }
+      },
+      {
+        "nome": "Vasquez",
+        "nome_asta": "Vasquez",
+        "ruolo": "D",
+        "prezzo": 8,
+        "squadra": "Genoa",
+        "stats": {
+          "mv": 5.75,
+          "fm": 5.75,
+          "xg": 0.35,
+          "xa": 0.55,
+          "fvm": 0
+        }
+      },
+      {
+        "nome": "Theate",
+        "nome_asta": "Theate",
+        "ruolo": "D",
+        "prezzo": 5,
+        "squadra": "Bologna",
+        "stats": {
+          "mv": 0.0,
+          "fm": 0.0,
+          "xg": 0.24,
+          "xa": 0.36,
+          "fvm": 0
+        }
+      },
+      {
+        "nome": "Tiago Gabriel",
+        "nome_asta": "Tiago Gabriel",
+        "ruolo": "D",
+        "prezzo": 3,
+        "squadra": "Lecce",
+        "stats": {
+          "mv": 6.0,
+          "fm": 7.5,
+          "xg": 0.84,
+          "xa": 0.36,
+          "fvm": 0
+        }
+      },
+      {
+        "nome": "Carlos Augusto",
+        "nome_asta": "Carlos Augusto",
+        "ruolo": "D",
+        "prezzo": 3,
+        "squadra": "Inter",
+        "stats": {
+          "mv": 0.0,
+          "fm": 0.0,
+          "xg": 0.24,
+          "xa": 0.36,
+          "fvm": 0
+        }
+      },
+      {
+        "nome": "Kelly L.",
+        "nome_asta": "Kelly L.",
+        "ruolo": "D",
+        "prezzo": 9,
+        "squadra": "Juventus",
+        "stats": {
+          "mv": 5.75,
+          "fm": 5.75,
+          "xg": 0.14,
+          "xa": 0.22,
+          "fvm": 0
+        }
+      },
+      {
+        "nome": "Rensch",
+        "nome_asta": "Rensch",
+        "ruolo": "D",
+        "prezzo": 1,
+        "squadra": "Roma",
+        "stats": {
+          "mv": 0.0,
+          "fm": 0.0,
+          "xg": 0.16,
+          "xa": 0.25,
+          "fvm": 0
+        }
+      },
+      {
+        "nome": "Mastantuono",
+        "nome_asta": "Mastantuono",
+        "ruolo": "C",
+        "prezzo": 31,
+        "squadra": "Fiorentina",
+        "stats": {
+          "mv": 5.25,
+          "fm": 5.25,
+          "xg": 1.25,
+          "xa": 1.43,
+          "fvm": 0
+        }
+      },
+      {
+        "nome": "Conceicao",
+        "nome_asta": "Conceicao",
+        "ruolo": "C",
+        "prezzo": 37,
+        "squadra": "Juventus",
+        "stats": {
+          "mv": 6.5,
+          "fm": 7.0,
+          "xg": 1.7,
+          "xa": 2.74,
+          "fvm": 0
+        }
+      },
+      {
+        "nome": "Zielinski",
+        "nome_asta": "Zielinski",
+        "ruolo": "C",
+        "prezzo": 34,
+        "squadra": "Inter",
+        "stats": {
+          "mv": 6.75,
+          "fm": 8.25,
+          "xg": 1.88,
+          "xa": 1.29,
+          "fvm": 0
+        }
+      },
+      {
+        "nome": "Ederson D.S.",
+        "nome_asta": "Ederson D.S.",
+        "ruolo": "C",
+        "prezzo": 19,
+        "squadra": "Atalanta",
+        "stats": {
+          "mv": 5.75,
+          "fm": 5.75,
+          "xg": 1.15,
+          "xa": 1.31,
+          "fvm": 0
+        }
+      },
+      {
+        "nome": "Mbangula",
+        "nome_asta": "Mbangula",
+        "ruolo": "C",
+        "prezzo": 2,
+        "squadra": "Bologna",
+        "stats": {
+          "mv": 0.0,
+          "fm": 0.0,
+          "xg": 0.7,
+          "xa": 0.8,
+          "fvm": 0
+        }
+      },
+      {
+        "nome": "Zalewski",
+        "nome_asta": "Zalewski",
+        "ruolo": "C",
+        "prezzo": 1,
+        "squadra": "Atalanta",
+        "stats": {
+          "mv": 6.25,
+          "fm": 6.75,
+          "xg": 0.45,
+          "xa": 1.31,
+          "fvm": 0
+        }
+      },
+      {
+        "nome": "Loftus-Cheek",
+        "nome_asta": "Loftus-Cheek",
+        "ruolo": "C",
+        "prezzo": 1,
+        "squadra": "Milan",
+        "stats": {
+          "mv": 6.0,
+          "fm": 5.75,
+          "xg": 0.4,
+          "xa": 0.46,
+          "fvm": 0
+        }
+      },
+      {
+        "nome": "Cancellieri",
+        "nome_asta": "Cancellieri",
+        "ruolo": "C",
+        "prezzo": 1,
+        "squadra": "Lazio",
+        "stats": {
+          "mv": 5.75,
+          "fm": 5.5,
+          "xg": 0.62,
+          "xa": 0.71,
+          "fvm": 0
+        }
+      },
+      {
+        "nome": "Martinez L.",
+        "nome_asta": "Martinez L.",
+        "ruolo": "A",
+        "prezzo": 181,
+        "squadra": "Inter",
+        "stats": {
+          "mv": 5.75,
+          "fm": 5.5,
+          "xg": 18.91,
+          "xa": 6.02,
+          "fvm": 0
+        }
+      },
+      {
+        "nome": "Laurientè",
+        "nome_asta": "Laurientè",
+        "ruolo": "A",
+        "prezzo": 26,
+        "squadra": "Verona",
+        "stats": {
+          "mv": 6.25,
+          "fm": 6.0,
+          "xg": 3.77,
+          "xa": 1.38,
+          "fvm": 0
+        }
+      },
+      {
+        "nome": "Soulè",
+        "nome_asta": "Soulè",
+        "ruolo": "A",
+        "prezzo": 16,
+        "squadra": "Roma",
+        "stats": {
+          "mv": 6.5,
+          "fm": 8.0,
+          "xg": 3.03,
+          "xa": 0.8,
+          "fvm": 0
+        }
+      },
+      {
+        "nome": "Boga",
+        "nome_asta": "Boga",
+        "ruolo": "A",
+        "prezzo": 8,
+        "squadra": "Juventus",
+        "stats": {
+          "mv": 6.0,
+          "fm": 6.0,
+          "xg": 1.23,
+          "xa": 0.45,
+          "fvm": 0
+        }
+      },
+      {
+        "nome": "Neres",
+        "nome_asta": "Neres",
+        "ruolo": "A",
+        "prezzo": 9,
+        "squadra": "Napoli",
+        "stats": {
+          "mv": 0.0,
+          "fm": 0.0,
+          "xg": 0.91,
+          "xa": 0.33,
+          "fvm": 0
+        }
+      },
+      {
+        "nome": "Lang",
+        "nome_asta": "Lang",
+        "ruolo": "A",
+        "prezzo": 1,
+        "squadra": "Napoli",
+        "stats": {
+          "mv": 5.75,
+          "fm": 5.75,
+          "xg": 0.64,
+          "xa": 0.23,
+          "fvm": 0
+        }
+      }
+    ]
+  },
+  "Tettenham Hot-...": {
+    "budget_left": 38,
+    "players_count": 25,
+    "total_spent": 467,
+    "players": [
+      {
+        "nome": "Falcone",
+        "nome_asta": "Falcone",
+        "ruolo": "P",
+        "prezzo": 15,
+        "squadra": "Lecce",
+        "stats": {
+          "mv": 6.25,
+          "fm": 4.25,
+          "xg": 0.0,
+          "xa": 0.0,
+          "fvm": 0
+        }
+      },
+      {
+        "nome": "Stankovic F.",
+        "nome_asta": "Stankovic F.",
+        "ruolo": "P",
+        "prezzo": 3,
+        "squadra": "Venezia",
+        "stats": {
+          "mv": 6.0,
+          "fm": 4.0,
+          "xg": 0.0,
+          "xa": 0.0,
+          "fvm": 0
+        }
+      },
+      {
+        "nome": "Tornqvist",
+        "nome_asta": "Tornqvist",
+        "ruolo": "P",
+        "prezzo": 1,
+        "squadra": "Monza",
+        "stats": {
+          "mv": 0.0,
+          "fm": 0.0,
+          "xg": 0.0,
+          "xa": 0.0,
+          "fvm": 0
+        }
+      },
+      {
+        "nome": "Bisseck",
+        "nome_asta": "Bisseck",
+        "ruolo": "D",
+        "prezzo": 19,
+        "squadra": "Inter",
+        "stats": {
+          "mv": 6.75,
+          "fm": 8.25,
+          "xg": 1.52,
+          "xa": 0.65,
+          "fvm": 0
+        }
+      },
+      {
+        "nome": "Ramon",
+        "nome_asta": "Ramon",
+        "ruolo": "D",
+        "prezzo": 24,
+        "squadra": "Como",
+        "stats": {
+          "mv": 6.0,
+          "fm": 6.0,
+          "xg": 0.36,
+          "xa": 0.56,
+          "fvm": 0
+        }
+      },
+      {
+        "nome": "Scalvini",
+        "nome_asta": "Scalvini",
+        "ruolo": "D",
+        "prezzo": 12,
+        "squadra": "Atalanta",
+        "stats": {
+          "mv": 6.0,
+          "fm": 6.0,
+          "xg": 0.33,
+          "xa": 0.51,
+          "fvm": 0
+        }
+      },
+      {
+        "nome": "Jimenez A.",
+        "nome_asta": "Jimenez A.",
+        "ruolo": "D",
+        "prezzo": 9,
+        "squadra": "Fiorentina",
+        "stats": {
+          "mv": 5.0,
+          "fm": 4.75,
+          "xg": 0.21,
+          "xa": 0.33,
+          "fvm": 0
+        }
+      },
+      {
+        "nome": "Delprato",
+        "nome_asta": "Delprato",
+        "ruolo": "D",
+        "prezzo": 5,
+        "squadra": "Parma",
+        "stats": {
+          "mv": 6.0,
+          "fm": 5.75,
+          "xg": 0.25,
+          "xa": 0.38,
+          "fvm": 0
+        }
+      },
+      {
+        "nome": "Kempf",
+        "nome_asta": "Kempf",
+        "ruolo": "D",
+        "prezzo": 1,
+        "squadra": "Como",
+        "stats": {
+          "mv": 6.5,
+          "fm": 6.5,
+          "xg": 0.65,
+          "xa": 0.24,
+          "fvm": 0
+        }
+      },
+      {
+        "nome": "Bellanova",
+        "nome_asta": "Bellanova",
+        "ruolo": "D",
+        "prezzo": 1,
+        "squadra": "Atalanta",
+        "stats": {
+          "mv": 0.0,
+          "fm": 0.0,
+          "xg": 0.7,
+          "xa": 0.31,
+          "fvm": 0
+        }
+      },
+      {
+        "nome": "Hainaut",
+        "nome_asta": "Hainaut",
+        "ruolo": "D",
+        "prezzo": 1,
+        "squadra": "Venezia",
+        "stats": {
+          "mv": 5.75,
+          "fm": 5.75,
+          "xg": 0.14,
+          "xa": 0.22,
+          "fvm": 0
+        }
+      },
+      {
+        "nome": "Baturina",
+        "nome_asta": "Baturina",
+        "ruolo": "C",
+        "prezzo": 57,
+        "squadra": "Como",
+        "stats": {
+          "mv": 6.5,
+          "fm": 8.0,
+          "xg": 3.38,
+          "xa": 3.0,
+          "fvm": 0
+        }
+      },
+      {
+        "nome": "Taylor K.",
+        "nome_asta": "Taylor K.",
+        "ruolo": "C",
+        "prezzo": 12,
+        "squadra": "Lazio",
+        "stats": {
+          "mv": 6.0,
+          "fm": 6.0,
+          "xg": 1.32,
+          "xa": 1.51,
+          "fvm": 0
+        }
+      },
+      {
+        "nome": "Thorstvedt",
+        "nome_asta": "Thorstvedt",
+        "ruolo": "C",
+        "prezzo": 3,
+        "squadra": "Verona",
+        "stats": {
+          "mv": 6.0,
+          "fm": 6.0,
+          "xg": 0.97,
+          "xa": 1.11,
+          "fvm": 0
+        }
+      },
+      {
+        "nome": "Rowe",
+        "nome_asta": "Rowe",
+        "ruolo": "C",
+        "prezzo": 30,
+        "squadra": "Atalanta",
+        "stats": {
+          "mv": 5.5,
+          "fm": 5.5,
+          "xg": 1.0,
+          "xa": 1.14,
+          "fvm": 0
+        }
+      },
+      {
+        "nome": "Moreira",
+        "nome_asta": "Moreira",
+        "ruolo": "C",
+        "prezzo": 18,
+        "squadra": "Milan",
+        "stats": {
+          "mv": 0.0,
+          "fm": 0.0,
+          "xg": 1.12,
+          "xa": 1.29,
+          "fvm": 0
+        }
+      },
+      {
+        "nome": "Diouf",
+        "nome_asta": "Diouf",
+        "ruolo": "C",
+        "prezzo": 18,
+        "squadra": "Inter",
+        "stats": {
+          "mv": 7.0,
+          "fm": 9.0,
+          "xg": 1.07,
+          "xa": 2.83,
+          "fvm": 0
+        }
+      },
+      {
+        "nome": "Saelemaekers",
+        "nome_asta": "Saelemaekers",
+        "ruolo": "C",
+        "prezzo": 6,
+        "squadra": "Milan",
+        "stats": {
+          "mv": 6.5,
+          "fm": 7.0,
+          "xg": 0.88,
+          "xa": 1.8,
+          "fvm": 0
+        }
+      },
+      {
+        "nome": "Liberali",
+        "nome_asta": "Liberali",
+        "ruolo": "C",
+        "prezzo": 1,
+        "squadra": "Como",
+        "stats": {
+          "mv": 6.0,
+          "fm": 6.0,
+          "xg": 0.53,
+          "xa": 0.6,
+          "fvm": 0
+        }
+      },
+      {
+        "nome": "Thuram",
+        "nome_asta": "Thuram",
+        "ruolo": "A",
+        "prezzo": 121,
+        "squadra": "Inter",
+        "stats": {
+          "mv": 5.5,
+          "fm": 5.5,
+          "xg": 11.32,
+          "xa": 4.15,
+          "fvm": 0
+        }
+      },
+      {
+        "nome": "Woltemade",
+        "nome_asta": "Woltemade",
+        "ruolo": "A",
+        "prezzo": 86,
+        "squadra": "Juventus",
+        "stats": {
+          "mv": 0.0,
+          "fm": 0.0,
+          "xg": 7.27,
+          "xa": 2.67,
+          "fvm": 0
+        }
+      },
+      {
+        "nome": "Castro S.",
+        "nome_asta": "Castro S.",
+        "ruolo": "A",
+        "prezzo": 13,
+        "squadra": "Roma",
+        "stats": {
+          "mv": 6.0,
+          "fm": 6.0,
+          "xg": 3.18,
+          "xa": 1.17,
+          "fvm": 0
+        }
+      },
+      {
+        "nome": "Bonny",
+        "nome_asta": "Bonny",
+        "ruolo": "A",
+        "prezzo": 9,
+        "squadra": "Inter",
+        "stats": {
+          "mv": 6.0,
+          "fm": 6.0,
+          "xg": 0.68,
+          "xa": 0.25,
+          "fvm": 0
+        }
+      },
+      {
+        "nome": "Osmajic",
+        "nome_asta": "Osmajic",
+        "ruolo": "A",
+        "prezzo": 1,
+        "squadra": "Genoa",
+        "stats": {
+          "mv": 5.5,
+          "fm": 5.5,
+          "xg": 1.27,
+          "xa": 0.47,
+          "fvm": 0
+        }
+      },
+      {
+        "nome": "Sulemana K.",
+        "nome_asta": "Sulemana K.",
+        "ruolo": "A",
+        "prezzo": 1,
+        "squadra": "Atalanta",
+        "stats": {
+          "mv": 0.0,
+          "fm": 0.0,
+          "xg": 2.86,
+          "xa": 0.2,
+          "fvm": 0
+        }
+      }
+    ]
+  }
+}

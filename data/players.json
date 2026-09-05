@@ -42,7 +42,7 @@
       "xa_90": 0.22,
       "moneyball_index": 49.81
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 2764,
@@ -87,7 +87,7 @@
       "xa_90": 0.18,
       "moneyball_index": 45.79
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 6052,
@@ -132,7 +132,7 @@
       "xa_90": 0.13,
       "moneyball_index": 46.07
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 4871,
@@ -177,7 +177,7 @@
       "xa_90": 0.12,
       "moneyball_index": 43.92
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 6875,
@@ -194,20 +194,20 @@
     "tier": "1 Top Centrocampo",
     "piazzati": "",
     "mod_rating": "",
-    "mv": 5.75,
-    "fm": 5.75,
+    "mv": 6.17,
+    "fm": 7.17,
     "note": "",
     "is_starter": true,
-    "xg": 6.12,
+    "xg": 6.88,
     "xa": 7.0,
-    "xg_90": 0.18,
+    "xg_90": 0.2,
     "xa_90": 0.21,
-    "moneyball_index": 45.0,
+    "moneyball_index": 46.18,
     "stats": {
-      "partite_a_voto": 2,
-      "media_voto": 5.75,
-      "fantamedia": 5.75,
-      "gol": 0,
+      "partite_a_voto": 3,
+      "media_voto": 6.17,
+      "fantamedia": 7.17,
+      "gol": 1,
       "gol_subiti": 0,
       "rigori_segnati": 0,
       "rigori_sbagliati": 0,
@@ -216,13 +216,13 @@
       "ammonizioni": 0,
       "espulsioni": 0,
       "clean_sheets": 0,
-      "xg": 6.12,
+      "xg": 6.88,
       "xa": 7.0,
-      "xg_90": 0.18,
+      "xg_90": 0.2,
       "xa_90": 0.21,
-      "moneyball_index": 45.0
+      "moneyball_index": 46.18
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 2194,
@@ -267,7 +267,7 @@
       "xa_90": 0.24,
       "moneyball_index": 49.34
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 254,
@@ -312,7 +312,7 @@
       "xa_90": 0.13,
       "moneyball_index": 51.48
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 6397,
@@ -357,7 +357,7 @@
       "xa_90": 0.12,
       "moneyball_index": 46.3
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 4777,
@@ -402,7 +402,7 @@
       "xa_90": 0.18,
       "moneyball_index": 44.77
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 7017,
@@ -419,19 +419,19 @@
     "tier": "2 Secondo Slot di Lusso",
     "piazzati": "",
     "mod_rating": "",
-    "mv": 6.75,
-    "fm": 9.75,
+    "mv": 6.33,
+    "fm": 8.33,
     "note": "",
     "is_starter": true,
     "xg": 10.11,
     "xa": 3.08,
     "xg_90": 0.3,
     "xa_90": 0.09,
-    "moneyball_index": 45.62,
+    "moneyball_index": 44.99,
     "stats": {
-      "partite_a_voto": 2,
-      "media_voto": 6.75,
-      "fantamedia": 9.75,
+      "partite_a_voto": 3,
+      "media_voto": 6.33,
+      "fantamedia": 8.33,
       "gol": 2,
       "gol_subiti": 0,
       "rigori_segnati": 0,
@@ -445,9 +445,9 @@
       "xa": 3.08,
       "xg_90": 0.3,
       "xa_90": 0.09,
-      "moneyball_index": 45.62
+      "moneyball_index": 44.99
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 2097,
@@ -464,35 +464,35 @@
     "tier": "2 Secondo Slot di Lusso",
     "piazzati": "",
     "mod_rating": "",
-    "mv": 6.0,
-    "fm": 6.0,
+    "mv": 6.25,
+    "fm": 6.75,
     "note": "",
     "is_starter": true,
     "xg": 8.32,
-    "xa": 3.05,
+    "xa": 3.75,
     "xg_90": 0.24,
-    "xa_90": 0.09,
-    "moneyball_index": 43.5,
+    "xa_90": 0.11,
+    "moneyball_index": 44.0,
     "stats": {
-      "partite_a_voto": 1,
-      "media_voto": 6.0,
-      "fantamedia": 6.0,
+      "partite_a_voto": 2,
+      "media_voto": 6.25,
+      "fantamedia": 6.75,
       "gol": 0,
       "gol_subiti": 0,
       "rigori_segnati": 0,
       "rigori_sbagliati": 0,
       "rigori_parati": 0,
-      "assist": 0,
+      "assist": 1,
       "ammonizioni": 0,
       "espulsioni": 0,
       "clean_sheets": 0,
       "xg": 8.32,
-      "xa": 3.05,
+      "xa": 3.75,
       "xg_90": 0.24,
-      "xa_90": 0.09,
-      "moneyball_index": 43.5
+      "xa_90": 0.11,
+      "moneyball_index": 44.0
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 2167,
@@ -537,7 +537,7 @@
       "xa_90": 0.18,
       "moneyball_index": 45.73
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 5951,
@@ -582,7 +582,7 @@
       "xa_90": 0.08,
       "moneyball_index": 43.02
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 6752,
@@ -627,7 +627,7 @@
       "xa_90": 0.08,
       "moneyball_index": 42.94
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 2423,
@@ -672,7 +672,7 @@
       "xa_90": 0.16,
       "moneyball_index": 45.56
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 2379,
@@ -717,7 +717,7 @@
       "xa_90": 0.15,
       "moneyball_index": 47.39
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 2137,
@@ -762,7 +762,7 @@
       "xa_90": 0.05,
       "moneyball_index": 42.26
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 5637,
@@ -807,7 +807,7 @@
       "xa_90": 0.05,
       "moneyball_index": 43.66
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 2517,
@@ -852,7 +852,7 @@
       "xa_90": 0.11,
       "moneyball_index": 48.3
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 531,
@@ -897,7 +897,7 @@
       "xa_90": 0.05,
       "moneyball_index": 45.34
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 7126,
@@ -914,35 +914,35 @@
     "tier": "1 Top Centrocampo",
     "piazzati": "",
     "mod_rating": "",
-    "mv": 6.5,
-    "fm": 8.0,
+    "mv": 6.67,
+    "fm": 8.5,
     "note": "",
     "is_starter": true,
-    "xg": 3.38,
+    "xg": 4.12,
     "xa": 3.0,
-    "xg_90": 0.1,
+    "xg_90": 0.12,
     "xa_90": 0.09,
-    "moneyball_index": 46.52,
+    "moneyball_index": 47.78,
     "stats": {
-      "partite_a_voto": 2,
-      "media_voto": 6.5,
-      "fantamedia": 8.0,
-      "gol": 1,
+      "partite_a_voto": 3,
+      "media_voto": 6.67,
+      "fantamedia": 8.5,
+      "gol": 2,
       "gol_subiti": 0,
       "rigori_segnati": 0,
       "rigori_sbagliati": 0,
       "rigori_parati": 0,
       "assist": 0,
-      "ammonizioni": 0,
+      "ammonizioni": 1,
       "espulsioni": 0,
       "clean_sheets": 0,
-      "xg": 3.38,
+      "xg": 4.12,
       "xa": 3.0,
-      "xg_90": 0.1,
+      "xg_90": 0.12,
       "xa_90": 0.09,
-      "moneyball_index": 46.52
+      "moneyball_index": 47.78
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 7071,
@@ -987,7 +987,7 @@
       "xa_90": 0.07,
       "moneyball_index": 45.56
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 6434,
@@ -1032,7 +1032,7 @@
       "xa_90": 0.05,
       "moneyball_index": 42.1
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 7556,
@@ -1077,7 +1077,7 @@
       "xa_90": 0.08,
       "moneyball_index": 47.32
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 309,
@@ -1122,7 +1122,7 @@
       "xa_90": 0.11,
       "moneyball_index": 48.31
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 6435,
@@ -1167,7 +1167,7 @@
       "xa_90": 0.05,
       "moneyball_index": 45.76
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 5995,
@@ -1212,7 +1212,7 @@
       "xa_90": 0.05,
       "moneyball_index": 41.99
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 5559,
@@ -1229,19 +1229,19 @@
     "tier": "1 Top Centrocampo",
     "piazzati": "",
     "mod_rating": "",
-    "mv": 6.25,
-    "fm": 6.25,
+    "mv": 6.33,
+    "fm": 6.33,
     "note": "",
     "is_starter": true,
     "xg": 2.17,
     "xa": 2.49,
     "xg_90": 0.06,
     "xa_90": 0.07,
-    "moneyball_index": 44.81,
+    "moneyball_index": 45.1,
     "stats": {
-      "partite_a_voto": 2,
-      "media_voto": 6.25,
-      "fantamedia": 6.25,
+      "partite_a_voto": 3,
+      "media_voto": 6.33,
+      "fantamedia": 6.33,
       "gol": 0,
       "gol_subiti": 0,
       "rigori_segnati": 0,
@@ -1255,9 +1255,9 @@
       "xa": 2.49,
       "xg_90": 0.06,
       "xa_90": 0.07,
-      "moneyball_index": 44.81
+      "moneyball_index": 45.1
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 7181,
@@ -1302,7 +1302,7 @@
       "xa_90": 0.07,
       "moneyball_index": 55.54
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 632,
@@ -1347,7 +1347,7 @@
       "xa_90": 0.07,
       "moneyball_index": 45.52
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 5841,
@@ -1392,7 +1392,7 @@
       "xa_90": 0.0,
       "moneyball_index": 80.0
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 6060,
@@ -1437,7 +1437,7 @@
       "xa_90": 0.04,
       "moneyball_index": 42.84
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 1870,
@@ -1482,7 +1482,7 @@
       "xa_90": 0.09,
       "moneyball_index": 46.09
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 2766,
@@ -1527,7 +1527,7 @@
       "xa_90": 0.07,
       "moneyball_index": 45.76
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 2061,
@@ -1572,7 +1572,7 @@
       "xa_90": 0.04,
       "moneyball_index": 41.75
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 4998,
@@ -1617,7 +1617,7 @@
       "xa_90": 0.04,
       "moneyball_index": 48.33
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 6908,
@@ -1662,7 +1662,7 @@
       "xa_90": 0.07,
       "moneyball_index": 43.09
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 4510,
@@ -1707,7 +1707,7 @@
       "xa_90": 0.04,
       "moneyball_index": 41.62
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 2848,
@@ -1752,7 +1752,7 @@
       "xa_90": 0.06,
       "moneyball_index": 50.39
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 4371,
@@ -1797,7 +1797,7 @@
       "xa_90": 0.04,
       "moneyball_index": 43.65
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 5687,
@@ -1842,7 +1842,7 @@
       "xa_90": 0.06,
       "moneyball_index": 43.02
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 4973,
@@ -1887,7 +1887,7 @@
       "xa_90": 0.06,
       "moneyball_index": 43.76
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 4964,
@@ -1932,7 +1932,7 @@
       "xa_90": 0.0,
       "moneyball_index": 81.75
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 6572,
@@ -1977,7 +1977,7 @@
       "xa_90": 0.03,
       "moneyball_index": 42.08
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 5116,
@@ -2022,7 +2022,7 @@
       "xa_90": 0.0,
       "moneyball_index": 79.5
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 6884,
@@ -2067,7 +2067,7 @@
       "xa_90": 0.08,
       "moneyball_index": 46.14
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 7351,
@@ -2112,7 +2112,7 @@
       "xa_90": 0.03,
       "moneyball_index": 41.98
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 2788,
@@ -2157,7 +2157,7 @@
       "xa_90": 0.03,
       "moneyball_index": 59.59
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 6684,
@@ -2202,7 +2202,7 @@
       "xa_90": 0.07,
       "moneyball_index": 49.7
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 4431,
@@ -2247,7 +2247,7 @@
       "xa_90": 0.0,
       "moneyball_index": 88.5
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 7314,
@@ -2292,7 +2292,7 @@
       "xa_90": 0.04,
       "moneyball_index": 43.61
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 2038,
@@ -2337,7 +2337,7 @@
       "xa_90": 0.03,
       "moneyball_index": 44.19
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 4312,
@@ -2382,7 +2382,7 @@
       "xa_90": 0.0,
       "moneyball_index": 81.5
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 4923,
@@ -2399,35 +2399,35 @@
     "tier": "3 Terzo Slot Titolare",
     "piazzati": "Rigorista Empoli",
     "mod_rating": "",
-    "mv": 5.75,
-    "fm": 5.75,
+    "mv": 6.0,
+    "fm": 6.33,
     "note": "",
     "is_starter": true,
     "xg": 4.86,
-    "xa": 0.87,
+    "xa": 1.57,
     "xg_90": 0.14,
-    "xa_90": 0.03,
-    "moneyball_index": 44.12,
+    "xa_90": 0.05,
+    "moneyball_index": 45.04,
     "stats": {
-      "partite_a_voto": 2,
-      "media_voto": 5.75,
-      "fantamedia": 5.75,
+      "partite_a_voto": 3,
+      "media_voto": 6.0,
+      "fantamedia": 6.33,
       "gol": 0,
       "gol_subiti": 0,
       "rigori_segnati": 0,
       "rigori_sbagliati": 0,
       "rigori_parati": 0,
-      "assist": 0,
+      "assist": 1,
       "ammonizioni": 0,
       "espulsioni": 0,
       "clean_sheets": 0,
       "xg": 4.86,
-      "xa": 0.87,
+      "xa": 1.57,
       "xg_90": 0.14,
-      "xa_90": 0.03,
-      "moneyball_index": 44.12
+      "xa_90": 0.05,
+      "moneyball_index": 45.04
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 6675,
@@ -2472,7 +2472,7 @@
       "xa_90": 0.02,
       "moneyball_index": 41.1
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 4409,
@@ -2517,7 +2517,7 @@
       "xa_90": 0.07,
       "moneyball_index": 54.58
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 2296,
@@ -2562,7 +2562,7 @@
       "xa_90": 0.07,
       "moneyball_index": 56.7
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 6966,
@@ -2579,21 +2579,21 @@
     "tier": "2 Semi-Top",
     "piazzati": "",
     "mod_rating": "",
-    "mv": 5.75,
-    "fm": 4.75,
+    "mv": 5.83,
+    "fm": 4.83,
     "note": "",
     "is_starter": true,
     "xg": 0.0,
     "xa": 0.0,
     "xg_90": 0.0,
     "xa_90": 0.0,
-    "moneyball_index": 79.75,
+    "moneyball_index": 80.05,
     "stats": {
-      "partite_a_voto": 2,
-      "media_voto": 5.75,
-      "fantamedia": 4.75,
+      "partite_a_voto": 3,
+      "media_voto": 5.83,
+      "fantamedia": 4.83,
       "gol": 0,
-      "gol_subiti": 2,
+      "gol_subiti": 3,
       "rigori_segnati": 0,
       "rigori_sbagliati": 0,
       "rigori_parati": 0,
@@ -2605,9 +2605,9 @@
       "xa": 0.0,
       "xg_90": 0.0,
       "xa_90": 0.0,
-      "moneyball_index": 79.75
+      "moneyball_index": 80.05
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 5694,
@@ -2652,7 +2652,7 @@
       "xa_90": 0.02,
       "moneyball_index": 41.1
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 6967,
@@ -2669,20 +2669,20 @@
     "tier": "3 Terzo Slot Titolare",
     "piazzati": "",
     "mod_rating": "",
-    "mv": 6.25,
-    "fm": 6.75,
+    "mv": 6.67,
+    "fm": 9.0,
     "note": "",
     "is_starter": true,
-    "xg": 2.27,
+    "xg": 3.97,
     "xa": 1.53,
-    "xg_90": 0.07,
+    "xg_90": 0.12,
     "xa_90": 0.04,
-    "moneyball_index": 42.85,
+    "moneyball_index": 46.28,
     "stats": {
-      "partite_a_voto": 2,
-      "media_voto": 6.25,
-      "fantamedia": 6.75,
-      "gol": 0,
+      "partite_a_voto": 3,
+      "media_voto": 6.67,
+      "fantamedia": 9.0,
+      "gol": 2,
       "gol_subiti": 0,
       "rigori_segnati": 0,
       "rigori_sbagliati": 0,
@@ -2691,13 +2691,13 @@
       "ammonizioni": 0,
       "espulsioni": 0,
       "clean_sheets": 0,
-      "xg": 2.27,
+      "xg": 3.97,
       "xa": 1.53,
-      "xg_90": 0.07,
+      "xg_90": 0.12,
       "xa_90": 0.04,
-      "moneyball_index": 42.85
+      "moneyball_index": 46.28
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 7625,
@@ -2742,7 +2742,7 @@
       "xa_90": 0.04,
       "moneyball_index": 42.56
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 7078,
@@ -2787,7 +2787,7 @@
       "xa_90": 0.04,
       "moneyball_index": 42.56
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 5022,
@@ -2832,7 +2832,7 @@
       "xa_90": 0.03,
       "moneyball_index": 53.95
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 5734,
@@ -2877,7 +2877,7 @@
       "xa_90": 0.02,
       "moneyball_index": 44.44
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 572,
@@ -2922,7 +2922,7 @@
       "xa_90": 0.0,
       "moneyball_index": 82.0
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 4159,
@@ -2967,7 +2967,7 @@
       "xa_90": 0.02,
       "moneyball_index": 46.65
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 4976,
@@ -3012,7 +3012,7 @@
       "xa_90": 0.02,
       "moneyball_index": 55.85
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 5172,
@@ -3057,7 +3057,7 @@
       "xa_90": 0.04,
       "moneyball_index": 43.49
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 1850,
@@ -3102,7 +3102,7 @@
       "xa_90": 0.04,
       "moneyball_index": 42.47
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 6956,
@@ -3147,7 +3147,7 @@
       "xa_90": 0.02,
       "moneyball_index": 48.29
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 5792,
@@ -3192,7 +3192,7 @@
       "xa_90": 0.04,
       "moneyball_index": 42.47
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 152,
@@ -3237,7 +3237,7 @@
       "xa_90": 0.04,
       "moneyball_index": 48.75
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 2606,
@@ -3282,7 +3282,7 @@
       "xa_90": 0.04,
       "moneyball_index": 43.54
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 4179,
@@ -3327,7 +3327,7 @@
       "xa_90": 0.04,
       "moneyball_index": 52.75
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 6372,
@@ -3372,7 +3372,7 @@
       "xa_90": 0.04,
       "moneyball_index": 42.48
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 2531,
@@ -3417,7 +3417,7 @@
       "xa_90": 0.02,
       "moneyball_index": 41.02
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 5119,
@@ -3462,7 +3462,7 @@
       "xa_90": 0.04,
       "moneyball_index": 47.36
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 2120,
@@ -3507,7 +3507,7 @@
       "xa_90": 0.02,
       "moneyball_index": 54.17
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 6274,
@@ -3552,7 +3552,7 @@
       "xa_90": 0.08,
       "moneyball_index": 49.61
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 4317,
@@ -3597,7 +3597,7 @@
       "xa_90": 0.02,
       "moneyball_index": 48.3
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 7436,
@@ -3642,7 +3642,7 @@
       "xa_90": 0.04,
       "moneyball_index": 42.38
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 5589,
@@ -3687,7 +3687,7 @@
       "xa_90": 0.04,
       "moneyball_index": 46.21
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 5750,
@@ -3704,35 +3704,35 @@
     "tier": "1 Top Difesa",
     "piazzati": "",
     "mod_rating": "",
-    "mv": 6.5,
-    "fm": 6.0,
+    "mv": 5.83,
+    "fm": 5.33,
     "note": "",
     "is_starter": true,
-    "xg": 0.98,
+    "xg": 0.48,
     "xa": 0.75,
-    "xg_90": 0.03,
+    "xg_90": 0.01,
     "xa_90": 0.02,
-    "moneyball_index": 56.77,
+    "moneyball_index": 46.87,
     "stats": {
-      "partite_a_voto": 2,
-      "media_voto": 6.5,
-      "fantamedia": 6.0,
+      "partite_a_voto": 3,
+      "media_voto": 5.83,
+      "fantamedia": 5.33,
       "gol": 0,
       "gol_subiti": 0,
       "rigori_segnati": 0,
       "rigori_sbagliati": 0,
       "rigori_parati": 0,
       "assist": 0,
-      "ammonizioni": 2,
+      "ammonizioni": 3,
       "espulsioni": 0,
       "clean_sheets": 0,
-      "xg": 0.98,
+      "xg": 0.48,
       "xa": 0.75,
-      "xg_90": 0.03,
+      "xg_90": 0.01,
       "xa_90": 0.02,
-      "moneyball_index": 56.77
+      "moneyball_index": 46.87
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 4220,
@@ -3777,7 +3777,7 @@
       "xa_90": 0.03,
       "moneyball_index": 42.38
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 7023,
@@ -3822,7 +3822,7 @@
       "xa_90": 0.02,
       "moneyball_index": 40.84
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 4463,
@@ -3867,7 +3867,7 @@
       "xa_90": 0.02,
       "moneyball_index": 44.32
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 5800,
@@ -3912,7 +3912,7 @@
       "xa_90": 0.07,
       "moneyball_index": 45.54
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 6844,
@@ -3957,7 +3957,7 @@
       "xa_90": 0.03,
       "moneyball_index": 42.33
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 7523,
@@ -4002,7 +4002,7 @@
       "xa_90": 0.02,
       "moneyball_index": 47.67
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 2816,
@@ -4047,7 +4047,7 @@
       "xa_90": 0.02,
       "moneyball_index": 48.28
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 5844,
@@ -4092,7 +4092,7 @@
       "xa_90": 0.03,
       "moneyball_index": 43.39
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 5982,
@@ -4137,7 +4137,7 @@
       "xa_90": 0.02,
       "moneyball_index": 46.54
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 6229,
@@ -4182,7 +4182,7 @@
       "xa_90": 0.02,
       "moneyball_index": 40.8
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 7554,
@@ -4227,7 +4227,7 @@
       "xa_90": 0.02,
       "moneyball_index": 43.57
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 536,
@@ -4272,7 +4272,7 @@
       "xa_90": 0.03,
       "moneyball_index": 42.3
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 6217,
@@ -4317,7 +4317,7 @@
       "xa_90": 0.02,
       "moneyball_index": 60.98
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 7547,
@@ -4362,7 +4362,7 @@
       "xa_90": 0.02,
       "moneyball_index": 40.73
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 6482,
@@ -4407,7 +4407,7 @@
       "xa_90": 0.0,
       "moneyball_index": 86.0
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 4892,
@@ -4452,7 +4452,7 @@
       "xa_90": 0.05,
       "moneyball_index": 46.85
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 7484,
@@ -4497,7 +4497,7 @@
       "xa_90": 0.02,
       "moneyball_index": 40.64
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 7223,
@@ -4542,7 +4542,7 @@
       "xa_90": 0.05,
       "moneyball_index": 54.16
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 6151,
@@ -4559,19 +4559,19 @@
     "tier": "3 Titolare / Scommessa",
     "piazzati": "",
     "mod_rating": "",
-    "mv": 6.0,
-    "fm": 6.0,
+    "mv": 6.17,
+    "fm": 6.17,
     "note": "",
     "is_starter": true,
     "xg": 0.85,
     "xa": 0.97,
     "xg_90": 0.02,
     "xa_90": 0.03,
-    "moneyball_index": 43.42,
+    "moneyball_index": 44.47,
     "stats": {
-      "partite_a_voto": 2,
-      "media_voto": 6.0,
-      "fantamedia": 6.0,
+      "partite_a_voto": 3,
+      "media_voto": 6.17,
+      "fantamedia": 6.17,
       "gol": 0,
       "gol_subiti": 0,
       "rigori_segnati": 0,
@@ -4585,9 +4585,9 @@
       "xa": 0.97,
       "xg_90": 0.02,
       "xa_90": 0.03,
-      "moneyball_index": 43.42
+      "moneyball_index": 44.47
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 6666,
@@ -4632,7 +4632,7 @@
       "xa_90": 0.03,
       "moneyball_index": 42.18
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 6646,
@@ -4677,7 +4677,7 @@
       "xa_90": 0.02,
       "moneyball_index": 45.0
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 827,
@@ -4722,7 +4722,7 @@
       "xa_90": 0.05,
       "moneyball_index": 47.18
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 133,
@@ -4767,7 +4767,7 @@
       "xa_90": 0.0,
       "moneyball_index": 82.0
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 5641,
@@ -4784,19 +4784,19 @@
     "tier": "2 Semi-Top / Mod",
     "piazzati": "",
     "mod_rating": "",
-    "mv": 6.5,
-    "fm": 6.5,
+    "mv": 6.33,
+    "fm": 6.33,
     "note": "",
     "is_starter": true,
     "xg": 0.88,
     "xa": 0.58,
     "xg_90": 0.03,
     "xa_90": 0.02,
-    "moneyball_index": 57.92,
+    "moneyball_index": 56.23,
     "stats": {
-      "partite_a_voto": 2,
-      "media_voto": 6.5,
-      "fantamedia": 6.5,
+      "partite_a_voto": 3,
+      "media_voto": 6.33,
+      "fantamedia": 6.33,
       "gol": 0,
       "gol_subiti": 0,
       "rigori_segnati": 0,
@@ -4810,9 +4810,9 @@
       "xa": 0.58,
       "xg_90": 0.03,
       "xa_90": 0.02,
-      "moneyball_index": 57.92
+      "moneyball_index": 56.23
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 7347,
@@ -4857,7 +4857,7 @@
       "xa_90": 0.02,
       "moneyball_index": 40.59
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 5833,
@@ -4902,7 +4902,7 @@
       "xa_90": 0.02,
       "moneyball_index": 57.85
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 7129,
@@ -4947,7 +4947,7 @@
       "xa_90": 0.03,
       "moneyball_index": 42.07
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 6869,
@@ -4974,7 +4974,7 @@
     "xa_90": 0.02,
     "moneyball_index": 48.34,
     "stats": {
-      "partite_a_voto": 2,
+      "partite_a_voto": 3,
       "media_voto": 6.0,
       "fantamedia": 6.0,
       "gol": 0,
@@ -4992,7 +4992,7 @@
       "xa_90": 0.02,
       "moneyball_index": 48.34
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 7612,
@@ -5037,7 +5037,7 @@
       "xa_90": 0.02,
       "moneyball_index": 40.52
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 2521,
@@ -5082,7 +5082,7 @@
       "xa_90": 0.0,
       "moneyball_index": 82.25
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 5514,
@@ -5099,8 +5099,8 @@
     "tier": "2 Semi-Top / Mod",
     "piazzati": "",
     "mod_rating": "",
-    "mv": 5.75,
-    "fm": 5.75,
+    "mv": 5.5,
+    "fm": 5.5,
     "note": "",
     "is_starter": true,
     "xg": 0.35,
@@ -5109,9 +5109,9 @@
     "xa_90": 0.02,
     "moneyball_index": 46.37,
     "stats": {
-      "partite_a_voto": 2,
-      "media_voto": 5.75,
-      "fantamedia": 5.75,
+      "partite_a_voto": 3,
+      "media_voto": 5.5,
+      "fantamedia": 5.5,
       "gol": 0,
       "gol_subiti": 0,
       "rigori_segnati": 0,
@@ -5127,7 +5127,7 @@
       "xa_90": 0.02,
       "moneyball_index": 46.37
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 4364,
@@ -5172,7 +5172,7 @@
       "xa_90": 0.05,
       "moneyball_index": 42.6
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 7412,
@@ -5217,7 +5217,7 @@
       "xa_90": 0.03,
       "moneyball_index": 48.39
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 779,
@@ -5262,7 +5262,7 @@
       "xa_90": 0.02,
       "moneyball_index": 46.92
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 4359,
@@ -5307,7 +5307,7 @@
       "xa_90": 0.01,
       "moneyball_index": 40.55
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 5823,
@@ -5324,19 +5324,19 @@
     "tier": "3 Titolare / Scommessa",
     "piazzati": "",
     "mod_rating": "",
-    "mv": 5.75,
-    "fm": 5.75,
+    "mv": 5.83,
+    "fm": 5.83,
     "note": "",
     "is_starter": true,
     "xg": 0.7,
     "xa": 0.8,
     "xg_90": 0.02,
     "xa_90": 0.02,
-    "moneyball_index": 42.01,
+    "moneyball_index": 42.22,
     "stats": {
-      "partite_a_voto": 2,
-      "media_voto": 5.75,
-      "fantamedia": 5.75,
+      "partite_a_voto": 3,
+      "media_voto": 5.83,
+      "fantamedia": 5.83,
       "gol": 0,
       "gol_subiti": 0,
       "rigori_segnati": 0,
@@ -5350,9 +5350,9 @@
       "xa": 0.8,
       "xg_90": 0.02,
       "xa_90": 0.02,
-      "moneyball_index": 42.01
+      "moneyball_index": 42.22
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 5526,
@@ -5397,7 +5397,7 @@
       "xa_90": 0.01,
       "moneyball_index": 48.47
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 6462,
@@ -5442,7 +5442,7 @@
       "xa_90": 0.0,
       "moneyball_index": 78.25
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 7600,
@@ -5459,20 +5459,20 @@
     "tier": "4 Quarto/Quinto Slot",
     "piazzati": "",
     "mod_rating": "",
-    "mv": 5.5,
-    "fm": 5.5,
+    "mv": 6.0,
+    "fm": 7.5,
     "note": "",
     "is_starter": true,
-    "xg": 1.27,
+    "xg": 2.12,
     "xa": 0.47,
-    "xg_90": 0.04,
+    "xg_90": 0.06,
     "xa_90": 0.01,
-    "moneyball_index": 40.46,
+    "moneyball_index": 42.85,
     "stats": {
-      "partite_a_voto": 1,
-      "media_voto": 5.5,
-      "fantamedia": 5.5,
-      "gol": 0,
+      "partite_a_voto": 2,
+      "media_voto": 6.0,
+      "fantamedia": 7.5,
+      "gol": 1,
       "gol_subiti": 0,
       "rigori_segnati": 0,
       "rigori_sbagliati": 0,
@@ -5481,13 +5481,13 @@
       "ammonizioni": 0,
       "espulsioni": 0,
       "clean_sheets": 0,
-      "xg": 1.27,
+      "xg": 2.12,
       "xa": 0.47,
-      "xg_90": 0.04,
+      "xg_90": 0.06,
       "xa_90": 0.01,
-      "moneyball_index": 40.46
+      "moneyball_index": 42.85
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 6833,
@@ -5532,7 +5532,7 @@
       "xa_90": 0.02,
       "moneyball_index": 42.01
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 6827,
@@ -5577,7 +5577,7 @@
       "xa_90": 0.02,
       "moneyball_index": 46.86
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 184,
@@ -5622,7 +5622,7 @@
       "xa_90": 0.02,
       "moneyball_index": 46.79
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 5436,
@@ -5667,7 +5667,7 @@
       "xa_90": 0.01,
       "moneyball_index": 47.68
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 5888,
@@ -5712,7 +5712,7 @@
       "xa_90": 0.02,
       "moneyball_index": 41.95
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 6904,
@@ -5757,7 +5757,7 @@
       "xa_90": 0.01,
       "moneyball_index": 42.45
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 7472,
@@ -5802,7 +5802,7 @@
       "xa_90": 0.05,
       "moneyball_index": 45.62
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 2832,
@@ -5847,7 +5847,7 @@
       "xa_90": 0.01,
       "moneyball_index": 41.3
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 4807,
@@ -5892,7 +5892,7 @@
       "xa_90": 0.01,
       "moneyball_index": 59.18
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 6534,
@@ -5937,7 +5937,7 @@
       "xa_90": 0.0,
       "moneyball_index": 71.69
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 2134,
@@ -5982,7 +5982,7 @@
       "xa_90": 0.0,
       "moneyball_index": 78.44
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 5427,
@@ -6027,7 +6027,7 @@
       "xa_90": 0.01,
       "moneyball_index": 46.3
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 4137,
@@ -6072,7 +6072,7 @@
       "xa_90": 0.01,
       "moneyball_index": 46.3
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 2514,
@@ -6117,7 +6117,7 @@
       "xa_90": 0.01,
       "moneyball_index": 48.6
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 4360,
@@ -6162,7 +6162,7 @@
       "xa_90": 0.0,
       "moneyball_index": 82.42
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 5562,
@@ -6207,7 +6207,7 @@
       "xa_90": 0.02,
       "moneyball_index": 41.95
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 5500,
@@ -6252,7 +6252,7 @@
       "xa_90": 0.02,
       "moneyball_index": 41.95
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 5735,
@@ -6297,7 +6297,7 @@
       "xa_90": 0.02,
       "moneyball_index": 50.87
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 4436,
@@ -6342,7 +6342,7 @@
       "xa_90": 0.02,
       "moneyball_index": 43.46
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 5544,
@@ -6387,7 +6387,7 @@
       "xa_90": 0.01,
       "moneyball_index": 40.42
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 1852,
@@ -6432,7 +6432,7 @@
       "xa_90": 0.01,
       "moneyball_index": 46.28
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 6727,
@@ -6449,35 +6449,35 @@
     "tier": "2 Semi-Top / Mod",
     "piazzati": "",
     "mod_rating": "",
-    "mv": 5.5,
-    "fm": 5.5,
+    "mv": 6.0,
+    "fm": 6.33,
     "note": "",
     "is_starter": true,
     "xg": 0.29,
-    "xa": 0.45,
+    "xa": 1.15,
     "xg_90": 0.01,
-    "xa_90": 0.01,
-    "moneyball_index": 46.28,
+    "xa_90": 0.03,
+    "moneyball_index": 49.28,
     "stats": {
-      "partite_a_voto": 2,
-      "media_voto": 5.5,
-      "fantamedia": 5.5,
+      "partite_a_voto": 3,
+      "media_voto": 6.0,
+      "fantamedia": 6.33,
       "gol": 0,
       "gol_subiti": 0,
       "rigori_segnati": 0,
       "rigori_sbagliati": 0,
       "rigori_parati": 0,
-      "assist": 0,
+      "assist": 1,
       "ammonizioni": 0,
       "espulsioni": 0,
       "clean_sheets": 0,
       "xg": 0.29,
-      "xa": 0.45,
+      "xa": 1.15,
       "xg_90": 0.01,
-      "xa_90": 0.01,
-      "moneyball_index": 46.28
+      "xa_90": 0.03,
+      "moneyball_index": 49.28
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 7551,
@@ -6522,7 +6522,7 @@
       "xa_90": 0.02,
       "moneyball_index": 41.95
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 7618,
@@ -6567,7 +6567,7 @@
       "xa_90": 0.02,
       "moneyball_index": 41.95
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 6344,
@@ -6612,7 +6612,7 @@
       "xa_90": 0.0,
       "moneyball_index": 71.92
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 5620,
@@ -6657,7 +6657,7 @@
       "xa_90": 0.03,
       "moneyball_index": 60.42
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 5680,
@@ -6702,7 +6702,7 @@
       "xa_90": 0.02,
       "moneyball_index": 41.95
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 7623,
@@ -6747,7 +6747,7 @@
       "xa_90": 0.01,
       "moneyball_index": 40.42
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 795,
@@ -6792,7 +6792,7 @@
       "xa_90": 0.02,
       "moneyball_index": 41.95
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 6204,
@@ -6837,7 +6837,7 @@
       "xa_90": 0.03,
       "moneyball_index": 45.55
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 7060,
@@ -6882,7 +6882,7 @@
       "xa_90": 0.08,
       "moneyball_index": 48.32
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 6618,
@@ -6927,7 +6927,7 @@
       "xa_90": 0.02,
       "moneyball_index": 47.0
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 2155,
@@ -6972,7 +6972,7 @@
       "xa_90": 0.01,
       "moneyball_index": 45.96
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 4734,
@@ -7017,7 +7017,7 @@
       "xa_90": 0.01,
       "moneyball_index": 48.52
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 1933,
@@ -7062,7 +7062,7 @@
       "xa_90": 0.05,
       "moneyball_index": 46.13
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 6530,
@@ -7107,7 +7107,7 @@
       "xa_90": 0.01,
       "moneyball_index": 40.23
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 5029,
@@ -7152,7 +7152,7 @@
       "xa_90": 0.01,
       "moneyball_index": 40.23
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 4287,
@@ -7197,7 +7197,7 @@
       "xa_90": 0.02,
       "moneyball_index": 45.2
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 5858,
@@ -7242,7 +7242,7 @@
       "xa_90": 0.02,
       "moneyball_index": 43.31
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 7619,
@@ -7287,7 +7287,7 @@
       "xa_90": 0.02,
       "moneyball_index": 41.79
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 6010,
@@ -7332,7 +7332,7 @@
       "xa_90": 0.05,
       "moneyball_index": 46.13
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 6398,
@@ -7377,7 +7377,7 @@
       "xa_90": 0.02,
       "moneyball_index": 43.41
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 7313,
@@ -7422,7 +7422,7 @@
       "xa_90": 0.01,
       "moneyball_index": 40.24
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 2077,
@@ -7467,7 +7467,7 @@
       "xa_90": 0.02,
       "moneyball_index": 41.82
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 6496,
@@ -7512,7 +7512,7 @@
       "xa_90": 0.01,
       "moneyball_index": 48.64
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 4856,
@@ -7557,7 +7557,7 @@
       "xa_90": 0.04,
       "moneyball_index": 50.02
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 5862,
@@ -7602,7 +7602,7 @@
       "xa_90": 0.01,
       "moneyball_index": 48.64
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 6294,
@@ -7647,7 +7647,7 @@
       "xa_90": 0.02,
       "moneyball_index": 41.82
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 4479,
@@ -7692,7 +7692,7 @@
       "xa_90": 0.02,
       "moneyball_index": 41.82
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 7070,
@@ -7737,7 +7737,7 @@
       "xa_90": 0.02,
       "moneyball_index": 47.74
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 6664,
@@ -7782,7 +7782,7 @@
       "xa_90": 0.01,
       "moneyball_index": 48.78
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 7311,
@@ -7827,7 +7827,7 @@
       "xa_90": 0.05,
       "moneyball_index": 54.4
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 6867,
@@ -7844,35 +7844,35 @@
     "tier": "2 Semi-Top / Mod",
     "piazzati": "",
     "mod_rating": "",
-    "mv": 6.0,
-    "fm": 6.0,
+    "mv": 6.33,
+    "fm": 6.67,
     "note": "",
     "is_starter": true,
-    "xg": 0.25,
-    "xa": 0.38,
-    "xg_90": 0.01,
-    "xa_90": 0.01,
-    "moneyball_index": 48.78,
+    "xg": 0.75,
+    "xa": 1.08,
+    "xg_90": 0.02,
+    "xa_90": 0.03,
+    "moneyball_index": 59.66,
     "stats": {
-      "partite_a_voto": 2,
-      "media_voto": 6.0,
-      "fantamedia": 6.0,
+      "partite_a_voto": 3,
+      "media_voto": 6.33,
+      "fantamedia": 6.67,
       "gol": 0,
       "gol_subiti": 0,
       "rigori_segnati": 0,
       "rigori_sbagliati": 0,
       "rigori_parati": 0,
-      "assist": 0,
+      "assist": 1,
       "ammonizioni": 0,
       "espulsioni": 0,
       "clean_sheets": 0,
-      "xg": 0.25,
-      "xa": 0.38,
-      "xg_90": 0.01,
-      "xa_90": 0.01,
-      "moneyball_index": 48.78
+      "xg": 0.75,
+      "xa": 1.08,
+      "xg_90": 0.02,
+      "xa_90": 0.03,
+      "moneyball_index": 59.66
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 6678,
@@ -7917,7 +7917,7 @@
       "xa_90": 0.02,
       "moneyball_index": 43.53
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 4896,
@@ -7962,7 +7962,7 @@
       "xa_90": 0.01,
       "moneyball_index": 40.25
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 4728,
@@ -8007,7 +8007,7 @@
       "xa_90": 0.01,
       "moneyball_index": 40.15
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 5672,
@@ -8052,7 +8052,7 @@
       "xa_90": 0.03,
       "moneyball_index": 41.77
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 5885,
@@ -8097,7 +8097,7 @@
       "xa_90": 0.01,
       "moneyball_index": 46.16
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 530,
@@ -8142,7 +8142,7 @@
       "xa_90": 0.02,
       "moneyball_index": 41.74
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 6989,
@@ -8187,7 +8187,7 @@
       "xa_90": 0.01,
       "moneyball_index": 50.65
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 6717,
@@ -8232,7 +8232,7 @@
       "xa_90": 0.02,
       "moneyball_index": 41.74
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 5675,
@@ -8277,7 +8277,7 @@
       "xa_90": 0.01,
       "moneyball_index": 46.16
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 4210,
@@ -8322,7 +8322,7 @@
       "xa_90": 0.01,
       "moneyball_index": 46.16
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 5365,
@@ -8367,7 +8367,7 @@
       "xa_90": 0.01,
       "moneyball_index": 46.16
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 4465,
@@ -8412,7 +8412,7 @@
       "xa_90": 0.02,
       "moneyball_index": 41.74
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 6641,
@@ -8457,7 +8457,7 @@
       "xa_90": 0.0,
       "moneyball_index": 72.5
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 6680,
@@ -8502,7 +8502,7 @@
       "xa_90": 0.02,
       "moneyball_index": 47.63
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 7220,
@@ -8547,7 +8547,7 @@
       "xa_90": 0.01,
       "moneyball_index": 46.16
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 5877,
@@ -8592,7 +8592,7 @@
       "xa_90": 0.01,
       "moneyball_index": 46.16
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 460,
@@ -8637,7 +8637,7 @@
       "xa_90": 0.01,
       "moneyball_index": 46.16
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 2188,
@@ -8682,7 +8682,7 @@
       "xa_90": 0.01,
       "moneyball_index": 48.73
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 6831,
@@ -8727,7 +8727,7 @@
       "xa_90": 0.01,
       "moneyball_index": 40.15
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 6485,
@@ -8772,7 +8772,7 @@
       "xa_90": 0.01,
       "moneyball_index": 46.16
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 7624,
@@ -8817,7 +8817,7 @@
       "xa_90": 0.02,
       "moneyball_index": 41.74
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 5739,
@@ -8862,7 +8862,7 @@
       "xa_90": 0.01,
       "moneyball_index": 64.26
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 6519,
@@ -8907,7 +8907,7 @@
       "xa_90": 0.01,
       "moneyball_index": 40.15
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 4994,
@@ -8952,7 +8952,7 @@
       "xa_90": 0.01,
       "moneyball_index": 60.97
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 554,
@@ -8997,7 +8997,7 @@
       "xa_90": 0.01,
       "moneyball_index": 48.65
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 4433,
@@ -9042,7 +9042,7 @@
       "xa_90": 0.01,
       "moneyball_index": 48.65
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 5791,
@@ -9059,19 +9059,19 @@
     "tier": "3 Titolare / Scommessa",
     "piazzati": "",
     "mod_rating": "",
-    "mv": 6.0,
-    "fm": 6.0,
+    "mv": 5.67,
+    "fm": 5.67,
     "note": "",
     "is_starter": true,
     "xg": 0.47,
     "xa": 0.54,
     "xg_90": 0.01,
     "xa_90": 0.02,
-    "moneyball_index": 43.32,
+    "moneyball_index": 41.64,
     "stats": {
-      "partite_a_voto": 2,
-      "media_voto": 6.0,
-      "fantamedia": 6.0,
+      "partite_a_voto": 3,
+      "media_voto": 5.67,
+      "fantamedia": 5.67,
       "gol": 0,
       "gol_subiti": 0,
       "rigori_segnati": 0,
@@ -9085,9 +9085,9 @@
       "xa": 0.54,
       "xg_90": 0.01,
       "xa_90": 0.02,
-      "moneyball_index": 43.32
+      "moneyball_index": 41.64
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 6190,
@@ -9132,7 +9132,7 @@
       "xa_90": 0.02,
       "moneyball_index": 49.45
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 6672,
@@ -9177,7 +9177,7 @@
       "xa_90": 0.01,
       "moneyball_index": 54.54
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 7580,
@@ -9222,7 +9222,7 @@
       "xa_90": 0.01,
       "moneyball_index": 46.08
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 6549,
@@ -9267,7 +9267,7 @@
       "xa_90": 0.02,
       "moneyball_index": 41.64
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 5674,
@@ -9312,7 +9312,7 @@
       "xa_90": 0.02,
       "moneyball_index": 41.64
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 5520,
@@ -9357,7 +9357,7 @@
       "xa_90": 0.01,
       "moneyball_index": 48.81
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 5422,
@@ -9402,7 +9402,7 @@
       "xa_90": 0.04,
       "moneyball_index": 46.41
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 6531,
@@ -9447,7 +9447,7 @@
       "xa_90": 0.01,
       "moneyball_index": 46.09
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 4664,
@@ -9492,7 +9492,7 @@
       "xa_90": 0.01,
       "moneyball_index": 46.09
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 7219,
@@ -9537,7 +9537,7 @@
       "xa_90": 0.01,
       "moneyball_index": 46.09
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 7464,
@@ -9582,7 +9582,7 @@
       "xa_90": 0.01,
       "moneyball_index": 41.66
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 6663,
@@ -9627,7 +9627,7 @@
       "xa_90": 0.01,
       "moneyball_index": 52.33
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 7620,
@@ -9672,7 +9672,7 @@
       "xa_90": 0.01,
       "moneyball_index": 40.07
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 6984,
@@ -9717,7 +9717,7 @@
       "xa_90": 0.01,
       "moneyball_index": 41.66
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 7535,
@@ -9762,7 +9762,7 @@
       "xa_90": 0.01,
       "moneyball_index": 43.45
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 2765,
@@ -9807,7 +9807,7 @@
       "xa_90": 0.01,
       "moneyball_index": 41.68
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 6042,
@@ -9852,7 +9852,7 @@
       "xa_90": 0.01,
       "moneyball_index": 46.1
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 5504,
@@ -9897,7 +9897,7 @@
       "xa_90": 0.04,
       "moneyball_index": 44.36
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 4887,
@@ -9942,7 +9942,7 @@
       "xa_90": 0.01,
       "moneyball_index": 52.76
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 5036,
@@ -9959,19 +9959,19 @@
     "tier": "3 Titolare / Scommessa",
     "piazzati": "",
     "mod_rating": "",
-    "mv": 6.0,
-    "fm": 6.0,
+    "mv": 6.25,
+    "fm": 6.25,
     "note": "",
     "is_starter": true,
     "xg": 0.42,
     "xa": 0.49,
     "xg_90": 0.01,
     "xa_90": 0.01,
-    "moneyball_index": 43.59,
+    "moneyball_index": 45.99,
     "stats": {
-      "partite_a_voto": 1,
-      "media_voto": 6.0,
-      "fantamedia": 6.0,
+      "partite_a_voto": 2,
+      "media_voto": 6.25,
+      "fantamedia": 6.25,
       "gol": 0,
       "gol_subiti": 0,
       "rigori_segnati": 0,
@@ -9985,9 +9985,9 @@
       "xa": 0.49,
       "xg_90": 0.01,
       "xa_90": 0.01,
-      "moneyball_index": 43.59
+      "moneyball_index": 45.99
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 5761,
@@ -10032,7 +10032,7 @@
       "xa_90": 0.01,
       "moneyball_index": 43.59
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 6252,
@@ -10077,7 +10077,7 @@
       "xa_90": 0.01,
       "moneyball_index": 43.59
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 4657,
@@ -10122,7 +10122,7 @@
       "xa_90": 0.01,
       "moneyball_index": 48.95
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 6320,
@@ -10167,7 +10167,7 @@
       "xa_90": 0.01,
       "moneyball_index": 59.24
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 787,
@@ -10212,7 +10212,7 @@
       "xa_90": 0.01,
       "moneyball_index": 46.04
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 4459,
@@ -10257,7 +10257,7 @@
       "xa_90": 0.01,
       "moneyball_index": 45.9
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 6783,
@@ -10302,7 +10302,7 @@
       "xa_90": 0.01,
       "moneyball_index": 41.59
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 6020,
@@ -10329,7 +10329,7 @@
     "xa_90": 0.01,
     "moneyball_index": 41.59,
     "stats": {
-      "partite_a_voto": 2,
+      "partite_a_voto": 3,
       "media_voto": 5.5,
       "fantamedia": 5.5,
       "gol": 0,
@@ -10347,7 +10347,7 @@
       "xa_90": 0.01,
       "moneyball_index": 41.59
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 4349,
@@ -10392,7 +10392,7 @@
       "xa_90": 0.01,
       "moneyball_index": 41.59
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 6677,
@@ -10437,7 +10437,7 @@
       "xa_90": 0.04,
       "moneyball_index": 44.27
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 7294,
@@ -10482,7 +10482,7 @@
       "xa_90": 0.01,
       "moneyball_index": 46.04
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 4199,
@@ -10527,7 +10527,7 @@
       "xa_90": 0.01,
       "moneyball_index": 43.51
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 5878,
@@ -10572,7 +10572,7 @@
       "xa_90": 0.01,
       "moneyball_index": 43.63
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 7332,
@@ -10590,7 +10590,7 @@
     "piazzati": "",
     "mod_rating": "",
     "mv": 5.5,
-    "fm": 4.0,
+    "fm": 3.17,
     "note": "",
     "is_starter": true,
     "xg": 0.0,
@@ -10599,11 +10599,11 @@
     "xa_90": 0.0,
     "moneyball_index": 73.38,
     "stats": {
-      "partite_a_voto": 2,
+      "partite_a_voto": 3,
       "media_voto": 5.5,
-      "fantamedia": 4.0,
+      "fantamedia": 3.17,
       "gol": 0,
-      "gol_subiti": 3,
+      "gol_subiti": 7,
       "rigori_segnati": 0,
       "rigori_sbagliati": 0,
       "rigori_parati": 0,
@@ -10617,7 +10617,7 @@
       "xa_90": 0.0,
       "moneyball_index": 73.38
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 6814,
@@ -10662,7 +10662,7 @@
       "xa_90": 0.01,
       "moneyball_index": 45.98
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 7529,
@@ -10707,7 +10707,7 @@
       "xa_90": 0.01,
       "moneyball_index": 48.89
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 5701,
@@ -10752,7 +10752,7 @@
       "xa_90": 0.01,
       "moneyball_index": 45.98
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 7469,
@@ -10797,7 +10797,7 @@
       "xa_90": 0.03,
       "moneyball_index": 69.47
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 6669,
@@ -10842,7 +10842,7 @@
       "xa_90": 0.01,
       "moneyball_index": 41.13
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 5685,
@@ -10887,7 +10887,7 @@
       "xa_90": 0.05,
       "moneyball_index": 60.59
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 4401,
@@ -10932,7 +10932,7 @@
       "xa_90": 0.01,
       "moneyball_index": 48.89
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 7485,
@@ -10977,7 +10977,7 @@
       "xa_90": 0.05,
       "moneyball_index": 50.7
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 4236,
@@ -11022,7 +11022,7 @@
       "xa_90": 0.0,
       "moneyball_index": 80.12
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 5946,
@@ -11039,8 +11039,8 @@
     "tier": "3 Titolare / Scommessa",
     "piazzati": "",
     "mod_rating": "",
-    "mv": 5.75,
-    "fm": 5.75,
+    "mv": 5.67,
+    "fm": 5.5,
     "note": "",
     "is_starter": true,
     "xg": 0.38,
@@ -11049,16 +11049,16 @@
     "xa_90": 0.01,
     "moneyball_index": 41.5,
     "stats": {
-      "partite_a_voto": 2,
-      "media_voto": 5.75,
-      "fantamedia": 5.75,
+      "partite_a_voto": 3,
+      "media_voto": 5.67,
+      "fantamedia": 5.5,
       "gol": 0,
       "gol_subiti": 0,
       "rigori_segnati": 0,
       "rigori_sbagliati": 0,
       "rigori_parati": 0,
       "assist": 0,
-      "ammonizioni": 0,
+      "ammonizioni": 1,
       "espulsioni": 0,
       "clean_sheets": 0,
       "xg": 0.38,
@@ -11067,7 +11067,7 @@
       "xa_90": 0.01,
       "moneyball_index": 41.5
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 7212,
@@ -11112,7 +11112,7 @@
       "xa_90": 0.01,
       "moneyball_index": 45.98
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 4260,
@@ -11157,7 +11157,7 @@
       "xa_90": 0.01,
       "moneyball_index": 41.5
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 2741,
@@ -11202,7 +11202,7 @@
       "xa_90": 0.01,
       "moneyball_index": 41.5
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 2724,
@@ -11247,7 +11247,7 @@
       "xa_90": 0.01,
       "moneyball_index": 52.64
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 2528,
@@ -11292,7 +11292,7 @@
       "xa_90": 0.01,
       "moneyball_index": 45.81
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 7198,
@@ -11337,7 +11337,7 @@
       "xa_90": 0.01,
       "moneyball_index": 47.94
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 4147,
@@ -11382,7 +11382,7 @@
       "xa_90": 0.01,
       "moneyball_index": 45.98
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 7621,
@@ -11427,7 +11427,7 @@
       "xa_90": 0.01,
       "moneyball_index": 45.98
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 6898,
@@ -11472,7 +11472,7 @@
       "xa_90": 0.01,
       "moneyball_index": 41.5
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 6994,
@@ -11517,7 +11517,7 @@
       "xa_90": 0.01,
       "moneyball_index": 41.5
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 4911,
@@ -11562,7 +11562,7 @@
       "xa_90": 0.01,
       "moneyball_index": 41.5
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 5295,
@@ -11607,7 +11607,7 @@
       "xa_90": 0.01,
       "moneyball_index": 45.81
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 6642,
@@ -11652,7 +11652,7 @@
       "xa_90": 0.01,
       "moneyball_index": 53.12
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 6660,
@@ -11669,8 +11669,8 @@
     "tier": "3 Titolare Low-Cost",
     "piazzati": "",
     "mod_rating": "",
-    "mv": 5.75,
-    "fm": 5.75,
+    "mv": 5.33,
+    "fm": 5.33,
     "note": "",
     "is_starter": true,
     "xg": 0.16,
@@ -11679,9 +11679,9 @@
     "xa_90": 0.01,
     "moneyball_index": 45.95,
     "stats": {
-      "partite_a_voto": 2,
-      "media_voto": 5.75,
-      "fantamedia": 5.75,
+      "partite_a_voto": 3,
+      "media_voto": 5.33,
+      "fantamedia": 5.33,
       "gol": 0,
       "gol_subiti": 0,
       "rigori_segnati": 0,
@@ -11697,7 +11697,7 @@
       "xa_90": 0.01,
       "moneyball_index": 45.95
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 4177,
@@ -11742,7 +11742,7 @@
       "xa_90": 0.01,
       "moneyball_index": 49.08
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 4817,
@@ -11787,7 +11787,7 @@
       "xa_90": 0.01,
       "moneyball_index": 49.08
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 7036,
@@ -11832,7 +11832,7 @@
       "xa_90": 0.01,
       "moneyball_index": 43.57
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 7146,
@@ -11877,7 +11877,7 @@
       "xa_90": 0.01,
       "moneyball_index": 41.5
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 5507,
@@ -11922,7 +11922,7 @@
       "xa_90": 0.05,
       "moneyball_index": 42.74
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 6054,
@@ -11967,7 +11967,7 @@
       "xa_90": 0.01,
       "moneyball_index": 41.5
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 7268,
@@ -12012,7 +12012,7 @@
       "xa_90": 0.01,
       "moneyball_index": 60.16
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 7120,
@@ -12057,7 +12057,7 @@
       "xa_90": 0.01,
       "moneyball_index": 39.87
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 6986,
@@ -12102,7 +12102,7 @@
       "xa_90": 0.01,
       "moneyball_index": 45.95
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 7602,
@@ -12147,7 +12147,7 @@
       "xa_90": 0.01,
       "moneyball_index": 39.87
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 7238,
@@ -12192,7 +12192,7 @@
       "xa_90": 0.01,
       "moneyball_index": 45.95
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 7235,
@@ -12237,7 +12237,7 @@
       "xa_90": 0.01,
       "moneyball_index": 45.95
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 6164,
@@ -12264,7 +12264,7 @@
     "xa_90": 0.01,
     "moneyball_index": 39.9,
     "stats": {
-      "partite_a_voto": 2,
+      "partite_a_voto": 3,
       "media_voto": 5.5,
       "fantamedia": 5.5,
       "gol": 0,
@@ -12282,7 +12282,7 @@
       "xa_90": 0.01,
       "moneyball_index": 39.9
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 6495,
@@ -12327,7 +12327,7 @@
       "xa_90": 0.01,
       "moneyball_index": 63.99
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 4870,
@@ -12372,7 +12372,7 @@
       "xa_90": 0.03,
       "moneyball_index": 44.71
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 5010,
@@ -12417,7 +12417,7 @@
       "xa_90": 0.01,
       "moneyball_index": 57.18
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 7449,
@@ -12462,7 +12462,7 @@
       "xa_90": 0.01,
       "moneyball_index": 47.07
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 6916,
@@ -12507,7 +12507,7 @@
       "xa_90": 0.01,
       "moneyball_index": 45.98
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 5678,
@@ -12552,7 +12552,7 @@
       "xa_90": 0.01,
       "moneyball_index": 61.44
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 7414,
@@ -12597,7 +12597,7 @@
       "xa_90": 0.01,
       "moneyball_index": 45.98
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 4952,
@@ -12642,7 +12642,7 @@
       "xa_90": 0.01,
       "moneyball_index": 49.38
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 7329,
@@ -12687,7 +12687,7 @@
       "xa_90": 0.01,
       "moneyball_index": 49.38
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 7274,
@@ -12732,7 +12732,7 @@
       "xa_90": 0.01,
       "moneyball_index": 45.98
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 6893,
@@ -12777,7 +12777,7 @@
       "xa_90": 0.01,
       "moneyball_index": 65.69
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 7467,
@@ -12822,7 +12822,7 @@
       "xa_90": 0.01,
       "moneyball_index": 65.69
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 6629,
@@ -12867,7 +12867,7 @@
       "xa_90": 0.01,
       "moneyball_index": 41.54
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 7203,
@@ -12912,7 +12912,7 @@
       "xa_90": 0.01,
       "moneyball_index": 46.63
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 5840,
@@ -12957,7 +12957,7 @@
       "xa_90": 0.01,
       "moneyball_index": 45.98
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 7253,
@@ -13002,7 +13002,7 @@
       "xa_90": 0.01,
       "moneyball_index": 45.98
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 6145,
@@ -13047,7 +13047,7 @@
       "xa_90": 0.01,
       "moneyball_index": 39.9
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 6506,
@@ -13092,7 +13092,7 @@
       "xa_90": 0.01,
       "moneyball_index": 43.8
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 7012,
@@ -13137,7 +13137,7 @@
       "xa_90": 0.01,
       "moneyball_index": 49.38
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 6271,
@@ -13182,7 +13182,7 @@
       "xa_90": 0.01,
       "moneyball_index": 41.54
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 5273,
@@ -13227,7 +13227,7 @@
       "xa_90": 0.01,
       "moneyball_index": 49.38
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 5555,
@@ -13272,7 +13272,7 @@
       "xa_90": 0.01,
       "moneyball_index": 79.24
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 5298,
@@ -13317,7 +13317,7 @@
       "xa_90": 0.01,
       "moneyball_index": 43.67
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 7410,
@@ -13362,7 +13362,7 @@
       "xa_90": 0.01,
       "moneyball_index": 45.91
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 5998,
@@ -13407,7 +13407,7 @@
       "xa_90": 0.01,
       "moneyball_index": 46.5
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 6990,
@@ -13452,7 +13452,7 @@
       "xa_90": 0.03,
       "moneyball_index": 46.9
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 4502,
@@ -13497,7 +13497,7 @@
       "xa_90": 0.01,
       "moneyball_index": 45.91
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 6202,
@@ -13542,7 +13542,7 @@
       "xa_90": 0.01,
       "moneyball_index": 53.71
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 6218,
@@ -13587,7 +13587,7 @@
       "xa_90": 0.05,
       "moneyball_index": 42.76
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 608,
@@ -13632,7 +13632,7 @@
       "xa_90": 0.01,
       "moneyball_index": 46.93
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 7069,
@@ -13677,7 +13677,7 @@
       "xa_90": 0.01,
       "moneyball_index": 49.31
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 7564,
@@ -13722,7 +13722,7 @@
       "xa_90": 0.03,
       "moneyball_index": 50.3
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 6415,
@@ -13767,7 +13767,7 @@
       "xa_90": 0.0,
       "moneyball_index": 81.58
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 5301,
@@ -13812,7 +13812,7 @@
       "xa_90": 0.01,
       "moneyball_index": 43.67
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 6766,
@@ -13857,7 +13857,7 @@
       "xa_90": 0.01,
       "moneyball_index": 45.91
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 6632,
@@ -13902,7 +13902,7 @@
       "xa_90": 0.01,
       "moneyball_index": 45.91
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 6426,
@@ -13947,7 +13947,7 @@
       "xa_90": 0.01,
       "moneyball_index": 49.31
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 6170,
@@ -13992,7 +13992,7 @@
       "xa_90": 0.03,
       "moneyball_index": 42.31
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 4845,
@@ -14037,7 +14037,7 @@
       "xa_90": 0.01,
       "moneyball_index": 61.37
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 5751,
@@ -14082,7 +14082,52 @@
       "xa_90": 0.01,
       "moneyball_index": 45.91
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
+  },
+  {
+    "id": 2169,
+    "nome": "Rodriguez R.",
+    "squadra": "Torino",
+    "squadra_code": "TOR",
+    "ruolo": "D",
+    "ruolo_mantra": "b;ds;e",
+    "qa": 5,
+    "qi": 5,
+    "fvm_1000": 12,
+    "prezzo_target": 6,
+    "prezzo_max": 8,
+    "tier": "3 Titolare Low-Cost",
+    "piazzati": "",
+    "mod_rating": "",
+    "mv": 0.0,
+    "fm": 0.0,
+    "note": "",
+    "is_starter": true,
+    "xg": 0.14,
+    "xa": 0.22,
+    "xg_90": 0.0,
+    "xa_90": 0.01,
+    "moneyball_index": 45.91,
+    "stats": {
+      "partite_a_voto": 0,
+      "media_voto": 0.0,
+      "fantamedia": 0.0,
+      "gol": 0,
+      "gol_subiti": 0,
+      "rigori_segnati": 0,
+      "rigori_sbagliati": 0,
+      "rigori_parati": 0,
+      "assist": 0,
+      "ammonizioni": 0,
+      "espulsioni": 0,
+      "clean_sheets": 0,
+      "xg": 0.14,
+      "xa": 0.22,
+      "xg_90": 0.0,
+      "xa_90": 0.01,
+      "moneyball_index": 45.91
+    },
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 5578,
@@ -14127,7 +14172,7 @@
       "xa_90": 0.01,
       "moneyball_index": 45.91
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 6895,
@@ -14172,7 +14217,7 @@
       "xa_90": 0.01,
       "moneyball_index": 41.4
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 7374,
@@ -14217,7 +14262,7 @@
       "xa_90": 0.01,
       "moneyball_index": 39.77
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 7473,
@@ -14262,7 +14307,7 @@
       "xa_90": 0.01,
       "moneyball_index": 41.4
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 333,
@@ -14307,7 +14352,7 @@
       "xa_90": 0.01,
       "moneyball_index": 41.4
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 7240,
@@ -14352,7 +14397,7 @@
       "xa_90": 0.01,
       "moneyball_index": 45.91
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 7322,
@@ -14397,7 +14442,7 @@
       "xa_90": 0.01,
       "moneyball_index": 41.4
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 6015,
@@ -14442,7 +14487,7 @@
       "xa_90": 0.01,
       "moneyball_index": 41.4
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 7001,
@@ -14487,7 +14532,7 @@
       "xa_90": 0.01,
       "moneyball_index": 39.77
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 5453,
@@ -14532,7 +14577,7 @@
       "xa_90": 0.01,
       "moneyball_index": 41.4
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 5838,
@@ -14577,7 +14622,7 @@
       "xa_90": 0.01,
       "moneyball_index": 45.91
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 6215,
@@ -14622,7 +14667,7 @@
       "xa_90": 0.01,
       "moneyball_index": 52.29
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 7526,
@@ -14667,7 +14712,7 @@
       "xa_90": 0.01,
       "moneyball_index": 49.31
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 4263,
@@ -14712,7 +14757,7 @@
       "xa_90": 0.01,
       "moneyball_index": 45.91
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 7208,
@@ -14757,7 +14802,7 @@
       "xa_90": 0.01,
       "moneyball_index": 43.67
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 6821,
@@ -14802,7 +14847,7 @@
       "xa_90": 0.01,
       "moneyball_index": 45.91
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 7579,
@@ -14847,7 +14892,7 @@
       "xa_90": 0.01,
       "moneyball_index": 41.4
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 7326,
@@ -14892,7 +14937,7 @@
       "xa_90": 0.01,
       "moneyball_index": 49.31
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 7175,
@@ -14937,7 +14982,7 @@
       "xa_90": 0.01,
       "moneyball_index": 45.91
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 7248,
@@ -14982,7 +15027,7 @@
       "xa_90": 0.01,
       "moneyball_index": 46.21
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 7209,
@@ -15027,7 +15072,7 @@
       "xa_90": 0.01,
       "moneyball_index": 41.4
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 7536,
@@ -15072,7 +15117,7 @@
       "xa_90": 0.01,
       "moneyball_index": 43.67
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 4772,
@@ -15117,7 +15162,7 @@
       "xa_90": 0.01,
       "moneyball_index": 45.91
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 6815,
@@ -15162,7 +15207,7 @@
       "xa_90": 0.01,
       "moneyball_index": 43.67
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 7575,
@@ -15207,7 +15252,7 @@
       "xa_90": 0.01,
       "moneyball_index": 41.4
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 6046,
@@ -15252,7 +15297,7 @@
       "xa_90": 0.01,
       "moneyball_index": 45.84
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 6593,
@@ -15297,7 +15342,7 @@
       "xa_90": 0.03,
       "moneyball_index": 50.13
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 7252,
@@ -15342,7 +15387,7 @@
       "xa_90": 0.01,
       "moneyball_index": 39.62
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 6248,
@@ -15387,7 +15432,7 @@
       "xa_90": 0.0,
       "moneyball_index": 77.83
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 4705,
@@ -15432,7 +15477,7 @@
       "xa_90": 0.01,
       "moneyball_index": 45.84
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 7409,
@@ -15477,7 +15522,7 @@
       "xa_90": 0.01,
       "moneyball_index": 41.3
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 5319,
@@ -15522,7 +15567,7 @@
       "xa_90": 0.01,
       "moneyball_index": 43.57
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 7610,
@@ -15567,7 +15612,7 @@
       "xa_90": 0.01,
       "moneyball_index": 39.62
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 7474,
@@ -15612,7 +15657,7 @@
       "xa_90": 0.01,
       "moneyball_index": 41.3
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 7341,
@@ -15629,19 +15674,19 @@
     "tier": "4 Low-Cost a 1 cr",
     "piazzati": "",
     "mod_rating": "",
-    "mv": 6.5,
-    "fm": 6.5,
+    "mv": 6.0,
+    "fm": 6.0,
     "note": "",
     "is_starter": true,
     "xg": 0.28,
     "xa": 0.31,
     "xg_90": 0.01,
     "xa_90": 0.01,
-    "moneyball_index": 49.23,
+    "moneyball_index": 43.57,
     "stats": {
-      "partite_a_voto": 1,
-      "media_voto": 6.5,
-      "fantamedia": 6.5,
+      "partite_a_voto": 2,
+      "media_voto": 6.0,
+      "fantamedia": 6.0,
       "gol": 0,
       "gol_subiti": 0,
       "rigori_segnati": 0,
@@ -15655,9 +15700,9 @@
       "xa": 0.31,
       "xg_90": 0.01,
       "xa_90": 0.01,
-      "moneyball_index": 49.23
+      "moneyball_index": 43.57
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 2857,
@@ -15702,7 +15747,7 @@
       "xa_90": 0.01,
       "moneyball_index": 41.3
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 2115,
@@ -15747,7 +15792,7 @@
       "xa_90": 0.01,
       "moneyball_index": 49.24
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 6207,
@@ -15792,7 +15837,7 @@
       "xa_90": 0.01,
       "moneyball_index": 43.57
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 7563,
@@ -15837,7 +15882,7 @@
       "xa_90": 0.01,
       "moneyball_index": 45.84
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 4947,
@@ -15882,7 +15927,7 @@
       "xa_90": 0.01,
       "moneyball_index": 41.3
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 6659,
@@ -15927,7 +15972,7 @@
       "xa_90": 0.01,
       "moneyball_index": 45.84
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 7342,
@@ -15972,7 +16017,7 @@
       "xa_90": 0.01,
       "moneyball_index": 39.62
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 6925,
@@ -16017,7 +16062,7 @@
       "xa_90": 0.01,
       "moneyball_index": 65.55
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 7561,
@@ -16062,7 +16107,7 @@
       "xa_90": 0.01,
       "moneyball_index": 43.06
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 6896,
@@ -16107,7 +16152,7 @@
       "xa_90": 0.01,
       "moneyball_index": 45.84
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 6643,
@@ -16152,7 +16197,7 @@
       "xa_90": 0.01,
       "moneyball_index": 39.65
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 6238,
@@ -16197,7 +16242,7 @@
       "xa_90": 0.01,
       "moneyball_index": 62.94
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 7008,
@@ -16242,7 +16287,7 @@
       "xa_90": 0.01,
       "moneyball_index": 39.65
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 7528,
@@ -16287,7 +16332,7 @@
       "xa_90": 0.01,
       "moneyball_index": 41.31
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 6631,
@@ -16332,7 +16377,7 @@
       "xa_90": 0.01,
       "moneyball_index": 77.05
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 5851,
@@ -16377,7 +16422,7 @@
       "xa_90": 0.01,
       "moneyball_index": 49.61
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 5695,
@@ -16422,7 +16467,7 @@
       "xa_90": 0.01,
       "moneyball_index": 49.61
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 22,
@@ -16467,7 +16512,7 @@
       "xa_90": 0.01,
       "moneyball_index": 41.31
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 7068,
@@ -16512,7 +16557,7 @@
       "xa_90": 0.01,
       "moneyball_index": 45.85
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 7014,
@@ -16557,7 +16602,7 @@
       "xa_90": 0.01,
       "moneyball_index": 45.85
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 7127,
@@ -16602,7 +16647,7 @@
       "xa_90": 0.01,
       "moneyball_index": 41.31
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 5449,
@@ -16647,7 +16692,7 @@
       "xa_90": 0.01,
       "moneyball_index": 45.85
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 7537,
@@ -16692,7 +16737,7 @@
       "xa_90": 0.01,
       "moneyball_index": 45.85
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 5831,
@@ -16737,7 +16782,7 @@
       "xa_90": 0.01,
       "moneyball_index": 54.47
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 7131,
@@ -16782,7 +16827,7 @@
       "xa_90": 0.01,
       "moneyball_index": 62.94
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 7318,
@@ -16827,7 +16872,7 @@
       "xa_90": 0.04,
       "moneyball_index": 48.48
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 4686,
@@ -16872,7 +16917,7 @@
       "xa_90": 0.01,
       "moneyball_index": 41.31
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 5307,
@@ -16917,7 +16962,7 @@
       "xa_90": 0.01,
       "moneyball_index": 45.85
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 4374,
@@ -16962,7 +17007,7 @@
       "xa_90": 0.01,
       "moneyball_index": 45.85
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 5820,
@@ -17007,7 +17052,7 @@
       "xa_90": 0.01,
       "moneyball_index": 49.61
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 5527,
@@ -17052,7 +17097,7 @@
       "xa_90": 0.01,
       "moneyball_index": 45.85
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 7550,
@@ -17097,7 +17142,7 @@
       "xa_90": 0.01,
       "moneyball_index": 41.31
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 2012,
@@ -17142,7 +17187,7 @@
       "xa_90": 0.01,
       "moneyball_index": 39.65
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 256,
@@ -17187,7 +17232,7 @@
       "xa_90": 0.01,
       "moneyball_index": 45.85
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 5336,
@@ -17232,7 +17277,52 @@
       "xa_90": 0.01,
       "moneyball_index": 39.65
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
+  },
+  {
+    "id": 6047,
+    "nome": "Ehizibue",
+    "squadra": "Genoa",
+    "squadra_code": "GEN",
+    "ruolo": "D",
+    "ruolo_mantra": "dd;e",
+    "qa": 4,
+    "qi": 4,
+    "fvm_1000": 10,
+    "prezzo_target": 5,
+    "prezzo_max": 6,
+    "tier": "3 Titolare Low-Cost",
+    "piazzati": "",
+    "mod_rating": "",
+    "mv": 5.5,
+    "fm": 5.5,
+    "note": "",
+    "is_starter": true,
+    "xg": 0.12,
+    "xa": 0.18,
+    "xg_90": 0.0,
+    "xa_90": 0.01,
+    "moneyball_index": 45.85,
+    "stats": {
+      "partite_a_voto": 1,
+      "media_voto": 5.5,
+      "fantamedia": 5.5,
+      "gol": 0,
+      "gol_subiti": 0,
+      "rigori_segnati": 0,
+      "rigori_sbagliati": 0,
+      "rigori_parati": 0,
+      "assist": 0,
+      "ammonizioni": 0,
+      "espulsioni": 0,
+      "clean_sheets": 0,
+      "xg": 0.12,
+      "xa": 0.18,
+      "xg_90": 0.0,
+      "xa_90": 0.01,
+      "moneyball_index": 45.85
+    },
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 4378,
@@ -17277,7 +17367,7 @@
       "xa_90": 0.01,
       "moneyball_index": 45.85
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 6822,
@@ -17322,7 +17412,7 @@
       "xa_90": 0.01,
       "moneyball_index": 39.65
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 5131,
@@ -17367,7 +17457,7 @@
       "xa_90": 0.01,
       "moneyball_index": 41.31
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 7255,
@@ -17412,7 +17502,7 @@
       "xa_90": 0.01,
       "moneyball_index": 49.61
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 7138,
@@ -17457,7 +17547,7 @@
       "xa_90": 0.01,
       "moneyball_index": 43.82
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 7538,
@@ -17502,7 +17592,7 @@
       "xa_90": 0.01,
       "moneyball_index": 45.85
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 6892,
@@ -17547,7 +17637,7 @@
       "xa_90": 0.01,
       "moneyball_index": 45.85
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 5742,
@@ -17592,7 +17682,7 @@
       "xa_90": 0.01,
       "moneyball_index": 45.85
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 6225,
@@ -17637,7 +17727,7 @@
       "xa_90": 0.01,
       "moneyball_index": 41.31
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 6662,
@@ -17682,7 +17772,7 @@
       "xa_90": 0.0,
       "moneyball_index": 76.0
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 6021,
@@ -17727,7 +17817,7 @@
       "xa_90": 0.01,
       "moneyball_index": 62.94
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 7599,
@@ -17772,7 +17862,7 @@
       "xa_90": 0.01,
       "moneyball_index": 67.64
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 7301,
@@ -17817,7 +17907,7 @@
       "xa_90": 0.0,
       "moneyball_index": 76.0
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 5481,
@@ -17862,7 +17952,7 @@
       "xa_90": 0.01,
       "moneyball_index": 45.85
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 5007,
@@ -17907,7 +17997,7 @@
       "xa_90": 0.01,
       "moneyball_index": 41.31
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 6243,
@@ -17952,7 +18042,7 @@
       "xa_90": 0.01,
       "moneyball_index": 41.69
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 2529,
@@ -17997,7 +18087,7 @@
       "xa_90": 0.01,
       "moneyball_index": 41.36
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 7349,
@@ -18042,7 +18132,7 @@
       "xa_90": 0.01,
       "moneyball_index": 39.74
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 4925,
@@ -18087,7 +18177,7 @@
       "xa_90": 0.0,
       "moneyball_index": 45.87
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 2640,
@@ -18132,7 +18222,7 @@
       "xa_90": 0.0,
       "moneyball_index": 59.75
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 5918,
@@ -18177,7 +18267,7 @@
       "xa_90": 0.01,
       "moneyball_index": 48.7
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 6556,
@@ -18222,7 +18312,7 @@
       "xa_90": 0.01,
       "moneyball_index": 39.71
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 4751,
@@ -18267,7 +18357,7 @@
       "xa_90": 0.0,
       "moneyball_index": 45.74
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 7532,
@@ -18312,7 +18402,7 @@
       "xa_90": 0.0,
       "moneyball_index": 50.0
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 5603,
@@ -18357,7 +18447,7 @@
       "xa_90": 0.0,
       "moneyball_index": 45.74
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 6206,
@@ -18402,7 +18492,7 @@
       "xa_90": 0.01,
       "moneyball_index": 41.19
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 5757,
@@ -18447,7 +18537,7 @@
       "xa_90": 0.0,
       "moneyball_index": 45.74
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 2593,
@@ -18492,7 +18582,7 @@
       "xa_90": 0.0,
       "moneyball_index": 45.74
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 4970,
@@ -18519,7 +18609,7 @@
     "xa_90": 0.01,
     "moneyball_index": 44.05,
     "stats": {
-      "partite_a_voto": 2,
+      "partite_a_voto": 3,
       "media_voto": 6.0,
       "fantamedia": 6.0,
       "gol": 0,
@@ -18537,7 +18627,7 @@
       "xa_90": 0.01,
       "moneyball_index": 44.05
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 5882,
@@ -18582,7 +18672,7 @@
       "xa_90": 0.01,
       "moneyball_index": 39.71
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 6005,
@@ -18627,7 +18717,7 @@
       "xa_90": 0.01,
       "moneyball_index": 41.19
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 7312,
@@ -18672,7 +18762,7 @@
       "xa_90": 0.0,
       "moneyball_index": 45.74
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 4387,
@@ -18717,7 +18807,7 @@
       "xa_90": 0.01,
       "moneyball_index": 39.71
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 4375,
@@ -18762,7 +18852,7 @@
       "xa_90": 0.0,
       "moneyball_index": 45.74
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 1871,
@@ -18807,7 +18897,7 @@
       "xa_90": 0.01,
       "moneyball_index": 41.19
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 6917,
@@ -18852,7 +18942,7 @@
       "xa_90": 0.01,
       "moneyball_index": 47.63
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 7211,
@@ -18897,7 +18987,7 @@
       "xa_90": 0.0,
       "moneyball_index": 45.74
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 7154,
@@ -18942,7 +19032,7 @@
       "xa_90": 0.0,
       "moneyball_index": 84.21
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 7605,
@@ -18987,7 +19077,7 @@
       "xa_90": 0.0,
       "moneyball_index": 45.74
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 6601,
@@ -19032,7 +19122,7 @@
       "xa_90": 0.0,
       "moneyball_index": 45.74
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 801,
@@ -19077,7 +19167,7 @@
       "xa_90": 0.01,
       "moneyball_index": 41.19
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 7232,
@@ -19122,7 +19212,7 @@
       "xa_90": 0.01,
       "moneyball_index": 41.19
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 6638,
@@ -19167,7 +19257,7 @@
       "xa_90": 0.0,
       "moneyball_index": 45.74
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 7202,
@@ -19212,7 +19302,7 @@
       "xa_90": 0.0,
       "moneyball_index": 50.0
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 7407,
@@ -19257,7 +19347,7 @@
       "xa_90": 0.0,
       "moneyball_index": 45.74
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 7260,
@@ -19302,7 +19392,7 @@
       "xa_90": 0.0,
       "moneyball_index": 45.74
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 6598,
@@ -19347,7 +19437,7 @@
       "xa_90": 0.01,
       "moneyball_index": 39.71
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 7411,
@@ -19392,7 +19482,7 @@
       "xa_90": 0.0,
       "moneyball_index": 77.75
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 6640,
@@ -19437,7 +19527,7 @@
       "xa_90": 0.01,
       "moneyball_index": 43.88
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 4461,
@@ -19482,7 +19572,7 @@
       "xa_90": 0.0,
       "moneyball_index": 49.91
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 6424,
@@ -19527,7 +19617,7 @@
       "xa_90": 0.01,
       "moneyball_index": 41.02
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 313,
@@ -19572,7 +19662,7 @@
       "xa_90": 0.01,
       "moneyball_index": 39.71
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 7162,
@@ -19617,7 +19707,7 @@
       "xa_90": 0.01,
       "moneyball_index": 39.71
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 7272,
@@ -19662,7 +19752,7 @@
       "xa_90": 0.01,
       "moneyball_index": 39.71
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 6024,
@@ -19707,7 +19797,7 @@
       "xa_90": 0.04,
       "moneyball_index": 49.22
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 6503,
@@ -19752,7 +19842,7 @@
       "xa_90": 0.01,
       "moneyball_index": 41.02
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 5813,
@@ -19797,7 +19887,7 @@
       "xa_90": 0.01,
       "moneyball_index": 41.02
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 5457,
@@ -19842,7 +19932,7 @@
       "xa_90": 0.01,
       "moneyball_index": 43.88
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 6985,
@@ -19887,7 +19977,7 @@
       "xa_90": 0.0,
       "moneyball_index": 45.66
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 6673,
@@ -19932,7 +20022,7 @@
       "xa_90": 0.0,
       "moneyball_index": 45.66
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 7478,
@@ -19977,7 +20067,7 @@
       "xa_90": 0.0,
       "moneyball_index": 45.66
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 2728,
@@ -20022,7 +20112,7 @@
       "xa_90": 0.0,
       "moneyball_index": 45.66
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 7213,
@@ -20067,7 +20157,7 @@
       "xa_90": 0.01,
       "moneyball_index": 40.03
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 6890,
@@ -20112,7 +20202,7 @@
       "xa_90": 0.0,
       "moneyball_index": 45.66
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 7540,
@@ -20157,7 +20247,7 @@
       "xa_90": 0.0,
       "moneyball_index": 45.66
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 6241,
@@ -20202,7 +20292,7 @@
       "xa_90": 0.01,
       "moneyball_index": 41.05
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 7483,
@@ -20247,7 +20337,7 @@
       "xa_90": 0.0,
       "moneyball_index": 50.65
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 5880,
@@ -20292,7 +20382,7 @@
       "xa_90": 0.01,
       "moneyball_index": 41.05
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 7418,
@@ -20337,7 +20427,7 @@
       "xa_90": 0.01,
       "moneyball_index": 41.05
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 2170,
@@ -20382,7 +20472,7 @@
       "xa_90": 0.0,
       "moneyball_index": 86.5
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 7453,
@@ -20427,7 +20517,7 @@
       "xa_90": 0.01,
       "moneyball_index": 40.59
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 4485,
@@ -20472,7 +20562,7 @@
       "xa_90": 0.0,
       "moneyball_index": 86.5
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 7546,
@@ -20517,7 +20607,7 @@
       "xa_90": 0.01,
       "moneyball_index": 40.59
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 5498,
@@ -20562,7 +20652,7 @@
       "xa_90": 0.0,
       "moneyball_index": 45.7
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 7128,
@@ -20607,7 +20697,7 @@
       "xa_90": 0.01,
       "moneyball_index": 40.59
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 7183,
@@ -20652,7 +20742,7 @@
       "xa_90": 0.0,
       "moneyball_index": 41.09
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 5994,
@@ -20697,7 +20787,7 @@
       "xa_90": 0.0,
       "moneyball_index": 45.7
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 6903,
@@ -20742,7 +20832,7 @@
       "xa_90": 0.0,
       "moneyball_index": 45.37
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 6977,
@@ -20787,7 +20877,7 @@
       "xa_90": 0.0,
       "moneyball_index": 45.7
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 791,
@@ -20804,8 +20894,8 @@
     "tier": "4 Riserva a 1 cr",
     "piazzati": "",
     "mod_rating": "",
-    "mv": 0.0,
-    "fm": 0.0,
+    "mv": 5.0,
+    "fm": 5.0,
     "note": "",
     "is_starter": true,
     "xg": 0.06,
@@ -20814,9 +20904,9 @@
     "xa_90": 0.0,
     "moneyball_index": 45.7,
     "stats": {
-      "partite_a_voto": 0,
-      "media_voto": 0.0,
-      "fantamedia": 0.0,
+      "partite_a_voto": 1,
+      "media_voto": 5.0,
+      "fantamedia": 5.0,
       "gol": 0,
       "gol_subiti": 0,
       "rigori_segnati": 0,
@@ -20832,7 +20922,7 @@
       "xa_90": 0.0,
       "moneyball_index": 45.7
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 2814,
@@ -20877,7 +20967,7 @@
       "xa_90": 0.0,
       "moneyball_index": 86.5
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 2263,
@@ -20922,7 +21012,7 @@
       "xa_90": 0.0,
       "moneyball_index": 45.7
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 7182,
@@ -20967,7 +21057,7 @@
       "xa_90": 0.0,
       "moneyball_index": 45.7
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 383,
@@ -21012,7 +21102,7 @@
       "xa_90": 0.01,
       "moneyball_index": 40.59
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 6219,
@@ -21057,7 +21147,7 @@
       "xa_90": 0.0,
       "moneyball_index": 41.09
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 6246,
@@ -21102,7 +21192,7 @@
       "xa_90": 0.0,
       "moneyball_index": 41.09
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 252,
@@ -21147,7 +21237,7 @@
       "xa_90": 0.0,
       "moneyball_index": 45.7
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 7548,
@@ -21192,7 +21282,7 @@
       "xa_90": 0.0,
       "moneyball_index": 45.7
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 6537,
@@ -21237,7 +21327,7 @@
       "xa_90": 0.0,
       "moneyball_index": 45.7
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 7092,
@@ -21282,7 +21372,7 @@
       "xa_90": 0.0,
       "moneyball_index": 41.09
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 7345,
@@ -21327,7 +21417,7 @@
       "xa_90": 0.0,
       "moneyball_index": 41.09
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 7457,
@@ -21372,7 +21462,7 @@
       "xa_90": 0.0,
       "moneyball_index": 86.5
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 7477,
@@ -21417,7 +21507,7 @@
       "xa_90": 0.0,
       "moneyball_index": 50.6
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 6980,
@@ -21462,7 +21552,7 @@
       "xa_90": 0.0,
       "moneyball_index": 40.96
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 6883,
@@ -21507,7 +21597,7 @@
       "xa_90": 0.0,
       "moneyball_index": 45.57
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 7525,
@@ -21552,7 +21642,7 @@
       "xa_90": 0.0,
       "moneyball_index": 45.57
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 7476,
@@ -21597,7 +21687,7 @@
       "xa_90": 0.0,
       "moneyball_index": 51.8
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 6212,
@@ -21642,7 +21732,7 @@
       "xa_90": 0.0,
       "moneyball_index": 45.24
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 7249,
@@ -21687,7 +21777,7 @@
       "xa_90": 0.01,
       "moneyball_index": 40.59
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 6681,
@@ -21732,7 +21822,7 @@
       "xa_90": 0.0,
       "moneyball_index": 45.57
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 526,
@@ -21777,7 +21867,7 @@
       "xa_90": 0.0,
       "moneyball_index": 40.96
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 7573,
@@ -21822,7 +21912,7 @@
       "xa_90": 0.0,
       "moneyball_index": 45.57
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 5812,
@@ -21867,7 +21957,7 @@
       "xa_90": 0.0,
       "moneyball_index": 45.57
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 7627,
@@ -21912,7 +22002,7 @@
       "xa_90": 0.01,
       "moneyball_index": 40.59
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 487,
@@ -21957,7 +22047,7 @@
       "xa_90": 0.0,
       "moneyball_index": 45.57
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 6039,
@@ -22002,7 +22092,7 @@
       "xa_90": 0.0,
       "moneyball_index": 45.57
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 6981,
@@ -22047,7 +22137,7 @@
       "xa_90": 0.01,
       "moneyball_index": 40.59
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 6889,
@@ -22092,7 +22182,7 @@
       "xa_90": 0.0,
       "moneyball_index": 40.96
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 7125,
@@ -22137,7 +22227,7 @@
       "xa_90": 0.0,
       "moneyball_index": 45.52
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 5872,
@@ -22182,7 +22272,7 @@
       "xa_90": 0.0,
       "moneyball_index": 40.96
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 7413,
@@ -22227,7 +22317,7 @@
       "xa_90": 0.0,
       "moneyball_index": 45.52
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 6191,
@@ -22272,7 +22362,7 @@
       "xa_90": 0.0,
       "moneyball_index": 45.24
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 7276,
@@ -22317,7 +22407,7 @@
       "xa_90": 0.0,
       "moneyball_index": 40.96
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 5725,
@@ -22362,7 +22452,7 @@
       "xa_90": 0.0,
       "moneyball_index": 40.96
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 294,
@@ -22407,7 +22497,7 @@
       "xa_90": 0.0,
       "moneyball_index": 45.52
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 6809,
@@ -22452,7 +22542,7 @@
       "xa_90": 0.0,
       "moneyball_index": 45.52
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 6149,
@@ -22497,7 +22587,7 @@
       "xa_90": 0.0,
       "moneyball_index": 45.52
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 7356,
@@ -22542,7 +22632,7 @@
       "xa_90": 0.0,
       "moneyball_index": 45.52
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 7392,
@@ -22587,7 +22677,7 @@
       "xa_90": 0.0,
       "moneyball_index": 40.96
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 7161,
@@ -22632,7 +22722,7 @@
       "xa_90": 0.01,
       "moneyball_index": 40.59
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 5485,
@@ -22677,7 +22767,7 @@
       "xa_90": 0.0,
       "moneyball_index": 40.96
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 7622,
@@ -22722,7 +22812,7 @@
       "xa_90": 0.01,
       "moneyball_index": 40.59
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 7574,
@@ -22767,7 +22857,7 @@
       "xa_90": 0.0,
       "moneyball_index": 41.44
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 7317,
@@ -22812,7 +22902,7 @@
       "xa_90": 0.01,
       "moneyball_index": 41.92
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 7470,
@@ -22857,7 +22947,7 @@
       "xa_90": 0.0,
       "moneyball_index": 45.76
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 6245,
@@ -22902,7 +22992,7 @@
       "xa_90": 0.0,
       "moneyball_index": 45.76
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 6244,
@@ -22947,7 +23037,7 @@
       "xa_90": 0.0,
       "moneyball_index": 45.76
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 6410,
@@ -22992,7 +23082,7 @@
       "xa_90": 0.0,
       "moneyball_index": 41.44
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 5399,
@@ -23037,7 +23127,7 @@
       "xa_90": 0.0,
       "moneyball_index": 45.76
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 6189,
@@ -23082,7 +23172,7 @@
       "xa_90": 0.0,
       "moneyball_index": 45.76
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 6826,
@@ -23127,7 +23217,7 @@
       "xa_90": 0.0,
       "moneyball_index": 45.76
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 7463,
@@ -23172,7 +23262,7 @@
       "xa_90": 0.0,
       "moneyball_index": 86.5
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 6592,
@@ -23217,7 +23307,7 @@
       "xa_90": 0.0,
       "moneyball_index": 47.84
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 7615,
@@ -23262,7 +23352,7 @@
       "xa_90": 0.0,
       "moneyball_index": 45.76
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 2297,
@@ -23307,7 +23397,7 @@
       "xa_90": 0.0,
       "moneyball_index": 86.5
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 4,
@@ -23352,7 +23442,7 @@
       "xa_90": 0.0,
       "moneyball_index": 86.5
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 7533,
@@ -23397,7 +23487,7 @@
       "xa_90": 0.0,
       "moneyball_index": 86.5
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 7172,
@@ -23442,7 +23532,7 @@
       "xa_90": 0.0,
       "moneyball_index": 86.5
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 4929,
@@ -23487,7 +23577,7 @@
       "xa_90": 0.0,
       "moneyball_index": 86.5
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 6650,
@@ -23532,7 +23622,7 @@
       "xa_90": 0.0,
       "moneyball_index": 86.5
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 7346,
@@ -23577,7 +23667,7 @@
       "xa_90": 0.0,
       "moneyball_index": 45.76
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 7165,
@@ -23622,7 +23712,7 @@
       "xa_90": 0.0,
       "moneyball_index": 41.44
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 7338,
@@ -23667,7 +23757,7 @@
       "xa_90": 0.01,
       "moneyball_index": 41.92
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 2809,
@@ -23712,7 +23802,7 @@
       "xa_90": 0.0,
       "moneyball_index": 86.5
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 418,
@@ -23757,7 +23847,7 @@
       "xa_90": 0.0,
       "moneyball_index": 45.76
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 7357,
@@ -23802,7 +23892,7 @@
       "xa_90": 0.0,
       "moneyball_index": 41.44
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 7027,
@@ -23847,7 +23937,7 @@
       "xa_90": 0.01,
       "moneyball_index": 41.92
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 6403,
@@ -23892,7 +23982,7 @@
       "xa_90": 0.0,
       "moneyball_index": 86.5
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 158,
@@ -23937,7 +24027,7 @@
       "xa_90": 0.0,
       "moneyball_index": 86.5
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 7466,
@@ -23982,7 +24072,7 @@
       "xa_90": 0.0,
       "moneyball_index": 86.5
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 5424,
@@ -24027,7 +24117,7 @@
       "xa_90": 0.0,
       "moneyball_index": 45.76
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 7468,
@@ -24072,7 +24162,7 @@
       "xa_90": 0.0,
       "moneyball_index": 45.76
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 7471,
@@ -24117,7 +24207,7 @@
       "xa_90": 0.0,
       "moneyball_index": 45.76
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 7456,
@@ -24162,7 +24252,7 @@
       "xa_90": 0.0,
       "moneyball_index": 41.44
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 219,
@@ -24207,7 +24297,7 @@
       "xa_90": 0.0,
       "moneyball_index": 86.5
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 6569,
@@ -24252,7 +24342,7 @@
       "xa_90": 0.0,
       "moneyball_index": 86.5
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 1926,
@@ -24297,7 +24387,7 @@
       "xa_90": 0.0,
       "moneyball_index": 86.5
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 1930,
@@ -24342,7 +24432,7 @@
       "xa_90": 0.0,
       "moneyball_index": 86.5
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 7337,
@@ -24387,7 +24477,7 @@
       "xa_90": 0.0,
       "moneyball_index": 86.5
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 7534,
@@ -24432,7 +24522,7 @@
       "xa_90": 0.0,
       "moneyball_index": 86.5
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 327,
@@ -24477,7 +24567,7 @@
       "xa_90": 0.0,
       "moneyball_index": 45.76
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 2401,
@@ -24522,7 +24612,7 @@
       "xa_90": 0.0,
       "moneyball_index": 86.5
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 6523,
@@ -24567,7 +24657,7 @@
       "xa_90": 0.0,
       "moneyball_index": 86.5
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 7164,
@@ -24612,7 +24702,7 @@
       "xa_90": 0.0,
       "moneyball_index": 45.76
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 7319,
@@ -24657,7 +24747,7 @@
       "xa_90": 0.0,
       "moneyball_index": 41.44
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 2815,
@@ -24702,7 +24792,7 @@
       "xa_90": 0.0,
       "moneyball_index": 86.5
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 6813,
@@ -24747,7 +24837,7 @@
       "xa_90": 0.0,
       "moneyball_index": 86.5
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 6682,
@@ -24792,7 +24882,7 @@
       "xa_90": 0.0,
       "moneyball_index": 86.5
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 7475,
@@ -24837,7 +24927,7 @@
       "xa_90": 0.0,
       "moneyball_index": 86.5
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 2845,
@@ -24882,7 +24972,7 @@
       "xa_90": 0.0,
       "moneyball_index": 86.5
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 7048,
@@ -24927,7 +25017,7 @@
       "xa_90": 0.0,
       "moneyball_index": 86.5
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 610,
@@ -24972,7 +25062,7 @@
       "xa_90": 0.0,
       "moneyball_index": 86.5
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 4518,
@@ -25017,7 +25107,7 @@
       "xa_90": 0.0,
       "moneyball_index": 86.5
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 4867,
@@ -25062,7 +25152,7 @@
       "xa_90": 0.0,
       "moneyball_index": 86.5
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 7156,
@@ -25107,7 +25197,7 @@
       "xa_90": 0.0,
       "moneyball_index": 45.76
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 7157,
@@ -25152,7 +25242,7 @@
       "xa_90": 0.0,
       "moneyball_index": 41.44
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 7158,
@@ -25197,7 +25287,7 @@
       "xa_90": 0.01,
       "moneyball_index": 41.92
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 5320,
@@ -25242,7 +25332,7 @@
       "xa_90": 0.0,
       "moneyball_index": 86.5
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 7363,
@@ -25287,7 +25377,7 @@
       "xa_90": 0.0,
       "moneyball_index": 86.5
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 543,
@@ -25332,7 +25422,7 @@
       "xa_90": 0.0,
       "moneyball_index": 86.5
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 5707,
@@ -25377,7 +25467,7 @@
       "xa_90": 0.0,
       "moneyball_index": 86.5
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 6671,
@@ -25422,7 +25512,7 @@
       "xa_90": 0.0,
       "moneyball_index": 86.5
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 7531,
@@ -25467,7 +25557,7 @@
       "xa_90": 0.0,
       "moneyball_index": 86.5
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 7454,
@@ -25512,7 +25602,7 @@
       "xa_90": 0.0,
       "moneyball_index": 45.76
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 7481,
@@ -25557,7 +25647,7 @@
       "xa_90": 0.0,
       "moneyball_index": 41.44
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 7408,
@@ -25602,7 +25692,7 @@
       "xa_90": 0.01,
       "moneyball_index": 59.98
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 7482,
@@ -25647,7 +25737,7 @@
       "xa_90": 0.01,
       "moneyball_index": 41.92
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 7545,
@@ -25692,7 +25782,7 @@
       "xa_90": 0.0,
       "moneyball_index": 86.5
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 2127,
@@ -25737,7 +25827,7 @@
       "xa_90": 0.0,
       "moneyball_index": 86.5
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 7557,
@@ -25782,7 +25872,7 @@
       "xa_90": 0.0,
       "moneyball_index": 86.5
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 7560,
@@ -25827,7 +25917,7 @@
       "xa_90": 0.0,
       "moneyball_index": 86.5
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 3,
@@ -25872,7 +25962,7 @@
       "xa_90": 0.0,
       "moneyball_index": 86.5
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 7568,
@@ -25917,7 +26007,7 @@
       "xa_90": 0.01,
       "moneyball_index": 41.92
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 4957,
@@ -25962,7 +26052,7 @@
       "xa_90": 0.0,
       "moneyball_index": 86.5
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 7553,
@@ -26007,7 +26097,7 @@
       "xa_90": 0.0,
       "moneyball_index": 45.76
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 4468,
@@ -26052,7 +26142,7 @@
       "xa_90": 0.0,
       "moneyball_index": 86.5
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 7571,
@@ -26097,7 +26187,7 @@
       "xa_90": 0.0,
       "moneyball_index": 41.44
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 7572,
@@ -26142,7 +26232,7 @@
       "xa_90": 0.0,
       "moneyball_index": 41.44
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 7396,
@@ -26187,7 +26277,7 @@
       "xa_90": 0.0,
       "moneyball_index": 45.76
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 5462,
@@ -26232,7 +26322,7 @@
       "xa_90": 0.0,
       "moneyball_index": 41.44
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 7603,
@@ -26277,7 +26367,7 @@
       "xa_90": 0.0,
       "moneyball_index": 86.5
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 7604,
@@ -26322,7 +26412,7 @@
       "xa_90": 0.0,
       "moneyball_index": 45.76
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 7611,
@@ -26367,7 +26457,7 @@
       "xa_90": 0.0,
       "moneyball_index": 86.5
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 2874,
@@ -26412,7 +26502,7 @@
       "xa_90": 0.0,
       "moneyball_index": 86.5
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
   },
   {
     "id": 7626,
@@ -26457,6 +26547,51 @@
       "xa_90": 0.0,
       "moneyball_index": 86.5
     },
-    "updated_at": "2026-09-03T15:21:39Z"
+    "updated_at": "2026-09-05T12:09:30Z"
+  },
+  {
+    "id": 7628,
+    "nome": "Sierro",
+    "squadra": "Parma",
+    "squadra_code": "PAR",
+    "ruolo": "C",
+    "ruolo_mantra": "m;c",
+    "qa": 1,
+    "qi": 1,
+    "fvm_1000": 1,
+    "prezzo_target": 1,
+    "prezzo_max": 1,
+    "tier": "4 Low-Cost a 1 cr",
+    "piazzati": "",
+    "mod_rating": "",
+    "mv": 0.0,
+    "fm": 0.0,
+    "note": "",
+    "is_starter": true,
+    "xg": 0.1,
+    "xa": 0.15,
+    "xg_90": 0.0,
+    "xa_90": 0.0,
+    "moneyball_index": 41.44,
+    "stats": {
+      "partite_a_voto": 0,
+      "media_voto": 0.0,
+      "fantamedia": 0.0,
+      "gol": 0,
+      "gol_subiti": 0,
+      "rigori_segnati": 0,
+      "rigori_sbagliati": 0,
+      "rigori_parati": 0,
+      "assist": 0,
+      "ammonizioni": 0,
+      "espulsioni": 0,
+      "clean_sheets": 0,
+      "xg": 0.1,
+      "xa": 0.15,
+      "xg_90": 0.0,
+      "xa_90": 0.0,
+      "moneyball_index": 41.44
+    },
+    "updated_at": "2026-09-05T12:09:30Z"
   }
 ]

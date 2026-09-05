@@ -13,29 +13,29 @@ giornata,match_id,team,team_code,is_home,opponent,opponent_code,formation,player
 1,2026_G01_UDI_COM,Udinese,UDI,True,Como,COM,3-4-2-1,Mrozek,P,BENCH,5
 1,2026_G01_UDI_COM,Udinese,UDI,True,Como,COM,3-4-2-1,Piana,P,BENCH,1
 1,2026_G01_UDI_COM,Udinese,UDI,True,Como,COM,3-4-2-1,Padelli,P,BENCH,1
-1,2026_G01_UDI_COM,Udinese,UDI,True,Como,COM,3-4-2-1,Ebosse,D,BENCH,40
+1,2026_G01_UDI_COM,Udinese,UDI,True,Como,COM,3-4-2-1,Ebosse,D,BENCH,35
 1,2026_G01_UDI_COM,Udinese,UDI,True,Como,COM,3-4-2-1,Bertola,D,BENCH,55
 1,2026_G01_UDI_COM,Udinese,UDI,True,Como,COM,3-4-2-1,Arizala,D,BENCH,55
 1,2026_G01_UDI_COM,Udinese,UDI,True,Como,COM,3-4-2-1,Miller L.,C,BENCH,60
 1,2026_G01_UDI_COM,Udinese,UDI,True,Como,COM,3-4-2-1,Jovanovic,C,BENCH,35
 1,2026_G01_UDI_COM,Udinese,UDI,True,Como,COM,3-4-2-1,Zarraga,C,BENCH,50
 1,2026_G01_UDI_COM,Udinese,UDI,True,Como,COM,3-4-2-1,Gueye,A,BENCH,60
-1,2026_G01_UDI_COM,Udinese,UDI,True,Como,COM,3-4-2-1,Bayo V.,A,BENCH,40
-1,2026_G01_UDI_COM,Como,COM,False,Udinese,UDI,4-2-3-1,Butez,P,STARTER,90
-1,2026_G01_UDI_COM,Como,COM,False,Udinese,UDI,4-2-3-1,Couto,D,STARTER,60
-1,2026_G01_UDI_COM,Como,COM,False,Udinese,UDI,4-2-3-1,Chalobah T.,D,STARTER,80
-1,2026_G01_UDI_COM,Como,COM,False,Udinese,UDI,4-2-3-1,Ramon,D,STARTER,80
-1,2026_G01_UDI_COM,Como,COM,False,Udinese,UDI,4-2-3-1,Valle,D,STARTER,60
-1,2026_G01_UDI_COM,Como,COM,False,Udinese,UDI,4-2-3-1,Da Cunha,C,STARTER,80
-1,2026_G01_UDI_COM,Como,COM,False,Udinese,UDI,4-2-3-1,Perrone,C,STARTER,80
-1,2026_G01_UDI_COM,Como,COM,False,Udinese,UDI,4-2-3-1,Diao,A,STARTER,85
-1,2026_G01_UDI_COM,Como,COM,False,Udinese,UDI,4-2-3-1,Paz N.,C,STARTER,90
-1,2026_G01_UDI_COM,Como,COM,False,Udinese,UDI,4-2-3-1,Baturina,C,STARTER,80
-1,2026_G01_UDI_COM,Como,COM,False,Udinese,UDI,4-2-3-1,Kean,A,STARTER,55
+1,2026_G01_UDI_COM,Udinese,UDI,True,Como,COM,3-4-2-1,Bayo V.,A,BENCH,35
+1,2026_G01_UDI_COM,Como,COM,False,Udinese,UDI,4-2-3-1,Butez,P,STARTER,100
+1,2026_G01_UDI_COM,Como,COM,False,Udinese,UDI,4-2-3-1,Couto,D,STARTER,100
+1,2026_G01_UDI_COM,Como,COM,False,Udinese,UDI,4-2-3-1,Chalobah T.,D,STARTER,100
+1,2026_G01_UDI_COM,Como,COM,False,Udinese,UDI,4-2-3-1,Ramon,D,STARTER,100
+1,2026_G01_UDI_COM,Como,COM,False,Udinese,UDI,4-2-3-1,Valle,D,STARTER,100
+1,2026_G01_UDI_COM,Como,COM,False,Udinese,UDI,4-2-3-1,Da Cunha,C,STARTER,100
+1,2026_G01_UDI_COM,Como,COM,False,Udinese,UDI,4-2-3-1,Perrone,C,STARTER,100
+1,2026_G01_UDI_COM,Como,COM,False,Udinese,UDI,4-2-3-1,Diao,A,STARTER,100
+1,2026_G01_UDI_COM,Como,COM,False,Udinese,UDI,4-2-3-1,Paz N.,C,STARTER,100
+1,2026_G01_UDI_COM,Como,COM,False,Udinese,UDI,4-2-3-1,Baturina,C,STARTER,100
+1,2026_G01_UDI_COM,Como,COM,False,Udinese,UDI,4-2-3-1,Douvikas,A,STARTER,100
 1,2026_G01_UDI_COM,Como,COM,False,Udinese,UDI,4-2-3-1,Sanchez Ro.,P,BENCH,5
 1,2026_G01_UDI_COM,Como,COM,False,Udinese,UDI,4-2-3-1,Vigorito,P,BENCH,1
-1,2026_G01_UDI_COM,Como,COM,False,Udinese,UDI,4-2-3-1,Smolcic I.,D,BENCH,60
-1,2026_G01_UDI_COM,Como,COM,False,Udinese,UDI,4-2-3-1,Kaiki,D,BENCH,55
+1,2026_G01_UDI_COM,Como,COM,False,Udinese,UDI,4-2-3-1,Smolcic I.,D,BENCH,55
+1,2026_G01_UDI_COM,Como,COM,False,Udinese,UDI,4-2-3-1,Kaiki,D,BENCH,60
 1,2026_G01_UDI_COM,Como,COM,False,Udinese,UDI,4-2-3-1,Kambwala,D,BENCH,25
 1,2026_G01_UDI_COM,Como,COM,False,Udinese,UDI,4-2-3-1,Kempf,D,BENCH,40
 1,2026_G01_UDI_COM,Como,COM,False,Udinese,UDI,4-2-3-1,Goldaniga,D,BENCH,20
@@ -45,24 +45,24 @@ giornata,match_id,team,team_code,is_home,opponent,opponent_code,formation,player
 1,2026_G01_UDI_COM,Como,COM,False,Udinese,UDI,4-2-3-1,Ricci S.,C,BENCH,35
 1,2026_G01_UDI_COM,Como,COM,False,Udinese,UDI,4-2-3-1,Liberali,C,BENCH,40
 1,2026_G01_UDI_COM,Como,COM,False,Udinese,UDI,4-2-3-1,Rodriguez Je.,C,BENCH,60
-1,2026_G01_UDI_COM,Como,COM,False,Udinese,UDI,4-2-3-1,Douvikas,A,BENCH,60
+1,2026_G01_UDI_COM,Como,COM,False,Udinese,UDI,4-2-3-1,Kean,A,BENCH,60
 1,2026_G01_INT_MON,Inter,INT,True,Monza,MON,3-5-2,Martinez Jo.,P,STARTER,90
-1,2026_G01_INT_MON,Inter,INT,True,Monza,MON,3-5-2,Bisseck,D,STARTER,80
-1,2026_G01_INT_MON,Inter,INT,True,Monza,MON,3-5-2,Akanji,D,STARTER,60
+1,2026_G01_INT_MON,Inter,INT,True,Monza,MON,3-5-2,Pavard,D,STARTER,55
+1,2026_G01_INT_MON,Inter,INT,True,Monza,MON,3-5-2,Stones,D,STARTER,60
 1,2026_G01_INT_MON,Inter,INT,True,Monza,MON,3-5-2,Bastoni,D,STARTER,90
-1,2026_G01_INT_MON,Inter,INT,True,Monza,MON,3-5-2,Diouf,C,STARTER,85
+1,2026_G01_INT_MON,Inter,INT,True,Monza,MON,3-5-2,Diouf,C,STARTER,90
 1,2026_G01_INT_MON,Inter,INT,True,Monza,MON,3-5-2,Barella,C,STARTER,90
 1,2026_G01_INT_MON,Inter,INT,True,Monza,MON,3-5-2,Calhanoglu,C,STARTER,90
-1,2026_G01_INT_MON,Inter,INT,True,Monza,MON,3-5-2,Zielinski,C,STARTER,60
+1,2026_G01_INT_MON,Inter,INT,True,Monza,MON,3-5-2,Zielinski,C,STARTER,80
 1,2026_G01_INT_MON,Inter,INT,True,Monza,MON,3-5-2,Dimarco,D,STARTER,90
 1,2026_G01_INT_MON,Inter,INT,True,Monza,MON,3-5-2,Martinez L.,A,STARTER,90
-1,2026_G01_INT_MON,Inter,INT,True,Monza,MON,3-5-2,Esposito F.P.,A,STARTER,55
+1,2026_G01_INT_MON,Inter,INT,True,Monza,MON,3-5-2,Esposito F.P.,A,STARTER,60
 1,2026_G01_INT_MON,Inter,INT,True,Monza,MON,3-5-2,Provedel,P,BENCH,5
 1,2026_G01_INT_MON,Inter,INT,True,Monza,MON,3-5-2,Di Gennaro,P,BENCH,1
-1,2026_G01_INT_MON,Inter,INT,True,Monza,MON,3-5-2,Stones,D,BENCH,55
-1,2026_G01_INT_MON,Inter,INT,True,Monza,MON,3-5-2,Carlos Augusto,D,BENCH,50
+1,2026_G01_INT_MON,Inter,INT,True,Monza,MON,3-5-2,Akanji,D,BENCH,55
+1,2026_G01_INT_MON,Inter,INT,True,Monza,MON,3-5-2,Bisseck,D,BENCH,55
+1,2026_G01_INT_MON,Inter,INT,True,Monza,MON,3-5-2,Carlos Augusto,D,BENCH,40
 1,2026_G01_INT_MON,Inter,INT,True,Monza,MON,3-5-2,Spence,D,BENCH,35
-1,2026_G01_INT_MON,Inter,INT,True,Monza,MON,3-5-2,Pavard,D,BENCH,30
 1,2026_G01_INT_MON,Inter,INT,True,Monza,MON,3-5-2,Sucic P.,C,BENCH,60
 1,2026_G01_INT_MON,Inter,INT,True,Monza,MON,3-5-2,Luis Henrique,C,BENCH,30
 1,2026_G01_INT_MON,Inter,INT,True,Monza,MON,3-5-2,Jones C.,C,BENCH,60
@@ -70,7 +70,7 @@ giornata,match_id,team,team_code,is_home,opponent,opponent_code,formation,player
 1,2026_G01_INT_MON,Inter,INT,True,Monza,MON,3-5-2,Mkhitaryan,C,BENCH,40
 1,2026_G01_INT_MON,Inter,INT,True,Monza,MON,3-5-2,Bonny,A,BENCH,40
 1,2026_G01_INT_MON,Inter,INT,True,Monza,MON,3-5-2,Thuram,A,BENCH,60
-1,2026_G01_INT_MON,Monza,MON,False,Inter,INT,3-4-2-1,Tornqvist,P,STARTER,90
+1,2026_G01_INT_MON,Monza,MON,False,Inter,INT,3-4-2-1,Tornqvist,P,STARTER,75
 1,2026_G01_INT_MON,Monza,MON,False,Inter,INT,3-4-2-1,Ziolkowski,D,STARTER,60
 1,2026_G01_INT_MON,Monza,MON,False,Inter,INT,3-4-2-1,Lucchesi,D,STARTER,85
 1,2026_G01_INT_MON,Monza,MON,False,Inter,INT,3-4-2-1,Carboni A.,D,STARTER,85
@@ -79,7 +79,7 @@ giornata,match_id,team,team_code,is_home,opponent,opponent_code,formation,player
 1,2026_G01_INT_MON,Monza,MON,False,Inter,INT,3-4-2-1,Folorunsho,C,STARTER,85
 1,2026_G01_INT_MON,Monza,MON,False,Inter,INT,3-4-2-1,Mangas,D,STARTER,90
 1,2026_G01_INT_MON,Monza,MON,False,Inter,INT,3-4-2-1,Colpani,C,STARTER,80
-1,2026_G01_INT_MON,Monza,MON,False,Inter,INT,3-4-2-1,Ngonge,A,STARTER,60
+1,2026_G01_INT_MON,Monza,MON,False,Inter,INT,3-4-2-1,Mota,A,STARTER,60
 1,2026_G01_INT_MON,Monza,MON,False,Inter,INT,3-4-2-1,Cutrone,A,STARTER,90
 1,2026_G01_INT_MON,Monza,MON,False,Inter,INT,3-4-2-1,Thiam,P,BENCH,5
 1,2026_G01_INT_MON,Monza,MON,False,Inter,INT,3-4-2-1,Strajnar,P,BENCH,1
@@ -93,43 +93,40 @@ giornata,match_id,team,team_code,is_home,opponent,opponent_code,formation,player
 1,2026_G01_INT_MON,Monza,MON,False,Inter,INT,3-4-2-1,Forson O.,C,BENCH,40
 1,2026_G01_INT_MON,Monza,MON,False,Inter,INT,3-4-2-1,Tour&#xE8; I.,C,BENCH,55
 1,2026_G01_INT_MON,Monza,MON,False,Inter,INT,3-4-2-1,Colombo L.,C,BENCH,25
-1,2026_G01_INT_MON,Monza,MON,False,Inter,INT,3-4-2-1,Mota,A,BENCH,60
+1,2026_G01_INT_MON,Monza,MON,False,Inter,INT,3-4-2-1,Ngonge,A,BENCH,60
 1,2026_G01_INT_MON,Monza,MON,False,Inter,INT,3-4-2-1,Zeballos,A,BENCH,50
 1,2026_G01_INT_MON,Monza,MON,False,Inter,INT,3-4-2-1,Robinson J.,A,BENCH,25
-1,2026_G01_GEN_NAP,Genoa,GEN,True,Napoli,NAP,3-4-2-1,Bijlow,P,STARTER,90
-1,2026_G01_GEN_NAP,Genoa,GEN,True,Napoli,NAP,3-4-2-1,Marcandalli,D,STARTER,90
-1,2026_G01_GEN_NAP,Genoa,GEN,True,Napoli,NAP,3-4-2-1,Ostigard,D,STARTER,90
-1,2026_G01_GEN_NAP,Genoa,GEN,True,Napoli,NAP,3-4-2-1,Vasquez,D,STARTER,90
-1,2026_G01_GEN_NAP,Genoa,GEN,True,Napoli,NAP,3-4-2-1,Ellertsson,C,STARTER,90
-1,2026_G01_GEN_NAP,Genoa,GEN,True,Napoli,NAP,3-4-2-1,Frendrup,C,STARTER,90
-1,2026_G01_GEN_NAP,Genoa,GEN,True,Napoli,NAP,3-4-2-1,Sow,C,STARTER,90
-1,2026_G01_GEN_NAP,Genoa,GEN,True,Napoli,NAP,3-4-2-1,Mitaj,D,STARTER,80
-1,2026_G01_GEN_NAP,Genoa,GEN,True,Napoli,NAP,3-4-2-1,Baldanzi,C,STARTER,90
-1,2026_G01_GEN_NAP,Genoa,GEN,True,Napoli,NAP,3-4-2-1,Vitinha O.,A,STARTER,60
-1,2026_G01_GEN_NAP,Genoa,GEN,True,Napoli,NAP,3-4-2-1,Colombo,A,STARTER,90
-1,2026_G01_GEN_NAP,Genoa,GEN,True,Napoli,NAP,3-4-2-1,Stolz,P,BENCH,5
-1,2026_G01_GEN_NAP,Genoa,GEN,True,Napoli,NAP,3-4-2-1,Sommariva,P,BENCH,1
-1,2026_G01_GEN_NAP,Genoa,GEN,True,Napoli,NAP,3-4-2-1,Otoa,D,BENCH,35
-1,2026_G01_GEN_NAP,Genoa,GEN,True,Napoli,NAP,3-4-2-1,Sabelli,D,BENCH,20
-1,2026_G01_GEN_NAP,Genoa,GEN,True,Napoli,NAP,3-4-2-1,Drameh,D,BENCH,30
-1,2026_G01_GEN_NAP,Genoa,GEN,True,Napoli,NAP,3-4-2-1,Puczka,D,BENCH,50
-1,2026_G01_GEN_NAP,Genoa,GEN,True,Napoli,NAP,3-4-2-1,Amorim,C,BENCH,60
-1,2026_G01_GEN_NAP,Genoa,GEN,True,Napoli,NAP,3-4-2-1,Messias,C,BENCH,60
-1,2026_G01_GEN_NAP,Genoa,GEN,True,Napoli,NAP,3-4-2-1,Traor&#xE8; Hj.,C,BENCH,35
-1,2026_G01_GEN_NAP,Genoa,GEN,True,Napoli,NAP,3-4-2-1,Meichtry,C,BENCH,55
-1,2026_G01_GEN_NAP,Genoa,GEN,True,Napoli,NAP,3-4-2-1,El Shaarawy,C,BENCH,35
-1,2026_G01_GEN_NAP,Genoa,GEN,True,Napoli,NAP,3-4-2-1,Zulevic,A,BENCH,15
-1,2026_G01_GEN_NAP,Genoa,GEN,True,Napoli,NAP,3-4-2-1,Havel,A,BENCH,35
-1,2026_G01_GEN_NAP,Genoa,GEN,True,Napoli,NAP,3-4-2-1,Robinho Junior,A,BENCH,25
-1,2026_G01_GEN_NAP,Genoa,GEN,True,Napoli,NAP,3-4-2-1,Osmajic,A,BENCH,60
+1,2026_G01_GEN_NAP,Genoa,GEN,True,Napoli,NAP,3-5-2,Bijlow,P,STARTER,100
+1,2026_G01_GEN_NAP,Genoa,GEN,True,Napoli,NAP,3-5-2,Marcandalli,D,STARTER,100
+1,2026_G01_GEN_NAP,Genoa,GEN,True,Napoli,NAP,3-5-2,Ostigard,D,STARTER,100
+1,2026_G01_GEN_NAP,Genoa,GEN,True,Napoli,NAP,3-5-2,Vasquez,D,STARTER,100
+1,2026_G01_GEN_NAP,Genoa,GEN,True,Napoli,NAP,3-5-2,Sabelli,D,STARTER,100
+1,2026_G01_GEN_NAP,Genoa,GEN,True,Napoli,NAP,3-5-2,Frendrup,C,STARTER,100
+1,2026_G01_GEN_NAP,Genoa,GEN,True,Napoli,NAP,3-5-2,Sow,C,STARTER,100
+1,2026_G01_GEN_NAP,Genoa,GEN,True,Napoli,NAP,3-5-2,Baldanzi,C,STARTER,100
+1,2026_G01_GEN_NAP,Genoa,GEN,True,Napoli,NAP,3-5-2,Ellertsson,C,STARTER,100
+1,2026_G01_GEN_NAP,Genoa,GEN,True,Napoli,NAP,3-5-2,Colombo,A,STARTER,100
+1,2026_G01_GEN_NAP,Genoa,GEN,True,Napoli,NAP,3-5-2,Osmajic,A,STARTER,100
+1,2026_G01_GEN_NAP,Genoa,GEN,True,Napoli,NAP,3-5-2,Stolz,P,BENCH,5
+1,2026_G01_GEN_NAP,Genoa,GEN,True,Napoli,NAP,3-5-2,Sommariva,P,BENCH,1
+1,2026_G01_GEN_NAP,Genoa,GEN,True,Napoli,NAP,3-5-2,Otoa,D,BENCH,35
+1,2026_G01_GEN_NAP,Genoa,GEN,True,Napoli,NAP,3-5-2,Mitaj,D,BENCH,60
+1,2026_G01_GEN_NAP,Genoa,GEN,True,Napoli,NAP,3-5-2,Puczka,D,BENCH,35
+1,2026_G01_GEN_NAP,Genoa,GEN,True,Napoli,NAP,3-5-2,Ehizibue,D,BENCH,25
+1,2026_G01_GEN_NAP,Genoa,GEN,True,Napoli,NAP,3-5-2,Amorim,C,BENCH,60
+1,2026_G01_GEN_NAP,Genoa,GEN,True,Napoli,NAP,3-5-2,Messias,C,BENCH,60
+1,2026_G01_GEN_NAP,Genoa,GEN,True,Napoli,NAP,3-5-2,Traor&#xE8; Hj.,C,BENCH,35
+1,2026_G01_GEN_NAP,Genoa,GEN,True,Napoli,NAP,3-5-2,Meichtry,C,BENCH,55
+1,2026_G01_GEN_NAP,Genoa,GEN,True,Napoli,NAP,3-5-2,El Shaarawy,C,BENCH,30
+1,2026_G01_GEN_NAP,Genoa,GEN,True,Napoli,NAP,3-5-2,Vitinha O.,A,BENCH,60
 1,2026_G01_GEN_NAP,Napoli,NAP,False,Genoa,GEN,4-3-3,Meret,P,STARTER,90
 1,2026_G01_GEN_NAP,Napoli,NAP,False,Genoa,GEN,4-3-3,Di Lorenzo,D,STARTER,90
 1,2026_G01_GEN_NAP,Napoli,NAP,False,Genoa,GEN,4-3-3,Rrahmani,D,STARTER,90
 1,2026_G01_GEN_NAP,Napoli,NAP,False,Genoa,GEN,4-3-3,Marin R.,D,STARTER,60
-1,2026_G01_GEN_NAP,Napoli,NAP,False,Genoa,GEN,4-3-3,Spinazzola,D,STARTER,60
+1,2026_G01_GEN_NAP,Napoli,NAP,False,Genoa,GEN,4-3-3,Spinazzola,D,STARTER,70
 1,2026_G01_GEN_NAP,Napoli,NAP,False,Genoa,GEN,4-3-3,Zambo Anguissa,C,STARTER,90
 1,2026_G01_GEN_NAP,Napoli,NAP,False,Genoa,GEN,4-3-3,Lobotka,C,STARTER,90
-1,2026_G01_GEN_NAP,Napoli,NAP,False,Genoa,GEN,4-3-3,De Bruyne,C,STARTER,80
+1,2026_G01_GEN_NAP,Napoli,NAP,False,Genoa,GEN,4-3-3,Vergara,C,STARTER,55
 1,2026_G01_GEN_NAP,Napoli,NAP,False,Genoa,GEN,4-3-3,Politano,C,STARTER,80
 1,2026_G01_GEN_NAP,Napoli,NAP,False,Genoa,GEN,4-3-3,Hojlund,A,STARTER,90
 1,2026_G01_GEN_NAP,Napoli,NAP,False,Genoa,GEN,4-3-3,Santos A.,A,STARTER,80
@@ -140,35 +137,35 @@ giornata,match_id,team,team_code,is_home,opponent,opponent_code,formation,player
 1,2026_G01_GEN_NAP,Napoli,NAP,False,Genoa,GEN,4-3-3,Beukema,D,BENCH,35
 1,2026_G01_GEN_NAP,Napoli,NAP,False,Genoa,GEN,4-3-3,Badiashile,D,BENCH,30
 1,2026_G01_GEN_NAP,Napoli,NAP,False,Genoa,GEN,4-3-3,Gilmour,C,BENCH,35
-1,2026_G01_GEN_NAP,Napoli,NAP,False,Genoa,GEN,4-3-3,Vergara,C,BENCH,60
+1,2026_G01_GEN_NAP,Napoli,NAP,False,Genoa,GEN,4-3-3,De Bruyne,C,BENCH,60
 1,2026_G01_GEN_NAP,Napoli,NAP,False,Genoa,GEN,4-3-3,Lang,A,BENCH,55
 1,2026_G01_GEN_NAP,Napoli,NAP,False,Genoa,GEN,4-3-3,Neres,A,BENCH,50
 1,2026_G01_GEN_NAP,Napoli,NAP,False,Genoa,GEN,4-3-3,Lucca,A,BENCH,60
-1,2026_G01_PAR_CAG,Parma,PAR,True,Cagliari,CAG,3-5-2,Corvi,P,STARTER,80
+1,2026_G01_PAR_CAG,Parma,PAR,True,Cagliari,CAG,3-5-2,Corvi,P,STARTER,55
 1,2026_G01_PAR_CAG,Parma,PAR,True,Cagliari,CAG,3-5-2,Delprato,D,STARTER,90
 1,2026_G01_PAR_CAG,Parma,PAR,True,Cagliari,CAG,3-5-2,Troilo,D,STARTER,90
 1,2026_G01_PAR_CAG,Parma,PAR,True,Cagliari,CAG,3-5-2,Diego Carlos,D,STARTER,80
 1,2026_G01_PAR_CAG,Parma,PAR,True,Cagliari,CAG,3-5-2,Britschgi,D,STARTER,55
-1,2026_G01_PAR_CAG,Parma,PAR,True,Cagliari,CAG,3-5-2,Bernab&#xE8;,C,STARTER,90
+1,2026_G01_PAR_CAG,Parma,PAR,True,Cagliari,CAG,3-5-2,Fabbian,C,STARTER,75
 1,2026_G01_PAR_CAG,Parma,PAR,True,Cagliari,CAG,3-5-2,Keita M.,C,STARTER,90
-1,2026_G01_PAR_CAG,Parma,PAR,True,Cagliari,CAG,3-5-2,Ordonez C.,C,STARTER,85
+1,2026_G01_PAR_CAG,Parma,PAR,True,Cagliari,CAG,3-5-2,Ordonez C.,C,STARTER,90
 1,2026_G01_PAR_CAG,Parma,PAR,True,Cagliari,CAG,3-5-2,Valeri,D,STARTER,80
 1,2026_G01_PAR_CAG,Parma,PAR,True,Cagliari,CAG,3-5-2,Romero D.,A,STARTER,55
 1,2026_G01_PAR_CAG,Parma,PAR,True,Cagliari,CAG,3-5-2,Tour&#xE8; E.,A,STARTER,90
-1,2026_G01_PAR_CAG,Parma,PAR,True,Cagliari,CAG,3-5-2,Daffara,P,BENCH,5
+1,2026_G01_PAR_CAG,Parma,PAR,True,Cagliari,CAG,3-5-2,Daffara,P,BENCH,45
 1,2026_G01_PAR_CAG,Parma,PAR,True,Cagliari,CAG,3-5-2,Ghidotti,P,BENCH,1
 1,2026_G01_PAR_CAG,Parma,PAR,True,Cagliari,CAG,3-5-2,Valenti,D,BENCH,50
 1,2026_G01_PAR_CAG,Parma,PAR,True,Cagliari,CAG,3-5-2,Ndiaye,D,BENCH,55
 1,2026_G01_PAR_CAG,Parma,PAR,True,Cagliari,CAG,3-5-2,Drobnic,D,BENCH,30
 1,2026_G01_PAR_CAG,Parma,PAR,True,Cagliari,CAG,3-5-2,Carboni F.,D,BENCH,25
-1,2026_G01_PAR_CAG,Parma,PAR,True,Cagliari,CAG,3-5-2,Fabbian,C,BENCH,60
-1,2026_G01_PAR_CAG,Parma,PAR,True,Cagliari,CAG,3-5-2,Cremaschi,C,BENCH,30
-1,2026_G01_PAR_CAG,Parma,PAR,True,Cagliari,CAG,3-5-2,Diallo O.,C,BENCH,55
-1,2026_G01_PAR_CAG,Parma,PAR,True,Cagliari,CAG,3-5-2,Konate A.,C,BENCH,30
-1,2026_G01_PAR_CAG,Parma,PAR,True,Cagliari,CAG,3-5-2,Almqvist,C,BENCH,35
-1,2026_G01_PAR_CAG,Parma,PAR,True,Cagliari,CAG,3-5-2,De Martis,A,BENCH,15
+1,2026_G01_PAR_CAG,Parma,PAR,True,Cagliari,CAG,3-5-2,Cremaschi,C,BENCH,40
+1,2026_G01_PAR_CAG,Parma,PAR,True,Cagliari,CAG,3-5-2,Bernab&#xE8;,C,BENCH,20
+1,2026_G01_PAR_CAG,Parma,PAR,True,Cagliari,CAG,3-5-2,Konate A.,C,BENCH,35
+1,2026_G01_PAR_CAG,Parma,PAR,True,Cagliari,CAG,3-5-2,Almqvist,C,BENCH,55
+1,2026_G01_PAR_CAG,Parma,PAR,True,Cagliari,CAG,3-5-2,Sierro,C,BENCH,25
 1,2026_G01_PAR_CAG,Parma,PAR,True,Cagliari,CAG,3-5-2,Lontani,A,BENCH,60
 1,2026_G01_PAR_CAG,Parma,PAR,True,Cagliari,CAG,3-5-2,Elphege,A,BENCH,55
+1,2026_G01_PAR_CAG,Parma,PAR,True,Cagliari,CAG,3-5-2,De Martis,A,BENCH,15
 1,2026_G01_PAR_CAG,Parma,PAR,True,Cagliari,CAG,3-5-2,Frigan,A,BENCH,40
 1,2026_G01_PAR_CAG,Cagliari,CAG,False,Parma,PAR,4-4-2,Caprile,P,STARTER,90
 1,2026_G01_PAR_CAG,Cagliari,CAG,False,Parma,PAR,4-4-2,Z&#xE8; Pedro,D,STARTER,90
@@ -184,6 +181,7 @@ giornata,match_id,team,team_code,is_home,opponent,opponent_code,formation,player
 1,2026_G01_PAR_CAG,Cagliari,CAG,False,Parma,PAR,4-4-2,Radunovic,P,BENCH,5
 1,2026_G01_PAR_CAG,Cagliari,CAG,False,Parma,PAR,4-4-2,Sherri,P,BENCH,1
 1,2026_G01_PAR_CAG,Cagliari,CAG,False,Parma,PAR,4-4-2,Aurelio,D,BENCH,25
+1,2026_G01_PAR_CAG,Cagliari,CAG,False,Parma,PAR,4-4-2,Mina,D,BENCH,15
 1,2026_G01_PAR_CAG,Cagliari,CAG,False,Parma,PAR,4-4-2,Kofler,D,BENCH,35
 1,2026_G01_PAR_CAG,Cagliari,CAG,False,Parma,PAR,4-4-2,Sugawara,D,BENCH,25
 1,2026_G01_PAR_CAG,Cagliari,CAG,False,Parma,PAR,4-4-2,Liteta,C,BENCH,20
@@ -194,7 +192,6 @@ giornata,match_id,team,team_code,is_home,opponent,opponent_code,formation,player
 1,2026_G01_PAR_CAG,Cagliari,CAG,False,Parma,PAR,4-4-2,Massolin,C,BENCH,35
 1,2026_G01_PAR_CAG,Cagliari,CAG,False,Parma,PAR,4-4-2,Nzola,A,BENCH,60
 1,2026_G01_PAR_CAG,Cagliari,CAG,False,Parma,PAR,4-4-2,Mendy P.,A,BENCH,60
-1,2026_G01_PAR_CAG,Cagliari,CAG,False,Parma,PAR,4-4-2,Borrelli,A,BENCH,35
 1,2026_G01_EMP_JUV,Empoli,EMP,True,Juventus,JUV,4-2-3-1,Palmisani,P,STARTER,90
 1,2026_G01_EMP_JUV,Empoli,EMP,True,Juventus,JUV,4-2-3-1,Oyono A.,D,STARTER,80
 1,2026_G01_EMP_JUV,Empoli,EMP,True,Juventus,JUV,4-2-3-1,Calvani,D,STARTER,90
@@ -225,7 +222,7 @@ giornata,match_id,team,team_code,is_home,opponent,opponent_code,formation,player
 1,2026_G01_EMP_JUV,Juventus,JUV,False,Empoli,EMP,4-2-3-1,Kalulu,D,STARTER,90
 1,2026_G01_EMP_JUV,Juventus,JUV,False,Empoli,EMP,4-2-3-1,Bremer,D,STARTER,90
 1,2026_G01_EMP_JUV,Juventus,JUV,False,Empoli,EMP,4-2-3-1,Lucum&#xEC;,D,STARTER,60
-1,2026_G01_EMP_JUV,Juventus,JUV,False,Empoli,EMP,4-2-3-1,Celik,D,STARTER,80
+1,2026_G01_EMP_JUV,Juventus,JUV,False,Empoli,EMP,4-2-3-1,Celik,D,STARTER,85
 1,2026_G01_EMP_JUV,Juventus,JUV,False,Empoli,EMP,4-2-3-1,Locatelli,C,STARTER,90
 1,2026_G01_EMP_JUV,Juventus,JUV,False,Empoli,EMP,4-2-3-1,Douglas Luiz,C,STARTER,80
 1,2026_G01_EMP_JUV,Juventus,JUV,False,Empoli,EMP,4-2-3-1,Conceicao,C,STARTER,90
@@ -235,39 +232,42 @@ giornata,match_id,team,team_code,is_home,opponent,opponent_code,formation,player
 1,2026_G01_EMP_JUV,Juventus,JUV,False,Empoli,EMP,4-2-3-1,Grabara,P,BENCH,5
 1,2026_G01_EMP_JUV,Juventus,JUV,False,Empoli,EMP,4-2-3-1,Pinsoglio,P,BENCH,1
 1,2026_G01_EMP_JUV,Juventus,JUV,False,Empoli,EMP,4-2-3-1,Kelly L.,D,BENCH,55
-1,2026_G01_EMP_JUV,Juventus,JUV,False,Empoli,EMP,4-2-3-1,Cambiaso,D,BENCH,40
+1,2026_G01_EMP_JUV,Juventus,JUV,False,Empoli,EMP,4-2-3-1,Cambiaso,D,BENCH,50
 1,2026_G01_EMP_JUV,Juventus,JUV,False,Empoli,EMP,4-2-3-1,Rugani,D,BENCH,25
 1,2026_G01_EMP_JUV,Juventus,JUV,False,Empoli,EMP,4-2-3-1,Gatti,D,BENCH,35
-1,2026_G01_EMP_JUV,Juventus,JUV,False,Empoli,EMP,4-2-3-1,Koopmeiners,C,BENCH,55
+1,2026_G01_EMP_JUV,Juventus,JUV,False,Empoli,EMP,4-2-3-1,Koopmeiners,C,BENCH,60
+1,2026_G01_EMP_JUV,Juventus,JUV,False,Empoli,EMP,4-2-3-1,McKennie,C,BENCH,15
 1,2026_G01_EMP_JUV,Juventus,JUV,False,Empoli,EMP,4-2-3-1,Alajbegovic,C,BENCH,55
-1,2026_G01_EMP_JUV,Juventus,JUV,False,Empoli,EMP,4-2-3-1,Sarr P.,C,BENCH,60
+1,2026_G01_EMP_JUV,Juventus,JUV,False,Empoli,EMP,4-2-3-1,Sarr P.,C,BENCH,35
+1,2026_G01_EMP_JUV,Juventus,JUV,False,Empoli,EMP,4-2-3-1,Zhegrova,C,BENCH,30
 1,2026_G01_EMP_JUV,Juventus,JUV,False,Empoli,EMP,4-2-3-1,Woltemade,A,BENCH,60
 1,2026_G01_EMP_JUV,Juventus,JUV,False,Empoli,EMP,4-2-3-1,Milik,A,BENCH,30
 1,2026_G01_VEN_LEC,Venezia,VEN,True,Lecce,LEC,3-5-2,Stankovic F.,P,STARTER,90
 1,2026_G01_VEN_LEC,Venezia,VEN,True,Lecce,LEC,3-5-2,Schingtienne,D,STARTER,90
-1,2026_G01_VEN_LEC,Venezia,VEN,True,Lecce,LEC,3-5-2,Bella-Kotchap,D,STARTER,90
+1,2026_G01_VEN_LEC,Venezia,VEN,True,Lecce,LEC,3-5-2,Moreno M.,D,STARTER,55
 1,2026_G01_VEN_LEC,Venezia,VEN,True,Lecce,LEC,3-5-2,Halhal,D,STARTER,80
 1,2026_G01_VEN_LEC,Venezia,VEN,True,Lecce,LEC,3-5-2,Mazzocchi,D,STARTER,55
 1,2026_G01_VEN_LEC,Venezia,VEN,True,Lecce,LEC,3-5-2,Perez K.,C,STARTER,80
 1,2026_G01_VEN_LEC,Venezia,VEN,True,Lecce,LEC,3-5-2,Busio,C,STARTER,90
 1,2026_G01_VEN_LEC,Venezia,VEN,True,Lecce,LEC,3-5-2,Basic,C,STARTER,90
-1,2026_G01_VEN_LEC,Venezia,VEN,True,Lecce,LEC,3-5-2,Haps,D,STARTER,60
-1,2026_G01_VEN_LEC,Venezia,VEN,True,Lecce,LEC,3-5-2,Yeboah J.,A,STARTER,90
+1,2026_G01_VEN_LEC,Venezia,VEN,True,Lecce,LEC,3-5-2,Haps,D,STARTER,80
+1,2026_G01_VEN_LEC,Venezia,VEN,True,Lecce,LEC,3-5-2,Yeboah J.,A,STARTER,55
 1,2026_G01_VEN_LEC,Venezia,VEN,True,Lecce,LEC,3-5-2,Adams A.,A,STARTER,90
 1,2026_G01_VEN_LEC,Venezia,VEN,True,Lecce,LEC,3-5-2,Montip&#xF2;,P,BENCH,5
 1,2026_G01_VEN_LEC,Venezia,VEN,True,Lecce,LEC,3-5-2,Grandi,P,BENCH,1
 1,2026_G01_VEN_LEC,Venezia,VEN,True,Lecce,LEC,3-5-2,Pozzi,P,BENCH,1
+1,2026_G01_VEN_LEC,Venezia,VEN,True,Lecce,LEC,3-5-2,Bella-Kotchap,D,BENCH,50
 1,2026_G01_VEN_LEC,Venezia,VEN,True,Lecce,LEC,3-5-2,Gomes,D,BENCH,25
 1,2026_G01_VEN_LEC,Venezia,VEN,True,Lecce,LEC,3-5-2,Correia T.,D,BENCH,55
 1,2026_G01_VEN_LEC,Venezia,VEN,True,Lecce,LEC,3-5-2,Sagrado,D,BENCH,25
-1,2026_G01_VEN_LEC,Venezia,VEN,True,Lecce,LEC,3-5-2,Juan Jesus,D,BENCH,40
+1,2026_G01_VEN_LEC,Venezia,VEN,True,Lecce,LEC,3-5-2,Juan Jesus,D,BENCH,25
 1,2026_G01_VEN_LEC,Venezia,VEN,True,Lecce,LEC,3-5-2,Hainaut,D,BENCH,60
 1,2026_G01_VEN_LEC,Venezia,VEN,True,Lecce,LEC,3-5-2,Sohm,C,BENCH,60
 1,2026_G01_VEN_LEC,Venezia,VEN,True,Lecce,LEC,3-5-2,Dagasso,C,BENCH,25
-1,2026_G01_VEN_LEC,Venezia,VEN,True,Lecce,LEC,3-5-2,Helgason,C,BENCH,55
-1,2026_G01_VEN_LEC,Venezia,VEN,True,Lecce,LEC,3-5-2,Fernandez T.,C,BENCH,30
+1,2026_G01_VEN_LEC,Venezia,VEN,True,Lecce,LEC,3-5-2,Helgason,C,BENCH,40
+1,2026_G01_VEN_LEC,Venezia,VEN,True,Lecce,LEC,3-5-2,Fernandez T.,C,BENCH,55
 1,2026_G01_VEN_LEC,Venezia,VEN,True,Lecce,LEC,3-5-2,Rrahmani Al.,A,BENCH,60
-1,2026_G01_VEN_LEC,Venezia,VEN,True,Lecce,LEC,3-5-2,Lauberbach,A,BENCH,40
+1,2026_G01_VEN_LEC,Venezia,VEN,True,Lecce,LEC,3-5-2,Lauberbach,A,BENCH,35
 1,2026_G01_VEN_LEC,Venezia,VEN,True,Lecce,LEC,3-5-2,Lisman,A,BENCH,15
 1,2026_G01_VEN_LEC,Lecce,LEC,False,Venezia,VEN,4-3-3,Falcone,P,STARTER,90
 1,2026_G01_VEN_LEC,Lecce,LEC,False,Venezia,VEN,4-3-3,Veiga D.,D,STARTER,90
@@ -294,21 +294,22 @@ giornata,match_id,team,team_code,is_home,opponent,opponent_code,formation,player
 1,2026_G01_VEN_LEC,Lecce,LEC,False,Venezia,VEN,4-3-3,N&#x27;Dri,A,BENCH,60
 1,2026_G01_VEN_LEC,Lecce,LEC,False,Venezia,VEN,4-3-3,Fatah,A,BENCH,55
 1,2026_G01_ATA_VER,Atalanta,ATA,True,Verona,VER,4-3-3,Carnesecchi,P,STARTER,90
-1,2026_G01_ATA_VER,Atalanta,ATA,True,Verona,VER,4-3-3,Bellanova,D,STARTER,60
-1,2026_G01_ATA_VER,Atalanta,ATA,True,Verona,VER,4-3-3,Kossounou,D,STARTER,90
+1,2026_G01_ATA_VER,Atalanta,ATA,True,Verona,VER,4-3-3,Bellanova,D,STARTER,70
+1,2026_G01_ATA_VER,Atalanta,ATA,True,Verona,VER,4-3-3,Kossounou,D,STARTER,70
 1,2026_G01_ATA_VER,Atalanta,ATA,True,Verona,VER,4-3-3,Bernasconi,D,STARTER,85
 1,2026_G01_ATA_VER,Atalanta,ATA,True,Verona,VER,4-3-3,Samardzic,C,STARTER,55
 1,2026_G01_ATA_VER,Atalanta,ATA,True,Verona,VER,4-3-3,Gaetano,C,STARTER,90
 1,2026_G01_ATA_VER,Atalanta,ATA,True,Verona,VER,4-3-3,Ederson D.S.,C,STARTER,90
 1,2026_G01_ATA_VER,Atalanta,ATA,True,Verona,VER,4-3-3,De Ketelaere,A,STARTER,90
-1,2026_G01_ATA_VER,Atalanta,ATA,True,Verona,VER,4-3-3,Rowe,C,STARTER,70
+1,2026_G01_ATA_VER,Atalanta,ATA,True,Verona,VER,4-3-3,Rowe,C,STARTER,55
 1,2026_G01_ATA_VER,Atalanta,ATA,True,Verona,VER,4-3-3,Zappacosta,D,STARTER,60
-1,2026_G01_ATA_VER,Atalanta,ATA,True,Verona,VER,4-3-3,Kolasinac,D,STARTER,35
+1,2026_G01_ATA_VER,Atalanta,ATA,True,Verona,VER,4-3-3,Kristensen T.,D,STARTER,40
 1,2026_G01_ATA_VER,Atalanta,ATA,True,Verona,VER,4-3-3,Sportiello,P,BENCH,5
 1,2026_G01_ATA_VER,Atalanta,ATA,True,Verona,VER,4-3-3,Pompei,P,BENCH,1
+1,2026_G01_ATA_VER,Atalanta,ATA,True,Verona,VER,4-3-3,Kolasinac,D,BENCH,35
 1,2026_G01_ATA_VER,Atalanta,ATA,True,Verona,VER,4-3-3,Pasalic,C,BENCH,60
-1,2026_G01_ATA_VER,Atalanta,ATA,True,Verona,VER,4-3-3,Kessi&#xE8;,C,BENCH,55
-1,2026_G01_ATA_VER,Atalanta,ATA,True,Verona,VER,4-3-3,Elmas,C,BENCH,40
+1,2026_G01_ATA_VER,Atalanta,ATA,True,Verona,VER,4-3-3,Kessi&#xE8;,C,BENCH,40
+1,2026_G01_ATA_VER,Atalanta,ATA,True,Verona,VER,4-3-3,Elmas,C,BENCH,55
 1,2026_G01_ATA_VER,Atalanta,ATA,True,Verona,VER,4-3-3,Zalewski,C,BENCH,40
 1,2026_G01_ATA_VER,Atalanta,ATA,True,Verona,VER,4-3-3,Raspadori,A,BENCH,60
 1,2026_G01_ATA_VER,Atalanta,ATA,True,Verona,VER,4-3-3,Krstovic,A,BENCH,60
@@ -319,7 +320,7 @@ giornata,match_id,team,team_code,is_home,opponent,opponent_code,formation,player
 1,2026_G01_ATA_VER,Verona,VER,False,Atalanta,ATA,4-3-3,Idzes,D,STARTER,90
 1,2026_G01_ATA_VER,Verona,VER,False,Atalanta,ATA,4-3-3,Leysen F.,D,STARTER,70
 1,2026_G01_ATA_VER,Verona,VER,False,Atalanta,ATA,4-3-3,Doig,D,STARTER,60
-1,2026_G01_ATA_VER,Verona,VER,False,Atalanta,ATA,4-3-3,Thorstvedt,C,STARTER,85
+1,2026_G01_ATA_VER,Verona,VER,False,Atalanta,ATA,4-3-3,Thorstvedt,C,STARTER,80
 1,2026_G01_ATA_VER,Verona,VER,False,Atalanta,ATA,4-3-3,Matic,C,STARTER,90
 1,2026_G01_ATA_VER,Verona,VER,False,Atalanta,ATA,4-3-3,Bakola,C,STARTER,75
 1,2026_G01_ATA_VER,Verona,VER,False,Atalanta,ATA,4-3-3,Berardi,A,STARTER,55
@@ -338,45 +339,43 @@ giornata,match_id,team,team_code,is_home,opponent,opponent_code,formation,player
 1,2026_G01_ATA_VER,Verona,VER,False,Atalanta,ATA,4-3-3,Sulemana I.,C,BENCH,30
 1,2026_G01_ATA_VER,Verona,VER,False,Atalanta,ATA,4-3-3,Kulla,A,BENCH,10
 1,2026_G01_ATA_VER,Verona,VER,False,Atalanta,ATA,4-3-3,Bowie,A,BENCH,60
-1,2026_G01_TOR_MIL,Torino,TOR,True,Milan,MIL,3-4-2-1,Perri,P,STARTER,80
-1,2026_G01_TOR_MIL,Torino,TOR,True,Milan,MIL,3-4-2-1,Comuzzo,D,STARTER,90
-1,2026_G01_TOR_MIL,Torino,TOR,True,Milan,MIL,3-4-2-1,Coco,D,STARTER,90
-1,2026_G01_TOR_MIL,Torino,TOR,True,Milan,MIL,3-4-2-1,Comert,D,STARTER,90
-1,2026_G01_TOR_MIL,Torino,TOR,True,Milan,MIL,3-4-2-1,Belghali,D,STARTER,80
-1,2026_G01_TOR_MIL,Torino,TOR,True,Milan,MIL,3-4-2-1,Mandragora,C,STARTER,55
-1,2026_G01_TOR_MIL,Torino,TOR,True,Milan,MIL,3-4-2-1,Fitz-Jim,C,STARTER,85
-1,2026_G01_TOR_MIL,Torino,TOR,True,Milan,MIL,3-4-2-1,Cacciamani,C,STARTER,60
-1,2026_G01_TOR_MIL,Torino,TOR,True,Milan,MIL,3-4-2-1,Adams C.,A,STARTER,60
-1,2026_G01_TOR_MIL,Torino,TOR,True,Milan,MIL,3-4-2-1,Vlasic,C,STARTER,90
-1,2026_G01_TOR_MIL,Torino,TOR,True,Milan,MIL,3-4-2-1,Simeone,A,STARTER,90
-1,2026_G01_TOR_MIL,Torino,TOR,True,Milan,MIL,3-4-2-1,Mascardi,P,BENCH,5
-1,2026_G01_TOR_MIL,Torino,TOR,True,Milan,MIL,3-4-2-1,Siviero,P,BENCH,1
-1,2026_G01_TOR_MIL,Torino,TOR,True,Milan,MIL,3-4-2-1,Ismajli,D,BENCH,55
-1,2026_G01_TOR_MIL,Torino,TOR,True,Milan,MIL,3-4-2-1,Fortini,D,BENCH,60
-1,2026_G01_TOR_MIL,Torino,TOR,True,Milan,MIL,3-4-2-1,Patterson,D,BENCH,40
-1,2026_G01_TOR_MIL,Torino,TOR,True,Milan,MIL,3-4-2-1,Biraghi,D,BENCH,20
-1,2026_G01_TOR_MIL,Torino,TOR,True,Milan,MIL,3-4-2-1,Ilkhan,C,BENCH,40
-1,2026_G01_TOR_MIL,Torino,TOR,True,Milan,MIL,3-4-2-1,Aboukhlal,C,BENCH,30
-1,2026_G01_TOR_MIL,Torino,TOR,True,Milan,MIL,3-4-2-1,Braganca,C,BENCH,40
-1,2026_G01_TOR_MIL,Torino,TOR,True,Milan,MIL,3-4-2-1,Oristanio,C,BENCH,55
-1,2026_G01_TOR_MIL,Torino,TOR,True,Milan,MIL,3-4-2-1,Anjorin,C,BENCH,20
-1,2026_G01_TOR_MIL,Torino,TOR,True,Milan,MIL,3-4-2-1,Gineitis,C,BENCH,60
-1,2026_G01_TOR_MIL,Torino,TOR,True,Milan,MIL,3-4-2-1,Zapata D.,A,BENCH,60
-1,2026_G01_TOR_MIL,Torino,TOR,True,Milan,MIL,3-4-2-1,Kulenovic,A,BENCH,35
+1,2026_G01_TOR_MIL,Torino,TOR,True,Milan,MIL,3-5-1-1,Perri,P,STARTER,100
+1,2026_G01_TOR_MIL,Torino,TOR,True,Milan,MIL,3-5-1-1,Comuzzo,D,STARTER,100
+1,2026_G01_TOR_MIL,Torino,TOR,True,Milan,MIL,3-5-1-1,Coco,D,STARTER,100
+1,2026_G01_TOR_MIL,Torino,TOR,True,Milan,MIL,3-5-1-1,Comert,D,STARTER,100
+1,2026_G01_TOR_MIL,Torino,TOR,True,Milan,MIL,3-5-1-1,Fortini,D,STARTER,100
+1,2026_G01_TOR_MIL,Torino,TOR,True,Milan,MIL,3-5-1-1,Gineitis,C,STARTER,100
+1,2026_G01_TOR_MIL,Torino,TOR,True,Milan,MIL,3-5-1-1,Mandragora,C,STARTER,100
+1,2026_G01_TOR_MIL,Torino,TOR,True,Milan,MIL,3-5-1-1,Fitz-Jim,C,STARTER,100
+1,2026_G01_TOR_MIL,Torino,TOR,True,Milan,MIL,3-5-1-1,Cacciamani,C,STARTER,100
+1,2026_G01_TOR_MIL,Torino,TOR,True,Milan,MIL,3-5-1-1,Vlasic,C,STARTER,100
+1,2026_G01_TOR_MIL,Torino,TOR,True,Milan,MIL,3-5-1-1,Adams C.,A,STARTER,100
+1,2026_G01_TOR_MIL,Torino,TOR,True,Milan,MIL,3-5-1-1,Mascardi,P,BENCH,5
+1,2026_G01_TOR_MIL,Torino,TOR,True,Milan,MIL,3-5-1-1,Siviero,P,BENCH,1
+1,2026_G01_TOR_MIL,Torino,TOR,True,Milan,MIL,3-5-1-1,Ismajli,D,BENCH,40
+1,2026_G01_TOR_MIL,Torino,TOR,True,Milan,MIL,3-5-1-1,Belghali,D,BENCH,60
+1,2026_G01_TOR_MIL,Torino,TOR,True,Milan,MIL,3-5-1-1,Patterson,D,BENCH,40
+1,2026_G01_TOR_MIL,Torino,TOR,True,Milan,MIL,3-5-1-1,Biraghi,D,BENCH,20
+1,2026_G01_TOR_MIL,Torino,TOR,True,Milan,MIL,3-5-1-1,Ilkhan,C,BENCH,40
+1,2026_G01_TOR_MIL,Torino,TOR,True,Milan,MIL,3-5-1-1,Aboukhlal,C,BENCH,30
+1,2026_G01_TOR_MIL,Torino,TOR,True,Milan,MIL,3-5-1-1,Braganca,C,BENCH,55
+1,2026_G01_TOR_MIL,Torino,TOR,True,Milan,MIL,3-5-1-1,Oristanio,C,BENCH,55
+1,2026_G01_TOR_MIL,Torino,TOR,True,Milan,MIL,3-5-1-1,Zapata D.,A,BENCH,55
+1,2026_G01_TOR_MIL,Torino,TOR,True,Milan,MIL,3-5-1-1,Simeone,A,BENCH,60
+1,2026_G01_TOR_MIL,Torino,TOR,True,Milan,MIL,3-5-1-1,Kulenovic,A,BENCH,35
 1,2026_G01_TOR_MIL,Milan,MIL,False,Torino,TOR,3-4-2-1,Maignan,P,STARTER,90
 1,2026_G01_TOR_MIL,Milan,MIL,False,Torino,TOR,3-4-2-1,Gila,D,STARTER,90
-1,2026_G01_TOR_MIL,Milan,MIL,False,Torino,TOR,3-4-2-1,De Winter,D,STARTER,60
+1,2026_G01_TOR_MIL,Milan,MIL,False,Torino,TOR,3-4-2-1,De Winter,D,STARTER,90
 1,2026_G01_TOR_MIL,Milan,MIL,False,Torino,TOR,3-4-2-1,Pavlovic,D,STARTER,90
 1,2026_G01_TOR_MIL,Milan,MIL,False,Torino,TOR,3-4-2-1,Chukwueze,C,STARTER,85
 1,2026_G01_TOR_MIL,Milan,MIL,False,Torino,TOR,3-4-2-1,Modric,C,STARTER,90
 1,2026_G01_TOR_MIL,Milan,MIL,False,Torino,TOR,3-4-2-1,Musah,C,STARTER,90
-1,2026_G01_TOR_MIL,Milan,MIL,False,Torino,TOR,3-4-2-1,Bartesaghi,D,STARTER,85
+1,2026_G01_TOR_MIL,Milan,MIL,False,Torino,TOR,3-4-2-1,Bartesaghi,D,STARTER,60
 1,2026_G01_TOR_MIL,Milan,MIL,False,Torino,TOR,3-4-2-1,Rabiot,C,STARTER,85
 1,2026_G01_TOR_MIL,Milan,MIL,False,Torino,TOR,3-4-2-1,Ciss&#xE8; A.,C,STARTER,60
 1,2026_G01_TOR_MIL,Milan,MIL,False,Torino,TOR,3-4-2-1,Ramos G.,A,STARTER,90
 1,2026_G01_TOR_MIL,Milan,MIL,False,Torino,TOR,3-4-2-1,Terracciano,P,BENCH,5
 1,2026_G01_TOR_MIL,Milan,MIL,False,Torino,TOR,3-4-2-1,Torriani,P,BENCH,1
-1,2026_G01_TOR_MIL,Milan,MIL,False,Torino,TOR,3-4-2-1,Gabbia,D,BENCH,40
 1,2026_G01_TOR_MIL,Milan,MIL,False,Torino,TOR,3-4-2-1,Tomori,D,BENCH,25
 1,2026_G01_TOR_MIL,Milan,MIL,False,Torino,TOR,3-4-2-1,Estupinan,D,BENCH,55
 1,2026_G01_TOR_MIL,Milan,MIL,False,Torino,TOR,3-4-2-1,Terracciano F.,D,BENCH,25
@@ -389,29 +388,28 @@ giornata,match_id,team,team_code,is_home,opponent,opponent_code,formation,player
 1,2026_G01_TOR_MIL,Milan,MIL,False,Torino,TOR,3-4-2-1,Loftus-Cheek,C,BENCH,60
 1,2026_G01_TOR_MIL,Milan,MIL,False,Torino,TOR,3-4-2-1,Camarda,A,BENCH,30
 1,2026_G01_BOL_LAZ,Bologna,BOL,True,Lazio,LAZ,4-3-3,Skorupski,P,STARTER,90
-1,2026_G01_BOL_LAZ,Bologna,BOL,True,Lazio,LAZ,4-3-3,Zortea,D,STARTER,60
+1,2026_G01_BOL_LAZ,Bologna,BOL,True,Lazio,LAZ,4-3-3,Zortea,D,STARTER,55
 1,2026_G01_BOL_LAZ,Bologna,BOL,True,Lazio,LAZ,4-3-3,Heggem,D,STARTER,90
-1,2026_G01_BOL_LAZ,Bologna,BOL,True,Lazio,LAZ,4-3-3,Theate,D,STARTER,55
+1,2026_G01_BOL_LAZ,Bologna,BOL,True,Lazio,LAZ,4-3-3,Theate,D,STARTER,80
 1,2026_G01_BOL_LAZ,Bologna,BOL,True,Lazio,LAZ,4-3-3,Miranda J.,D,STARTER,80
-1,2026_G01_BOL_LAZ,Bologna,BOL,True,Lazio,LAZ,4-3-3,Odgaard,C,STARTER,85
+1,2026_G01_BOL_LAZ,Bologna,BOL,True,Lazio,LAZ,4-3-3,Odgaard,C,STARTER,80
 1,2026_G01_BOL_LAZ,Bologna,BOL,True,Lazio,LAZ,4-3-3,Ferguson,C,STARTER,90
 1,2026_G01_BOL_LAZ,Bologna,BOL,True,Lazio,LAZ,4-3-3,Pobega,C,STARTER,55
 1,2026_G01_BOL_LAZ,Bologna,BOL,True,Lazio,LAZ,4-3-3,Bernardeschi,C,STARTER,90
-1,2026_G01_BOL_LAZ,Bologna,BOL,True,Lazio,LAZ,4-3-3,Piccoli,A,STARTER,80
+1,2026_G01_BOL_LAZ,Bologna,BOL,True,Lazio,LAZ,4-3-3,Piccoli,A,STARTER,60
 1,2026_G01_BOL_LAZ,Bologna,BOL,True,Lazio,LAZ,4-3-3,Alhassane,D,STARTER,35
 1,2026_G01_BOL_LAZ,Bologna,BOL,True,Lazio,LAZ,4-3-3,Pessina Mas.,P,BENCH,5
 1,2026_G01_BOL_LAZ,Bologna,BOL,True,Lazio,LAZ,4-3-3,Happonen,P,BENCH,1
 1,2026_G01_BOL_LAZ,Bologna,BOL,True,Lazio,LAZ,4-3-3,Holm,D,BENCH,60
 1,2026_G01_BOL_LAZ,Bologna,BOL,True,Lazio,LAZ,4-3-3,Helland,D,BENCH,40
 1,2026_G01_BOL_LAZ,Bologna,BOL,True,Lazio,LAZ,4-3-3,Vitik,D,BENCH,35
-1,2026_G01_BOL_LAZ,Bologna,BOL,True,Lazio,LAZ,4-3-3,Casale,D,BENCH,30
 1,2026_G01_BOL_LAZ,Bologna,BOL,True,Lazio,LAZ,4-3-3,De Silvestri,D,BENCH,20
 1,2026_G01_BOL_LAZ,Bologna,BOL,True,Lazio,LAZ,4-3-3,Moro N.,C,BENCH,60
 1,2026_G01_BOL_LAZ,Bologna,BOL,True,Lazio,LAZ,4-3-3,Amondarain,C,BENCH,55
 1,2026_G01_BOL_LAZ,Bologna,BOL,True,Lazio,LAZ,4-3-3,Mbangula,C,BENCH,55
 1,2026_G01_BOL_LAZ,Bologna,BOL,True,Lazio,LAZ,4-3-3,Dovbyk,A,BENCH,60
-1,2026_G01_BOL_LAZ,Bologna,BOL,True,Lazio,LAZ,4-3-3,Enem,A,BENCH,20
-1,2026_G01_BOL_LAZ,Bologna,BOL,True,Lazio,LAZ,4-3-3,Cambiaghi,C,BENCH,80
+1,2026_G01_BOL_LAZ,Bologna,BOL,True,Lazio,LAZ,4-3-3,Enem,A,BENCH,15
+1,2026_G01_BOL_LAZ,Bologna,BOL,True,Lazio,LAZ,4-3-3,Cambiaghi,C,BENCH,85
 1,2026_G01_BOL_LAZ,Lazio,LAZ,False,Bologna,BOL,4-3-3,Mandas,P,STARTER,90
 1,2026_G01_BOL_LAZ,Lazio,LAZ,False,Bologna,BOL,4-3-3,Floriani Mussolini,D,STARTER,90
 1,2026_G01_BOL_LAZ,Lazio,LAZ,False,Bologna,BOL,4-3-3,Doekhi,D,STARTER,80
@@ -420,7 +418,7 @@ giornata,match_id,team,team_code,is_home,opponent,opponent_code,formation,player
 1,2026_G01_BOL_LAZ,Lazio,LAZ,False,Bologna,BOL,4-3-3,Frattesi,C,STARTER,90
 1,2026_G01_BOL_LAZ,Lazio,LAZ,False,Bologna,BOL,4-3-3,Belahyane,C,STARTER,85
 1,2026_G01_BOL_LAZ,Lazio,LAZ,False,Bologna,BOL,4-3-3,Taylor K.,C,STARTER,90
-1,2026_G01_BOL_LAZ,Lazio,LAZ,False,Bologna,BOL,4-3-3,Isaksen,C,STARTER,60
+1,2026_G01_BOL_LAZ,Lazio,LAZ,False,Bologna,BOL,4-3-3,Gudmundsson A.,C,STARTER,55
 1,2026_G01_BOL_LAZ,Lazio,LAZ,False,Bologna,BOL,4-3-3,Pinamonti,A,STARTER,90
 1,2026_G01_BOL_LAZ,Lazio,LAZ,False,Bologna,BOL,4-3-3,Zaccagni,C,STARTER,90
 1,2026_G01_BOL_LAZ,Lazio,LAZ,False,Bologna,BOL,4-3-3,Motta,P,BENCH,5
@@ -429,51 +427,51 @@ giornata,match_id,team,team_code,is_home,opponent,opponent_code,formation,player
 1,2026_G01_BOL_LAZ,Lazio,LAZ,False,Bologna,BOL,4-3-3,Sutalo J.,D,BENCH,50
 1,2026_G01_BOL_LAZ,Lazio,LAZ,False,Bologna,BOL,4-3-3,Lazzari,D,BENCH,40
 1,2026_G01_BOL_LAZ,Lazio,LAZ,False,Bologna,BOL,4-3-3,Pellegrini Lu.,D,BENCH,20
-1,2026_G01_BOL_LAZ,Lazio,LAZ,False,Bologna,BOL,4-3-3,Cancellieri,C,BENCH,60
+1,2026_G01_BOL_LAZ,Lazio,LAZ,False,Bologna,BOL,4-3-3,Cancellieri,C,BENCH,55
 1,2026_G01_BOL_LAZ,Lazio,LAZ,False,Bologna,BOL,4-3-3,Przyborek,C,BENCH,25
-1,2026_G01_BOL_LAZ,Lazio,LAZ,False,Bologna,BOL,4-3-3,Gudmundsson A.,C,BENCH,60
+1,2026_G01_BOL_LAZ,Lazio,LAZ,False,Bologna,BOL,4-3-3,Isaksen,C,BENCH,60
 1,2026_G01_BOL_LAZ,Lazio,LAZ,False,Bologna,BOL,4-3-3,Noslin,A,BENCH,60
 1,2026_G01_ROM_FIO,Roma,ROM,True,Fiorentina,FIO,3-4-2-1,Svilar,P,STARTER,90
 1,2026_G01_ROM_FIO,Roma,ROM,True,Fiorentina,FIO,3-4-2-1,Mancini,D,STARTER,90
-1,2026_G01_ROM_FIO,Roma,ROM,True,Fiorentina,FIO,3-4-2-1,Ghilardi,D,STARTER,80
+1,2026_G01_ROM_FIO,Roma,ROM,True,Fiorentina,FIO,3-4-2-1,N&#x27;Dicka,D,STARTER,60
 1,2026_G01_ROM_FIO,Roma,ROM,True,Fiorentina,FIO,3-4-2-1,Hermoso,D,STARTER,90
 1,2026_G01_ROM_FIO,Roma,ROM,True,Fiorentina,FIO,3-4-2-1,Molina N.,D,STARTER,55
-1,2026_G01_ROM_FIO,Roma,ROM,True,Fiorentina,FIO,3-4-2-1,Kon&#xE8; M.,C,STARTER,90
+1,2026_G01_ROM_FIO,Roma,ROM,True,Fiorentina,FIO,3-4-2-1,Kon&#xE8; M.,C,STARTER,85
 1,2026_G01_ROM_FIO,Roma,ROM,True,Fiorentina,FIO,3-4-2-1,Cristante,C,STARTER,90
 1,2026_G01_ROM_FIO,Roma,ROM,True,Fiorentina,FIO,3-4-2-1,Wesley,D,STARTER,90
-1,2026_G01_ROM_FIO,Roma,ROM,True,Fiorentina,FIO,3-4-2-1,Dybala,A,STARTER,90
-1,2026_G01_ROM_FIO,Roma,ROM,True,Fiorentina,FIO,3-4-2-1,Mora,C,STARTER,60
+1,2026_G01_ROM_FIO,Roma,ROM,True,Fiorentina,FIO,3-4-2-1,Dybala,A,STARTER,55
+1,2026_G01_ROM_FIO,Roma,ROM,True,Fiorentina,FIO,3-4-2-1,Mora,C,STARTER,75
 1,2026_G01_ROM_FIO,Roma,ROM,True,Fiorentina,FIO,3-4-2-1,Malen,A,STARTER,90
 1,2026_G01_ROM_FIO,Roma,ROM,True,Fiorentina,FIO,3-4-2-1,Gollini,P,BENCH,5
 1,2026_G01_ROM_FIO,Roma,ROM,True,Fiorentina,FIO,3-4-2-1,De Marzi,P,BENCH,1
 1,2026_G01_ROM_FIO,Roma,ROM,True,Fiorentina,FIO,3-4-2-1,Lulli,D,BENCH,60
-1,2026_G01_ROM_FIO,Roma,ROM,True,Fiorentina,FIO,3-4-2-1,Koulierakis,D,BENCH,40
-1,2026_G01_ROM_FIO,Roma,ROM,True,Fiorentina,FIO,3-4-2-1,Rensch,D,BENCH,40
-1,2026_G01_ROM_FIO,Roma,ROM,True,Fiorentina,FIO,3-4-2-1,Balerdi,D,BENCH,30
+1,2026_G01_ROM_FIO,Roma,ROM,True,Fiorentina,FIO,3-4-2-1,Koulierakis,D,BENCH,30
+1,2026_G01_ROM_FIO,Roma,ROM,True,Fiorentina,FIO,3-4-2-1,Rensch,D,BENCH,35
+1,2026_G01_ROM_FIO,Roma,ROM,True,Fiorentina,FIO,3-4-2-1,Ghilardi,D,BENCH,40
+1,2026_G01_ROM_FIO,Roma,ROM,True,Fiorentina,FIO,3-4-2-1,Balerdi,D,BENCH,25
 1,2026_G01_ROM_FIO,Roma,ROM,True,Fiorentina,FIO,3-4-2-1,Pisilli,C,BENCH,60
 1,2026_G01_ROM_FIO,Roma,ROM,True,Fiorentina,FIO,3-4-2-1,De Roon,C,BENCH,55
-1,2026_G01_ROM_FIO,Roma,ROM,True,Fiorentina,FIO,3-4-2-1,Pellegrini Lo.,C,BENCH,25
 1,2026_G01_ROM_FIO,Roma,ROM,True,Fiorentina,FIO,3-4-2-1,Soul&#xE8;,A,BENCH,60
-1,2026_G01_ROM_FIO,Roma,ROM,True,Fiorentina,FIO,3-4-2-1,Castro S.,A,BENCH,55
-1,2026_G01_ROM_FIO,Fiorentina,FIO,False,Roma,ROM,4-3-2-1,De Gea,P,STARTER,90
-1,2026_G01_ROM_FIO,Fiorentina,FIO,False,Roma,ROM,4-3-2-1,Jimenez A.,D,STARTER,55
-1,2026_G01_ROM_FIO,Fiorentina,FIO,False,Roma,ROM,4-3-2-1,Dragusin,D,STARTER,90
-1,2026_G01_ROM_FIO,Fiorentina,FIO,False,Roma,ROM,4-3-2-1,Viery,D,STARTER,55
-1,2026_G01_ROM_FIO,Fiorentina,FIO,False,Roma,ROM,4-3-2-1,Valdepenas,D,STARTER,80
-1,2026_G01_ROM_FIO,Fiorentina,FIO,False,Roma,ROM,4-3-2-1,Ndour,C,STARTER,85
-1,2026_G01_ROM_FIO,Fiorentina,FIO,False,Roma,ROM,4-3-2-1,Fagioli,C,STARTER,70
-1,2026_G01_ROM_FIO,Fiorentina,FIO,False,Roma,ROM,4-3-2-1,Atta,C,STARTER,90
-1,2026_G01_ROM_FIO,Fiorentina,FIO,False,Roma,ROM,4-3-2-1,Mastantuono,C,STARTER,90
-1,2026_G01_ROM_FIO,Fiorentina,FIO,False,Roma,ROM,4-3-2-1,Njie,C,STARTER,60
-1,2026_G01_ROM_FIO,Fiorentina,FIO,False,Roma,ROM,4-3-2-1,Pellegrino M.,A,STARTER,80
+1,2026_G01_ROM_FIO,Roma,ROM,True,Fiorentina,FIO,3-4-2-1,Castro S.,A,BENCH,60
+1,2026_G01_ROM_FIO,Fiorentina,FIO,False,Roma,ROM,4-3-2-1,De Gea,P,STARTER,100
+1,2026_G01_ROM_FIO,Fiorentina,FIO,False,Roma,ROM,4-3-2-1,Joao Mario,D,STARTER,100
+1,2026_G01_ROM_FIO,Fiorentina,FIO,False,Roma,ROM,4-3-2-1,Dragusin,D,STARTER,100
+1,2026_G01_ROM_FIO,Fiorentina,FIO,False,Roma,ROM,4-3-2-1,Viery,D,STARTER,100
+1,2026_G01_ROM_FIO,Fiorentina,FIO,False,Roma,ROM,4-3-2-1,Valdepenas,D,STARTER,100
+1,2026_G01_ROM_FIO,Fiorentina,FIO,False,Roma,ROM,4-3-2-1,Oulai,C,STARTER,100
+1,2026_G01_ROM_FIO,Fiorentina,FIO,False,Roma,ROM,4-3-2-1,Fagioli,C,STARTER,100
+1,2026_G01_ROM_FIO,Fiorentina,FIO,False,Roma,ROM,4-3-2-1,Brescianini,C,STARTER,100
+1,2026_G01_ROM_FIO,Fiorentina,FIO,False,Roma,ROM,4-3-2-1,Mastantuono,C,STARTER,100
+1,2026_G01_ROM_FIO,Fiorentina,FIO,False,Roma,ROM,4-3-2-1,Njie,C,STARTER,100
+1,2026_G01_ROM_FIO,Fiorentina,FIO,False,Roma,ROM,4-3-2-1,Pellegrino M.,A,STARTER,100
 1,2026_G01_ROM_FIO,Fiorentina,FIO,False,Roma,ROM,4-3-2-1,Christensen O.,P,BENCH,5
 1,2026_G01_ROM_FIO,Fiorentina,FIO,False,Roma,ROM,4-3-2-1,Lezzerini,P,BENCH,1
-1,2026_G01_ROM_FIO,Fiorentina,FIO,False,Roma,ROM,4-3-2-1,Dod&#xF2;,D,BENCH,40
-1,2026_G01_ROM_FIO,Fiorentina,FIO,False,Roma,ROM,4-3-2-1,Joao Mario,D,BENCH,60
+1,2026_G01_ROM_FIO,Fiorentina,FIO,False,Roma,ROM,4-3-2-1,Dod&#xF2;,D,BENCH,20
+1,2026_G01_ROM_FIO,Fiorentina,FIO,False,Roma,ROM,4-3-2-1,Jimenez A.,D,BENCH,60
 1,2026_G01_ROM_FIO,Fiorentina,FIO,False,Roma,ROM,4-3-2-1,Ranieri L.,D,BENCH,40
-1,2026_G01_ROM_FIO,Fiorentina,FIO,False,Roma,ROM,4-3-2-1,Pongracic,D,BENCH,35
-1,2026_G01_ROM_FIO,Fiorentina,FIO,False,Roma,ROM,4-3-2-1,Oulai,C,BENCH,60
-1,2026_G01_ROM_FIO,Fiorentina,FIO,False,Roma,ROM,4-3-2-1,Brescianini,C,BENCH,55
+1,2026_G01_ROM_FIO,Fiorentina,FIO,False,Roma,ROM,4-3-2-1,Pongracic,D,BENCH,30
+1,2026_G01_ROM_FIO,Fiorentina,FIO,False,Roma,ROM,4-3-2-1,Atta,C,BENCH,25
+1,2026_G01_ROM_FIO,Fiorentina,FIO,False,Roma,ROM,4-3-2-1,Ndour,C,BENCH,60
 1,2026_G01_ROM_FIO,Fiorentina,FIO,False,Roma,ROM,4-3-2-1,Goncalves P.,C,BENCH,55
-1,2026_G01_ROM_FIO,Fiorentina,FIO,False,Roma,ROM,4-3-2-1,Gnonto,A,BENCH,40
+1,2026_G01_ROM_FIO,Fiorentina,FIO,False,Roma,ROM,4-3-2-1,Gnonto,A,BENCH,55
 1,2026_G01_ROM_FIO,Fiorentina,FIO,False,Roma,ROM,4-3-2-1,Beto,A,BENCH,60

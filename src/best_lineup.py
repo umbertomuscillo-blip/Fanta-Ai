@@ -76,6 +76,9 @@ class FormationResult:
     total_expected_score: float
     tactical_rationale: str
     all_formations_evaluated: List[Dict[str, Any]] = field(default_factory=list)
+    captain: Optional[PlayerMatchContext] = None
+    vice_captain: Optional[PlayerMatchContext] = None
+    tribuna: List[PlayerMatchContext] = field(default_factory=list)
 
     def to_dict(self) -> Dict[str, Any]:
         return {
@@ -85,8 +88,11 @@ class FormationResult:
             "modificatore_bonus": round(self.modificatore_bonus, 2),
             "defense_average": round(self.defense_average, 3),
             "tactical_rationale": self.tactical_rationale,
+            "captain": self.captain.to_dict() if self.captain else None,
+            "vice_captain": self.vice_captain.to_dict() if self.vice_captain else None,
             "starters": [p.to_dict() for p in self.starters],
             "bench": [p.to_dict() for p in self.bench],
+            "tribuna": [p.to_dict() for p in self.tribuna],
             "excluded": [p.to_dict() for p in self.excluded],
             "formations_evaluated": self.all_formations_evaluated
         }
@@ -542,8 +548,12 @@ class LineupOptimizer:
 
         if avg >= 7.00:
             bonus = 6.0
+        elif avg >= 6.75:
+            bonus = 4.5
         elif avg >= 6.50:
             bonus = 3.0
+        elif avg >= 6.25:
+            bonus = 2.0
         elif avg >= 6.00:
             bonus = 1.0
         else:
@@ -666,23 +676,34 @@ class LineupOptimizer:
             best_mod_bonus = 0.0
             best_def_avg = 0.0
 
-        # Build Bench (12 players ordered by role: P, D, C, A and expected score)
+        # Build Bench & Tribuna
+        # Official league format: 11 on the bench: exactly 2 P, 3 D, 3 C, 3 A
         starters_ids = {s.id for s in best_starters}
-        bench_candidates = [ctx for ctx in contexts if ctx.id not in starters_ids and ctx not in excluded_players]
+        healthy_candidates = [ctx for ctx in contexts if ctx.id not in starters_ids and ctx not in excluded_players]
 
-        bench_p = [p for p in bench_candidates if p.ruolo == "P"]
-        bench_d = [p for p in bench_candidates if p.ruolo == "D"]
-        bench_c = [p for p in bench_candidates if p.ruolo == "C"]
-        bench_a = [p for p in bench_candidates if p.ruolo == "A"]
+        bench_p = sorted([p for p in healthy_candidates if p.ruolo == "P"], key=lambda x: x.expected_score, reverse=True)
+        bench_d = sorted([p for p in healthy_candidates if p.ruolo == "D"], key=lambda x: x.expected_score, reverse=True)
+        bench_c = sorted([p for p in healthy_candidates if p.ruolo == "C"], key=lambda x: x.expected_score, reverse=True)
+        bench_a = sorted([p for p in healthy_candidates if p.ruolo == "A"], key=lambda x: x.expected_score, reverse=True)
 
-        bench_p.sort(key=lambda x: x.expected_score, reverse=True)
-        bench_d.sort(key=lambda x: x.expected_score, reverse=True)
-        bench_c.sort(key=lambda x: x.expected_score, reverse=True)
-        bench_a.sort(key=lambda x: x.expected_score, reverse=True)
+        selected_bench_p = bench_p[:2]
+        selected_bench_d = bench_d[:3]
+        selected_bench_c = bench_c[:3]
+        selected_bench_a = bench_a[:3]
 
-        ordered_bench = bench_p + bench_d + bench_c + bench_a
-        # Cap bench at 12 players standard
-        final_bench = ordered_bench[:12]
+        final_bench = selected_bench_p + selected_bench_d + selected_bench_c + selected_bench_a
+        bench_ids = {p.id for p in final_bench}
+
+        tribuna = [p for p in healthy_candidates if p.id not in bench_ids]
+
+        # Captain & Vice-Captain Selection
+        ranked_starters = sorted(
+            best_starters,
+            key=lambda s: (s.expected_score + (0.5 if s.ruolo in ["C", "A"] else 0.0)),
+            reverse=True
+        )
+        captain = ranked_starters[0] if ranked_starters else None
+        vice_captain = ranked_starters[1] if len(ranked_starters) > 1 else None
 
         # Generate Tactical Rationale
         req_d_count = VALID_FORMATIONS.get(best_formation_name, {}).get("D", 3)
@@ -693,10 +714,12 @@ class LineupOptimizer:
             else:
                 mod_text = f" (Modificatore Difesa non attivo: Media Difesa {best_def_avg:.2f} < 6.00)"
 
+        cap_text = f" Fascia da Capitano assegnata a {captain.nome} (xPts {captain.expected_score:.2f})." if captain else ""
+
         tactical_rationale = (
             f"Modulo ottimale {best_formation_name} con punteggio previsto di {best_total_score:.2f} pt. "
-            f"La formazione massimizza l'efficacia offensiva dei titolari a disposizione{mod_text}. "
-            f"Esclusi {len(excluded_players)} calciatori indisponibili per infortunio/squalifica."
+            f"La formazione massimizza l'efficacia offensiva dei titolari a disposizione{mod_text}.{cap_text} "
+            f"Panchina ufficiale a 11 posti (2P, 3D, 3C, 3A). Esclusi {len(excluded_players)} calciatori indisponibili."
         )
 
         return FormationResult(
@@ -709,7 +732,10 @@ class LineupOptimizer:
             defense_average=best_def_avg,
             total_expected_score=round(best_total_score, 2),
             tactical_rationale=tactical_rationale,
-            all_formations_evaluated=formations_eval
+            all_formations_evaluated=formations_eval,
+            captain=captain,
+            vice_captain=vice_captain,
+            tribuna=tribuna
         )
 
 
@@ -728,3 +754,49 @@ def get_best_lineup(
         fixtures_path=fixtures_path
     )
     return optimizer.optimize_lineup(roster, matchday=matchday, use_modifier=use_modifier)
+
+
+def calculate_goals(score: float, first_threshold: float = 66.0, step: float = 6.0) -> int:
+    """Calculates goals scored based on total fantasy score (66 -> 1 gol, 72 -> 2 gol...)."""
+    if score < first_threshold:
+        return 0
+    return int(1 + (score - first_threshold) // step)
+
+
+def simulate_head_to_head(
+    home_roster: Union[str, Path, List[Any], Dict[str, Any]],
+    away_roster: Union[str, Path, List[Any], Dict[str, Any]],
+    home_team_name: str = "Casa",
+    away_team_name: str = "Trasferta",
+    matchday: int = 1,
+    use_modifier: bool = True
+) -> Dict[str, Any]:
+    """Simulates a head-to-head match between two fantasy teams."""
+    home_res = get_best_lineup(home_roster, matchday=matchday, use_modifier=use_modifier)
+    away_res = get_best_lineup(away_roster, matchday=matchday, use_modifier=use_modifier)
+
+    home_goals = calculate_goals(home_res.total_expected_score)
+    away_goals = calculate_goals(away_res.total_expected_score)
+
+    return {
+        "matchday": matchday,
+        "home": {
+            "name": home_team_name,
+            "score": home_res.total_expected_score,
+            "goals": home_goals,
+            "formation": home_res.formation,
+            "captain": home_res.captain.nome if home_res.captain else "",
+            "lineup": home_res.to_dict()
+        },
+        "away": {
+            "name": away_team_name,
+            "score": away_res.total_expected_score,
+            "goals": away_goals,
+            "formation": away_res.formation,
+            "captain": away_res.captain.nome if away_res.captain else "",
+            "lineup": away_res.to_dict()
+        },
+        "result_string": f"{home_goals} - {away_goals}",
+        "summary": f"{home_team_name} ({home_res.total_expected_score:.1f} pt) {home_goals} - {away_goals} {away_team_name} ({away_res.total_expected_score:.1f} pt)"
+    }
+

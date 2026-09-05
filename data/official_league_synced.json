@@ -1,0 +1,2636 @@
+{
+  "competition_id": 539125,
+  "alias_lega": "fanta-bro-cx",
+  "lineup_settings": {
+    "hlnp": false,
+    "rlnp": true,
+    "fbench": true,
+    "assu": false,
+    "lcap": 1,
+    "lswi": 2,
+    "elnp": 30,
+    "tbench": 11,
+    "count": 7,
+    "mods": [
+      "343",
+      "352",
+      "433",
+      "442",
+      "451",
+      "532",
+      "541"
+    ],
+    "brdrs": [
+      2,
+      3,
+      3,
+      3
+    ],
+    "bseq": [
+      1,
+      1,
+      2,
+      2,
+      2,
+      3,
+      3,
+      3,
+      4,
+      4,
+      4
+    ],
+    "version": "v3"
+  },
+  "teams": {
+    "BERLUSCA DORTMUND": {
+      "team_id": 19374847,
+      "coach": "Teunnn",
+      "credits_remaining": 0,
+      "players_count": 25,
+      "total_spent": 500,
+      "players": [
+        {
+          "id": 7618,
+          "nome": "Hutchinson",
+          "squadra": "Milan",
+          "ruolo_id": 3,
+          "ruolo": "C",
+          "prezzo": 1,
+          "fvm": 13,
+          "quotazione": 3
+        },
+        {
+          "id": 7412,
+          "nome": "Milla",
+          "squadra": "Como",
+          "ruolo_id": 3,
+          "ruolo": "C",
+          "prezzo": 1,
+          "fvm": 15,
+          "quotazione": 1
+        },
+        {
+          "id": 7311,
+          "nome": "Romano",
+          "squadra": "Cagliari",
+          "ruolo_id": 3,
+          "ruolo": "C",
+          "prezzo": 1,
+          "fvm": 11,
+          "quotazione": 1
+        },
+        {
+          "id": 7023,
+          "nome": "Pellegrino M.",
+          "squadra": "Fiorentina",
+          "ruolo_id": 4,
+          "ruolo": "A",
+          "prezzo": 17,
+          "fvm": 20,
+          "quotazione": 1
+        },
+        {
+          "id": 6967,
+          "nome": "Diao",
+          "squadra": "Como",
+          "ruolo_id": 4,
+          "ruolo": "A",
+          "prezzo": 41,
+          "fvm": 25,
+          "quotazione": 1
+        },
+        {
+          "id": 6519,
+          "nome": "Camarda",
+          "squadra": "Milan",
+          "ruolo_id": 4,
+          "ruolo": "A",
+          "prezzo": 8,
+          "fvm": 10,
+          "quotazione": 1
+        },
+        {
+          "id": 6403,
+          "nome": "Christensen O.",
+          "squadra": "Fiorentina",
+          "ruolo_id": 1,
+          "ruolo": "P",
+          "prezzo": 1,
+          "fvm": 1,
+          "quotazione": 1
+        },
+        {
+          "id": 6398,
+          "nome": "Isaksen",
+          "squadra": "Lazio",
+          "ruolo_id": 3,
+          "ruolo": "C",
+          "prezzo": 5,
+          "fvm": 11,
+          "quotazione": 1
+        },
+        {
+          "id": 5951,
+          "nome": "Kolo Muani",
+          "squadra": "Juventus",
+          "ruolo_id": 4,
+          "ruolo": "A",
+          "prezzo": 108,
+          "fvm": 83,
+          "quotazione": 1
+        },
+        {
+          "id": 5833,
+          "nome": "Gila",
+          "squadra": "Milan",
+          "ruolo_id": 2,
+          "ruolo": "D",
+          "prezzo": 25,
+          "fvm": 16,
+          "quotazione": 1
+        },
+        {
+          "id": 5823,
+          "nome": "Baldanzi",
+          "squadra": "Genoa",
+          "ruolo_id": 3,
+          "ruolo": "C",
+          "prezzo": 7,
+          "fvm": 14,
+          "quotazione": 1
+        },
+        {
+          "id": 5750,
+          "nome": "Ostigard",
+          "squadra": "Genoa",
+          "ruolo_id": 2,
+          "ruolo": "D",
+          "prezzo": 20,
+          "fvm": 21,
+          "quotazione": 1
+        },
+        {
+          "id": 5701,
+          "nome": "Obert",
+          "squadra": "Cagliari",
+          "ruolo_id": 2,
+          "ruolo": "D",
+          "prezzo": 1,
+          "fvm": 8,
+          "quotazione": 1
+        },
+        {
+          "id": 5520,
+          "nome": "Cambiaso",
+          "squadra": "Juventus",
+          "ruolo_id": 2,
+          "ruolo": "D",
+          "prezzo": 9,
+          "fvm": 9,
+          "quotazione": 1
+        },
+        {
+          "id": 4973,
+          "nome": "McKennie",
+          "squadra": "Juventus",
+          "ruolo_id": 3,
+          "ruolo": "C",
+          "prezzo": 29,
+          "fvm": 35,
+          "quotazione": 1
+        },
+        {
+          "id": 4952,
+          "nome": "Monterisi",
+          "squadra": "Frosinone",
+          "ruolo_id": 2,
+          "ruolo": "D",
+          "prezzo": 1,
+          "fvm": 7,
+          "quotazione": 1
+        },
+        {
+          "id": 4896,
+          "nome": "Maldini",
+          "squadra": "Cagliari",
+          "ruolo_id": 4,
+          "ruolo": "A",
+          "prezzo": 2,
+          "fvm": 11,
+          "quotazione": 1
+        },
+        {
+          "id": 4360,
+          "nome": "Caprile",
+          "squadra": "Cagliari",
+          "ruolo_id": 1,
+          "ruolo": "P",
+          "prezzo": 9,
+          "fvm": 13,
+          "quotazione": 1
+        },
+        {
+          "id": 4210,
+          "nome": "Mina",
+          "squadra": "Cagliari",
+          "ruolo_id": 2,
+          "ruolo": "D",
+          "prezzo": 5,
+          "fvm": 10,
+          "quotazione": 1
+        },
+        {
+          "id": 2521,
+          "nome": "De Gea",
+          "squadra": "Fiorentina",
+          "ruolo_id": 1,
+          "ruolo": "P",
+          "prezzo": 13,
+          "fvm": 15,
+          "quotazione": 1
+        },
+        {
+          "id": 2514,
+          "nome": "Stones",
+          "squadra": "Inter",
+          "ruolo_id": 2,
+          "ruolo": "D",
+          "prezzo": 7,
+          "fvm": 13,
+          "quotazione": 1
+        },
+        {
+          "id": 2379,
+          "nome": "Rabiot",
+          "squadra": "Milan",
+          "ruolo_id": 3,
+          "ruolo": "C",
+          "prezzo": 49,
+          "fvm": 73,
+          "quotazione": 1
+        },
+        {
+          "id": 2167,
+          "nome": "Orsolini",
+          "squadra": "Bologna",
+          "ruolo_id": 3,
+          "ruolo": "C",
+          "prezzo": 48,
+          "fvm": 89,
+          "quotazione": 1
+        },
+        {
+          "id": 2137,
+          "nome": "Scamacca",
+          "squadra": "Atalanta",
+          "ruolo_id": 4,
+          "ruolo": "A",
+          "prezzo": 81,
+          "fvm": 55,
+          "quotazione": 1
+        },
+        {
+          "id": 554,
+          "nome": "Zappacosta",
+          "squadra": "Atalanta",
+          "ruolo_id": 2,
+          "ruolo": "D",
+          "prezzo": 11,
+          "fvm": 10,
+          "quotazione": 1
+        }
+      ]
+    },
+    "AS Kuga": {
+      "team_id": 19375062,
+      "coach": "Ciccio Caputo",
+      "credits_remaining": 0,
+      "players_count": 25,
+      "total_spent": 500,
+      "players": [
+        {
+          "id": 7623,
+          "nome": "Gnonto",
+          "squadra": "Fiorentina",
+          "ruolo_id": 4,
+          "ruolo": "A",
+          "prezzo": 1,
+          "fvm": 13,
+          "quotazione": 3
+        },
+        {
+          "id": 7523,
+          "nome": "Varela G.",
+          "squadra": "Monza",
+          "ruolo_id": 4,
+          "ruolo": "A",
+          "prezzo": 9,
+          "fvm": 20,
+          "quotazione": 1
+        },
+        {
+          "id": 7436,
+          "nome": "Alajbegovic",
+          "squadra": "Juventus",
+          "ruolo_id": 3,
+          "ruolo": "C",
+          "prezzo": 15,
+          "fvm": 21,
+          "quotazione": 1
+        },
+        {
+          "id": 7268,
+          "nome": "Rodriguez Ju.",
+          "squadra": "Cagliari",
+          "ruolo_id": 2,
+          "ruolo": "D",
+          "prezzo": 3,
+          "fvm": 7,
+          "quotazione": 1
+        },
+        {
+          "id": 6966,
+          "nome": "Butez",
+          "squadra": "Como",
+          "ruolo_id": 1,
+          "ruolo": "P",
+          "prezzo": 32,
+          "fvm": 25,
+          "quotazione": 1
+        },
+        {
+          "id": 6956,
+          "nome": "Solet",
+          "squadra": "Udinese",
+          "ruolo_id": 2,
+          "ruolo": "D",
+          "prezzo": 28,
+          "fvm": 23,
+          "quotazione": 1
+        },
+        {
+          "id": 6677,
+          "nome": "Adzic",
+          "squadra": "Sassuolo",
+          "ruolo_id": 3,
+          "ruolo": "C",
+          "prezzo": 1,
+          "fvm": 8,
+          "quotazione": 1
+        },
+        {
+          "id": 6642,
+          "nome": "Coco",
+          "squadra": "Torino",
+          "ruolo_id": 2,
+          "ruolo": "D",
+          "prezzo": 2,
+          "fvm": 7,
+          "quotazione": 1
+        },
+        {
+          "id": 6530,
+          "nome": "Ghedjemis",
+          "squadra": "Frosinone",
+          "ruolo_id": 4,
+          "ruolo": "A",
+          "prezzo": 7,
+          "fvm": 12,
+          "quotazione": 1
+        },
+        {
+          "id": 6462,
+          "nome": "Okoye",
+          "squadra": "Udinese",
+          "ruolo_id": 1,
+          "ruolo": "P",
+          "prezzo": 13,
+          "fvm": 14,
+          "quotazione": 1
+        },
+        {
+          "id": 6434,
+          "nome": "Yildiz",
+          "squadra": "Juventus",
+          "ruolo_id": 4,
+          "ruolo": "A",
+          "prezzo": 28,
+          "fvm": 50,
+          "quotazione": 1
+        },
+        {
+          "id": 6344,
+          "nome": "Sanchez Ro.",
+          "squadra": "Como",
+          "ruolo_id": 1,
+          "ruolo": "P",
+          "prezzo": 1,
+          "fvm": 13,
+          "quotazione": 3
+        },
+        {
+          "id": 6320,
+          "nome": "Doekhi",
+          "squadra": "Lazio",
+          "ruolo_id": 2,
+          "ruolo": "D",
+          "prezzo": 8,
+          "fvm": 8,
+          "quotazione": 1
+        },
+        {
+          "id": 6052,
+          "nome": "Hojlund",
+          "squadra": "Napoli",
+          "ruolo_id": 4,
+          "ruolo": "A",
+          "prezzo": 146,
+          "fvm": 130,
+          "quotazione": 1
+        },
+        {
+          "id": 5555,
+          "nome": "Kamara H.",
+          "squadra": "Udinese",
+          "ruolo_id": 2,
+          "ruolo": "D",
+          "prezzo": 9,
+          "fvm": 6,
+          "quotazione": 1
+        },
+        {
+          "id": 5119,
+          "nome": "Samardzic",
+          "squadra": "Atalanta",
+          "ruolo_id": 3,
+          "ruolo": "C",
+          "prezzo": 14,
+          "fvm": 22,
+          "quotazione": 1
+        },
+        {
+          "id": 4317,
+          "nome": "N'Dicka",
+          "squadra": "Roma",
+          "ruolo_id": 2,
+          "ruolo": "D",
+          "prezzo": 25,
+          "fvm": 21,
+          "quotazione": 1
+        },
+        {
+          "id": 4179,
+          "nome": "Gonzalez N.",
+          "squadra": "Juventus",
+          "ruolo_id": 3,
+          "ruolo": "C",
+          "prezzo": 12,
+          "fvm": 23,
+          "quotazione": 2
+        },
+        {
+          "id": 2640,
+          "nome": "Kolasinac",
+          "squadra": "Atalanta",
+          "ruolo_id": 2,
+          "ruolo": "D",
+          "prezzo": 1,
+          "fvm": 4,
+          "quotazione": 1
+        },
+        {
+          "id": 2606,
+          "nome": "Modric",
+          "squadra": "Milan",
+          "ruolo_id": 3,
+          "ruolo": "C",
+          "prezzo": 9,
+          "fvm": 23,
+          "quotazione": 1
+        },
+        {
+          "id": 2296,
+          "nome": "Mancini",
+          "squadra": "Roma",
+          "ruolo_id": 2,
+          "ruolo": "D",
+          "prezzo": 30,
+          "fvm": 25,
+          "quotazione": 1
+        },
+        {
+          "id": 1850,
+          "nome": "Kessiè",
+          "squadra": "Atalanta",
+          "ruolo_id": 3,
+          "ruolo": "C",
+          "prezzo": 17,
+          "fvm": 24,
+          "quotazione": 3
+        },
+        {
+          "id": 632,
+          "nome": "Zaccagni",
+          "squadra": "Lazio",
+          "ruolo_id": 3,
+          "ruolo": "C",
+          "prezzo": 33,
+          "fvm": 44,
+          "quotazione": 1
+        },
+        {
+          "id": 309,
+          "nome": "Dybala",
+          "squadra": "Roma",
+          "ruolo_id": 4,
+          "ruolo": "A",
+          "prezzo": 46,
+          "fvm": 50,
+          "quotazione": 1
+        },
+        {
+          "id": 184,
+          "nome": "Bernardeschi",
+          "squadra": "Bologna",
+          "ruolo_id": 3,
+          "ruolo": "C",
+          "prezzo": 10,
+          "fvm": 14,
+          "quotazione": 1
+        }
+      ]
+    },
+    "ASD GINOSA": {
+      "team_id": 19375135,
+      "coach": "Pedac",
+      "credits_remaining": 0,
+      "players_count": 25,
+      "total_spent": 500,
+      "players": [
+        {
+          "id": 7484,
+          "nome": "Adams A.",
+          "squadra": "Venezia",
+          "ruolo_id": 4,
+          "ruolo": "A",
+          "prezzo": 12,
+          "fvm": 18,
+          "quotazione": 1
+        },
+        {
+          "id": 7472,
+          "nome": "Calò",
+          "squadra": "Frosinone",
+          "ruolo_id": 3,
+          "ruolo": "C",
+          "prezzo": 4,
+          "fvm": 14,
+          "quotazione": 1
+        },
+        {
+          "id": 7414,
+          "nome": "Kaiki",
+          "squadra": "Como",
+          "ruolo_id": 2,
+          "ruolo": "D",
+          "prezzo": 1,
+          "fvm": 7,
+          "quotazione": 1
+        },
+        {
+          "id": 7329,
+          "nome": "Obrador",
+          "squadra": "Sassuolo",
+          "ruolo_id": 2,
+          "ruolo": "D",
+          "prezzo": 1,
+          "fvm": 7,
+          "quotazione": 1
+        },
+        {
+          "id": 7048,
+          "nome": "De Marzi",
+          "squadra": "Roma",
+          "ruolo_id": 1,
+          "ruolo": "P",
+          "prezzo": 1,
+          "fvm": 1,
+          "quotazione": 1
+        },
+        {
+          "id": 6867,
+          "nome": "Valle",
+          "squadra": "Como",
+          "ruolo_id": 2,
+          "ruolo": "D",
+          "prezzo": 5,
+          "fvm": 11,
+          "quotazione": 1
+        },
+        {
+          "id": 6666,
+          "nome": "Bernabè",
+          "squadra": "Parma",
+          "ruolo_id": 3,
+          "ruolo": "C",
+          "prezzo": 3,
+          "fvm": 17,
+          "quotazione": 1
+        },
+        {
+          "id": 6556,
+          "nome": "Noslin",
+          "squadra": "Lazio",
+          "ruolo_id": 4,
+          "ruolo": "A",
+          "prezzo": 1,
+          "fvm": 4,
+          "quotazione": 1
+        },
+        {
+          "id": 6229,
+          "nome": "Tourè E.",
+          "squadra": "Parma",
+          "ruolo_id": 4,
+          "ruolo": "A",
+          "prezzo": 8,
+          "fvm": 19,
+          "quotazione": 1
+        },
+        {
+          "id": 5841,
+          "nome": "Svilar",
+          "squadra": "Roma",
+          "ruolo_id": 1,
+          "ruolo": "P",
+          "prezzo": 43,
+          "fvm": 43,
+          "quotazione": 1
+        },
+        {
+          "id": 5687,
+          "nome": "Vlasic",
+          "squadra": "Torino",
+          "ruolo_id": 3,
+          "ruolo": "C",
+          "prezzo": 25,
+          "fvm": 37,
+          "quotazione": 1
+        },
+        {
+          "id": 4976,
+          "nome": "Kalulu",
+          "squadra": "Juventus",
+          "ruolo_id": 2,
+          "ruolo": "D",
+          "prezzo": 30,
+          "fvm": 24,
+          "quotazione": 1
+        },
+        {
+          "id": 4856,
+          "nome": "Chukwueze",
+          "squadra": "Milan",
+          "ruolo_id": 3,
+          "ruolo": "C",
+          "prezzo": 5,
+          "fvm": 11,
+          "quotazione": 1
+        },
+        {
+          "id": 4777,
+          "nome": "McTominay",
+          "squadra": "Napoli",
+          "ruolo_id": 3,
+          "ruolo": "C",
+          "prezzo": 59,
+          "fvm": 110,
+          "quotazione": 1
+        },
+        {
+          "id": 4734,
+          "nome": "Miranda J.",
+          "squadra": "Bologna",
+          "ruolo_id": 2,
+          "ruolo": "D",
+          "prezzo": 10,
+          "fvm": 12,
+          "quotazione": 1
+        },
+        {
+          "id": 4705,
+          "nome": "Balerdi",
+          "squadra": "Roma",
+          "ruolo_id": 2,
+          "ruolo": "D",
+          "prezzo": 1,
+          "fvm": 6,
+          "quotazione": 1
+        },
+        {
+          "id": 4409,
+          "nome": "Rrahmani",
+          "squadra": "Napoli",
+          "ruolo_id": 2,
+          "ruolo": "D",
+          "prezzo": 25,
+          "fvm": 26,
+          "quotazione": 1
+        },
+        {
+          "id": 2766,
+          "nome": "Zaniolo",
+          "squadra": "Udinese",
+          "ruolo_id": 3,
+          "ruolo": "C",
+          "prezzo": 43,
+          "fvm": 40,
+          "quotazione": 1
+        },
+        {
+          "id": 2097,
+          "nome": "Kean",
+          "squadra": "Como",
+          "ruolo_id": 4,
+          "ruolo": "A",
+          "prezzo": 67,
+          "fvm": 92,
+          "quotazione": 1
+        },
+        {
+          "id": 2038,
+          "nome": "Pinamonti",
+          "squadra": "Lazio",
+          "ruolo_id": 4,
+          "ruolo": "A",
+          "prezzo": 86,
+          "fvm": 27,
+          "quotazione": 1
+        },
+        {
+          "id": 1852,
+          "nome": "Spinazzola",
+          "squadra": "Napoli",
+          "ruolo_id": 2,
+          "ruolo": "D",
+          "prezzo": 13,
+          "fvm": 13,
+          "quotazione": 1
+        },
+        {
+          "id": 795,
+          "nome": "El Shaarawy",
+          "squadra": "Genoa",
+          "ruolo_id": 3,
+          "ruolo": "C",
+          "prezzo": 2,
+          "fvm": 13,
+          "quotazione": 3
+        },
+        {
+          "id": 610,
+          "nome": "Gollini",
+          "squadra": "Roma",
+          "ruolo_id": 1,
+          "ruolo": "P",
+          "prezzo": 1,
+          "fvm": 1,
+          "quotazione": 1
+        },
+        {
+          "id": 536,
+          "nome": "Politano",
+          "squadra": "Napoli",
+          "ruolo_id": 3,
+          "ruolo": "C",
+          "prezzo": 4,
+          "fvm": 19,
+          "quotazione": 1
+        },
+        {
+          "id": 531,
+          "nome": "Berardi",
+          "squadra": "Sassuolo",
+          "ruolo_id": 4,
+          "ruolo": "A",
+          "prezzo": 50,
+          "fvm": 53,
+          "quotazione": 1
+        }
+      ]
+    },
+    "ibelluaglioni": {
+      "team_id": 19375613,
+      "coach": "Uferraren",
+      "credits_remaining": 6,
+      "players_count": 25,
+      "total_spent": 494,
+      "players": [
+        {
+          "id": 7564,
+          "nome": "Leysen F.",
+          "squadra": "Sassuolo",
+          "ruolo_id": 2,
+          "ruolo": "D",
+          "prezzo": 2,
+          "fvm": 6,
+          "quotazione": 1
+        },
+        {
+          "id": 7547,
+          "nome": "Kevin Carlos",
+          "squadra": "Cagliari",
+          "ruolo_id": 4,
+          "ruolo": "A",
+          "prezzo": 7,
+          "fvm": 18,
+          "quotazione": 1
+        },
+        {
+          "id": 7469,
+          "nome": "Bracaglia",
+          "squadra": "Frosinone",
+          "ruolo_id": 2,
+          "ruolo": "D",
+          "prezzo": 1,
+          "fvm": 8,
+          "quotazione": 1
+        },
+        {
+          "id": 7351,
+          "nome": "Santos A.",
+          "squadra": "Napoli",
+          "ruolo_id": 4,
+          "ruolo": "A",
+          "prezzo": 33,
+          "fvm": 31,
+          "quotazione": 1
+        },
+        {
+          "id": 7332,
+          "nome": "Bijlow",
+          "squadra": "Genoa",
+          "ruolo_id": 1,
+          "ruolo": "P",
+          "prezzo": 6,
+          "fvm": 8,
+          "quotazione": 1
+        },
+        {
+          "id": 7252,
+          "nome": "Stulic",
+          "squadra": "Lecce",
+          "ruolo_id": 4,
+          "ruolo": "A",
+          "prezzo": 1,
+          "fvm": 6,
+          "quotazione": 1
+        },
+        {
+          "id": 7036,
+          "nome": "Bakola",
+          "squadra": "Sassuolo",
+          "ruolo_id": 3,
+          "ruolo": "C",
+          "prezzo": 1,
+          "fvm": 7,
+          "quotazione": 1
+        },
+        {
+          "id": 7012,
+          "nome": "Provstgaard",
+          "squadra": "Lazio",
+          "ruolo_id": 2,
+          "ruolo": "D",
+          "prezzo": 2,
+          "fvm": 7,
+          "quotazione": 1
+        },
+        {
+          "id": 6482,
+          "nome": "Mandas",
+          "squadra": "Lazio",
+          "ruolo_id": 1,
+          "ruolo": "P",
+          "prezzo": 21,
+          "fvm": 18,
+          "quotazione": 1
+        },
+        {
+          "id": 6151,
+          "nome": "Perrone",
+          "squadra": "Como",
+          "ruolo_id": 3,
+          "ruolo": "C",
+          "prezzo": 1,
+          "fvm": 17,
+          "quotazione": 1
+        },
+        {
+          "id": 5982,
+          "nome": "Spence",
+          "squadra": "Inter",
+          "ruolo_id": 2,
+          "ruolo": "D",
+          "prezzo": 25,
+          "fvm": 19,
+          "quotazione": 1
+        },
+        {
+          "id": 5685,
+          "nome": "Koopmeiners",
+          "squadra": "Juventus",
+          "ruolo_id": 3,
+          "ruolo": "C",
+          "prezzo": 3,
+          "fvm": 8,
+          "quotazione": 1
+        },
+        {
+          "id": 5585,
+          "nome": "Malen",
+          "squadra": "Roma",
+          "ruolo_id": 4,
+          "ruolo": "A",
+          "prezzo": 213,
+          "fvm": 225,
+          "quotazione": 1
+        },
+        {
+          "id": 5559,
+          "nome": "Da Cunha",
+          "squadra": "Como",
+          "ruolo_id": 3,
+          "ruolo": "C",
+          "prezzo": 38,
+          "fvm": 44,
+          "quotazione": 1
+        },
+        {
+          "id": 5507,
+          "nome": "Busio",
+          "squadra": "Venezia",
+          "ruolo_id": 3,
+          "ruolo": "C",
+          "prezzo": 1,
+          "fvm": 7,
+          "quotazione": 1
+        },
+        {
+          "id": 5436,
+          "nome": "Raimondo",
+          "squadra": "Frosinone",
+          "ruolo_id": 4,
+          "ruolo": "A",
+          "prezzo": 13,
+          "fvm": 14,
+          "quotazione": 1
+        },
+        {
+          "id": 5010,
+          "nome": "Ismajli",
+          "squadra": "Torino",
+          "ruolo_id": 2,
+          "ruolo": "D",
+          "prezzo": 1,
+          "fvm": 7,
+          "quotazione": 1
+        },
+        {
+          "id": 4502,
+          "nome": "Gallo",
+          "squadra": "Lecce",
+          "ruolo_id": 2,
+          "ruolo": "D",
+          "prezzo": 2,
+          "fvm": 6,
+          "quotazione": 1
+        },
+        {
+          "id": 4236,
+          "nome": "Muric",
+          "squadra": "Sassuolo",
+          "ruolo_id": 1,
+          "ruolo": "P",
+          "prezzo": 6,
+          "fvm": 8,
+          "quotazione": 1
+        },
+        {
+          "id": 4137,
+          "nome": "Diego Carlos",
+          "squadra": "Parma",
+          "ruolo_id": 2,
+          "ruolo": "D",
+          "prezzo": 2,
+          "fvm": 13,
+          "quotazione": 3
+        },
+        {
+          "id": 2788,
+          "nome": "Bremer",
+          "squadra": "Juventus",
+          "ruolo_id": 2,
+          "ruolo": "D",
+          "prezzo": 37,
+          "fvm": 30,
+          "quotazione": 1
+        },
+        {
+          "id": 2765,
+          "nome": "Odgaard",
+          "squadra": "Bologna",
+          "ruolo_id": 3,
+          "ruolo": "C",
+          "prezzo": 1,
+          "fvm": 9,
+          "quotazione": 1
+        },
+        {
+          "id": 2194,
+          "nome": "Calhanoglu",
+          "squadra": "Inter",
+          "ruolo_id": 3,
+          "ruolo": "C",
+          "prezzo": 71,
+          "fvm": 122,
+          "quotazione": 1
+        },
+        {
+          "id": 2155,
+          "nome": "Cutrone",
+          "squadra": "Monza",
+          "ruolo_id": 4,
+          "ruolo": "A",
+          "prezzo": 2,
+          "fvm": 12,
+          "quotazione": 1
+        },
+        {
+          "id": 827,
+          "nome": "Locatelli",
+          "squadra": "Juventus",
+          "ruolo_id": 3,
+          "ruolo": "C",
+          "prezzo": 4,
+          "fvm": 17,
+          "quotazione": 1
+        }
+      ]
+    },
+    "Tettenham Hot-Sbor": {
+      "team_id": 19375870,
+      "coach": "Lombard",
+      "credits_remaining": 38,
+      "players_count": 25,
+      "total_spent": 462,
+      "players": [
+        {
+          "id": 7600,
+          "nome": "Osmajic",
+          "squadra": "Genoa",
+          "ruolo_id": 4,
+          "ruolo": "A",
+          "prezzo": 1,
+          "fvm": 14,
+          "quotazione": 2
+        },
+        {
+          "id": 7314,
+          "nome": "Taylor K.",
+          "squadra": "Lazio",
+          "ruolo_id": 3,
+          "ruolo": "C",
+          "prezzo": 12,
+          "fvm": 27,
+          "quotazione": 1
+        },
+        {
+          "id": 7301,
+          "nome": "Tornqvist",
+          "squadra": "Monza",
+          "ruolo_id": 1,
+          "ruolo": "P",
+          "prezzo": 1,
+          "fvm": 5,
+          "quotazione": 1
+        },
+        {
+          "id": 7126,
+          "nome": "Baturina",
+          "squadra": "Como",
+          "ruolo_id": 3,
+          "ruolo": "C",
+          "prezzo": 57,
+          "fvm": 53,
+          "quotazione": 1
+        },
+        {
+          "id": 6893,
+          "nome": "Kempf",
+          "squadra": "Como",
+          "ruolo_id": 2,
+          "ruolo": "D",
+          "prezzo": 1,
+          "fvm": 7,
+          "quotazione": 1
+        },
+        {
+          "id": 6869,
+          "nome": "Ramon",
+          "squadra": "Como",
+          "ruolo_id": 2,
+          "ruolo": "D",
+          "prezzo": 24,
+          "fvm": 16,
+          "quotazione": 1
+        },
+        {
+          "id": 6844,
+          "nome": "Rowe",
+          "squadra": "Atalanta",
+          "ruolo_id": 3,
+          "ruolo": "C",
+          "prezzo": 30,
+          "fvm": 20,
+          "quotazione": 1
+        },
+        {
+          "id": 6821,
+          "nome": "Hainaut",
+          "squadra": "Venezia",
+          "ruolo_id": 2,
+          "ruolo": "D",
+          "prezzo": 1,
+          "fvm": 6,
+          "quotazione": 1
+        },
+        {
+          "id": 6752,
+          "nome": "Woltemade",
+          "squadra": "Juventus",
+          "ruolo_id": 4,
+          "ruolo": "A",
+          "prezzo": 86,
+          "fvm": 80,
+          "quotazione": 3
+        },
+        {
+          "id": 6678,
+          "nome": "Liberali",
+          "squadra": "Como",
+          "ruolo_id": 3,
+          "ruolo": "C",
+          "prezzo": 1,
+          "fvm": 11,
+          "quotazione": 1
+        },
+        {
+          "id": 6669,
+          "nome": "Bonny",
+          "squadra": "Inter",
+          "ruolo_id": 4,
+          "ruolo": "A",
+          "prezzo": 4,
+          "fvm": 8,
+          "quotazione": 1
+        },
+        {
+          "id": 6664,
+          "nome": "Delprato",
+          "squadra": "Parma",
+          "ruolo_id": 2,
+          "ruolo": "D",
+          "prezzo": 5,
+          "fvm": 11,
+          "quotazione": 1
+        },
+        {
+          "id": 6572,
+          "nome": "Castro S.",
+          "squadra": "Roma",
+          "ruolo_id": 4,
+          "ruolo": "A",
+          "prezzo": 13,
+          "fvm": 35,
+          "quotazione": 1
+        },
+        {
+          "id": 6531,
+          "nome": "Jimenez A.",
+          "squadra": "Fiorentina",
+          "ruolo_id": 2,
+          "ruolo": "D",
+          "prezzo": 9,
+          "fvm": 9,
+          "quotazione": 1
+        },
+        {
+          "id": 6372,
+          "nome": "Moreira",
+          "squadra": "Milan",
+          "ruolo_id": 3,
+          "ruolo": "C",
+          "prezzo": 18,
+          "fvm": 23,
+          "quotazione": 1
+        },
+        {
+          "id": 6274,
+          "nome": "Diouf",
+          "squadra": "Inter",
+          "ruolo_id": 3,
+          "ruolo": "C",
+          "prezzo": 18,
+          "fvm": 22,
+          "quotazione": 1
+        },
+        {
+          "id": 6248,
+          "nome": "Stankovic F.",
+          "squadra": "Venezia",
+          "ruolo_id": 1,
+          "ruolo": "P",
+          "prezzo": 3,
+          "fvm": 6,
+          "quotazione": 1
+        },
+        {
+          "id": 6217,
+          "nome": "Bisseck",
+          "squadra": "Inter",
+          "ruolo_id": 2,
+          "ruolo": "D",
+          "prezzo": 19,
+          "fvm": 18,
+          "quotazione": 1
+        },
+        {
+          "id": 5918,
+          "nome": "Sulemana K.",
+          "squadra": "Atalanta",
+          "ruolo_id": 4,
+          "ruolo": "A",
+          "prezzo": 1,
+          "fvm": 4,
+          "quotazione": 1
+        },
+        {
+          "id": 5844,
+          "nome": "Thorstvedt",
+          "squadra": "Sassuolo",
+          "ruolo_id": 3,
+          "ruolo": "C",
+          "prezzo": 3,
+          "fvm": 20,
+          "quotazione": 1
+        },
+        {
+          "id": 5526,
+          "nome": "Scalvini",
+          "squadra": "Atalanta",
+          "ruolo_id": 2,
+          "ruolo": "D",
+          "prezzo": 12,
+          "fvm": 14,
+          "quotazione": 1
+        },
+        {
+          "id": 4892,
+          "nome": "Saelemaekers",
+          "squadra": "Milan",
+          "ruolo_id": 3,
+          "ruolo": "C",
+          "prezzo": 6,
+          "fvm": 18,
+          "quotazione": 1
+        },
+        {
+          "id": 4887,
+          "nome": "Bellanova",
+          "squadra": "Atalanta",
+          "ruolo_id": 2,
+          "ruolo": "D",
+          "prezzo": 1,
+          "fvm": 9,
+          "quotazione": 1
+        },
+        {
+          "id": 4871,
+          "nome": "Thuram",
+          "squadra": "Inter",
+          "ruolo_id": 4,
+          "ruolo": "A",
+          "prezzo": 121,
+          "fvm": 125,
+          "quotazione": 1
+        },
+        {
+          "id": 2134,
+          "nome": "Falcone",
+          "squadra": "Lecce",
+          "ruolo_id": 1,
+          "ruolo": "P",
+          "prezzo": 15,
+          "fvm": 13,
+          "quotazione": 1
+        }
+      ]
+    },
+    "AS MATIC": {
+      "team_id": 19376125,
+      "coach": "Alefo",
+      "credits_remaining": 1,
+      "players_count": 25,
+      "total_spent": 499,
+      "players": [
+        {
+          "id": 7599,
+          "nome": "Lulli",
+          "squadra": "Roma",
+          "ruolo_id": 2,
+          "ruolo": "D",
+          "prezzo": 3,
+          "fvm": 5,
+          "quotazione": 1
+        },
+        {
+          "id": 7561,
+          "nome": "Lontani",
+          "squadra": "Parma",
+          "ruolo_id": 4,
+          "ruolo": "A",
+          "prezzo": 1,
+          "fvm": 6,
+          "quotazione": 1
+        },
+        {
+          "id": 7294,
+          "nome": "Valdepenas",
+          "squadra": "Fiorentina",
+          "ruolo_id": 2,
+          "ruolo": "D",
+          "prezzo": 9,
+          "fvm": 8,
+          "quotazione": 1
+        },
+        {
+          "id": 7129,
+          "nome": "Rodriguez Je.",
+          "squadra": "Como",
+          "ruolo_id": 3,
+          "ruolo": "C",
+          "prezzo": 16,
+          "fvm": 16,
+          "quotazione": 1
+        },
+        {
+          "id": 7060,
+          "nome": "Cacciamani",
+          "squadra": "Torino",
+          "ruolo_id": 3,
+          "ruolo": "C",
+          "prezzo": 5,
+          "fvm": 12,
+          "quotazione": 1
+        },
+        {
+          "id": 6875,
+          "nome": "Paz N.",
+          "squadra": "Como",
+          "ruolo_id": 3,
+          "ruolo": "C",
+          "prezzo": 82,
+          "fvm": 123,
+          "quotazione": 1
+        },
+        {
+          "id": 6813,
+          "nome": "Torriani",
+          "squadra": "Milan",
+          "ruolo_id": 1,
+          "ruolo": "P",
+          "prezzo": 1,
+          "fvm": 1,
+          "quotazione": 1
+        },
+        {
+          "id": 6632,
+          "nome": "Gaspar K.",
+          "squadra": "Lecce",
+          "ruolo_id": 2,
+          "ruolo": "D",
+          "prezzo": 1,
+          "fvm": 6,
+          "quotazione": 1
+        },
+        {
+          "id": 6496,
+          "nome": "Bartesaghi",
+          "squadra": "Milan",
+          "ruolo_id": 2,
+          "ruolo": "D",
+          "prezzo": 3,
+          "fvm": 11,
+          "quotazione": 1
+        },
+        {
+          "id": 6495,
+          "nome": "Comuzzo",
+          "squadra": "Torino",
+          "ruolo_id": 2,
+          "ruolo": "D",
+          "prezzo": 4,
+          "fvm": 7,
+          "quotazione": 1
+        },
+        {
+          "id": 6397,
+          "nome": "Ramos G.",
+          "squadra": "Milan",
+          "ruolo_id": 4,
+          "ruolo": "A",
+          "prezzo": 160,
+          "fvm": 119,
+          "quotazione": 1
+        },
+        {
+          "id": 6215,
+          "nome": "Lucca",
+          "squadra": "Napoli",
+          "ruolo_id": 4,
+          "ruolo": "A",
+          "prezzo": 2,
+          "fvm": 6,
+          "quotazione": 1
+        },
+        {
+          "id": 6204,
+          "nome": "Kvernadze",
+          "squadra": "Frosinone",
+          "ruolo_id": 4,
+          "ruolo": "A",
+          "prezzo": 5,
+          "fvm": 12,
+          "quotazione": 1
+        },
+        {
+          "id": 6190,
+          "nome": "Pisilli",
+          "squadra": "Roma",
+          "ruolo_id": 3,
+          "ruolo": "C",
+          "prezzo": 1,
+          "fvm": 10,
+          "quotazione": 1
+        },
+        {
+          "id": 6164,
+          "nome": "Vitinha O.",
+          "squadra": "Genoa",
+          "ruolo_id": 4,
+          "ruolo": "A",
+          "prezzo": 8,
+          "fvm": 7,
+          "quotazione": 1
+        },
+        {
+          "id": 5995,
+          "nome": "De Ketelaere",
+          "squadra": "Atalanta",
+          "ruolo_id": 4,
+          "ruolo": "A",
+          "prezzo": 55,
+          "fvm": 48,
+          "quotazione": 1
+        },
+        {
+          "id": 5735,
+          "nome": "Volpato",
+          "squadra": "Sassuolo",
+          "ruolo_id": 3,
+          "ruolo": "C",
+          "prezzo": 5,
+          "fvm": 13,
+          "quotazione": 1
+        },
+        {
+          "id": 5562,
+          "nome": "Thuram K.",
+          "squadra": "Juventus",
+          "ruolo_id": 3,
+          "ruolo": "C",
+          "prezzo": 2,
+          "fvm": 13,
+          "quotazione": 1
+        },
+        {
+          "id": 4998,
+          "nome": "Molina N.",
+          "squadra": "Roma",
+          "ruolo_id": 2,
+          "ruolo": "D",
+          "prezzo": 34,
+          "fvm": 39,
+          "quotazione": 1
+        },
+        {
+          "id": 4664,
+          "nome": "Badiashile",
+          "squadra": "Napoli",
+          "ruolo_id": 2,
+          "ruolo": "D",
+          "prezzo": 3,
+          "fvm": 9,
+          "quotazione": 2
+        },
+        {
+          "id": 4364,
+          "nome": "Gaetano",
+          "squadra": "Atalanta",
+          "ruolo_id": 3,
+          "ruolo": "C",
+          "prezzo": 3,
+          "fvm": 15,
+          "quotazione": 1
+        },
+        {
+          "id": 4312,
+          "nome": "Maignan",
+          "squadra": "Milan",
+          "ruolo_id": 1,
+          "ruolo": "P",
+          "prezzo": 38,
+          "fvm": 26,
+          "quotazione": 1
+        },
+        {
+          "id": 2848,
+          "nome": "Frattesi",
+          "squadra": "Lazio",
+          "ruolo_id": 3,
+          "ruolo": "C",
+          "prezzo": 29,
+          "fvm": 38,
+          "quotazione": 1
+        },
+        {
+          "id": 2816,
+          "nome": "Di Lorenzo",
+          "squadra": "Napoli",
+          "ruolo_id": 2,
+          "ruolo": "D",
+          "prezzo": 20,
+          "fvm": 20,
+          "quotazione": 1
+        },
+        {
+          "id": 133,
+          "nome": "Skorupski",
+          "squadra": "Bologna",
+          "ruolo_id": 1,
+          "ruolo": "P",
+          "prezzo": 9,
+          "fvm": 16,
+          "quotazione": 1
+        }
+      ]
+    },
+    "FC AntonioMiSpiego": {
+      "team_id": 19384300,
+      "coach": "Sig Demone",
+      "credits_remaining": 4,
+      "players_count": 25,
+      "total_spent": 496,
+      "players": [
+        {
+          "id": 7612,
+          "nome": "Bobcek",
+          "squadra": "Frosinone",
+          "ruolo_id": 4,
+          "ruolo": "A",
+          "prezzo": 1,
+          "fvm": 16,
+          "quotazione": 2
+        },
+        {
+          "id": 7556,
+          "nome": "Mora",
+          "squadra": "Roma",
+          "ruolo_id": 3,
+          "ruolo": "C",
+          "prezzo": 45,
+          "fvm": 50,
+          "quotazione": 1
+        },
+        {
+          "id": 7232,
+          "nome": "Fernandez T.",
+          "squadra": "Venezia",
+          "ruolo_id": 3,
+          "ruolo": "C",
+          "prezzo": 1,
+          "fvm": 4,
+          "quotazione": 3
+        },
+        {
+          "id": 7223,
+          "nome": "Vergara",
+          "squadra": "Napoli",
+          "ruolo_id": 3,
+          "ruolo": "C",
+          "prezzo": 4,
+          "fvm": 18,
+          "quotazione": 1
+        },
+        {
+          "id": 7220,
+          "nome": "Belghali",
+          "squadra": "Torino",
+          "ruolo_id": 2,
+          "ruolo": "D",
+          "prezzo": 4,
+          "fvm": 10,
+          "quotazione": 3
+        },
+        {
+          "id": 6904,
+          "nome": "Yeboah J.",
+          "squadra": "Venezia",
+          "ruolo_id": 4,
+          "ruolo": "A",
+          "prezzo": 8,
+          "fvm": 14,
+          "quotazione": 1
+        },
+        {
+          "id": 6675,
+          "nome": "Dovbyk",
+          "squadra": "Bologna",
+          "ruolo_id": 4,
+          "ruolo": "A",
+          "prezzo": 40,
+          "fvm": 26,
+          "quotazione": 1
+        },
+        {
+          "id": 6618,
+          "nome": "Cissè A.",
+          "squadra": "Milan",
+          "ruolo_id": 3,
+          "ruolo": "C",
+          "prezzo": 2,
+          "fvm": 12,
+          "quotazione": 1
+        },
+        {
+          "id": 6435,
+          "nome": "Krstovic",
+          "squadra": "Atalanta",
+          "ruolo_id": 4,
+          "ruolo": "A",
+          "prezzo": 57,
+          "fvm": 49,
+          "quotazione": 1
+        },
+        {
+          "id": 6415,
+          "nome": "Palmisani",
+          "squadra": "Frosinone",
+          "ruolo_id": 1,
+          "ruolo": "P",
+          "prezzo": 2,
+          "fvm": 6,
+          "quotazione": 1
+        },
+        {
+          "id": 6010,
+          "nome": "Fazzini",
+          "squadra": "Cagliari",
+          "ruolo_id": 3,
+          "ruolo": "C",
+          "prezzo": 5,
+          "fvm": 12,
+          "quotazione": 1
+        },
+        {
+          "id": 5878,
+          "nome": "Colpani",
+          "squadra": "Monza",
+          "ruolo_id": 3,
+          "ruolo": "C",
+          "prezzo": 3,
+          "fvm": 8,
+          "quotazione": 1
+        },
+        {
+          "id": 5862,
+          "nome": "Valeri",
+          "squadra": "Parma",
+          "ruolo_id": 2,
+          "ruolo": "D",
+          "prezzo": 5,
+          "fvm": 11,
+          "quotazione": 1
+        },
+        {
+          "id": 5800,
+          "nome": "Gudmundsson A.",
+          "squadra": "Lazio",
+          "ruolo_id": 3,
+          "ruolo": "C",
+          "prezzo": 19,
+          "fvm": 20,
+          "quotazione": 1
+        },
+        {
+          "id": 5739,
+          "nome": "De Winter",
+          "squadra": "Milan",
+          "ruolo_id": 2,
+          "ruolo": "D",
+          "prezzo": 5,
+          "fvm": 10,
+          "quotazione": 1
+        },
+        {
+          "id": 5694,
+          "nome": "Beto",
+          "squadra": "Fiorentina",
+          "ruolo_id": 4,
+          "ruolo": "A",
+          "prezzo": 62,
+          "fvm": 25,
+          "quotazione": 3
+        },
+        {
+          "id": 5365,
+          "nome": "Dragusin",
+          "squadra": "Fiorentina",
+          "ruolo_id": 2,
+          "ruolo": "D",
+          "prezzo": 8,
+          "fvm": 10,
+          "quotazione": 1
+        },
+        {
+          "id": 4994,
+          "nome": "Vojvoda",
+          "squadra": "Udinese",
+          "ruolo_id": 2,
+          "ruolo": "D",
+          "prezzo": 15,
+          "fvm": 10,
+          "quotazione": 1
+        },
+        {
+          "id": 4923,
+          "nome": "Colombo",
+          "squadra": "Genoa",
+          "ruolo_id": 4,
+          "ruolo": "A",
+          "prezzo": 49,
+          "fvm": 26,
+          "quotazione": 1
+        },
+        {
+          "id": 4657,
+          "nome": "Celik",
+          "squadra": "Juventus",
+          "ruolo_id": 2,
+          "ruolo": "D",
+          "prezzo": 11,
+          "fvm": 8,
+          "quotazione": 1
+        },
+        {
+          "id": 4401,
+          "nome": "Gabbia",
+          "squadra": "Milan",
+          "ruolo_id": 2,
+          "ruolo": "D",
+          "prezzo": 1,
+          "fvm": 8,
+          "quotazione": 1
+        },
+        {
+          "id": 2423,
+          "nome": "Pulisic",
+          "squadra": "Milan",
+          "ruolo_id": 3,
+          "ruolo": "C",
+          "prezzo": 49,
+          "fvm": 75,
+          "quotazione": 1
+        },
+        {
+          "id": 2170,
+          "nome": "Milinkovic-Savic V.",
+          "squadra": "Napoli",
+          "ruolo_id": 1,
+          "ruolo": "P",
+          "prezzo": 1,
+          "fvm": 3,
+          "quotazione": 1
+        },
+        {
+          "id": 572,
+          "nome": "Meret",
+          "squadra": "Napoli",
+          "ruolo_id": 1,
+          "ruolo": "P",
+          "prezzo": 38,
+          "fvm": 24,
+          "quotazione": 1
+        },
+        {
+          "id": 254,
+          "nome": "Dimarco",
+          "squadra": "Inter",
+          "ruolo_id": 2,
+          "ruolo": "D",
+          "prezzo": 61,
+          "fvm": 120,
+          "quotazione": 1
+        }
+      ]
+    },
+    "Raimon FC": {
+      "team_id": 19384799,
+      "coach": "Antonio",
+      "credits_remaining": 32,
+      "players_count": 25,
+      "total_spent": 468,
+      "players": [
+        {
+          "id": 7219,
+          "nome": "Bernasconi",
+          "squadra": "Atalanta",
+          "ruolo_id": 2,
+          "ruolo": "D",
+          "prezzo": 9,
+          "fvm": 9,
+          "quotazione": 1
+        },
+        {
+          "id": 7120,
+          "nome": "Lang",
+          "squadra": "Napoli",
+          "ruolo_id": 4,
+          "ruolo": "A",
+          "prezzo": 3,
+          "fvm": 7,
+          "quotazione": 1
+        },
+        {
+          "id": 7078,
+          "nome": "Mastantuono",
+          "squadra": "Fiorentina",
+          "ruolo_id": 3,
+          "ruolo": "C",
+          "prezzo": 31,
+          "fvm": 25,
+          "quotazione": 1
+        },
+        {
+          "id": 6989,
+          "nome": "Tiago Gabriel",
+          "squadra": "Lecce",
+          "ruolo_id": 2,
+          "ruolo": "D",
+          "prezzo": 3,
+          "fvm": 10,
+          "quotazione": 1
+        },
+        {
+          "id": 6986,
+          "nome": "Rensch",
+          "squadra": "Roma",
+          "ruolo_id": 2,
+          "ruolo": "D",
+          "prezzo": 1,
+          "fvm": 7,
+          "quotazione": 1
+        },
+        {
+          "id": 6884,
+          "nome": "Conceicao",
+          "squadra": "Juventus",
+          "ruolo_id": 3,
+          "ruolo": "C",
+          "prezzo": 37,
+          "fvm": 34,
+          "quotazione": 1
+        },
+        {
+          "id": 6833,
+          "nome": "Mbangula",
+          "squadra": "Bologna",
+          "ruolo_id": 3,
+          "ruolo": "C",
+          "prezzo": 2,
+          "fvm": 14,
+          "quotazione": 3
+        },
+        {
+          "id": 6831,
+          "nome": "Neres",
+          "squadra": "Napoli",
+          "ruolo_id": 4,
+          "ruolo": "A",
+          "prezzo": 9,
+          "fvm": 10,
+          "quotazione": 1
+        },
+        {
+          "id": 6766,
+          "nome": "Kelly L.",
+          "squadra": "Juventus",
+          "ruolo_id": 2,
+          "ruolo": "D",
+          "prezzo": 9,
+          "fvm": 6,
+          "quotazione": 1
+        },
+        {
+          "id": 6662,
+          "nome": "Corvi",
+          "squadra": "Parma",
+          "ruolo_id": 1,
+          "ruolo": "P",
+          "prezzo": 5,
+          "fvm": 5,
+          "quotazione": 1
+        },
+        {
+          "id": 6060,
+          "nome": "Laurientè",
+          "squadra": "Sassuolo",
+          "ruolo_id": 4,
+          "ruolo": "A",
+          "prezzo": 26,
+          "fvm": 42,
+          "quotazione": 1
+        },
+        {
+          "id": 6042,
+          "nome": "Lucumì",
+          "squadra": "Juventus",
+          "ruolo_id": 2,
+          "ruolo": "D",
+          "prezzo": 18,
+          "fvm": 9,
+          "quotazione": 1
+        },
+        {
+          "id": 5877,
+          "nome": "Carlos Augusto",
+          "squadra": "Inter",
+          "ruolo_id": 2,
+          "ruolo": "D",
+          "prezzo": 3,
+          "fvm": 10,
+          "quotazione": 1
+        },
+        {
+          "id": 5792,
+          "nome": "Ederson D.S.",
+          "squadra": "Atalanta",
+          "ruolo_id": 3,
+          "ruolo": "C",
+          "prezzo": 19,
+          "fvm": 23,
+          "quotazione": 1
+        },
+        {
+          "id": 5734,
+          "nome": "Soulè",
+          "squadra": "Roma",
+          "ruolo_id": 4,
+          "ruolo": "A",
+          "prezzo": 16,
+          "fvm": 24,
+          "quotazione": 1
+        },
+        {
+          "id": 5675,
+          "nome": "Theate",
+          "squadra": "Bologna",
+          "ruolo_id": 2,
+          "ruolo": "D",
+          "prezzo": 5,
+          "fvm": 10,
+          "quotazione": 3
+        },
+        {
+          "id": 5514,
+          "nome": "Vasquez",
+          "squadra": "Genoa",
+          "ruolo_id": 2,
+          "ruolo": "D",
+          "prezzo": 8,
+          "fvm": 15,
+          "quotazione": 1
+        },
+        {
+          "id": 5500,
+          "nome": "Cancellieri",
+          "squadra": "Lazio",
+          "ruolo_id": 3,
+          "ruolo": "C",
+          "prezzo": 1,
+          "fvm": 13,
+          "quotazione": 1
+        },
+        {
+          "id": 5422,
+          "nome": "Zalewski",
+          "squadra": "Atalanta",
+          "ruolo_id": 3,
+          "ruolo": "C",
+          "prezzo": 1,
+          "fvm": 9,
+          "quotazione": 1
+        },
+        {
+          "id": 4431,
+          "nome": "Carnesecchi",
+          "squadra": "Atalanta",
+          "ruolo_id": 1,
+          "ruolo": "P",
+          "prezzo": 37,
+          "fvm": 28,
+          "quotazione": 1
+        },
+        {
+          "id": 4199,
+          "nome": "Loftus-Cheek",
+          "squadra": "Milan",
+          "ruolo_id": 3,
+          "ruolo": "C",
+          "prezzo": 1,
+          "fvm": 8,
+          "quotazione": 1
+        },
+        {
+          "id": 2832,
+          "nome": "Boga",
+          "squadra": "Juventus",
+          "ruolo_id": 4,
+          "ruolo": "A",
+          "prezzo": 8,
+          "fvm": 14,
+          "quotazione": 1
+        },
+        {
+          "id": 2764,
+          "nome": "Martinez L.",
+          "squadra": "Inter",
+          "ruolo_id": 4,
+          "ruolo": "A",
+          "prezzo": 181,
+          "fvm": 181,
+          "quotazione": 1
+        },
+        {
+          "id": 152,
+          "nome": "Zielinski",
+          "squadra": "Inter",
+          "ruolo_id": 3,
+          "ruolo": "C",
+          "prezzo": 34,
+          "fvm": 23,
+          "quotazione": 1
+        },
+        {
+          "id": 4,
+          "nome": "Sportiello",
+          "squadra": "Atalanta",
+          "ruolo_id": 1,
+          "ruolo": "P",
+          "prezzo": 1,
+          "fvm": 1,
+          "quotazione": 1
+        }
+      ]
+    },
+    "ostriche e calciochampagne fc": {
+      "team_id": 19387085,
+      "coach": "gerry",
+      "credits_remaining": 11,
+      "players_count": 25,
+      "total_spent": 489,
+      "players": [
+        {
+          "id": 7625,
+          "nome": "Goncalves P.",
+          "squadra": "Fiorentina",
+          "ruolo_id": 3,
+          "ruolo": "C",
+          "prezzo": 25,
+          "fvm": 25,
+          "quotazione": 3
+        },
+        {
+          "id": 7603,
+          "nome": "Grabara",
+          "squadra": "Juventus",
+          "ruolo_id": 1,
+          "ruolo": "P",
+          "prezzo": 1,
+          "fvm": 1,
+          "quotazione": 2
+        },
+        {
+          "id": 7554,
+          "nome": "Romero D.",
+          "squadra": "Parma",
+          "ruolo_id": 4,
+          "ruolo": "A",
+          "prezzo": 12,
+          "fvm": 19,
+          "quotazione": 1
+        },
+        {
+          "id": 7551,
+          "nome": "Schmid",
+          "squadra": "Frosinone",
+          "ruolo_id": 3,
+          "ruolo": "C",
+          "prezzo": 1,
+          "fvm": 13,
+          "quotazione": 1
+        },
+        {
+          "id": 7529,
+          "nome": "Koulierakis",
+          "squadra": "Roma",
+          "ruolo_id": 2,
+          "ruolo": "D",
+          "prezzo": 3,
+          "fvm": 8,
+          "quotazione": 1
+        },
+        {
+          "id": 6684,
+          "nome": "Ekkelenkamp",
+          "squadra": "Udinese",
+          "ruolo_id": 3,
+          "ruolo": "C",
+          "prezzo": 26,
+          "fvm": 29,
+          "quotazione": 1
+        },
+        {
+          "id": 6660,
+          "nome": "Marcandalli",
+          "squadra": "Genoa",
+          "ruolo_id": 2,
+          "ruolo": "D",
+          "prezzo": 3,
+          "fvm": 7,
+          "quotazione": 1
+        },
+        {
+          "id": 6646,
+          "nome": "Adams C.",
+          "squadra": "Torino",
+          "ruolo_id": 4,
+          "ruolo": "A",
+          "prezzo": 5,
+          "fvm": 17,
+          "quotazione": 1
+        },
+        {
+          "id": 6534,
+          "nome": "Perri",
+          "squadra": "Torino",
+          "ruolo_id": 1,
+          "ruolo": "P",
+          "prezzo": 5,
+          "fvm": 13,
+          "quotazione": 3
+        },
+        {
+          "id": 6485,
+          "nome": "Kristensen T.",
+          "squadra": "Atalanta",
+          "ruolo_id": 2,
+          "ruolo": "D",
+          "prezzo": 5,
+          "fvm": 10,
+          "quotazione": 1
+        },
+        {
+          "id": 6294,
+          "nome": "Ndour",
+          "squadra": "Fiorentina",
+          "ruolo_id": 3,
+          "ruolo": "C",
+          "prezzo": 1,
+          "fvm": 11,
+          "quotazione": 1
+        },
+        {
+          "id": 5888,
+          "nome": "Casadei",
+          "squadra": "Torino",
+          "ruolo_id": 3,
+          "ruolo": "C",
+          "prezzo": 1,
+          "fvm": 14,
+          "quotazione": 1
+        },
+        {
+          "id": 5641,
+          "nome": "Chalobah T.",
+          "squadra": "Como",
+          "ruolo_id": 2,
+          "ruolo": "D",
+          "prezzo": 24,
+          "fvm": 16,
+          "quotazione": 1
+        },
+        {
+          "id": 5637,
+          "nome": "Davis K.",
+          "squadra": "Udinese",
+          "ruolo_id": 4,
+          "ruolo": "A",
+          "prezzo": 100,
+          "fvm": 54,
+          "quotazione": 1
+        },
+        {
+          "id": 5172,
+          "nome": "Jones C.",
+          "squadra": "Inter",
+          "ruolo_id": 3,
+          "ruolo": "C",
+          "prezzo": 17,
+          "fvm": 24,
+          "quotazione": 2
+        },
+        {
+          "id": 5029,
+          "nome": "Geubbels",
+          "squadra": "Lecce",
+          "ruolo_id": 4,
+          "ruolo": "A",
+          "prezzo": 4,
+          "fvm": 12,
+          "quotazione": 1
+        },
+        {
+          "id": 5022,
+          "nome": "Pavlovic",
+          "squadra": "Milan",
+          "ruolo_id": 2,
+          "ruolo": "D",
+          "prezzo": 29,
+          "fvm": 25,
+          "quotazione": 1
+        },
+        {
+          "id": 4964,
+          "nome": "Vicario",
+          "squadra": "Juventus",
+          "ruolo_id": 1,
+          "ruolo": "P",
+          "prezzo": 47,
+          "fvm": 35,
+          "quotazione": 1
+        },
+        {
+          "id": 4911,
+          "nome": "Douglas Luiz",
+          "squadra": "Juventus",
+          "ruolo_id": 3,
+          "ruolo": "C",
+          "prezzo": 2,
+          "fvm": 8,
+          "quotazione": 1
+        },
+        {
+          "id": 4807,
+          "nome": "Hermoso",
+          "squadra": "Roma",
+          "ruolo_id": 2,
+          "ruolo": "D",
+          "prezzo": 14,
+          "fvm": 13,
+          "quotazione": 1
+        },
+        {
+          "id": 4359,
+          "nome": "Piccoli",
+          "squadra": "Bologna",
+          "ruolo_id": 4,
+          "ruolo": "A",
+          "prezzo": 20,
+          "fvm": 15,
+          "quotazione": 1
+        },
+        {
+          "id": 4263,
+          "nome": "Kabasele",
+          "squadra": "Udinese",
+          "ruolo_id": 2,
+          "ruolo": "D",
+          "prezzo": 1,
+          "fvm": 6,
+          "quotazione": 1
+        },
+        {
+          "id": 2120,
+          "nome": "Bastoni",
+          "squadra": "Inter",
+          "ruolo_id": 2,
+          "ruolo": "D",
+          "prezzo": 33,
+          "fvm": 22,
+          "quotazione": 1
+        },
+        {
+          "id": 2061,
+          "nome": "Simeone",
+          "squadra": "Torino",
+          "ruolo_id": 4,
+          "ruolo": "A",
+          "prezzo": 75,
+          "fvm": 40,
+          "quotazione": 1
+        },
+        {
+          "id": 1870,
+          "nome": "Barella",
+          "squadra": "Inter",
+          "ruolo_id": 3,
+          "ruolo": "C",
+          "prezzo": 35,
+          "fvm": 41,
+          "quotazione": 1
+        }
+      ]
+    },
+    "BAYERN MICIO": {
+      "team_id": 19394796,
+      "coach": "Il Micio",
+      "credits_remaining": 3,
+      "players_count": 25,
+      "total_spent": 497,
+      "players": [
+        {
+          "id": 7485,
+          "nome": "Mangas",
+          "squadra": "Monza",
+          "ruolo_id": 2,
+          "ruolo": "D",
+          "prezzo": 4,
+          "fvm": 8,
+          "quotazione": 1
+        },
+        {
+          "id": 7347,
+          "nome": "Bowie",
+          "squadra": "Sassuolo",
+          "ruolo_id": 4,
+          "ruolo": "A",
+          "prezzo": 10,
+          "fvm": 16,
+          "quotazione": 1
+        },
+        {
+          "id": 7181,
+          "nome": "Wesley",
+          "squadra": "Roma",
+          "ruolo_id": 2,
+          "ruolo": "D",
+          "prezzo": 38,
+          "fvm": 44,
+          "quotazione": 1
+        },
+        {
+          "id": 7071,
+          "nome": "Esposito F.P.",
+          "squadra": "Inter",
+          "ruolo_id": 4,
+          "ruolo": "A",
+          "prezzo": 89,
+          "fvm": 53,
+          "quotazione": 1
+        },
+        {
+          "id": 7070,
+          "nome": "Sucic P.",
+          "squadra": "Inter",
+          "ruolo_id": 3,
+          "ruolo": "C",
+          "prezzo": 1,
+          "fvm": 11,
+          "quotazione": 1
+        },
+        {
+          "id": 7017,
+          "nome": "Douvikas",
+          "squadra": "Como",
+          "ruolo_id": 4,
+          "ruolo": "A",
+          "prezzo": 102,
+          "fvm": 93,
+          "quotazione": 1
+        },
+        {
+          "id": 7014,
+          "nome": "Smolcic I.",
+          "squadra": "Como",
+          "ruolo_id": 2,
+          "ruolo": "D",
+          "prezzo": 1,
+          "fvm": 5,
+          "quotazione": 1
+        },
+        {
+          "id": 6908,
+          "nome": "Atta",
+          "squadra": "Fiorentina",
+          "ruolo_id": 3,
+          "ruolo": "C",
+          "prezzo": 29,
+          "fvm": 39,
+          "quotazione": 1
+        },
+        {
+          "id": 6727,
+          "nome": "Couto",
+          "squadra": "Como",
+          "ruolo_id": 2,
+          "ruolo": "D",
+          "prezzo": 15,
+          "fvm": 13,
+          "quotazione": 1
+        },
+        {
+          "id": 6672,
+          "nome": "Idzes",
+          "squadra": "Sassuolo",
+          "ruolo_id": 2,
+          "ruolo": "D",
+          "prezzo": 1,
+          "fvm": 10,
+          "quotazione": 1
+        },
+        {
+          "id": 5680,
+          "nome": "Sarr P.",
+          "squadra": "Juventus",
+          "ruolo_id": 3,
+          "ruolo": "C",
+          "prezzo": 1,
+          "fvm": 13,
+          "quotazione": 3
+        },
+        {
+          "id": 5620,
+          "nome": "Tavares N.",
+          "squadra": "Lazio",
+          "ruolo_id": 2,
+          "ruolo": "D",
+          "prezzo": 8,
+          "fvm": 13,
+          "quotazione": 1
+        },
+        {
+          "id": 5589,
+          "nome": "Konè M.",
+          "squadra": "Roma",
+          "ruolo_id": 3,
+          "ruolo": "C",
+          "prezzo": 16,
+          "fvm": 21,
+          "quotazione": 1
+        },
+        {
+          "id": 5336,
+          "nome": "Nzola",
+          "squadra": "Cagliari",
+          "ruolo_id": 4,
+          "ruolo": "A",
+          "prezzo": 1,
+          "fvm": 5,
+          "quotazione": 3
+        },
+        {
+          "id": 5116,
+          "nome": "Martinez Jo.",
+          "squadra": "Inter",
+          "ruolo_id": 1,
+          "ruolo": "P",
+          "prezzo": 39,
+          "fvm": 34,
+          "quotazione": 1
+        },
+        {
+          "id": 4817,
+          "nome": "Pedraza",
+          "squadra": "Lazio",
+          "ruolo_id": 2,
+          "ruolo": "D",
+          "prezzo": 1,
+          "fvm": 7,
+          "quotazione": 1
+        },
+        {
+          "id": 4485,
+          "nome": "Thiam",
+          "squadra": "Monza",
+          "ruolo_id": 1,
+          "ruolo": "P",
+          "prezzo": 1,
+          "fvm": 3,
+          "quotazione": 1
+        },
+        {
+          "id": 4463,
+          "nome": "Esposito Se.",
+          "squadra": "Sassuolo",
+          "ruolo_id": 4,
+          "ruolo": "A",
+          "prezzo": 35,
+          "fvm": 20,
+          "quotazione": 1
+        },
+        {
+          "id": 4436,
+          "nome": "Cambiaghi",
+          "squadra": "Bologna",
+          "ruolo_id": 3,
+          "ruolo": "C",
+          "prezzo": 9,
+          "fvm": 13,
+          "quotazione": 1
+        },
+        {
+          "id": 4371,
+          "nome": "Raspadori",
+          "squadra": "Atalanta",
+          "ruolo_id": 4,
+          "ruolo": "A",
+          "prezzo": 16,
+          "fvm": 37,
+          "quotazione": 1
+        },
+        {
+          "id": 4220,
+          "nome": "Zambo Anguissa",
+          "squadra": "Napoli",
+          "ruolo_id": 3,
+          "ruolo": "C",
+          "prezzo": 4,
+          "fvm": 21,
+          "quotazione": 1
+        },
+        {
+          "id": 4159,
+          "nome": "Akanji",
+          "squadra": "Inter",
+          "ruolo_id": 2,
+          "ruolo": "D",
+          "prezzo": 24,
+          "fvm": 24,
+          "quotazione": 1
+        },
+        {
+          "id": 2814,
+          "nome": "Provedel",
+          "squadra": "Inter",
+          "ruolo_id": 1,
+          "ruolo": "P",
+          "prezzo": 10,
+          "fvm": 3,
+          "quotazione": 1
+        },
+        {
+          "id": 2517,
+          "nome": "De Bruyne",
+          "squadra": "Napoli",
+          "ruolo_id": 3,
+          "ruolo": "C",
+          "prezzo": 40,
+          "fvm": 54,
+          "quotazione": 1
+        },
+        {
+          "id": 1933,
+          "nome": "Mandragora",
+          "squadra": "Torino",
+          "ruolo_id": 3,
+          "ruolo": "C",
+          "prezzo": 2,
+          "fvm": 12,
+          "quotazione": 1
+        }
+      ]
+    }
+  }
+}

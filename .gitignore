@@ -1,0 +1,8 @@
+.DS_Store
+*/.DS_Store
+__pycache__/
+*.pyc
+*.har
+config_lega.json
+.env
+patch_pipeline*.py
